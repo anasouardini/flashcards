@@ -1,0 +1,638 @@
+{
+    "currentLevel": 0,
+    "levels": [
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": [
+                {
+                    "front": {
+                        "content": "il bosse "
+                    },
+                    "back": {
+                        "content": [
+                            "- he works"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "que des bombes "
+                    },
+                    "back": {
+                        "content": [
+                            "- only the bombes (could mean women)"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "peut-etre "
+                    },
+                    "back": {
+                        "content": [
+                            "- maybe"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "tu (pron. personelle) (v. prendre) comme "
+                    },
+                    "back": {
+                        "content": [
+                            "- You think (pron. personelle) (to be)",
+                            "- e.g: tu m'as pris comme ton keum? : you think I'm your BF?",
+                            "- e.g: tu m'as pris comme qui? : who do you think I am?"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "quoi faire? | pour quoi faire? "
+                    },
+                    "back": {
+                        "content": [
+                            "- to do what?"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "quand même "
+                    },
+                    "back": {
+                        "content": [
+                            "- anyways"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "depuis mon plus jeun a^ge"
+                    },
+                    "back": {
+                        "content": [
+                            "- depuis mon plus jeun a^ge"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "depuis toujours"
+                    },
+                    "back": {
+                        "content": [
+                            "- depuis toujours"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "on a change depuis "
+                    },
+                    "back": {
+                        "content": [
+                            "- we've changed since then"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "depuis qui'il y est "
+                    },
+                    "back": {
+                        "content": [
+                            "- since he is/was there"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "le plus (adj.) que je (v.) "
+                    },
+                    "back": {
+                        "content": [
+                            "- the most (adj.) that I (v.)"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "on se voit "
+                    },
+                    "back": {
+                        "content": [
+                            "- will see each other"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "a` tout a l'heure "
+                    },
+                    "back": {
+                        "content": [
+                            "- after a short while"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "prend soin "
+                    },
+                    "back": {
+                        "content": [
+                            "- take care"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "bat les couilles "
+                    },
+                    "back": {
+                        "content": [
+                            "- doesn't give a fuck"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "passe pour un connard "
+                    },
+                    "back": {
+                        "content": [
+                            "- look like an idiot"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "tomber bien "
+                    },
+                    "back": {
+                        "content": [
+                            "- good coincidence (serendipity)"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "mis du temps "
+                    },
+                    "back": {
+                        "content": [
+                            "- wasted time"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "fait chier "
+                    },
+                    "back": {
+                        "content": [
+                            "- makes shit (it sucks)"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "qu'est-ce que t'a pris "
+                    },
+                    "back": {
+                        "content": [
+                            "- what happend to you"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "sang-froid "
+                    },
+                    "back": {
+                        "content": [
+                            "- calmness"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "du coup "
+                    },
+                    "back": {
+                        "content": [
+                            "- in short"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "peut pas piffrer avec lui "
+                    },
+                    "back": {
+                        "content": [
+                            "- can't put up with him"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "il va me manger dans la main "
+                    },
+                    "back": {
+                        "content": [
+                            "- he'll eat from my hand (under my control)"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "l'un des meilleur "
+                    },
+                    "back": {
+                        "content": [
+                            "- one of the best"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "les uns des autres "
+                    },
+                    "back": {
+                        "content": [
+                            "- one another"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "mener à bien "
+                    },
+                    "back": {
+                        "content": [
+                            "- lead to good"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "en effet | en fait "
+                    },
+                    "back": {
+                        "content": [
+                            "- indeed | in fact"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "tirer parti au profit "
+                    },
+                    "back": {
+                        "content": [
+                            "- leverage for the benefit"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "dans son ensemble "
+                    },
+                    "back": {
+                        "content": [
+                            "- in its entirety"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "je t'ai bien eu "
+                    },
+                    "back": {
+                        "content": [
+                            "- gotcha good there"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "**tu n'as qu'a`** partir. "
+                    },
+                    "back": {
+                        "content": [
+                            "- **all you have to do is** leave."
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "J'en **ai apre`s** toi "
+                    },
+                    "back": {
+                        "content": [
+                            "- I've **had it with** you"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "Étant donné que "
+                    },
+                    "back": {
+                        "content": [
+                            "- given that"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "peu import | quelles que "
+                    },
+                    "back": {
+                        "content": [
+                            "- no matter"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "[verbe] à l'excès "
+                    },
+                    "back": {
+                        "content": [
+                            "- over[verbe]"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "pour que le travail soit bien "
+                    },
+                    "back": {
+                        "content": [
+                            "- so that the work is good"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "ce (impersonelle) peut prendre le temps de faire... "
+                    },
+                    "back": {
+                        "content": [
+                            "- it can take time to do..."
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "accrochez-vous "
+                    },
+                    "back": {
+                        "content": [
+                            "- hang on (ched frask)"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "n'en sera que gagnante"
+                    },
+                    "back": {
+                        "content": [
+                            "- n'en sera que gagnante"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "tais-toi "
+                    },
+                    "back": {
+                        "content": [
+                            "- shut up"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "que ce soit X ou Y "
+                    },
+                    "back": {
+                        "content": [
+                            "- be it X or Y"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "quelles que soient vos ambitions "
+                    },
+                    "back": {
+                        "content": [
+                            "- whatever your ambitions are"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "quelque peu "
+                    },
+                    "back": {
+                        "content": [
+                            "- somewhat"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "revient à "
+                    },
+                    "back": {
+                        "content": [
+                            "- amounts to"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "gagne ma vie "
+                    },
+                    "back": {
+                        "content": [
+                            "- earn my living"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "mettre en relation 1 et 2 "
+                    },
+                    "back": {
+                        "content": [
+                            "- link between 1 and 2"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "est cela en vaut la peine? "
+                    },
+                    "back": {
+                        "content": [
+                            "- is it worth it"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "tel ou tel "
+                    },
+                    "back": {
+                        "content": [
+                            "- this or that | more or less"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "si on peu dir "
+                    },
+                    "back": {
+                        "content": [
+                            "- if you will (for the lack of better words)"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "prender avec des pincettes "
+                    },
+                    "back": {
+                        "content": [
+                            "- be cautious about it"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "comment se fait-il "
+                    },
+                    "back": {
+                        "content": [
+                            "- how come"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "jeter un coup d'oeil"
+                    },
+                    "back": {
+                        "content": [
+                            "- jeter un coup d'oeil"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "je me demandais "
+                    },
+                    "back": {
+                        "content": [
+                            "- I was asking my self (I was wondering)"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "peu importe si c'est "
+                    },
+                    "back": {
+                        "content": [
+                            "- wether or not it's"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "on s'en fiche de "
+                    },
+                    "back": {
+                        "content": [
+                            "- we neglect (don't care) de "
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "quant a = a propose de "
+                    },
+                    "back": {
+                        "content": [
+                            "- in terms of"
+                        ]
+                    }
+                },
+                {
+                    "front": {
+                        "content": "bien qu "
+                    },
+                    "back": {
+                        "content": [
+                            "- although"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        }
+    ]
+}
