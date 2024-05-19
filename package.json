@@ -6,6 +6,9 @@
   "scripts": {
     "start": "ts-node ./src/index.ts"
   },
+  "bin": {
+    "flashcards": "./dist/index.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
