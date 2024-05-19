@@ -43,7 +43,6 @@ export function loadList({ item }: { item: string }) {
     try {
         vars.model = JSON.parse(content);
     } catch (E) {
-        if (vars.model?.levels) { process.exit() }
         console.log(`data/${item} is not valid`);
     }
 }
