@@ -423,7 +423,8 @@
                     },
                     "back": {
                         "content": [
-                            "- be it X or Y"
+                            "- be it X or Y",
+                            "- e.g: que soit red, blue ou red, peu import"
                         ]
                     }
                 },
