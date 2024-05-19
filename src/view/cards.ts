@@ -1,16 +1,18 @@
 import blessed from "blessed";
 import { type CardSide, type Model, getModel, saveList } from "../model/model";
-import { getScreen, newScreen, showDebug, painter } from "./screen";
+import { getScreen, newScreen, showDebug, toggleDebugLog, painter } from "./screen";
 import explorer from "./explorer";
-
+import { bundlerModuleNameResolver } from "typescript";
 
 interface Vars {
     model: Model
     screen: blessed.Widgets.Screen;
+    unsavedActions: number
 }
 let vars: Vars = {
     model: {} as Model,
     screen: {} as blessed.Widgets.Screen,
+    unsavedActions: 0
 }
 
 interface renderCardsArgs {
@@ -101,7 +103,7 @@ function renderCard({ index, direction, side, level, levelDirection }: renderCar
     const card = painter.box({
         top: 0,
         left: 0,
-        width: '50%',
+        width: '100%',
         height: '50%',
         border: 'line',
         tags: true
@@ -110,7 +112,7 @@ function renderCard({ index, direction, side, level, levelDirection }: renderCar
     const title = painter.text({
         top: 0,
         left: "center",
-        content: `${cardLevel} - ${cardIndex} - ${cardSide}`,
+        content: `${cardLevel} - ${cardIndex} - ${cardSide}  unsaved(${vars.unsavedActions})`,
         tags: true
     })
     card.append(title)
@@ -147,13 +149,16 @@ function moveCardToLevel({ levelDirection }: { levelDirection: "previous" | "nex
     // showDebug(`${JSON.stringify(targetLevel.cards[currentLevel.currentCardIndex])}`)
 
     currentLevel.cards.splice(currentLevel.currentCardIndex, 1);
+    vars.unsavedActions++;
 
     //* new length is old length - 1
     if (currentLevel.currentCardIndex == currentLevel.cards.length) {
         renderCard({ index: currentLevel.currentCardIndex - 1 });
     } else {
+        vars.model.levels[currentLevelKey].currentCardSide = "front";
         renderCard({ index: currentLevel.currentCardIndex });
     }
+
 }
 function moveCardToIndex({ orderDirection }: { orderDirection: "previous" | "next" }) {
     const currentLevel = vars.model.levels[vars.model.currentLevel];
@@ -166,7 +171,66 @@ function moveCardToIndex({ orderDirection }: { orderDirection: "previous" | "nex
     currentLevel.cards[targetIndex] = tmpCard;
 
     showDebug(`moving ${currentIndex} to ${targetIndex}`);
+    vars.unsavedActions++;
     renderCard({ direction: orderDirection });
+
+}
+
+function editCard(){
+    const form = blessed.form({
+        keys: true,
+        vi: true,
+        height: '50%',
+        width: '60%',
+        top: 'center',
+        left: 'center',
+        border: 'line',
+        style: {
+            border: {
+                fg: 'yellow'
+            }
+        }
+    })
+    const input = blessed.textbox({
+        parent: form,
+        content: 'edit card',
+        inputOnFocus: true,
+        border: 'line',
+        height: '200',
+        width: '90%',
+        top: '10%',
+        left: 'center',
+        style: {
+            bg: 'white',
+            fg: 'red',
+            border: {
+                fg: 'yellow'
+            }
+        }
+    })
+    form.append(input)
+    const textArea = blessed.textarea({
+        parent: form,
+        content: 'edit card',
+        inputOnFocus: true,
+        border: 'line',
+        height: '500',
+        width: '90%',
+        top: '300',
+        left: 'center',
+        style: {
+            border: {
+                fg: 'yellow'
+            }
+        }
+    })
+    form.append(textArea)
+    // form.key(['enter'], function (ch, key) {
+    //     console.log(input.getValue())
+    // })
+    vars.screen.append(form)
+    form.focus()
+    vars.screen.render()
 }
 
 function setupKeybindings() {
@@ -212,13 +276,23 @@ function setupKeybindings() {
         moveCardToLevel({ levelDirection: "previous" })
     });
 
-    vars.screen.key(['e'], function (ch, key) {
+    vars.screen.key(['x'], function (ch, key) {
         vars.screen.destroy();
         explorer.init({ cb: init });
     });
 
     vars.screen.key(['s'], function (ch, key) {
         saveList();
+        vars.unsavedActions = 0;
+        renderCard({})
+    });
+
+    vars.screen.key(['d'], function (ch, key) {
+        toggleDebugLog();
+    });
+
+    vars.screen.key(['e'], function (ch, key) {
+        editCard();
     });
 
     vars.screen.key(['q', 'C-c'], function (ch, key) {
@@ -232,15 +306,8 @@ function init() {
     const { screen, debugBox } = newScreen({ title: 'flashcards' });
     vars.screen = screen;
 
-    // vars.screen.append(painter.box({
-    //     width: '10%',
-    //     content: `${JSON.stringify(vars.model)}`,
-    //     tags: true
-    // }));
-    // vars.screen.render();
-
     setupKeybindings();
-    renderCard({ index: 0 });
+    renderCard({});
 }
 
 export default {
