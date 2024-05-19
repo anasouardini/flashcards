@@ -4,6 +4,7 @@ export const painter = blessed;
 const vars = {
     screen: {} as blessed.Widgets.Screen,
     debugBox: {} as blessed.Widgets.BoxElement,
+    debugLogsVisible: false,
 }
 const newScreenObj = newScreen({ title: 'flashcards' });
 vars.screen = newScreenObj.screen;
@@ -22,6 +23,7 @@ export function newScreen({ title }: { title?: string }) {
         width: '400',
         height: '100%',
         content: 'start',
+        hidden: !vars.debugLogsVisible,
         tags: true,
         border: {
             type: 'line'
@@ -56,4 +58,16 @@ export function showDebug(msg: string) {
 
     vars.debugBox.setContent(`${vars.debugBox.content}\n${msg}`);
     vars.screen.render();
+}
+
+export function toggleDebugLog() {
+    if (vars.debugBox.hidden) {
+        vars.debugBox.show();
+        vars.debugLogsVisible = true;
+    } else {
+        vars.debugBox.hide();
+        vars.debugLogsVisible = false;
+    }
+
+    vars.screen.render()
 }
