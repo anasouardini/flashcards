@@ -1,6 +1,6 @@
 import blessed from "blessed";
 import { loadList, listCollections } from "../model/model";
-import { painter, getScreen, showDebug, newScreen } from "./screen";
+import { painter, getScreen, showDebug, toggleDebugLog, newScreen } from "./screen";
 
 const vars = {
     screen: {} as blessed.Widgets.Screen,
@@ -60,6 +60,10 @@ function setupKeybindings() {
             vars.screen.render();
         };
 
+        if (ch == 'd') {
+            toggleDebugLog();
+        }
+
         // screen.key(['/'], function (ch, key) {
         //     const idx = list.fuzzyFind('3');
         //     list.select(idx);
@@ -74,7 +78,7 @@ function setupKeybindings() {
 function init({ cb }: { cb: typeof callBack }) {
     vars.cursor = 0;
     vars.items = listCollections();
-    vars.screen = newScreen({title: "menu"}).screen;
+    vars.screen = newScreen({ title: "menu" }).screen;
     vars.list = painter.list({
         top: 0,
         left: 0,
