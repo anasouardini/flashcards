@@ -83,18 +83,39 @@ function addNewProperties(obj: Model) {
       ],
     };
   }
+  if (!obj.history?.actions) {
+    obj.history.actions = [];
+  }
+  if (!obj.history?.levels) {
+    obj.history.levels = [
+      { lengths: [] },
+      { lengths: [] },
+      { lengths: [] },
+      { lengths: [] },
+      { lengths: [] },
+      { lengths: [] },
+      { lengths: [] },
+      { lengths: [] },
+      { lengths: [] },
+    ];
+  }
 }
 
 export function recordHistory(
   action: ActionAdd | ActionMove | ActionTrash | ActionEdit,
 ) {
-  // vars.model.history.actions.push(action);
-  // vars.model.history.levels.forEach((level, index) => {
-  //     level.lengths.push({
-  //         length: vars.model.levels[index].cards.length,
-  //         date: new Date().toISOString()
-  //     });
-  // })
+  vars.model.history.actions.push(action);
+  vars.model.history.levels.forEach((level, index) => {
+    const currentLevelLength = vars.model.levels[index].cards.length;
+    const lastLengthInHistory = level.lengths?.at(-1) ?? 0;
+
+    if (currentLevelLength > 0 && currentLevelLength != lastLengthInHistory) {
+      level.lengths.push({
+        length: currentLevelLength,
+        date: new Date().toISOString(),
+      });
+    }
+  });
 }
 
 export function loadList({ item }: { item: string }) {
