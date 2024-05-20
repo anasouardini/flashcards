@@ -1,5 +1,5 @@
 import blessed from "blessed";
-import { type CardSide, type Model, getModel, saveList } from "../model/model";
+import { ActionHistory, type CardSide, LevelHistory, type Model, getModel, recordHistory, saveList } from "../model/model";
 import { getScreen, newScreen, showDebug, toggleDebugLog, painter } from "./screen";
 import explorer from "./explorer";
 import { bundlerModuleNameResolver } from "typescript";
@@ -34,12 +34,9 @@ function renderCard({ index, direction, side, level, levelDirection }: renderCar
             cardLevel = (vars.model.currentLevel - 1) % levelsLength;
             if (cardLevel < 0) { cardLevel += levelsLength }
         }
-
-        if (vars.model.levels[cardLevel].cards.length == 0) {
-            showDebug(`level ${cardLevel} is empty`);
-            return;
-        }
     }
+
+    const isLevelEmpty = vars.model.levels[cardLevel].cards.length == 0;
 
     // vars.screen.append(painter.box({
     //     width: '10%',
@@ -82,19 +79,20 @@ function renderCard({ index, direction, side, level, levelDirection }: renderCar
     }
 
     vars.model.levels[cardLevel].currentCardIndex = cardIndex;
-    vars.model.currentLevel = cardLevel;
+    // @ts-ignore
+    vars.model.currentLevel = parseInt(cardLevel);
 
-    let cardContent = ""
-    const cardObj = vars.model.levels[cardLevel].cards[cardIndex];
-    const cardContentTmp = cardObj[cardSide].content;
-    if (cardLevel > Object.keys(vars.model.levels).length) {
-        cardContent = "This level has no cards";
-    } else {
+    let cardContent = "";
+    if (!isLevelEmpty) {
+        const cardObj = vars.model.levels[cardLevel].cards[cardIndex];
+        const cardContentTmp = cardObj[cardSide].content;
         if (Array.isArray(cardContentTmp)) {
             cardContent = cardContentTmp.join("\n");
         } else {
             cardContent = cardContentTmp;
         }
+    } else {
+        cardContent = "This level has no cards";
     }
 
     showDebug(`endargs: idx(${cardIndex}) side(${cardSide}) level(${cardLevel})`);
@@ -120,7 +118,7 @@ function renderCard({ index, direction, side, level, levelDirection }: renderCar
         const wordSubTitle = painter.text({
             top: 2,
             left: "center",
-            content: `${cardObj.front.content}`,
+            content: `${vars.model.levels[cardLevel].cards[cardIndex].front.content}`,
             tags: true
         })
         card.append(wordSubTitle)
@@ -139,7 +137,15 @@ function renderCard({ index, direction, side, level, levelDirection }: renderCar
 function moveCardToLevel({ levelDirection }: { levelDirection: "previous" | "next" }) {
     const currentLevelKey = vars.model.currentLevel;
     const currentLevel = vars.model.levels[currentLevelKey];
-    const targetLevelIndex = currentLevelKey + (levelDirection == "next" ? 1 : -1);
+    if (currentLevel.cards.length == 0) {
+        showDebug(`level ${currentLevelKey} has no cards`);
+        return;
+    }
+
+    let targetLevelIndex = (currentLevelKey + (levelDirection == "next" ? 1 : -1)) % vars.model.levels.length;
+    if (targetLevelIndex == -1) {
+        targetLevelIndex = vars.model.levels.length - 1
+    }
     const targetLevel = vars.model.levels[targetLevelIndex];
 
     showDebug(`moving ${currentLevelKey} to ${targetLevelIndex}`);
@@ -151,6 +157,15 @@ function moveCardToLevel({ levelDirection }: { levelDirection: "previous" | "nex
     currentLevel.cards.splice(currentLevel.currentCardIndex, 1);
     vars.unsavedActions++;
 
+    recordHistory({
+        type: "move",
+        // @ts-ignore
+        word: targetLevel.cards.at(-1).front.content.trim(),
+        fromLevel: currentLevelKey,
+        toLevel: targetLevelIndex,
+        date: new Date().toISOString()
+    })
+
     //* new length is old length - 1
     if (currentLevel.currentCardIndex == currentLevel.cards.length) {
         renderCard({ index: currentLevel.currentCardIndex - 1 });
@@ -160,10 +175,27 @@ function moveCardToLevel({ levelDirection }: { levelDirection: "previous" | "nex
     }
 
 }
+
+function showStats() {
+    const sizes = vars.model.history.levels.map((level: LevelHistory, index: number) => {
+        return `${index}: ${level.lengths.at(-1)}`;
+    })
+    const content = sizes.join("\n");
+
+    showDebug(`--- stats:\n${content}\n---`);
+}
+
 function moveCardToIndex({ orderDirection }: { orderDirection: "previous" | "next" }) {
     const currentLevel = vars.model.levels[vars.model.currentLevel];
+    if (currentLevel.cards.length == 0) {
+        showDebug(`level ${vars.model.currentLevel} has no cards`);
+        return;
+    }
     const currentIndex = currentLevel.currentCardIndex;
-    const targetIndex = currentIndex + (orderDirection == "next" ? 1 : -1);
+    let targetIndex = ((currentIndex + (orderDirection == "next" ? 1 : -1)) % currentLevel.cards.length);
+    if (targetIndex == -1) {
+        targetIndex = currentLevel.cards.length - 1
+    }
 
     // swaping order
     const tmpCard = currentLevel.cards[currentIndex];
@@ -176,7 +208,7 @@ function moveCardToIndex({ orderDirection }: { orderDirection: "previous" | "nex
 
 }
 
-function editCard(){
+function editCard() {
     const form = blessed.form({
         keys: true,
         vi: true,
@@ -285,6 +317,10 @@ function setupKeybindings() {
         saveList();
         vars.unsavedActions = 0;
         renderCard({})
+    });
+
+    vars.screen.key(['e'], function (ch, key) {
+        showStats();
     });
 
     vars.screen.key(['d'], function (ch, key) {
