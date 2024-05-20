@@ -70,7 +70,17 @@ function addNewProperties(obj: Model) {
   if (!obj.history) {
     obj.history = {
       actions: [],
-      levels: [],
+      levels: [
+        { lengths: [] },
+        { lengths: [] },
+        { lengths: [] },
+        { lengths: [] },
+        { lengths: [] },
+        { lengths: [] },
+        { lengths: [] },
+        { lengths: [] },
+        { lengths: [] },
+      ],
     };
   }
 }
