@@ -205,7 +205,9 @@ function moveCardToLevel({
 
   //* new length is old length - 1
   if (currentLevel.currentCardIndex == currentLevel.cards.length) {
-    renderCard({ index: currentLevel.currentCardIndex - 1 });
+    renderCard({
+      index: currentLevel.cards.length == 0 ? 0 : currentLevel.cards.length - 1,
+    });
   } else {
     vars.model.levels[currentLevelKey].currentCardSide = 'front';
     renderCard({ index: currentLevel.currentCardIndex });
