@@ -18,6 +18,19 @@ import {
 import explorer from './explorer';
 import { bundlerModuleNameResolver } from 'typescript';
 
+const cardLevelsList = [
+  'collected',
+  'familiar',
+  'researched',
+  'understood',
+  'used',
+  'variations',
+  6,
+  7,
+  8,
+  9,
+];
+
 interface Vars {
   model: Model;
   screen: blessed.Widgets.Screen;
@@ -141,7 +154,7 @@ function renderCard({
   const title = painter.text({
     top: 0,
     left: 'center',
-    content: `${cardLevel} - ${cardIndex} - ${cardSide}  unsaved(${vars.unsavedActions})`,
+    content: `${cardLevelsList[cardLevel]} - ${cardIndex} - ${cardSide}  unsaved(${vars.unsavedActions})`,
     tags: true,
   });
   card.append(title);
