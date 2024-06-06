@@ -16,30 +16,40 @@ import {
   painter,
 } from './screen';
 import explorer from './explorer';
-import { bundlerModuleNameResolver } from 'typescript';
 
 const cardLevelsList = [
-  'collected',
-  'familiar',
-  'researched',
-  'understood',
-  'used',
-  'variations',
-  6,
-  7,
-  8,
-  9,
+  'researched-c1',
+  'familiarized-c1',
+  'grasped-c1',
+  'applied-c1',
+  'researched-c2',
+  'grasped-c2',
+  'applied-c2',
+  'researched-c3',
+  'grasped-c3',
+  'applied-c3',
+  'ignored',
 ];
 
 interface Vars {
   model: Model;
   screen: blessed.Widgets.Screen;
   unsavedActions: number;
+  stats: {
+    visible: boolean;
+    statsCard: blessed.Widgets.BoxElement;
+    statsCardText: blessed.Widgets.TextElement;
+  };
 }
 let vars: Vars = {
   model: {} as Model,
   screen: {} as blessed.Widgets.Screen,
   unsavedActions: 0,
+  stats: {
+    visible: false,
+    statsCard: {} as blessed.Widgets.BoxElement,
+    statsCardText: {} as blessed.Widgets.TextElement,
+  },
 };
 
 interface renderCardsArgs {
@@ -154,7 +164,7 @@ function renderCard({
   const title = painter.text({
     top: 0,
     left: 'center',
-    content: `${cardLevelsList[cardLevel]} - ${cardIndex} - ${cardSide}  unsaved(${vars.unsavedActions})`,
+    content: `${cardLevelsList[cardLevel]}(${vars.model.levels[cardLevel].cards.length}) - ${cardIndex} - ${cardSide}  unsaved(${vars.unsavedActions})`,
     tags: true,
   });
   card.append(title);
@@ -228,14 +238,53 @@ function moveCardToLevel({
 }
 
 function showStats() {
-  const sizes = vars.model.history.levels.map(
-    (level: LevelHistory, index: number) => {
-      return `${index}: ${level.lengths.at(-1)}`;
-    },
-  );
-  const content = sizes.join('\n');
+  vars.screen.realloc();
 
-  showDebug(`--- stats:\n${content}\n---`);
+  if (!vars.stats.visible) {
+    vars.stats.visible = true;
+    let total = 0;
+    const sizes = vars.model.history.levels
+      .map((level: LevelHistory, index: number) => {
+        const lastRecordedLength = level.lengths?.at(-1)?.length ?? 0;
+        total += lastRecordedLength;
+
+        if (lastRecordedLength == 0) {
+          return undefined;
+        }
+
+        return `${cardLevelsList[index]}: ${lastRecordedLength}`;
+      })
+      .filter((line) => {
+        return !!line;
+      });
+    const content = sizes.join('\n') + `\n=> Total: ${total}`;
+
+    vars.stats.statsCard = painter.box({
+      top: 'center',
+      left: 'center',
+      width: '30%',
+      height: '30%',
+      border: 'line',
+      tags: true,
+    });
+
+    vars.screen.append(vars.stats.statsCard);
+    const text = painter.text({
+      width: '70%',
+      height: '70%',
+      top: 'center',
+      left: 'center',
+      tags: true,
+    });
+    vars.stats.statsCard.append(text);
+
+    showDebug(`showing stats`);
+    text.setContent(content);
+  } else {
+    vars.screen.remove(vars.stats.statsCard);
+    vars.stats.visible = false;
+  }
+  vars.screen.render();
 }
 
 function moveCardToIndex({
@@ -377,7 +426,7 @@ function setupKeybindings() {
     renderCard({});
   });
 
-  vars.screen.key(['e'], function (ch, key) {
+  vars.screen.key(['b'], function (ch, key) {
     showStats();
   });
 
