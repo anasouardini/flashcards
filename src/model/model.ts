@@ -105,12 +105,12 @@ export function recordHistory(
   action: ActionAdd | ActionMove | ActionTrash | ActionEdit,
 ) {
   vars.model.history.actions.push(action);
-  vars.model.history.levels.forEach((level, index) => {
+  vars.model.history.levels.forEach((levelHistory, index) => {
     const currentLevelLength = vars.model.levels[index].cards.length;
-    const lastLengthInHistory = level.lengths?.at(-1) ?? 0;
+    const lastLengthInHistory = levelHistory.lengths?.at(-1)?.length ?? 0;
 
     if (currentLevelLength > 0 && currentLevelLength != lastLengthInHistory) {
-      level.lengths.push({
+      levelHistory.lengths.push({
         length: currentLevelLength,
         date: new Date().toISOString(),
       });
@@ -138,7 +138,7 @@ export function loadList({ item }: { item: string }) {
 }
 
 export function saveList() {
-  fs.writeFileSync(vars.paths.currentFile, JSON.stringify(vars.model));
+  fs.writeFileSync(vars.paths.currentFile, JSON.stringify(vars.model, null, 2));
 }
 
 export function getModel() {

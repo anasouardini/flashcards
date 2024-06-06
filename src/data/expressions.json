@@ -475,6 +475,110 @@
           "back": {
             "content": ["- although"]
           }
+        },
+        {
+          "front": {
+            "content": "baisse les bras"
+          },
+          "back": {
+            "content": ["- [give up]"]
+          }
+        },
+        {
+          "front": {
+            "content": "pris en charge"
+          },
+          "back": {
+            "content": ["- [take care of]"]
+          }
+        },
+        {
+          "front": {
+            "content": "pensé bien faire"
+          },
+          "back": {
+            "content": ["- [think you're doing well]"]
+          }
+        },
+        {
+          "front": {
+            "content": "tout a fait"
+          },
+          "back": {
+            "content": ["- [exactly]"]
+          }
+        },
+        {
+          "front": {
+            "content": "à qui dites vous!"
+          },
+          "back": {
+            "content": ["- [who do you tell!]: when nobody listens/understand"]
+          }
+        },
+        {
+          "front": {
+            "content": "non plus"
+          },
+          "back": {
+            "content": ["- [neither]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "prenez de quoi boire"
+          },
+          "back": {
+            "content": ["- [grab something to drink]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "détester à mort"
+          },
+          "back": {
+            "content": ["- [hate til death]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "de un"
+          },
+          "back": {
+            "content": ["- [first of all]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "à peu près"
+          },
+          "back": {
+            "content": ["- [almost]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "goulot d'étranglement"
+          },
+          "back": {
+            "content": ["- [bottle neck]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "une fois que c'est fait"
+          },
+          "back": {
+            "content": ["- [once this is done]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "au fur et à mesure"
+          },
+          "back": {
+            "content": ["- [step-by-step]: petit à petit"]
+          }
         }
       ]
     },

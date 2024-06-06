@@ -1,3 +1,6 @@
+# TODO
 ## history box
 ## undo option
-## insert and edit form
+## cursor history
+## insert and edit form (blessed sucks)
+## search option

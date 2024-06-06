@@ -4,7 +4,7 @@ export const painter = blessed;
 const vars = {
   screen: {} as blessed.Widgets.Screen,
   debugBox: {} as blessed.Widgets.BoxElement,
-  debugLogsVisible: true,
+  debugLogsVisible: false,
 };
 const newScreenObj = newScreen({ title: 'flashcards' });
 vars.screen = newScreenObj.screen;
