@@ -4,7 +4,9 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "ts-node ./src/index.ts"
+    "start": "ts-node ./src/index.ts",
+    "format": "prettier --write .",
+    "insert": "ts-node ./src/tools/add-word.ts"
   },
   "bin": {
     "flashcards": "./dist/index.js"
@@ -22,5 +24,6 @@
     "nodemon": "^3.1.0",
     "prettier": "^3.2.5",
     "ts-node": "^10.9.2"
-  }
+  },
+  "packageManager": "pnpm@8.15.5+sha1.a58c038faac410c947dbdb93eb30994037d0fce2"
 }
