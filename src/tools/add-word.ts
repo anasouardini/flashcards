@@ -14,7 +14,7 @@ const content = fs.readFileSync(wordsList, 'utf-8');
 let model: Model = JSON.parse(content);
 model.levels[0].cards.push({
   front: { content: args.wordFR },
-  back: { content: `- [${args.wordEN}]: ${args.definitionEN ?? ''}` },
+  back: { content: [`- [${args.wordEN}]: ${args.definitionEN ?? ''}`] },
 });
 
 fs.writeFileSync(wordsList, JSON.stringify(model, null, 2));
