@@ -589,6 +589,40 @@
               "- [anything]: tu es pas besoin de suprimer quoi que ce soit : you don't need to delete anything"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "de temps en temps"
+          },
+          "back": {
+            "content": [
+              "- [sometimes (fr: parfois)]: the synonym of 'every now and then'"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rien avoire avec X"
+          },
+          "back": {
+            "content": ["- [has nothing to do with X]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "laisser de côté"
+          },
+          "back": {
+            "content": ["- [ignore]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "et ainsi de suite"
+          },
+          "back": {
+            "content": ["- [and so on]:"]
+          }
         }
       ]
     },

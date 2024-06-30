@@ -1,34 +1,10 @@
 {
-  "currentLevel": 2,
+  "currentLevel": 1,
   "levels": [
     {
-      "currentCardIndex": 46,
+      "currentCardIndex": 71,
       "currentCardSide": "front",
       "cards": [
-        {
-          "front": {
-            "content": "anodin"
-          },
-          "back": {
-            "content": ["- [trivial/insignificant]:"]
-          }
-        },
-        {
-          "front": {
-            "content": "contourn"
-          },
-          "back": {
-            "content": "- [bypass]: "
-          }
-        },
-        {
-          "front": {
-            "content": "concluant"
-          },
-          "back": {
-            "content": ["- [conclusive]"]
-          }
-        },
         {
           "front": {
             "content": "serein"
@@ -47,66 +23,10 @@
         },
         {
           "front": {
-            "content": "se soumettre"
-          },
-          "back": {
-            "content": "- [submit (submition to something)]: "
-          }
-        },
-        {
-          "front": {
-            "content": "gronder"
-          },
-          "back": {
-            "content": "- [scold (make threatning loud voice)]: il ne veut pas se faire gronder : he doesn't want to be scolded"
-          }
-        },
-        {
-          "front": {
-            "content": "moindre"
-          },
-          "back": {
-            "content": "- [lower/least]: "
-          }
-        },
-        {
-          "front": {
             "content": "embêter"
           },
           "back": {
             "content": "- [bother]: "
-          }
-        },
-        {
-          "front": {
-            "content": "autrement"
-          },
-          "back": {
-            "content": "- [otherwise]: "
-          }
-        },
-        {
-          "front": {
-            "content": "focaliser"
-          },
-          "back": {
-            "content": "- [focus]: "
-          }
-        },
-        {
-          "front": {
-            "content": "appuyer"
-          },
-          "back": {
-            "content": "- [push/press]: "
-          }
-        },
-        {
-          "front": {
-            "content": "rigolo"
-          },
-          "back": {
-            "content": "- [joke (as a negative description)]: tu me veut passe par un rigolo! : you want me to look like a joke!"
           }
         },
         {
@@ -119,10 +39,855 @@
         },
         {
           "front": {
-            "content": "alambiqué"
+            "content": "rentable"
           },
           "back": {
-            "content": "- [convoluted/complicated]: "
+            "content": ["- [profitable]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "pognon"
+          },
+          "back": {
+            "content": ["- [money]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "prestataires"
+          },
+          "back": {
+            "content": ["- [providers]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "raccorder"
+          },
+          "back": {
+            "content": ["- [connect]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "étonnant (adj.)/étonne (v.)"
+          },
+          "back": {
+            "content": ["- [astonishing/amazing/surprizing]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "affoler"
+          },
+          "back": {
+            "content": ["- [panic]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "convient"
+          },
+          "back": {
+            "content": [
+              "- [agree/suits you]: cette medicament te convient : this medication suits you"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "sable"
+          },
+          "back": {
+            "content": ["- [sand]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "épaisseu/épais"
+          },
+          "back": {
+            "content": ["- [thickness/thick]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "affinage"
+          },
+          "back": {
+            "content": ["- [refining/ameliorating]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "potable"
+          },
+          "back": {
+            "content": ["- [drinkable]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "contourn"
+          },
+          "back": {
+            "content": "- [bypass]: "
+          }
+        },
+        {
+          "front": {
+            "content": "solliciter"
+          },
+          "back": {
+            "content": ["- [to request]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "enfermer"
+          },
+          "back": {
+            "content": ["- [lock up]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "surdoué"
+          },
+          "back": {
+            "content": ["- [gifted]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "détenu"
+          },
+          "back": {
+            "content": [
+              "- [possessed]: le record est détenu par Mr.X : the record is possessed Mr.X",
+              "- [detained]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "renversement"
+          },
+          "back": {
+            "content": ["- [reversal]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "régressé"
+          },
+          "back": {
+            "content": [
+              "- [regressed]: retourner a un état moins développé : return to a less developed state"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "douter/dout"
+          },
+          "back": {
+            "content": ["- [to doubt/doubt]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "inné"
+          },
+          "back": {
+            "content": [
+              "- [innate/natural/from-birth]: le QI est une fonctionnalité inné : the IQ is an innate feature"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "survenant"
+          },
+          "back": {
+            "content": ["- [occuring]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "entente"
+          },
+          "back": {
+            "content": ["- [agreement/harmony]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "végétaux"
+          },
+          "back": {
+            "content": ["- [plants]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "méconnu"
+          },
+          "back": {
+            "content": ["- [unknown]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "déroutant"
+          },
+          "back": {
+            "content": ["- [confusing]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "pourtant"
+          },
+          "back": {
+            "content": ["- [yet/however]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "davantage"
+          },
+          "back": {
+            "content": ["- [more/further]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "mouillé"
+          },
+          "back": {
+            "content": ["- [wet]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "retenir"
+          },
+          "back": {
+            "content": ["- [keep/keep in mind]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "ressent"
+          },
+          "back": {
+            "content": ["- [feel]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "fin"
+          },
+          "back": {
+            "content": ["- [thin]: ", "- [end]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "croissance"
+          },
+          "back": {
+            "content": ["- [growth]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "pire"
+          },
+          "back": {
+            "content": ["- [worse]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "défi"
+          },
+          "back": {
+            "content": ["- [challenge]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "vigueur"
+          },
+          "back": {
+            "content": ["- [strength]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "pénible"
+          },
+          "back": {
+            "content": ["- [difficult/hard]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "surveillés"
+          },
+          "back": {
+            "content": ["- [monitored]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "flux"
+          },
+          "back": {
+            "content": ["- [stream/flow]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "veiller"
+          },
+          "back": {
+            "content": ["- [stay awake]: ", "- [watch]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "caisse"
+          },
+          "back": {
+            "content": ["- [box]: ", "- [cash register]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "assure"
+          },
+          "back": {
+            "content": ["- [make sure]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "expédié"
+          },
+          "back": {
+            "content": ["- [send]: ", "- [dispatch]: ", "- [hurry]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "traiter"
+          },
+          "back": {
+            "content": ["- [treat]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "saturé"
+          },
+          "back": {
+            "content": ["- [saturated]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "décidé"
+          },
+          "back": {
+            "content": ["- [decided]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "s'apercevoir"
+          },
+          "back": {
+            "content": [
+              "- [notice/realize]: je m'appercois que : I noticed that"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la lacune"
+          },
+          "back": {
+            "content": ["- [shortcomings]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "sommairement"
+          },
+          "back": {
+            "content": ["- [briefly/summarily]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "outre"
+          },
+          "back": {
+            "content": ["- [besides]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "carrément"
+          },
+          "back": {
+            "content": ["- [totally/really]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "le sommeil"
+          },
+          "back": {
+            "content": ["- [sleep]: rattraper mon sommeil : catch my sleep"]
+          }
+        },
+        {
+          "front": {
+            "content": "allonger"
+          },
+          "back": {
+            "content": ["- [lengthen]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "siest"
+          },
+          "back": {
+            "content": ["- [nap]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "affronte"
+          },
+          "back": {
+            "content": ["- [confront]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "rappeler"
+          },
+          "back": {
+            "content": ["- [to remind]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "concours"
+          },
+          "back": {
+            "content": ["- [competitive exam]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "oblige"
+          },
+          "back": {
+            "content": ["- [dectate/necessitate]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "anticiper"
+          },
+          "back": {
+            "content": ["- [anticipate]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "en témoigne"
+          },
+          "back": {
+            "content": [
+              "- [as evidence]: en témoigne mes excellents projets : as an evidence my excellent projects"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "tentative"
+          },
+          "back": {
+            "content": ["- [attempt]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "repousser"
+          },
+          "back": {
+            "content": ["- [grow back]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "géant"
+          },
+          "back": {
+            "content": ["- [giant]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "tromperie/trompe"
+          },
+          "back": {
+            "content": ["- [deception]", "- [deceive/mislead]"]
+          }
+        },
+        {
+          "front": {
+            "content": "surpuissante"
+          },
+          "back": {
+            "content": ["- [overpowered]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "intérêt (n.)"
+          },
+          "back": {
+            "content": ["- [interest]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "prolonger"
+          },
+          "back": {
+            "content": ["- [extend]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "coeur"
+          },
+          "back": {
+            "content": ["- [heart]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "liberté"
+          },
+          "back": {
+            "content": ["- [freedom]: "]
+          }
+        }
+      ]
+    },
+    {
+      "currentCardIndex": 10,
+      "currentCardSide": "back",
+      "cards": [
+        {
+          "front": {
+            "content": " écraser"
+          },
+          "back": {
+            "content": [
+              "- [press/flaten]: ton nez va s'écraser : your nose will get flattened"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": " renvoie"
+          },
+          "back": {
+            "content": ["- [refers]"]
+          }
+        },
+        {
+          "front": {
+            "content": " concevoir"
+          },
+          "back": {
+            "content": ["- [plan]"]
+          }
+        },
+        {
+          "front": {
+            "content": "porter"
+          },
+          "back": {
+            "content": ["- [carry]: ", "- [wear]: "]
+          }
+        },
+        {
+          "front": {
+            "content": " s'embouiller - 11-05-24"
+          },
+          "back": {
+            "content": ["- [be-confused]"]
+          }
+        },
+        {
+          "front": {
+            "content": " débarquer"
+          },
+          "back": {
+            "content": ["- [not be up to speed]", "- [land]"]
+          }
+        },
+        {
+          "front": {
+            "content": "corporel"
+          },
+          "back": {
+            "content": "- [related to body (corps) / bodily]: "
+          }
+        },
+        {
+          "front": {
+            "content": "sein"
+          },
+          "back": {
+            "content": ["- [breast/heart/center]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "levée"
+          },
+          "back": {
+            "content": ["- [lifting/raising]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "instants"
+          },
+          "back": {
+            "content": ["- [moments]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "inhérent"
+          },
+          "back": {
+            "content": ["- [inherent]: li veut dire que il est inséparable"]
+          }
+        },
+        {
+          "front": {
+            "content": "côté"
+          },
+          "back": {
+            "content": ["- [side]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "discuter"
+          },
+          "back": {
+            "content": ["- [discuss]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "la hydratation"
+          },
+          "back": {
+            "content": ["- [hydration]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "claire"
+          },
+          "back": {
+            "content": ["- [clear]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "propre"
+          },
+          "back": {
+            "content": ["- [clean]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "honnêtement"
+          },
+          "back": {
+            "content": ["- [honestly]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "échantillon"
+          },
+          "back": {
+            "content": ["- [sample]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "envisager"
+          },
+          "back": {
+            "content": ["- [consider]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "occasion"
+          },
+          "back": {
+            "content": ["- [occasion]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "bouteille"
+          },
+          "back": {
+            "content": ["- [bottle]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "goût"
+          },
+          "back": {
+            "content": ["- [taste]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "indispensable"
+          },
+          "back": {
+            "content": ["- [indispensable]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "soif"
+          },
+          "back": {
+            "content": ["- [thirsty]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "suffisamment"
+          },
+          "back": {
+            "content": ["- [sufficiently]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "bête"
+          },
+          "back": {
+            "content": ["- [stupid]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "manuel"
+          },
+          "back": {
+            "content": ["- [manual]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "robinet"
+          },
+          "back": {
+            "content": ["- [faucet]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "maintenir"
+          },
+          "back": {
+            "content": ["- [maintain]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "distribué"
+          },
+          "back": {
+            "content": ["- [distributed]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "histoire"
+          },
+          "back": {
+            "content": ["- [story/history]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "réciter"
+          },
+          "back": {
+            "content": ["- [recite]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "chute"
+          },
+          "back": {
+            "content": ["- [fall/chute]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "anodin"
+          },
+          "back": {
+            "content": ["- [trivial/insignificant]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "concluant"
+          },
+          "back": {
+            "content": ["- [conclusive]"]
+          }
+        },
+        {
+          "front": {
+            "content": "se soumettre"
+          },
+          "back": {
+            "content": "- [submit (submition to something)]: "
           }
         },
         {
@@ -143,42 +908,10 @@
         },
         {
           "front": {
-            "content": "politesse"
-          },
-          "back": {
-            "content": "- [politeness]: "
-          }
-        },
-        {
-          "front": {
-            "content": "corporel"
-          },
-          "back": {
-            "content": "- [related to body (corps) / bodily]: "
-          }
-        },
-        {
-          "front": {
-            "content": "interlocuteur"
-          },
-          "back": {
-            "content": "- [interlocutor]: un partie/personne d'un dicussion : a part/person of a discussion"
-          }
-        },
-        {
-          "front": {
             "content": "prestance"
           },
           "back": {
             "content": "- [presence]: "
-          }
-        },
-        {
-          "front": {
-            "content": "racont"
-          },
-          "back": {
-            "content": "- [tell (a story)]: "
           }
         },
         {
@@ -215,22 +948,6 @@
         },
         {
           "front": {
-            "content": "situé"
-          },
-          "back": {
-            "content": "- [located]: "
-          }
-        },
-        {
-          "front": {
-            "content": "déballer"
-          },
-          "back": {
-            "content": "- [unpack]: "
-          }
-        },
-        {
-          "front": {
             "content": "lent/lentement"
           },
           "back": {
@@ -239,74 +956,10 @@
         },
         {
           "front": {
-            "content": "méfier"
+            "content": "méfier de"
           },
           "back": {
-            "content": "- [beware]: "
-          }
-        },
-        {
-          "front": {
-            "content": "démarquer"
-          },
-          "back": {
-            "content": "- [standout (unmark, get free)]: "
-          }
-        },
-        {
-          "front": {
-            "content": "rédiger/rédigé"
-          },
-          "back": {
-            "content": "- [write/written]: "
-          }
-        },
-        {
-          "front": {
-            "content": "mâcher"
-          },
-          "back": {
-            "content": "- [chew]: "
-          }
-        },
-        {
-          "front": {
-            "content": "cartonner"
-          },
-          "back": {
-            "content": ["- [attack]: ", "- [hit the jackpot]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "vaut"
-          },
-          "back": {
-            "content": ["- [worth]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "juridique"
-          },
-          "back": {
-            "content": ["- [juristic/legal]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "insiste"
-          },
-          "back": {
-            "content": ["- [insist]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "particulière"
-          },
-          "back": {
-            "content": ["- [particular]: "]
+            "content": "- [beware of]: méfier du fait... : beware of the fact..."
           }
         },
         {
@@ -327,58 +980,10 @@
         },
         {
           "front": {
-            "content": "relativement"
-          },
-          "back": {
-            "content": ["- [relatively]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "cependant"
-          },
-          "back": {
-            "content": ["- [however]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "impérativement"
-          },
-          "back": {
-            "content": ["- [imperatively/neccisarily]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "conçus"
-          },
-          "back": {
-            "content": ["- [designed]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "saut"
-          },
-          "back": {
-            "content": ["- [jump/leap]: "]
-          }
-        },
-        {
-          "front": {
             "content": "fluidité"
           },
           "back": {
             "content": ["- [fluidity]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "étonnante"
-          },
-          "back": {
-            "content": ["- [astonishing/amazing/surprizing]: "]
           }
         },
         {
@@ -391,172 +996,10 @@
         },
         {
           "front": {
-            "content": "rentable"
-          },
-          "back": {
-            "content": ["- [profitable]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "sein"
-          },
-          "back": {
-            "content": ["- [breast/heart/center]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "pignon"
-          },
-          "back": {
-            "content": ["- [pinion/gear]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "pognon"
-          },
-          "back": {
-            "content": ["- [money]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "les/le fonds"
-          },
-          "back": {
-            "content": [
-              "- [funds]: 'funds' is not the same as the verb 'je fonds' from 'fonder'"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "financer"
-          },
-          "back": {
-            "content": ["- [fund]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "levée"
-          },
-          "back": {
-            "content": ["- [lifting/raising]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "instants"
-          },
-          "back": {
-            "content": ["- [moments]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "réglementaire"
-          },
-          "back": {
-            "content": ["- [regulatory]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "caisse"
-          },
-          "back": {
-            "content": ["- [box]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "repenser"
-          },
-          "back": {
-            "content": ["- [rethink]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "advantageous"
-          },
-          "back": {
-            "content": ["- [avantageu(x/se)]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "distinguer"
-          },
-          "back": {
-            "content": ["- [distinguish]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "préalable"
-          },
-          "back": {
-            "content": ["- [prior]: "]
-          }
-        },
-        {
-          "front": {
             "content": "dépôt"
           },
           "back": {
             "content": ["- [safe-keeping/warehouse]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "coût"
-          },
-          "back": {
-            "content": ["- [cost]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "inhérent"
-          },
-          "back": {
-            "content": ["- [inherent]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "côté"
-          },
-          "back": {
-            "content": ["- [side]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "aiguiller"
-          },
-          "back": {
-            "content": ["- [steer/guide]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "prestataires"
-          },
-          "back": {
-            "content": ["- [providers]: "]
-          }
-        },
-        {
-          "front": {
-            "content": "discuter"
-          },
-          "back": {
-            "content": ["- [discuss]: "]
           }
         },
         {
@@ -569,34 +1012,214 @@
         },
         {
           "front": {
-            "content": "raccorder"
+            "content": "tiède"
           },
           "back": {
-            "content": ["- [connect]: "]
-          }
-        }
-      ]
-    },
-    {
-      "currentCardIndex": 9,
-      "currentCardSide": "front",
-      "cards": [
-        {
-          "front": {
-            "content": "affamer"
-          },
-          "back": {
-            "content": ["- [starve]"]
+            "content": [
+              "- [lukewarm/tepid]: le temperature entre 'warm' et 'cool' : the temperature between 'warm' and 'cool'"
+            ]
           }
         },
         {
           "front": {
-            "content": " écraser"
+            "content": "jus"
+          },
+          "back": {
+            "content": ["- [juice]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "alterne (v.)"
+          },
+          "back": {
+            "content": ["- [alternate]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "goûter (v./n.)"
+          },
+          "back": {
+            "content": ["- [to taste]: ", "- [snack]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "déchets"
+          },
+          "back": {
+            "content": ["- [trash/wastes]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "verser"
+          },
+          "back": {
+            "content": ["- [pour]: ", "- [deposit]: ", "- [tranfer]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "polluer"
+          },
+          "back": {
+            "content": ["- [polute]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "révéler"
+          },
+          "back": {
+            "content": ["- [reveal]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "transpire"
+          },
+          "back": {
+            "content": ["- [sweat]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "foncée"
+          },
+          "back": {
+            "content": ["- [dark]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "dilution"
+          },
+          "back": {
+            "content": ["- [dilution]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "près"
           },
           "back": {
             "content": [
-              "- [press/flaten]: ton nez va s'écraser : your nose will get flattened"
+              "- [close]: un peu près d'un metre : a little close to one meter"
             ]
+          }
+        },
+        {
+          "front": {
+            "content": "espoir"
+          },
+          "back": {
+            "content": ["- [hope]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "lapsus"
+          },
+          "back": {
+            "content": ["- [slip of tongue]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "taux"
+          },
+          "back": {
+            "content": ["- [rate]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "rapport"
+          },
+          "back": {
+            "content": ["- [report]: ", "- [ratio]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "rosée"
+          },
+          "back": {
+            "content": ["- [dew]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "sol"
+          },
+          "back": {
+            "content": ["- [ground/soile/earth]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "dépend"
+          },
+          "back": {
+            "content": ["- [depends]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "se couche"
+          },
+          "back": {
+            "content": ["- [goes to bed]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "moindre (adj.)"
+          },
+          "back": {
+            "content": "- [lower/least]: "
+          }
+        },
+        {
+          "front": {
+            "content": "déballer"
+          },
+          "back": {
+            "content": "- [unpack]: "
+          }
+        },
+        {
+          "front": {
+            "content": "se vaut"
+          },
+          "back": {
+            "content": ["- [worth]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "conçus"
+          },
+          "back": {
+            "content": ["- [designed]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "préalable"
+          },
+          "back": {
+            "content": ["- [prior]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "aiguiller"
+          },
+          "back": {
+            "content": ["- [steer/guide]: "]
           }
         },
         {
@@ -605,62 +1228,6 @@
           },
           "back": {
             "content": ["- [since]", "- [because]"]
-          }
-        },
-        {
-          "front": {
-            "content": " renvoie"
-          },
-          "back": {
-            "content": ["- [refers]"]
-          }
-        },
-        {
-          "front": {
-            "content": " ennuie"
-          },
-          "back": {
-            "content": ["- [annoy]"]
-          }
-        },
-        {
-          "front": {
-            "content": " concevoir"
-          },
-          "back": {
-            "content": ["- [plan]"]
-          }
-        },
-        {
-          "front": {
-            "content": "porter"
-          },
-          "back": {
-            "content": "- [carry]: "
-          }
-        },
-        {
-          "front": {
-            "content": " s'embouiller - 11-05-24"
-          },
-          "back": {
-            "content": ["- [be-confused]"]
-          }
-        },
-        {
-          "front": {
-            "content": " débarquer"
-          },
-          "back": {
-            "content": ["- [not be up to speed]", "- [land]"]
-          }
-        },
-        {
-          "front": {
-            "content": "hospitalier"
-          },
-          "back": {
-            "content": "- [hospitable]: "
           }
         }
       ]
@@ -2164,14 +2731,6 @@
         },
         {
           "front": {
-            "content": "notamment"
-          },
-          "back": {
-            "content": ["- [notably]"]
-          }
-        },
-        {
-          "front": {
             "content": "tôt"
           },
           "back": {
@@ -2832,14 +3391,6 @@
         },
         {
           "front": {
-            "content": "tromperie"
-          },
-          "back": {
-            "content": ["- [deception]"]
-          }
-        },
-        {
-          "front": {
             "content": "déconne"
           },
           "back": {
@@ -3373,10 +3924,10 @@
         },
         {
           "front": {
-            "content": "piège"
+            "content": "piège/piégé"
           },
           "back": {
-            "content": "- [trap]: "
+            "content": "- [trap/traped]: "
           }
         },
         {
@@ -3489,6 +4040,272 @@
           },
           "back": {
             "content": "- [interrupt]: "
+          }
+        },
+        {
+          "front": {
+            "content": "notamment"
+          },
+          "back": {
+            "content": ["- [especially]"]
+          }
+        },
+        {
+          "front": {
+            "content": "affamer"
+          },
+          "back": {
+            "content": ["- [starve]"]
+          }
+        },
+        {
+          "front": {
+            "content": " ennuie"
+          },
+          "back": {
+            "content": ["- [annoy]"]
+          }
+        },
+        {
+          "front": {
+            "content": "hospitalier"
+          },
+          "back": {
+            "content": "- [hospitable]: "
+          }
+        },
+        {
+          "front": {
+            "content": "gronder"
+          },
+          "back": {
+            "content": "- [scold (make threatning loud voice)]: il ne veut pas se faire gronder : he doesn't want to be scolded"
+          }
+        },
+        {
+          "front": {
+            "content": "autrement"
+          },
+          "back": {
+            "content": "- [otherwise]: "
+          }
+        },
+        {
+          "front": {
+            "content": "focaliser"
+          },
+          "back": {
+            "content": "- [focus]: "
+          }
+        },
+        {
+          "front": {
+            "content": "appuyer"
+          },
+          "back": {
+            "content": "- [push/press]: "
+          }
+        },
+        {
+          "front": {
+            "content": "rigolo"
+          },
+          "back": {
+            "content": "- [joke]: tu me veut passe par un rigolo! : you want me to look like a joke!"
+          }
+        },
+        {
+          "front": {
+            "content": "alambiqué"
+          },
+          "back": {
+            "content": "- [convoluted/complicated]: "
+          }
+        },
+        {
+          "front": {
+            "content": "politesse"
+          },
+          "back": {
+            "content": "- [politeness]: "
+          }
+        },
+        {
+          "front": {
+            "content": "interlocuteur"
+          },
+          "back": {
+            "content": "- [interlocutor]: un partie/personne d'un dicussion : a part/person of a discussion"
+          }
+        },
+        {
+          "front": {
+            "content": "racont"
+          },
+          "back": {
+            "content": "- [tell (a story)]: "
+          }
+        },
+        {
+          "front": {
+            "content": "situé"
+          },
+          "back": {
+            "content": "- [located]: "
+          }
+        },
+        {
+          "front": {
+            "content": "démarquer"
+          },
+          "back": {
+            "content": "- [standout (unmark, get free)]: "
+          }
+        },
+        {
+          "front": {
+            "content": "rédiger/rédigé"
+          },
+          "back": {
+            "content": "- [write/written]: "
+          }
+        },
+        {
+          "front": {
+            "content": "mâcher"
+          },
+          "back": {
+            "content": "- [chew]: "
+          }
+        },
+        {
+          "front": {
+            "content": "cartonner"
+          },
+          "back": {
+            "content": ["- [attack]: ", "- [hit the jackpot]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "juridique"
+          },
+          "back": {
+            "content": ["- [juristic/legal]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "insiste"
+          },
+          "back": {
+            "content": ["- [insist]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "particulière"
+          },
+          "back": {
+            "content": ["- [particular]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "relativement"
+          },
+          "back": {
+            "content": ["- [relatively]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "cependant"
+          },
+          "back": {
+            "content": ["- [however]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "impérativement"
+          },
+          "back": {
+            "content": ["- [imperatively/necesarily]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "saut"
+          },
+          "back": {
+            "content": ["- [jump/leap]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "pignon"
+          },
+          "back": {
+            "content": ["- [pinion/gear]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "les/le fonds"
+          },
+          "back": {
+            "content": [
+              "- [funds]: 'funds' is not the same as the verb 'je fonds' from 'fonder'"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "financer"
+          },
+          "back": {
+            "content": ["- [fund]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "réglementaire"
+          },
+          "back": {
+            "content": ["- [regulatory]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "repenser"
+          },
+          "back": {
+            "content": ["- [rethink]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "avantageu(x/se)"
+          },
+          "back": {
+            "content": ["- [advantageous]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "distinguer"
+          },
+          "back": {
+            "content": ["- [distinguish]: "]
+          }
+        },
+        {
+          "front": {
+            "content": "coût"
+          },
+          "back": {
+            "content": ["- [cost]: "]
           }
         }
       ]
@@ -6799,6 +7616,986 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-06-19T18:07:57.464Z"
+      },
+      {
+        "type": "move",
+        "word": "anodin",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-21T17:22:27.912Z"
+      },
+      {
+        "type": "move",
+        "word": "anodin",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-06-21T17:22:34.127Z"
+      },
+      {
+        "type": "move",
+        "word": "gronder",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:38:16.212Z"
+      },
+      {
+        "type": "move",
+        "word": "autrement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:43:10.509Z"
+      },
+      {
+        "type": "move",
+        "word": "focaliser",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:43:13.444Z"
+      },
+      {
+        "type": "move",
+        "word": "appuyer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:43:27.636Z"
+      },
+      {
+        "type": "move",
+        "word": "rigolo",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:44:42.137Z"
+      },
+      {
+        "type": "move",
+        "word": "alambiqué",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:47:43.501Z"
+      },
+      {
+        "type": "move",
+        "word": "politesse",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:53:20.953Z"
+      },
+      {
+        "type": "move",
+        "word": "corporel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:53:23.898Z"
+      },
+      {
+        "type": "move",
+        "word": "interlocuteur",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:53:26.168Z"
+      },
+      {
+        "type": "move",
+        "word": "racont",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:53:46.663Z"
+      },
+      {
+        "type": "move",
+        "word": "situé",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:56:09.290Z"
+      },
+      {
+        "type": "move",
+        "word": "démarquer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:56:55.003Z"
+      },
+      {
+        "type": "move",
+        "word": "rédiger/rédigé",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:57:17.745Z"
+      },
+      {
+        "type": "move",
+        "word": "mâcher",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:57:35.052Z"
+      },
+      {
+        "type": "move",
+        "word": "cartonner",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T11:57:51.932Z"
+      },
+      {
+        "type": "move",
+        "word": "juridique",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:04:12.755Z"
+      },
+      {
+        "type": "move",
+        "word": "insiste",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:04:32.055Z"
+      },
+      {
+        "type": "move",
+        "word": "particulière",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:04:39.730Z"
+      },
+      {
+        "type": "move",
+        "word": "relativement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:09:10.272Z"
+      },
+      {
+        "type": "move",
+        "word": "cependant",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:09:16.265Z"
+      },
+      {
+        "type": "move",
+        "word": "impérativement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:10:50.394Z"
+      },
+      {
+        "type": "move",
+        "word": "saut",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:11:21.034Z"
+      },
+      {
+        "type": "move",
+        "word": "sein",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:14:55.828Z"
+      },
+      {
+        "type": "move",
+        "word": "pignon",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:15:11.750Z"
+      },
+      {
+        "type": "move",
+        "word": "les/le fonds",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:18:31.082Z"
+      },
+      {
+        "type": "move",
+        "word": "financer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:18:32.178Z"
+      },
+      {
+        "type": "move",
+        "word": "levée",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:18:54.937Z"
+      },
+      {
+        "type": "move",
+        "word": "instants",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:19:39.254Z"
+      },
+      {
+        "type": "move",
+        "word": "réglementaire",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T12:20:24.181Z"
+      },
+      {
+        "type": "move",
+        "word": "repenser",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T15:38:04.674Z"
+      },
+      {
+        "type": "move",
+        "word": "advantageous",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T15:38:12.979Z"
+      },
+      {
+        "type": "move",
+        "word": "advantageous",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-06-24T15:38:17.154Z"
+      },
+      {
+        "type": "move",
+        "word": "advantageous",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T15:38:40.036Z"
+      },
+      {
+        "type": "move",
+        "word": "distinguer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T15:39:52.136Z"
+      },
+      {
+        "type": "move",
+        "word": "coût",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T15:41:23.592Z"
+      },
+      {
+        "type": "move",
+        "word": "inhérent",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T15:46:49.279Z"
+      },
+      {
+        "type": "move",
+        "word": "côté",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T15:46:53.395Z"
+      },
+      {
+        "type": "move",
+        "word": "discuter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T15:47:21.809Z"
+      },
+      {
+        "type": "move",
+        "word": "la hydratation",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:46:42.853Z"
+      },
+      {
+        "type": "move",
+        "word": "claire",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:46:58.229Z"
+      },
+      {
+        "type": "move",
+        "word": "propre",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:47:45.869Z"
+      },
+      {
+        "type": "move",
+        "word": "honnêtement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:48:02.071Z"
+      },
+      {
+        "type": "move",
+        "word": "échantillon",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:49:01.197Z"
+      },
+      {
+        "type": "move",
+        "word": "envisager",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:49:31.708Z"
+      },
+      {
+        "type": "move",
+        "word": "occasion",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:50:01.437Z"
+      },
+      {
+        "type": "move",
+        "word": "bouteille",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:50:07.948Z"
+      },
+      {
+        "type": "move",
+        "word": "goût",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:50:12.365Z"
+      },
+      {
+        "type": "move",
+        "word": "indispensable",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:56:18.260Z"
+      },
+      {
+        "type": "move",
+        "word": "soif",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:57:19.436Z"
+      },
+      {
+        "type": "move",
+        "word": "suffisamment",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:57:24.924Z"
+      },
+      {
+        "type": "move",
+        "word": "bête",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:57:29.916Z"
+      },
+      {
+        "type": "move",
+        "word": "manuel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:59:07.604Z"
+      },
+      {
+        "type": "move",
+        "word": "robinet",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:59:25.916Z"
+      },
+      {
+        "type": "move",
+        "word": "maintenir",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:59:31.667Z"
+      },
+      {
+        "type": "move",
+        "word": "distribué",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T16:59:35.748Z"
+      },
+      {
+        "type": "move",
+        "word": "histoire",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T17:00:36.741Z"
+      },
+      {
+        "type": "move",
+        "word": "réciter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T17:00:40.571Z"
+      },
+      {
+        "type": "move",
+        "word": "chute",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-24T17:01:03.774Z"
+      },
+      {
+        "type": "move",
+        "word": "anodin",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:09:46.596Z"
+      },
+      {
+        "type": "move",
+        "word": "concluant",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:09:50.592Z"
+      },
+      {
+        "type": "move",
+        "word": "se soumettre",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:10:22.956Z"
+      },
+      {
+        "type": "move",
+        "word": "galère",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:15:43.224Z"
+      },
+      {
+        "type": "move",
+        "word": "courtoisie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:21:54.768Z"
+      },
+      {
+        "type": "move",
+        "word": "prestance",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:22:45.038Z"
+      },
+      {
+        "type": "move",
+        "word": "pertinentes",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:24:06.364Z"
+      },
+      {
+        "type": "move",
+        "word": "noyé",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:24:37.310Z"
+      },
+      {
+        "type": "move",
+        "word": "thématique",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:25:35.799Z"
+      },
+      {
+        "type": "move",
+        "word": "apporter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:26:04.293Z"
+      },
+      {
+        "type": "move",
+        "word": "lent/lentement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:35:25.859Z"
+      },
+      {
+        "type": "move",
+        "word": "méfier de",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:36:06.141Z"
+      },
+      {
+        "type": "move",
+        "word": "fournisseur",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:37:20.283Z"
+      },
+      {
+        "type": "move",
+        "word": "fournir",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:37:28.419Z"
+      },
+      {
+        "type": "move",
+        "word": "fluidité",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:38:51.332Z"
+      },
+      {
+        "type": "move",
+        "word": "reproductible",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:40:44.452Z"
+      },
+      {
+        "type": "move",
+        "word": "caisse",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:43:10.340Z"
+      },
+      {
+        "type": "move",
+        "word": "dépôt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:45:34.392Z"
+      },
+      {
+        "type": "move",
+        "word": "aveugle",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:51:09.014Z"
+      },
+      {
+        "type": "move",
+        "word": "tiède",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:52:51.264Z"
+      },
+      {
+        "type": "move",
+        "word": "jus",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:52:54.751Z"
+      },
+      {
+        "type": "move",
+        "word": "alterne (v.)",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:54:45.600Z"
+      },
+      {
+        "type": "move",
+        "word": "goûter (v./n.)",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:56:04.384Z"
+      },
+      {
+        "type": "move",
+        "word": "déchets",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:56:15.426Z"
+      },
+      {
+        "type": "move",
+        "word": "verser",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:58:31.529Z"
+      },
+      {
+        "type": "move",
+        "word": "polluer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:58:40.195Z"
+      },
+      {
+        "type": "move",
+        "word": "révéler",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T14:58:47.009Z"
+      },
+      {
+        "type": "move",
+        "word": "transpire",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T15:01:55.873Z"
+      },
+      {
+        "type": "move",
+        "word": "foncée",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T15:01:58.193Z"
+      },
+      {
+        "type": "move",
+        "word": "dilution",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T15:02:19.308Z"
+      },
+      {
+        "type": "move",
+        "word": "près",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T15:04:50.949Z"
+      },
+      {
+        "type": "move",
+        "word": "espoir",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T15:13:21.879Z"
+      },
+      {
+        "type": "move",
+        "word": "lapsus",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T15:34:47.570Z"
+      },
+      {
+        "type": "move",
+        "word": "taux",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T15:40:26.881Z"
+      },
+      {
+        "type": "move",
+        "word": "rapport",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T16:05:38.992Z"
+      },
+      {
+        "type": "move",
+        "word": "rosée",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T16:05:49.125Z"
+      },
+      {
+        "type": "move",
+        "word": "sol",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T16:06:19.312Z"
+      },
+      {
+        "type": "move",
+        "word": "dépend",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T16:10:29.030Z"
+      },
+      {
+        "type": "move",
+        "word": "se couche",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-28T16:10:41.254Z"
+      },
+      {
+        "type": "move",
+        "word": "moindre (adj.)",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-30T18:04:20.920Z"
+      },
+      {
+        "type": "move",
+        "word": "déballer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-30T18:17:55.409Z"
+      },
+      {
+        "type": "move",
+        "word": "se vaut",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-30T18:18:01.447Z"
+      },
+      {
+        "type": "move",
+        "word": "conçus",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-30T18:18:04.585Z"
+      },
+      {
+        "type": "move",
+        "word": "préalable",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-30T18:25:04.467Z"
+      },
+      {
+        "type": "move",
+        "word": "aiguiller",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-30T18:25:10.938Z"
+      },
+      {
+        "type": "move",
+        "word": "notamment",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:25:38.803Z"
+      },
+      {
+        "type": "move",
+        "word": "affamer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:25:45.676Z"
+      },
+      {
+        "type": "move",
+        "word": "puisqu",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-06-30T18:26:18.043Z"
+      },
+      {
+        "type": "move",
+        "word": "puisqu",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-06-30T18:26:33.070Z"
+      },
+      {
+        "type": "move",
+        "word": "ennuie",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:26:54.132Z"
+      },
+      {
+        "type": "move",
+        "word": "hospitalier",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:30:18.997Z"
+      },
+      {
+        "type": "move",
+        "word": "gronder",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:30:29.436Z"
+      },
+      {
+        "type": "move",
+        "word": "autrement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:30:33.218Z"
+      },
+      {
+        "type": "move",
+        "word": "focaliser",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:30:46.729Z"
+      },
+      {
+        "type": "move",
+        "word": "appuyer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:30:58.881Z"
+      },
+      {
+        "type": "move",
+        "word": "rigolo",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:31:21.644Z"
+      },
+      {
+        "type": "move",
+        "word": "alambiqué",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:31:24.849Z"
+      },
+      {
+        "type": "move",
+        "word": "politesse",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:31:32.073Z"
+      },
+      {
+        "type": "move",
+        "word": "interlocuteur",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:31:51.602Z"
+      },
+      {
+        "type": "move",
+        "word": "racont",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:31:57.783Z"
+      },
+      {
+        "type": "move",
+        "word": "situé",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:32:07.188Z"
+      },
+      {
+        "type": "move",
+        "word": "démarquer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:32:27.083Z"
+      },
+      {
+        "type": "move",
+        "word": "rédiger/rédigé",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:32:48.921Z"
+      },
+      {
+        "type": "move",
+        "word": "mâcher",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:33:38.761Z"
+      },
+      {
+        "type": "move",
+        "word": "cartonner",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:34:05.857Z"
+      },
+      {
+        "type": "move",
+        "word": "juridique",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:34:10.204Z"
+      },
+      {
+        "type": "move",
+        "word": "insiste",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:34:15.809Z"
+      },
+      {
+        "type": "move",
+        "word": "particulière",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:34:18.777Z"
+      },
+      {
+        "type": "move",
+        "word": "relativement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:34:20.972Z"
+      },
+      {
+        "type": "move",
+        "word": "cependant",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:34:27.912Z"
+      },
+      {
+        "type": "move",
+        "word": "impérativement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:34:34.737Z"
+      },
+      {
+        "type": "move",
+        "word": "saut",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:34:39.940Z"
+      },
+      {
+        "type": "move",
+        "word": "pignon",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:34:59.800Z"
+      },
+      {
+        "type": "move",
+        "word": "les/le fonds",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:35:46.753Z"
+      },
+      {
+        "type": "move",
+        "word": "financer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:36:01.904Z"
+      },
+      {
+        "type": "move",
+        "word": "réglementaire",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:38:10.376Z"
+      },
+      {
+        "type": "move",
+        "word": "repenser",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:38:18.959Z"
+      },
+      {
+        "type": "move",
+        "word": "avantageu(x/se)",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:38:25.120Z"
+      },
+      {
+        "type": "move",
+        "word": "distinguer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:38:33.632Z"
+      },
+      {
+        "type": "move",
+        "word": "coût",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-06-30T18:38:45.448Z"
       }
     ],
     "levels": [
@@ -7391,6 +9188,434 @@
           {
             "length": 44,
             "date": "2024-06-19T16:22:44.338Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-06-21T17:22:27.981Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-06-21T17:22:34.127Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-06-24T11:38:16.272Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-06-24T11:43:10.509Z"
+          },
+          {
+            "length": 119,
+            "date": "2024-06-24T11:43:13.444Z"
+          },
+          {
+            "length": 118,
+            "date": "2024-06-24T11:43:27.636Z"
+          },
+          {
+            "length": 117,
+            "date": "2024-06-24T11:44:42.137Z"
+          },
+          {
+            "length": 116,
+            "date": "2024-06-24T11:47:43.501Z"
+          },
+          {
+            "length": 115,
+            "date": "2024-06-24T11:53:20.953Z"
+          },
+          {
+            "length": 114,
+            "date": "2024-06-24T11:53:23.899Z"
+          },
+          {
+            "length": 113,
+            "date": "2024-06-24T11:53:26.168Z"
+          },
+          {
+            "length": 112,
+            "date": "2024-06-24T11:53:46.663Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-06-24T11:56:09.290Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-06-24T11:56:55.003Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-06-24T11:57:17.745Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-06-24T11:57:35.052Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-06-24T11:57:51.932Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-06-24T12:04:12.755Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-06-24T12:04:32.055Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-06-24T12:04:39.730Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-06-24T12:09:10.272Z"
+          },
+          {
+            "length": 102,
+            "date": "2024-06-24T12:09:16.265Z"
+          },
+          {
+            "length": 101,
+            "date": "2024-06-24T12:10:50.394Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-06-24T12:11:21.034Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-06-24T12:14:55.829Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-06-24T12:15:11.750Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-06-24T12:18:31.082Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-06-24T12:18:32.178Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-06-24T12:18:54.937Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-06-24T12:19:39.254Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-06-24T12:20:24.181Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-06-24T15:38:04.675Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-06-24T15:38:12.979Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-06-24T15:38:17.154Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-06-24T15:38:40.036Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-06-24T15:39:52.136Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-06-24T15:41:23.593Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-06-24T15:46:49.279Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-06-24T15:46:53.395Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-06-24T15:47:21.809Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-06-24T16:46:42.853Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-06-24T16:46:58.229Z"
+          },
+          {
+            "length": 83,
+            "date": "2024-06-24T16:47:45.869Z"
+          },
+          {
+            "length": 82,
+            "date": "2024-06-24T16:48:02.071Z"
+          },
+          {
+            "length": 81,
+            "date": "2024-06-24T16:49:01.197Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-06-24T16:49:31.708Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-06-24T16:50:01.437Z"
+          },
+          {
+            "length": 78,
+            "date": "2024-06-24T16:50:07.948Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-06-24T16:50:12.365Z"
+          },
+          {
+            "length": 76,
+            "date": "2024-06-24T16:56:18.260Z"
+          },
+          {
+            "length": 75,
+            "date": "2024-06-24T16:57:19.436Z"
+          },
+          {
+            "length": 74,
+            "date": "2024-06-24T16:57:24.924Z"
+          },
+          {
+            "length": 73,
+            "date": "2024-06-24T16:57:29.916Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-06-24T16:59:07.604Z"
+          },
+          {
+            "length": 71,
+            "date": "2024-06-24T16:59:25.916Z"
+          },
+          {
+            "length": 70,
+            "date": "2024-06-24T16:59:31.667Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-06-24T16:59:35.748Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-06-24T17:00:36.741Z"
+          },
+          {
+            "length": 67,
+            "date": "2024-06-24T17:00:40.571Z"
+          },
+          {
+            "length": 66,
+            "date": "2024-06-24T17:01:03.774Z"
+          },
+          {
+            "length": 81,
+            "date": "2024-06-28T14:09:46.638Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-06-28T14:09:50.592Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-06-28T14:10:22.956Z"
+          },
+          {
+            "length": 78,
+            "date": "2024-06-28T14:15:43.224Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-06-28T14:21:54.768Z"
+          },
+          {
+            "length": 76,
+            "date": "2024-06-28T14:22:45.038Z"
+          },
+          {
+            "length": 75,
+            "date": "2024-06-28T14:24:06.364Z"
+          },
+          {
+            "length": 74,
+            "date": "2024-06-28T14:24:37.310Z"
+          },
+          {
+            "length": 73,
+            "date": "2024-06-28T14:25:35.799Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-06-28T14:26:04.293Z"
+          },
+          {
+            "length": 71,
+            "date": "2024-06-28T14:35:25.859Z"
+          },
+          {
+            "length": 70,
+            "date": "2024-06-28T14:36:06.141Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-06-28T14:37:20.283Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-06-28T14:37:28.419Z"
+          },
+          {
+            "length": 67,
+            "date": "2024-06-28T14:38:51.332Z"
+          },
+          {
+            "length": 66,
+            "date": "2024-06-28T14:40:44.452Z"
+          },
+          {
+            "length": 65,
+            "date": "2024-06-28T14:43:10.340Z"
+          },
+          {
+            "length": 64,
+            "date": "2024-06-28T14:45:34.392Z"
+          },
+          {
+            "length": 63,
+            "date": "2024-06-28T14:51:09.014Z"
+          },
+          {
+            "length": 62,
+            "date": "2024-06-28T14:52:51.264Z"
+          },
+          {
+            "length": 61,
+            "date": "2024-06-28T14:52:54.751Z"
+          },
+          {
+            "length": 59,
+            "date": "2024-06-28T14:54:45.600Z"
+          },
+          {
+            "length": 58,
+            "date": "2024-06-28T14:56:04.384Z"
+          },
+          {
+            "length": 57,
+            "date": "2024-06-28T14:56:15.426Z"
+          },
+          {
+            "length": 56,
+            "date": "2024-06-28T14:58:31.529Z"
+          },
+          {
+            "length": 55,
+            "date": "2024-06-28T14:58:40.195Z"
+          },
+          {
+            "length": 54,
+            "date": "2024-06-28T14:58:47.009Z"
+          },
+          {
+            "length": 53,
+            "date": "2024-06-28T15:01:55.873Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-06-28T15:01:58.193Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-06-28T15:02:19.308Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-06-28T15:04:50.949Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-06-28T15:13:21.879Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-06-28T15:34:47.570Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-06-28T15:40:26.881Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-06-28T16:05:38.992Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-06-28T16:05:49.125Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-06-28T16:06:19.312Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-06-28T16:10:29.030Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-06-28T16:10:41.254Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-06-30T18:04:20.984Z"
+          },
+          {
+            "length": 76,
+            "date": "2024-06-30T18:17:55.409Z"
+          },
+          {
+            "length": 75,
+            "date": "2024-06-30T18:18:01.447Z"
+          },
+          {
+            "length": 74,
+            "date": "2024-06-30T18:18:04.585Z"
+          },
+          {
+            "length": 73,
+            "date": "2024-06-30T18:25:04.467Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-06-30T18:25:10.938Z"
+          },
+          {
+            "length": 73,
+            "date": "2024-06-30T18:26:18.043Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-06-30T18:26:33.070Z"
           }
         ]
       },
@@ -8871,6 +11096,562 @@
           {
             "length": 10,
             "date": "2024-06-19T18:07:57.464Z"
+          },
+          {
+            "length": 12,
+            "date": "2024-06-21T17:22:27.981Z"
+          },
+          {
+            "length": 11,
+            "date": "2024-06-21T17:22:34.127Z"
+          },
+          {
+            "length": 12,
+            "date": "2024-06-24T11:38:16.272Z"
+          },
+          {
+            "length": 13,
+            "date": "2024-06-24T11:43:10.509Z"
+          },
+          {
+            "length": 14,
+            "date": "2024-06-24T11:43:13.444Z"
+          },
+          {
+            "length": 15,
+            "date": "2024-06-24T11:43:27.636Z"
+          },
+          {
+            "length": 16,
+            "date": "2024-06-24T11:44:42.137Z"
+          },
+          {
+            "length": 17,
+            "date": "2024-06-24T11:47:43.501Z"
+          },
+          {
+            "length": 18,
+            "date": "2024-06-24T11:53:20.953Z"
+          },
+          {
+            "length": 19,
+            "date": "2024-06-24T11:53:23.899Z"
+          },
+          {
+            "length": 20,
+            "date": "2024-06-24T11:53:26.168Z"
+          },
+          {
+            "length": 21,
+            "date": "2024-06-24T11:53:46.663Z"
+          },
+          {
+            "length": 22,
+            "date": "2024-06-24T11:56:09.290Z"
+          },
+          {
+            "length": 23,
+            "date": "2024-06-24T11:56:55.003Z"
+          },
+          {
+            "length": 24,
+            "date": "2024-06-24T11:57:17.745Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-06-24T11:57:35.052Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-06-24T11:57:51.932Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-06-24T12:04:12.755Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-06-24T12:04:32.055Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-06-24T12:04:39.730Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-06-24T12:09:10.272Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-06-24T12:09:16.265Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-06-24T12:10:50.394Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-06-24T12:11:21.034Z"
+          },
+          {
+            "length": 34,
+            "date": "2024-06-24T12:14:55.829Z"
+          },
+          {
+            "length": 35,
+            "date": "2024-06-24T12:15:11.750Z"
+          },
+          {
+            "length": 36,
+            "date": "2024-06-24T12:18:31.082Z"
+          },
+          {
+            "length": 37,
+            "date": "2024-06-24T12:18:32.178Z"
+          },
+          {
+            "length": 38,
+            "date": "2024-06-24T12:18:54.937Z"
+          },
+          {
+            "length": 39,
+            "date": "2024-06-24T12:19:39.254Z"
+          },
+          {
+            "length": 40,
+            "date": "2024-06-24T12:20:24.181Z"
+          },
+          {
+            "length": 41,
+            "date": "2024-06-24T15:38:04.675Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-06-24T15:38:12.979Z"
+          },
+          {
+            "length": 41,
+            "date": "2024-06-24T15:38:17.154Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-06-24T15:38:40.036Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-06-24T15:39:52.136Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-06-24T15:41:23.593Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-06-24T15:46:49.279Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-06-24T15:46:53.395Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-06-24T15:47:21.809Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-06-24T16:46:42.853Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-06-24T16:46:58.229Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-06-24T16:47:45.869Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-06-24T16:48:02.071Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-06-24T16:49:01.197Z"
+          },
+          {
+            "length": 53,
+            "date": "2024-06-24T16:49:31.708Z"
+          },
+          {
+            "length": 54,
+            "date": "2024-06-24T16:50:01.437Z"
+          },
+          {
+            "length": 55,
+            "date": "2024-06-24T16:50:07.948Z"
+          },
+          {
+            "length": 56,
+            "date": "2024-06-24T16:50:12.365Z"
+          },
+          {
+            "length": 57,
+            "date": "2024-06-24T16:56:18.260Z"
+          },
+          {
+            "length": 58,
+            "date": "2024-06-24T16:57:19.436Z"
+          },
+          {
+            "length": 59,
+            "date": "2024-06-24T16:57:24.924Z"
+          },
+          {
+            "length": 60,
+            "date": "2024-06-24T16:57:29.916Z"
+          },
+          {
+            "length": 61,
+            "date": "2024-06-24T16:59:07.604Z"
+          },
+          {
+            "length": 62,
+            "date": "2024-06-24T16:59:25.916Z"
+          },
+          {
+            "length": 63,
+            "date": "2024-06-24T16:59:31.667Z"
+          },
+          {
+            "length": 64,
+            "date": "2024-06-24T16:59:35.748Z"
+          },
+          {
+            "length": 65,
+            "date": "2024-06-24T17:00:36.741Z"
+          },
+          {
+            "length": 66,
+            "date": "2024-06-24T17:00:40.571Z"
+          },
+          {
+            "length": 67,
+            "date": "2024-06-24T17:01:03.774Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-06-28T14:09:46.638Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-06-28T14:09:50.592Z"
+          },
+          {
+            "length": 70,
+            "date": "2024-06-28T14:10:22.956Z"
+          },
+          {
+            "length": 71,
+            "date": "2024-06-28T14:15:43.224Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-06-28T14:21:54.768Z"
+          },
+          {
+            "length": 73,
+            "date": "2024-06-28T14:22:45.038Z"
+          },
+          {
+            "length": 74,
+            "date": "2024-06-28T14:24:06.365Z"
+          },
+          {
+            "length": 75,
+            "date": "2024-06-28T14:24:37.310Z"
+          },
+          {
+            "length": 76,
+            "date": "2024-06-28T14:25:35.799Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-06-28T14:26:04.293Z"
+          },
+          {
+            "length": 78,
+            "date": "2024-06-28T14:35:25.859Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-06-28T14:36:06.141Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-06-28T14:37:20.283Z"
+          },
+          {
+            "length": 81,
+            "date": "2024-06-28T14:37:28.419Z"
+          },
+          {
+            "length": 82,
+            "date": "2024-06-28T14:38:51.332Z"
+          },
+          {
+            "length": 83,
+            "date": "2024-06-28T14:40:44.452Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-06-28T14:43:10.341Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-06-28T14:45:34.392Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-06-28T14:51:09.014Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-06-28T14:52:51.264Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-06-28T14:52:54.751Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-06-28T14:54:45.600Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-06-28T14:56:04.384Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-06-28T14:56:15.426Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-06-28T14:58:31.529Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-06-28T14:58:40.195Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-06-28T14:58:47.009Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-06-28T15:01:55.873Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-06-28T15:01:58.193Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-06-28T15:02:19.308Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-06-28T15:04:50.949Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-06-28T15:13:21.879Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-06-28T15:34:47.570Z"
+          },
+          {
+            "length": 101,
+            "date": "2024-06-28T15:40:26.881Z"
+          },
+          {
+            "length": 102,
+            "date": "2024-06-28T16:05:38.992Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-06-28T16:05:49.125Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-06-28T16:06:19.312Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-06-28T16:10:29.030Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-06-28T16:10:41.254Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-06-30T18:17:55.409Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-06-30T18:18:01.447Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-06-30T18:18:04.585Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-06-30T18:25:04.467Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-06-30T18:25:10.938Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-06-30T18:25:38.803Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-06-30T18:25:45.677Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-06-30T18:26:18.043Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-06-30T18:26:33.070Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-06-30T18:26:54.132Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-06-30T18:30:18.997Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-06-30T18:30:29.436Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-06-30T18:30:33.218Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-06-30T18:30:46.729Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-06-30T18:30:58.881Z"
+          },
+          {
+            "length": 102,
+            "date": "2024-06-30T18:31:21.644Z"
+          },
+          {
+            "length": 101,
+            "date": "2024-06-30T18:31:24.849Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-06-30T18:31:32.073Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-06-30T18:31:51.602Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-06-30T18:31:57.783Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-06-30T18:32:07.188Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-06-30T18:32:27.083Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-06-30T18:32:48.921Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-06-30T18:33:38.761Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-06-30T18:34:05.857Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-06-30T18:34:10.204Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-06-30T18:34:15.809Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-06-30T18:34:18.777Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-06-30T18:34:20.972Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-06-30T18:34:27.912Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-06-30T18:34:34.737Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-06-30T18:34:39.940Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-06-30T18:34:59.800Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-06-30T18:35:46.753Z"
+          },
+          {
+            "length": 83,
+            "date": "2024-06-30T18:36:01.904Z"
+          },
+          {
+            "length": 82,
+            "date": "2024-06-30T18:38:10.376Z"
+          },
+          {
+            "length": 81,
+            "date": "2024-06-30T18:38:18.959Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-06-30T18:38:25.120Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-06-30T18:38:33.632Z"
+          },
+          {
+            "length": 78,
+            "date": "2024-06-30T18:38:45.448Z"
           }
         ]
       },
@@ -9847,6 +12628,146 @@
           {
             "length": 339,
             "date": "2024-06-19T18:07:57.464Z"
+          },
+          {
+            "length": 338,
+            "date": "2024-06-21T17:22:27.981Z"
+          },
+          {
+            "length": 337,
+            "date": "2024-06-30T18:04:20.984Z"
+          },
+          {
+            "length": 338,
+            "date": "2024-06-30T18:25:38.803Z"
+          },
+          {
+            "length": 339,
+            "date": "2024-06-30T18:25:45.677Z"
+          },
+          {
+            "length": 340,
+            "date": "2024-06-30T18:26:54.132Z"
+          },
+          {
+            "length": 341,
+            "date": "2024-06-30T18:30:18.997Z"
+          },
+          {
+            "length": 342,
+            "date": "2024-06-30T18:30:29.436Z"
+          },
+          {
+            "length": 343,
+            "date": "2024-06-30T18:30:33.218Z"
+          },
+          {
+            "length": 344,
+            "date": "2024-06-30T18:30:46.729Z"
+          },
+          {
+            "length": 345,
+            "date": "2024-06-30T18:30:58.881Z"
+          },
+          {
+            "length": 346,
+            "date": "2024-06-30T18:31:21.644Z"
+          },
+          {
+            "length": 347,
+            "date": "2024-06-30T18:31:24.849Z"
+          },
+          {
+            "length": 348,
+            "date": "2024-06-30T18:31:32.073Z"
+          },
+          {
+            "length": 349,
+            "date": "2024-06-30T18:31:51.602Z"
+          },
+          {
+            "length": 350,
+            "date": "2024-06-30T18:31:57.783Z"
+          },
+          {
+            "length": 351,
+            "date": "2024-06-30T18:32:07.188Z"
+          },
+          {
+            "length": 352,
+            "date": "2024-06-30T18:32:27.083Z"
+          },
+          {
+            "length": 353,
+            "date": "2024-06-30T18:32:48.921Z"
+          },
+          {
+            "length": 354,
+            "date": "2024-06-30T18:33:38.761Z"
+          },
+          {
+            "length": 355,
+            "date": "2024-06-30T18:34:05.857Z"
+          },
+          {
+            "length": 356,
+            "date": "2024-06-30T18:34:10.204Z"
+          },
+          {
+            "length": 357,
+            "date": "2024-06-30T18:34:15.809Z"
+          },
+          {
+            "length": 358,
+            "date": "2024-06-30T18:34:18.777Z"
+          },
+          {
+            "length": 359,
+            "date": "2024-06-30T18:34:20.972Z"
+          },
+          {
+            "length": 360,
+            "date": "2024-06-30T18:34:27.912Z"
+          },
+          {
+            "length": 361,
+            "date": "2024-06-30T18:34:34.737Z"
+          },
+          {
+            "length": 362,
+            "date": "2024-06-30T18:34:39.940Z"
+          },
+          {
+            "length": 363,
+            "date": "2024-06-30T18:34:59.800Z"
+          },
+          {
+            "length": 364,
+            "date": "2024-06-30T18:35:46.753Z"
+          },
+          {
+            "length": 365,
+            "date": "2024-06-30T18:36:01.904Z"
+          },
+          {
+            "length": 366,
+            "date": "2024-06-30T18:38:10.376Z"
+          },
+          {
+            "length": 367,
+            "date": "2024-06-30T18:38:18.959Z"
+          },
+          {
+            "length": 368,
+            "date": "2024-06-30T18:38:25.120Z"
+          },
+          {
+            "length": 369,
+            "date": "2024-06-30T18:38:33.632Z"
+          },
+          {
+            "length": 370,
+            "date": "2024-06-30T18:38:45.448Z"
           }
         ]
       },
