@@ -1,24 +1,24 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 71,
+      "currentCardIndex": 2,
       "currentCardSide": "front",
       "cards": [
-        {
-          "front": {
-            "content": "serein"
-          },
-          "back": {
-            "content": "- [clean/calm]: "
-          }
-        },
         {
           "front": {
             "content": "semer"
           },
           "back": {
             "content": "- [scatter/spread/defuse]: "
+          }
+        },
+        {
+          "front": {
+            "content": "serein"
+          },
+          "back": {
+            "content": "- [clean/calm]: "
           }
         },
         {
@@ -597,8 +597,8 @@
       ]
     },
     {
-      "currentCardIndex": 10,
-      "currentCardSide": "back",
+      "currentCardIndex": 77,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
