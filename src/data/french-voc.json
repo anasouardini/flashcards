@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 2,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -42,7 +42,9 @@
             "content": "rentable"
           },
           "back": {
-            "content": ["- [profitable]: "]
+            "content": [
+              "- [profitable]: "
+            ]
           }
         },
         {
@@ -50,7 +52,9 @@
             "content": "pognon"
           },
           "back": {
-            "content": ["- [money]: "]
+            "content": [
+              "- [money]: "
+            ]
           }
         },
         {
@@ -58,7 +62,9 @@
             "content": "prestataires"
           },
           "back": {
-            "content": ["- [providers]: "]
+            "content": [
+              "- [providers]: "
+            ]
           }
         },
         {
@@ -66,7 +72,9 @@
             "content": "raccorder"
           },
           "back": {
-            "content": ["- [connect]: "]
+            "content": [
+              "- [connect]: "
+            ]
           }
         },
         {
@@ -74,7 +82,9 @@
             "content": "étonnant (adj.)/étonne (v.)"
           },
           "back": {
-            "content": ["- [astonishing/amazing/surprizing]: "]
+            "content": [
+              "- [astonishing/amazing/surprizing]: "
+            ]
           }
         },
         {
@@ -82,7 +92,9 @@
             "content": "affoler"
           },
           "back": {
-            "content": ["- [panic]: "]
+            "content": [
+              "- [panic]: "
+            ]
           }
         },
         {
@@ -100,7 +112,9 @@
             "content": "sable"
           },
           "back": {
-            "content": ["- [sand]: "]
+            "content": [
+              "- [sand]: "
+            ]
           }
         },
         {
@@ -108,7 +122,9 @@
             "content": "épaisseu/épais"
           },
           "back": {
-            "content": ["- [thickness/thick]: "]
+            "content": [
+              "- [thickness/thick]: "
+            ]
           }
         },
         {
@@ -116,7 +132,9 @@
             "content": "affinage"
           },
           "back": {
-            "content": ["- [refining/ameliorating]: "]
+            "content": [
+              "- [refining/ameliorating]: "
+            ]
           }
         },
         {
@@ -124,7 +142,9 @@
             "content": "potable"
           },
           "back": {
-            "content": ["- [drinkable]: "]
+            "content": [
+              "- [drinkable]: "
+            ]
           }
         },
         {
@@ -140,7 +160,9 @@
             "content": "solliciter"
           },
           "back": {
-            "content": ["- [to request]: "]
+            "content": [
+              "- [to request]: "
+            ]
           }
         },
         {
@@ -148,7 +170,9 @@
             "content": "enfermer"
           },
           "back": {
-            "content": ["- [lock up]: "]
+            "content": [
+              "- [lock up]: "
+            ]
           }
         },
         {
@@ -156,7 +180,9 @@
             "content": "surdoué"
           },
           "back": {
-            "content": ["- [gifted]: "]
+            "content": [
+              "- [gifted]: "
+            ]
           }
         },
         {
@@ -175,7 +201,9 @@
             "content": "renversement"
           },
           "back": {
-            "content": ["- [reversal]: "]
+            "content": [
+              "- [reversal]: "
+            ]
           }
         },
         {
@@ -193,7 +221,9 @@
             "content": "douter/dout"
           },
           "back": {
-            "content": ["- [to doubt/doubt]: "]
+            "content": [
+              "- [to doubt/doubt]: "
+            ]
           }
         },
         {
@@ -211,7 +241,9 @@
             "content": "survenant"
           },
           "back": {
-            "content": ["- [occuring]: "]
+            "content": [
+              "- [occuring]: "
+            ]
           }
         },
         {
@@ -219,7 +251,9 @@
             "content": "entente"
           },
           "back": {
-            "content": ["- [agreement/harmony]: "]
+            "content": [
+              "- [agreement/harmony]: "
+            ]
           }
         },
         {
@@ -227,7 +261,9 @@
             "content": "végétaux"
           },
           "back": {
-            "content": ["- [plants]: "]
+            "content": [
+              "- [plants]: "
+            ]
           }
         },
         {
@@ -235,7 +271,9 @@
             "content": "méconnu"
           },
           "back": {
-            "content": ["- [unknown]: "]
+            "content": [
+              "- [unknown]: "
+            ]
           }
         },
         {
@@ -243,7 +281,9 @@
             "content": "déroutant"
           },
           "back": {
-            "content": ["- [confusing]: "]
+            "content": [
+              "- [confusing]: "
+            ]
           }
         },
         {
@@ -251,7 +291,9 @@
             "content": "pourtant"
           },
           "back": {
-            "content": ["- [yet/however]: "]
+            "content": [
+              "- [yet/however]: "
+            ]
           }
         },
         {
@@ -259,7 +301,9 @@
             "content": "davantage"
           },
           "back": {
-            "content": ["- [more/further]: "]
+            "content": [
+              "- [more/further]: "
+            ]
           }
         },
         {
@@ -267,7 +311,9 @@
             "content": "mouillé"
           },
           "back": {
-            "content": ["- [wet]: "]
+            "content": [
+              "- [wet]: "
+            ]
           }
         },
         {
@@ -275,7 +321,9 @@
             "content": "retenir"
           },
           "back": {
-            "content": ["- [keep/keep in mind]: "]
+            "content": [
+              "- [keep/keep in mind]: "
+            ]
           }
         },
         {
@@ -283,7 +331,9 @@
             "content": "ressent"
           },
           "back": {
-            "content": ["- [feel]: "]
+            "content": [
+              "- [feel]: "
+            ]
           }
         },
         {
@@ -291,7 +341,10 @@
             "content": "fin"
           },
           "back": {
-            "content": ["- [thin]: ", "- [end]: "]
+            "content": [
+              "- [thin]: ",
+              "- [end]: "
+            ]
           }
         },
         {
@@ -299,7 +352,9 @@
             "content": "croissance"
           },
           "back": {
-            "content": ["- [growth]: "]
+            "content": [
+              "- [growth]: "
+            ]
           }
         },
         {
@@ -307,7 +362,9 @@
             "content": "pire"
           },
           "back": {
-            "content": ["- [worse]: "]
+            "content": [
+              "- [worse]: "
+            ]
           }
         },
         {
@@ -315,7 +372,9 @@
             "content": "défi"
           },
           "back": {
-            "content": ["- [challenge]: "]
+            "content": [
+              "- [challenge]: "
+            ]
           }
         },
         {
@@ -323,7 +382,9 @@
             "content": "vigueur"
           },
           "back": {
-            "content": ["- [strength]: "]
+            "content": [
+              "- [strength]: "
+            ]
           }
         },
         {
@@ -331,7 +392,9 @@
             "content": "pénible"
           },
           "back": {
-            "content": ["- [difficult/hard]: "]
+            "content": [
+              "- [difficult/hard]: "
+            ]
           }
         },
         {
@@ -339,7 +402,9 @@
             "content": "surveillés"
           },
           "back": {
-            "content": ["- [monitored]: "]
+            "content": [
+              "- [monitored]: "
+            ]
           }
         },
         {
@@ -347,7 +412,9 @@
             "content": "flux"
           },
           "back": {
-            "content": ["- [stream/flow]: "]
+            "content": [
+              "- [stream/flow]: "
+            ]
           }
         },
         {
@@ -355,7 +422,10 @@
             "content": "veiller"
           },
           "back": {
-            "content": ["- [stay awake]: ", "- [watch]: "]
+            "content": [
+              "- [stay awake]: ",
+              "- [watch]: "
+            ]
           }
         },
         {
@@ -363,7 +433,10 @@
             "content": "caisse"
           },
           "back": {
-            "content": ["- [box]: ", "- [cash register]: "]
+            "content": [
+              "- [box]: ",
+              "- [cash register]: "
+            ]
           }
         },
         {
@@ -371,7 +444,9 @@
             "content": "assure"
           },
           "back": {
-            "content": ["- [make sure]: "]
+            "content": [
+              "- [make sure]: "
+            ]
           }
         },
         {
@@ -379,7 +454,11 @@
             "content": "expédié"
           },
           "back": {
-            "content": ["- [send]: ", "- [dispatch]: ", "- [hurry]: "]
+            "content": [
+              "- [send]: ",
+              "- [dispatch]: ",
+              "- [hurry]: "
+            ]
           }
         },
         {
@@ -387,7 +466,9 @@
             "content": "traiter"
           },
           "back": {
-            "content": ["- [treat]: "]
+            "content": [
+              "- [treat]: "
+            ]
           }
         },
         {
@@ -395,7 +476,9 @@
             "content": "saturé"
           },
           "back": {
-            "content": ["- [saturated]: "]
+            "content": [
+              "- [saturated]: "
+            ]
           }
         },
         {
@@ -403,7 +486,9 @@
             "content": "décidé"
           },
           "back": {
-            "content": ["- [decided]: "]
+            "content": [
+              "- [decided]: "
+            ]
           }
         },
         {
@@ -421,7 +506,9 @@
             "content": "la lacune"
           },
           "back": {
-            "content": ["- [shortcomings]: "]
+            "content": [
+              "- [shortcomings]: "
+            ]
           }
         },
         {
@@ -429,7 +516,9 @@
             "content": "sommairement"
           },
           "back": {
-            "content": ["- [briefly/summarily]: "]
+            "content": [
+              "- [briefly/summarily]: "
+            ]
           }
         },
         {
@@ -437,7 +526,9 @@
             "content": "outre"
           },
           "back": {
-            "content": ["- [besides]: "]
+            "content": [
+              "- [besides]: "
+            ]
           }
         },
         {
@@ -445,7 +536,9 @@
             "content": "carrément"
           },
           "back": {
-            "content": ["- [totally/really]: "]
+            "content": [
+              "- [totally/really]: "
+            ]
           }
         },
         {
@@ -453,7 +546,9 @@
             "content": "le sommeil"
           },
           "back": {
-            "content": ["- [sleep]: rattraper mon sommeil : catch my sleep"]
+            "content": [
+              "- [sleep]: rattraper mon sommeil : catch my sleep"
+            ]
           }
         },
         {
@@ -461,7 +556,9 @@
             "content": "allonger"
           },
           "back": {
-            "content": ["- [lengthen]: "]
+            "content": [
+              "- [lengthen]: "
+            ]
           }
         },
         {
@@ -469,7 +566,9 @@
             "content": "siest"
           },
           "back": {
-            "content": ["- [nap]: "]
+            "content": [
+              "- [nap]: "
+            ]
           }
         },
         {
@@ -477,7 +576,9 @@
             "content": "affronte"
           },
           "back": {
-            "content": ["- [confront]: "]
+            "content": [
+              "- [confront]: "
+            ]
           }
         },
         {
@@ -485,7 +586,9 @@
             "content": "rappeler"
           },
           "back": {
-            "content": ["- [to remind]: "]
+            "content": [
+              "- [to remind]: "
+            ]
           }
         },
         {
@@ -493,7 +596,9 @@
             "content": "concours"
           },
           "back": {
-            "content": ["- [competitive exam]: "]
+            "content": [
+              "- [competitive exam]: "
+            ]
           }
         },
         {
@@ -501,7 +606,9 @@
             "content": "oblige"
           },
           "back": {
-            "content": ["- [dectate/necessitate]: "]
+            "content": [
+              "- [dectate/necessitate]: "
+            ]
           }
         },
         {
@@ -509,7 +616,9 @@
             "content": "anticiper"
           },
           "back": {
-            "content": ["- [anticipate]: "]
+            "content": [
+              "- [anticipate]: "
+            ]
           }
         },
         {
@@ -527,7 +636,9 @@
             "content": "tentative"
           },
           "back": {
-            "content": ["- [attempt]: "]
+            "content": [
+              "- [attempt]: "
+            ]
           }
         },
         {
@@ -535,7 +646,9 @@
             "content": "repousser"
           },
           "back": {
-            "content": ["- [grow back]: "]
+            "content": [
+              "- [grow back]: "
+            ]
           }
         },
         {
@@ -543,7 +656,9 @@
             "content": "géant"
           },
           "back": {
-            "content": ["- [giant]: "]
+            "content": [
+              "- [giant]: "
+            ]
           }
         },
         {
@@ -551,7 +666,10 @@
             "content": "tromperie/trompe"
           },
           "back": {
-            "content": ["- [deception]", "- [deceive/mislead]"]
+            "content": [
+              "- [deception]",
+              "- [deceive/mislead]"
+            ]
           }
         },
         {
@@ -559,7 +677,9 @@
             "content": "surpuissante"
           },
           "back": {
-            "content": ["- [overpowered]: "]
+            "content": [
+              "- [overpowered]: "
+            ]
           }
         },
         {
@@ -567,7 +687,9 @@
             "content": "intérêt (n.)"
           },
           "back": {
-            "content": ["- [interest]: "]
+            "content": [
+              "- [interest]: "
+            ]
           }
         },
         {
@@ -575,7 +697,9 @@
             "content": "prolonger"
           },
           "back": {
-            "content": ["- [extend]: "]
+            "content": [
+              "- [extend]: "
+            ]
           }
         },
         {
@@ -583,7 +707,9 @@
             "content": "coeur"
           },
           "back": {
-            "content": ["- [heart]: "]
+            "content": [
+              "- [heart]: "
+            ]
           }
         },
         {
@@ -591,7 +717,9 @@
             "content": "liberté"
           },
           "back": {
-            "content": ["- [freedom]: "]
+            "content": [
+              "- [freedom]: "
+            ]
           }
         }
       ]
@@ -615,7 +743,9 @@
             "content": " renvoie"
           },
           "back": {
-            "content": ["- [refers]"]
+            "content": [
+              "- [refers]"
+            ]
           }
         },
         {
@@ -623,7 +753,9 @@
             "content": " concevoir"
           },
           "back": {
-            "content": ["- [plan]"]
+            "content": [
+              "- [plan]"
+            ]
           }
         },
         {
@@ -631,7 +763,10 @@
             "content": "porter"
           },
           "back": {
-            "content": ["- [carry]: ", "- [wear]: "]
+            "content": [
+              "- [carry]: ",
+              "- [wear]: "
+            ]
           }
         },
         {
@@ -639,7 +774,9 @@
             "content": " s'embouiller - 11-05-24"
           },
           "back": {
-            "content": ["- [be-confused]"]
+            "content": [
+              "- [be-confused]"
+            ]
           }
         },
         {
@@ -647,7 +784,10 @@
             "content": " débarquer"
           },
           "back": {
-            "content": ["- [not be up to speed]", "- [land]"]
+            "content": [
+              "- [not be up to speed]",
+              "- [land]"
+            ]
           }
         },
         {
@@ -663,7 +803,9 @@
             "content": "sein"
           },
           "back": {
-            "content": ["- [breast/heart/center]: "]
+            "content": [
+              "- [breast/heart/center]: "
+            ]
           }
         },
         {
@@ -671,7 +813,9 @@
             "content": "levée"
           },
           "back": {
-            "content": ["- [lifting/raising]: "]
+            "content": [
+              "- [lifting/raising]: "
+            ]
           }
         },
         {
@@ -679,7 +823,9 @@
             "content": "instants"
           },
           "back": {
-            "content": ["- [moments]: "]
+            "content": [
+              "- [moments]: "
+            ]
           }
         },
         {
@@ -687,7 +833,9 @@
             "content": "inhérent"
           },
           "back": {
-            "content": ["- [inherent]: li veut dire que il est inséparable"]
+            "content": [
+              "- [inherent]: li veut dire que il est inséparable"
+            ]
           }
         },
         {
@@ -695,7 +843,9 @@
             "content": "côté"
           },
           "back": {
-            "content": ["- [side]: "]
+            "content": [
+              "- [side]: "
+            ]
           }
         },
         {
@@ -703,7 +853,9 @@
             "content": "discuter"
           },
           "back": {
-            "content": ["- [discuss]: "]
+            "content": [
+              "- [discuss]: "
+            ]
           }
         },
         {
@@ -711,7 +863,9 @@
             "content": "la hydratation"
           },
           "back": {
-            "content": ["- [hydration]: "]
+            "content": [
+              "- [hydration]: "
+            ]
           }
         },
         {
@@ -719,7 +873,9 @@
             "content": "claire"
           },
           "back": {
-            "content": ["- [clear]: "]
+            "content": [
+              "- [clear]: "
+            ]
           }
         },
         {
@@ -727,7 +883,9 @@
             "content": "propre"
           },
           "back": {
-            "content": ["- [clean]: "]
+            "content": [
+              "- [clean]: "
+            ]
           }
         },
         {
@@ -735,7 +893,9 @@
             "content": "honnêtement"
           },
           "back": {
-            "content": ["- [honestly]: "]
+            "content": [
+              "- [honestly]: "
+            ]
           }
         },
         {
@@ -743,7 +903,9 @@
             "content": "échantillon"
           },
           "back": {
-            "content": ["- [sample]: "]
+            "content": [
+              "- [sample]: "
+            ]
           }
         },
         {
@@ -751,7 +913,9 @@
             "content": "envisager"
           },
           "back": {
-            "content": ["- [consider]: "]
+            "content": [
+              "- [consider]: "
+            ]
           }
         },
         {
@@ -759,7 +923,9 @@
             "content": "occasion"
           },
           "back": {
-            "content": ["- [occasion]: "]
+            "content": [
+              "- [occasion]: "
+            ]
           }
         },
         {
@@ -767,7 +933,9 @@
             "content": "bouteille"
           },
           "back": {
-            "content": ["- [bottle]: "]
+            "content": [
+              "- [bottle]: "
+            ]
           }
         },
         {
@@ -775,7 +943,9 @@
             "content": "goût"
           },
           "back": {
-            "content": ["- [taste]: "]
+            "content": [
+              "- [taste]: "
+            ]
           }
         },
         {
@@ -783,7 +953,9 @@
             "content": "indispensable"
           },
           "back": {
-            "content": ["- [indispensable]: "]
+            "content": [
+              "- [indispensable]: "
+            ]
           }
         },
         {
@@ -791,7 +963,9 @@
             "content": "soif"
           },
           "back": {
-            "content": ["- [thirsty]: "]
+            "content": [
+              "- [thirsty]: "
+            ]
           }
         },
         {
@@ -799,7 +973,9 @@
             "content": "suffisamment"
           },
           "back": {
-            "content": ["- [sufficiently]: "]
+            "content": [
+              "- [sufficiently]: "
+            ]
           }
         },
         {
@@ -807,7 +983,9 @@
             "content": "bête"
           },
           "back": {
-            "content": ["- [stupid]: "]
+            "content": [
+              "- [stupid]: "
+            ]
           }
         },
         {
@@ -815,7 +993,9 @@
             "content": "manuel"
           },
           "back": {
-            "content": ["- [manual]: "]
+            "content": [
+              "- [manual]: "
+            ]
           }
         },
         {
@@ -823,7 +1003,9 @@
             "content": "robinet"
           },
           "back": {
-            "content": ["- [faucet]: "]
+            "content": [
+              "- [faucet]: "
+            ]
           }
         },
         {
@@ -831,7 +1013,9 @@
             "content": "maintenir"
           },
           "back": {
-            "content": ["- [maintain]: "]
+            "content": [
+              "- [maintain]: "
+            ]
           }
         },
         {
@@ -839,7 +1023,9 @@
             "content": "distribué"
           },
           "back": {
-            "content": ["- [distributed]: "]
+            "content": [
+              "- [distributed]: "
+            ]
           }
         },
         {
@@ -847,7 +1033,9 @@
             "content": "histoire"
           },
           "back": {
-            "content": ["- [story/history]: "]
+            "content": [
+              "- [story/history]: "
+            ]
           }
         },
         {
@@ -855,7 +1043,9 @@
             "content": "réciter"
           },
           "back": {
-            "content": ["- [recite]: "]
+            "content": [
+              "- [recite]: "
+            ]
           }
         },
         {
@@ -863,7 +1053,9 @@
             "content": "chute"
           },
           "back": {
-            "content": ["- [fall/chute]: "]
+            "content": [
+              "- [fall/chute]: "
+            ]
           }
         },
         {
@@ -871,7 +1063,9 @@
             "content": "anodin"
           },
           "back": {
-            "content": ["- [trivial/insignificant]:"]
+            "content": [
+              "- [trivial/insignificant]:"
+            ]
           }
         },
         {
@@ -879,7 +1073,9 @@
             "content": "concluant"
           },
           "back": {
-            "content": ["- [conclusive]"]
+            "content": [
+              "- [conclusive]"
+            ]
           }
         },
         {
@@ -967,7 +1163,9 @@
             "content": "fournisseur"
           },
           "back": {
-            "content": ["- [furnisher/supplier]: "]
+            "content": [
+              "- [furnisher/supplier]: "
+            ]
           }
         },
         {
@@ -975,7 +1173,10 @@
             "content": "fournir"
           },
           "back": {
-            "content": ["- [provide/supply]: ", "- [full/complete]: "]
+            "content": [
+              "- [provide/supply]: ",
+              "- [full/complete]: "
+            ]
           }
         },
         {
@@ -983,7 +1184,9 @@
             "content": "fluidité"
           },
           "back": {
-            "content": ["- [fluidity]: "]
+            "content": [
+              "- [fluidity]: "
+            ]
           }
         },
         {
@@ -991,7 +1194,9 @@
             "content": "reproductible"
           },
           "back": {
-            "content": ["- [reproducible]: "]
+            "content": [
+              "- [reproducible]: "
+            ]
           }
         },
         {
@@ -999,7 +1204,9 @@
             "content": "dépôt"
           },
           "back": {
-            "content": ["- [safe-keeping/warehouse]: "]
+            "content": [
+              "- [safe-keeping/warehouse]: "
+            ]
           }
         },
         {
@@ -1007,7 +1214,9 @@
             "content": "aveugle"
           },
           "back": {
-            "content": ["- [blind]: "]
+            "content": [
+              "- [blind]: "
+            ]
           }
         },
         {
@@ -1025,7 +1234,9 @@
             "content": "jus"
           },
           "back": {
-            "content": ["- [juice]: "]
+            "content": [
+              "- [juice]: "
+            ]
           }
         },
         {
@@ -1033,7 +1244,9 @@
             "content": "alterne (v.)"
           },
           "back": {
-            "content": ["- [alternate]: "]
+            "content": [
+              "- [alternate]: "
+            ]
           }
         },
         {
@@ -1041,7 +1254,10 @@
             "content": "goûter (v./n.)"
           },
           "back": {
-            "content": ["- [to taste]: ", "- [snack]: "]
+            "content": [
+              "- [to taste]: ",
+              "- [snack]: "
+            ]
           }
         },
         {
@@ -1049,7 +1265,9 @@
             "content": "déchets"
           },
           "back": {
-            "content": ["- [trash/wastes]: "]
+            "content": [
+              "- [trash/wastes]: "
+            ]
           }
         },
         {
@@ -1057,7 +1275,11 @@
             "content": "verser"
           },
           "back": {
-            "content": ["- [pour]: ", "- [deposit]: ", "- [tranfer]: "]
+            "content": [
+              "- [pour]: ",
+              "- [deposit]: ",
+              "- [tranfer]: "
+            ]
           }
         },
         {
@@ -1065,7 +1287,9 @@
             "content": "polluer"
           },
           "back": {
-            "content": ["- [polute]: "]
+            "content": [
+              "- [polute]: "
+            ]
           }
         },
         {
@@ -1073,7 +1297,9 @@
             "content": "révéler"
           },
           "back": {
-            "content": ["- [reveal]: "]
+            "content": [
+              "- [reveal]: "
+            ]
           }
         },
         {
@@ -1081,7 +1307,9 @@
             "content": "transpire"
           },
           "back": {
-            "content": ["- [sweat]: "]
+            "content": [
+              "- [sweat]: "
+            ]
           }
         },
         {
@@ -1089,7 +1317,9 @@
             "content": "foncée"
           },
           "back": {
-            "content": ["- [dark]: "]
+            "content": [
+              "- [dark]: "
+            ]
           }
         },
         {
@@ -1097,7 +1327,9 @@
             "content": "dilution"
           },
           "back": {
-            "content": ["- [dilution]: "]
+            "content": [
+              "- [dilution]: "
+            ]
           }
         },
         {
@@ -1115,7 +1347,9 @@
             "content": "espoir"
           },
           "back": {
-            "content": ["- [hope]: "]
+            "content": [
+              "- [hope]: "
+            ]
           }
         },
         {
@@ -1123,7 +1357,9 @@
             "content": "lapsus"
           },
           "back": {
-            "content": ["- [slip of tongue]: "]
+            "content": [
+              "- [slip of tongue]: "
+            ]
           }
         },
         {
@@ -1131,7 +1367,9 @@
             "content": "taux"
           },
           "back": {
-            "content": ["- [rate]: "]
+            "content": [
+              "- [rate]: "
+            ]
           }
         },
         {
@@ -1139,7 +1377,10 @@
             "content": "rapport"
           },
           "back": {
-            "content": ["- [report]: ", "- [ratio]: "]
+            "content": [
+              "- [report]: ",
+              "- [ratio]: "
+            ]
           }
         },
         {
@@ -1147,7 +1388,9 @@
             "content": "rosée"
           },
           "back": {
-            "content": ["- [dew]: "]
+            "content": [
+              "- [dew]: "
+            ]
           }
         },
         {
@@ -1155,7 +1398,9 @@
             "content": "sol"
           },
           "back": {
-            "content": ["- [ground/soile/earth]: "]
+            "content": [
+              "- [ground/soile/earth]: "
+            ]
           }
         },
         {
@@ -1163,7 +1408,9 @@
             "content": "dépend"
           },
           "back": {
-            "content": ["- [depends]: "]
+            "content": [
+              "- [depends]: "
+            ]
           }
         },
         {
@@ -1171,7 +1418,9 @@
             "content": "se couche"
           },
           "back": {
-            "content": ["- [goes to bed]: "]
+            "content": [
+              "- [goes to bed]: "
+            ]
           }
         },
         {
@@ -1195,7 +1444,9 @@
             "content": "se vaut"
           },
           "back": {
-            "content": ["- [worth]: "]
+            "content": [
+              "- [worth]: "
+            ]
           }
         },
         {
@@ -1203,7 +1454,9 @@
             "content": "conçus"
           },
           "back": {
-            "content": ["- [designed]: "]
+            "content": [
+              "- [designed]: "
+            ]
           }
         },
         {
@@ -1211,7 +1464,9 @@
             "content": "préalable"
           },
           "back": {
-            "content": ["- [prior]: "]
+            "content": [
+              "- [prior]: "
+            ]
           }
         },
         {
@@ -1219,7 +1474,9 @@
             "content": "aiguiller"
           },
           "back": {
-            "content": ["- [steer/guide]: "]
+            "content": [
+              "- [steer/guide]: "
+            ]
           }
         },
         {
@@ -1227,7 +1484,10 @@
             "content": " puisqu"
           },
           "back": {
-            "content": ["- [since]", "- [because]"]
+            "content": [
+              "- [since]",
+              "- [because]"
+            ]
           }
         }
       ]
@@ -1241,7 +1501,9 @@
             "content": " ravager"
           },
           "back": {
-            "content": ["- [destroy/ruin]"]
+            "content": [
+              "- [destroy/ruin]"
+            ]
           }
         },
         {
@@ -1259,7 +1521,10 @@
             "content": " vertu"
           },
           "back": {
-            "content": ["- [vertu]", "- [property]"]
+            "content": [
+              "- [vertu]",
+              "- [property]"
+            ]
           }
         },
         {
@@ -1267,7 +1532,9 @@
             "content": " arrondis"
           },
           "back": {
-            "content": ["- [round]"]
+            "content": [
+              "- [round]"
+            ]
           }
         },
         {
@@ -1288,7 +1555,9 @@
             "content": " cumul"
           },
           "back": {
-            "content": ["- [accumulation]"]
+            "content": [
+              "- [accumulation]"
+            ]
           }
         },
         {
@@ -1296,7 +1565,9 @@
             "content": " chouette"
           },
           "back": {
-            "content": ["- [nice/neat]"]
+            "content": [
+              "- [nice/neat]"
+            ]
           }
         },
         {
@@ -1304,7 +1575,9 @@
             "content": " dénonciation"
           },
           "back": {
-            "content": ["- [denunciation (not being accepted socially)]:"]
+            "content": [
+              "- [denunciation (not being accepted socially)]:"
+            ]
           }
         },
         {
@@ -1312,7 +1585,9 @@
             "content": " citation"
           },
           "back": {
-            "content": ["- [quotation]"]
+            "content": [
+              "- [quotation]"
+            ]
           }
         },
         {
@@ -1320,7 +1595,9 @@
             "content": " reboucher"
           },
           "back": {
-            "content": ["- [fill]"]
+            "content": [
+              "- [fill]"
+            ]
           }
         },
         {
@@ -1328,7 +1605,9 @@
             "content": " renseigné"
           },
           "back": {
-            "content": ["- [informed]"]
+            "content": [
+              "- [informed]"
+            ]
           }
         },
         {
@@ -1336,7 +1615,10 @@
             "content": " bout"
           },
           "back": {
-            "content": ["- [end/tip (of an object)]", "- [tip (a little)]"]
+            "content": [
+              "- [end/tip (of an object)]",
+              "- [tip (a little)]"
+            ]
           }
         },
         {
@@ -1344,7 +1626,9 @@
             "content": " licencier/virer/renvoyer"
           },
           "back": {
-            "content": ["- [fire/expell]"]
+            "content": [
+              "- [fire/expell]"
+            ]
           }
         },
         {
@@ -1352,7 +1636,9 @@
             "content": " attraper"
           },
           "back": {
-            "content": ["- [catch]"]
+            "content": [
+              "- [catch]"
+            ]
           }
         },
         {
@@ -1360,7 +1646,9 @@
             "content": " rattraper"
           },
           "back": {
-            "content": ["- [catch-up]"]
+            "content": [
+              "- [catch-up]"
+            ]
           }
         },
         {
@@ -1368,7 +1656,9 @@
             "content": " paresseu"
           },
           "back": {
-            "content": ["- [lazy]"]
+            "content": [
+              "- [lazy]"
+            ]
           }
         },
         {
@@ -1386,7 +1676,9 @@
             "content": "déception/déçu"
           },
           "back": {
-            "content": ["- [dissapointment/-ed]"]
+            "content": [
+              "- [dissapointment/-ed]"
+            ]
           }
         },
         {
@@ -1404,7 +1696,9 @@
             "content": "épreuve"
           },
           "back": {
-            "content": ["- [test]:"]
+            "content": [
+              "- [test]:"
+            ]
           }
         },
         {
@@ -1412,7 +1706,9 @@
             "content": " créer"
           },
           "back": {
-            "content": ["- [create]"]
+            "content": [
+              "- [create]"
+            ]
           }
         },
         {
@@ -1420,7 +1716,9 @@
             "content": " chouraver - 27-04-24"
           },
           "back": {
-            "content": ["- [steal]"]
+            "content": [
+              "- [steal]"
+            ]
           }
         },
         {
@@ -1428,7 +1726,9 @@
             "content": " Reconnaître - 29-04-24"
           },
           "back": {
-            "content": ["- [recognize]"]
+            "content": [
+              "- [recognize]"
+            ]
           }
         },
         {
@@ -1436,7 +1736,9 @@
             "content": "chier"
           },
           "back": {
-            "content": ["- [shitting]"]
+            "content": [
+              "- [shitting]"
+            ]
           }
         },
         {
@@ -1444,7 +1746,9 @@
             "content": "gratter"
           },
           "back": {
-            "content": ["- [scratch/scrape/scrub]:"]
+            "content": [
+              "- [scratch/scrape/scrub]:"
+            ]
           }
         },
         {
@@ -1452,7 +1756,9 @@
             "content": "cible"
           },
           "back": {
-            "content": ["- [target]:"]
+            "content": [
+              "- [target]:"
+            ]
           }
         },
         {
@@ -1460,7 +1766,9 @@
             "content": " néfaste"
           },
           "back": {
-            "content": ["- [negative]"]
+            "content": [
+              "- [negative]"
+            ]
           }
         },
         {
@@ -1468,7 +1776,9 @@
             "content": "obsédés"
           },
           "back": {
-            "content": ["- [obessed]"]
+            "content": [
+              "- [obessed]"
+            ]
           }
         },
         {
@@ -1476,7 +1786,9 @@
             "content": "bouger"
           },
           "back": {
-            "content": ["- [move]"]
+            "content": [
+              "- [move]"
+            ]
           }
         },
         {
@@ -1484,7 +1796,9 @@
             "content": "brûler"
           },
           "back": {
-            "content": ["- [burn]"]
+            "content": [
+              "- [burn]"
+            ]
           }
         },
         {
@@ -1492,7 +1806,9 @@
             "content": "fainéant"
           },
           "back": {
-            "content": ["- [lazy]"]
+            "content": [
+              "- [lazy]"
+            ]
           }
         },
         {
@@ -1500,7 +1816,9 @@
             "content": "dur"
           },
           "back": {
-            "content": ["- [hard]"]
+            "content": [
+              "- [hard]"
+            ]
           }
         },
         {
@@ -1508,7 +1826,9 @@
             "content": "débarrasser"
           },
           "back": {
-            "content": ["- [rid (get rid of something annoying)]"]
+            "content": [
+              "- [rid (get rid of something annoying)]"
+            ]
           }
         },
         {
@@ -1516,7 +1836,10 @@
             "content": "démesuré"
           },
           "back": {
-            "content": ["- [inflated]", "- [excessive]"]
+            "content": [
+              "- [inflated]",
+              "- [excessive]"
+            ]
           }
         },
         {
@@ -1524,7 +1847,9 @@
             "content": "surplus"
           },
           "back": {
-            "content": ["- [surplus]"]
+            "content": [
+              "- [surplus]"
+            ]
           }
         },
         {
@@ -1554,7 +1879,9 @@
             "content": " 78. an - 19-4-24"
           },
           "back": {
-            "content": ["- [year]"]
+            "content": [
+              "- [year]"
+            ]
           }
         },
         {
@@ -1572,7 +1899,9 @@
             "content": " paix"
           },
           "back": {
-            "content": ["- [piece]"]
+            "content": [
+              "- [piece]"
+            ]
           }
         },
         {
@@ -1580,7 +1909,9 @@
             "content": " loyer"
           },
           "back": {
-            "content": ["- [rent]: ils louent des appartement"]
+            "content": [
+              "- [rent]: ils louent des appartement"
+            ]
           }
         },
         {
@@ -1588,7 +1919,9 @@
             "content": " souvent"
           },
           "back": {
-            "content": ["- [often]"]
+            "content": [
+              "- [often]"
+            ]
           }
         },
         {
@@ -1596,7 +1929,9 @@
             "content": " ralentir"
           },
           "back": {
-            "content": ["- [to slow]"]
+            "content": [
+              "- [to slow]"
+            ]
           }
         },
         {
@@ -1604,7 +1939,9 @@
             "content": " manquer"
           },
           "back": {
-            "content": ["- [miss/lack]"]
+            "content": [
+              "- [miss/lack]"
+            ]
           }
         },
         {
@@ -1612,7 +1949,9 @@
             "content": " régulièrement"
           },
           "back": {
-            "content": ["- [regularly]"]
+            "content": [
+              "- [regularly]"
+            ]
           }
         },
         {
@@ -1620,7 +1959,10 @@
             "content": " approch - 26-4-24"
           },
           "back": {
-            "content": ["- [approach]", "- [close]"]
+            "content": [
+              "- [approach]",
+              "- [close]"
+            ]
           }
         },
         {
@@ -1628,7 +1970,10 @@
             "content": " résoudre"
           },
           "back": {
-            "content": ["- [solve]", "- [resolve]"]
+            "content": [
+              "- [solve]",
+              "- [resolve]"
+            ]
           }
         },
         {
@@ -1646,7 +1991,9 @@
             "content": " savoir-faire"
           },
           "back": {
-            "content": ["- [know-how]"]
+            "content": [
+              "- [know-how]"
+            ]
           }
         },
         {
@@ -1654,7 +2001,9 @@
             "content": " véritables"
           },
           "back": {
-            "content": ["- [real]"]
+            "content": [
+              "- [real]"
+            ]
           }
         },
         {
@@ -1662,7 +2011,9 @@
             "content": " peut-être"
           },
           "back": {
-            "content": ["- [maybe]"]
+            "content": [
+              "- [maybe]"
+            ]
           }
         },
         {
@@ -1670,7 +2021,9 @@
             "content": " délais"
           },
           "back": {
-            "content": ["- [delay]"]
+            "content": [
+              "- [delay]"
+            ]
           }
         },
         {
@@ -1678,7 +2031,9 @@
             "content": " réfléchir"
           },
           "back": {
-            "content": ["- [reflect(on-idea)]: réfléchir a` des idées"]
+            "content": [
+              "- [reflect(on-idea)]: réfléchir a` des idées"
+            ]
           }
         },
         {
@@ -1686,7 +2041,9 @@
             "content": " augmenter"
           },
           "back": {
-            "content": ["- [increase]"]
+            "content": [
+              "- [increase]"
+            ]
           }
         },
         {
@@ -1694,7 +2051,9 @@
             "content": " ressentiment"
           },
           "back": {
-            "content": ["- [dislike]"]
+            "content": [
+              "- [dislike]"
+            ]
           }
         },
         {
@@ -1712,7 +2071,9 @@
             "content": " servir"
           },
           "back": {
-            "content": ["- [to-serve]"]
+            "content": [
+              "- [to-serve]"
+            ]
           }
         },
         {
@@ -1720,7 +2081,9 @@
             "content": " vachement"
           },
           "back": {
-            "content": ["- [really]"]
+            "content": [
+              "- [really]"
+            ]
           }
         },
         {
@@ -1728,7 +2091,9 @@
             "content": " autant-que/aussi-que"
           },
           "back": {
-            "content": ["- [as-much-as]"]
+            "content": [
+              "- [as-much-as]"
+            ]
           }
         },
         {
@@ -1784,7 +2149,10 @@
             "content": " e'dition"
           },
           "back": {
-            "content": ["- [publishing]", "- [editting]"]
+            "content": [
+              "- [publishing]",
+              "- [editting]"
+            ]
           }
         },
         {
@@ -1792,7 +2160,9 @@
             "content": " montre"
           },
           "back": {
-            "content": ["- [show]"]
+            "content": [
+              "- [show]"
+            ]
           }
         },
         {
@@ -1800,7 +2170,9 @@
             "content": " chamaillent"
           },
           "back": {
-            "content": ["- [bicker(fight over nothing)]:"]
+            "content": [
+              "- [bicker(fight over nothing)]:"
+            ]
           }
         },
         {
@@ -1808,7 +2180,9 @@
             "content": " voyou"
           },
           "back": {
-            "content": ["- [bandit]"]
+            "content": [
+              "- [bandit]"
+            ]
           }
         },
         {
@@ -1816,7 +2190,9 @@
             "content": " desservir - 25-04-24"
           },
           "back": {
-            "content": ["- [to-disserve]"]
+            "content": [
+              "- [to-disserve]"
+            ]
           }
         },
         {
@@ -1839,7 +2215,9 @@
             "content": " magne' - 23-4-24"
           },
           "back": {
-            "content": ["- [hurry]"]
+            "content": [
+              "- [hurry]"
+            ]
           }
         },
         {
@@ -1847,7 +2225,9 @@
             "content": " peinard"
           },
           "back": {
-            "content": ["- [chill]"]
+            "content": [
+              "- [chill]"
+            ]
           }
         },
         {
@@ -1855,7 +2235,9 @@
             "content": " déborder"
           },
           "back": {
-            "content": ["- [overwhelm]"]
+            "content": [
+              "- [overwhelm]"
+            ]
           }
         },
         {
@@ -1863,7 +2245,9 @@
             "content": " rempli"
           },
           "back": {
-            "content": ["- [filled]"]
+            "content": [
+              "- [filled]"
+            ]
           }
         },
         {
@@ -1871,7 +2255,9 @@
             "content": " briquet"
           },
           "back": {
-            "content": ["- [lighter]"]
+            "content": [
+              "- [lighter]"
+            ]
           }
         },
         {
@@ -1879,7 +2265,9 @@
             "content": " mandat"
           },
           "back": {
-            "content": ["- [authorization]"]
+            "content": [
+              "- [authorization]"
+            ]
           }
         },
         {
@@ -1887,7 +2275,9 @@
             "content": " colère"
           },
           "back": {
-            "content": ["- [anger]"]
+            "content": [
+              "- [anger]"
+            ]
           }
         },
         {
@@ -1895,7 +2285,9 @@
             "content": " malencontreusement - 26-04-24"
           },
           "back": {
-            "content": ["- [accidently]"]
+            "content": [
+              "- [accidently]"
+            ]
           }
         },
         {
@@ -1917,7 +2309,9 @@
             "content": " fier"
           },
           "back": {
-            "content": ["- [proud]"]
+            "content": [
+              "- [proud]"
+            ]
           }
         },
         {
@@ -1935,7 +2329,11 @@
             "content": " agiter"
           },
           "back": {
-            "content": ["- [twist]", "- [agitate]", "- [shake]"]
+            "content": [
+              "- [twist]",
+              "- [agitate]",
+              "- [shake]"
+            ]
           }
         },
         {
@@ -1943,7 +2341,9 @@
             "content": " envisageable (envisager + able)"
           },
           "back": {
-            "content": ["- [possible/considerable]"]
+            "content": [
+              "- [possible/considerable]"
+            ]
           }
         },
         {
@@ -1951,7 +2351,10 @@
             "content": " implique"
           },
           "back": {
-            "content": ["- [involve]", "- [implicate]"]
+            "content": [
+              "- [involve]",
+              "- [implicate]"
+            ]
           }
         },
         {
@@ -1959,7 +2362,10 @@
             "content": " atteindre"
           },
           "back": {
-            "content": ["- [attain/acheive]", "- [reach]"]
+            "content": [
+              "- [attain/acheive]",
+              "- [reach]"
+            ]
           }
         },
         {
@@ -1967,7 +2373,9 @@
             "content": " relever"
           },
           "back": {
-            "content": ["- [lift]: relever des challenges : take on challenges"]
+            "content": [
+              "- [lift]: relever des challenges : take on challenges"
+            ]
           }
         },
         {
@@ -1975,7 +2383,9 @@
             "content": " prouve"
           },
           "back": {
-            "content": ["- [prove]"]
+            "content": [
+              "- [prove]"
+            ]
           }
         },
         {
@@ -1983,7 +2393,10 @@
             "content": " Habileté"
           },
           "back": {
-            "content": ["- [ability]", "- [skill]"]
+            "content": [
+              "- [ability]",
+              "- [skill]"
+            ]
           }
         },
         {
@@ -1991,7 +2404,9 @@
             "content": " collectivité"
           },
           "back": {
-            "content": ["- [community]"]
+            "content": [
+              "- [community]"
+            ]
           }
         },
         {
@@ -1999,7 +2414,9 @@
             "content": " engender"
           },
           "back": {
-            "content": ["- [cause]"]
+            "content": [
+              "- [cause]"
+            ]
           }
         },
         {
@@ -2007,7 +2424,9 @@
             "content": " soutien"
           },
           "back": {
-            "content": ["- [support]"]
+            "content": [
+              "- [support]"
+            ]
           }
         },
         {
@@ -2015,7 +2434,9 @@
             "content": " utile (adj.)"
           },
           "back": {
-            "content": ["- [useful]"]
+            "content": [
+              "- [useful]"
+            ]
           }
         },
         {
@@ -2044,7 +2465,9 @@
             "content": " environ"
           },
           "back": {
-            "content": ["- [approaximation]"]
+            "content": [
+              "- [approaximation]"
+            ]
           }
         },
         {
@@ -2052,7 +2475,9 @@
             "content": " constater"
           },
           "back": {
-            "content": ["- [notice/observe]"]
+            "content": [
+              "- [notice/observe]"
+            ]
           }
         },
         {
@@ -2060,7 +2485,9 @@
             "content": " selon"
           },
           "back": {
-            "content": ["- [according-to]"]
+            "content": [
+              "- [according-to]"
+            ]
           }
         },
         {
@@ -2068,7 +2495,9 @@
             "content": " parmi"
           },
           "back": {
-            "content": ["- [among]"]
+            "content": [
+              "- [among]"
+            ]
           }
         },
         {
@@ -2076,7 +2505,9 @@
             "content": " ainsi"
           },
           "back": {
-            "content": ["- [thus]"]
+            "content": [
+              "- [thus]"
+            ]
           }
         },
         {
@@ -2084,7 +2515,9 @@
             "content": " à terme"
           },
           "back": {
-            "content": ["- [long-term]"]
+            "content": [
+              "- [long-term]"
+            ]
           }
         },
         {
@@ -2092,7 +2525,9 @@
             "content": " diminuer"
           },
           "back": {
-            "content": ["- [reduce]"]
+            "content": [
+              "- [reduce]"
+            ]
           }
         },
         {
@@ -2126,7 +2561,9 @@
             "content": "réussi"
           },
           "back": {
-            "content": ["- [success]:"]
+            "content": [
+              "- [success]:"
+            ]
           }
         },
         {
@@ -2134,7 +2571,9 @@
             "content": "rush"
           },
           "back": {
-            "content": ["- [rush]:"]
+            "content": [
+              "- [rush]:"
+            ]
           }
         },
         {
@@ -2174,7 +2613,9 @@
             "content": "dehors"
           },
           "back": {
-            "content": ["- [outside]: dehors les cours : outside the lessons"]
+            "content": [
+              "- [outside]: dehors les cours : outside the lessons"
+            ]
           }
         },
         {
@@ -2192,7 +2633,10 @@
             "content": "parcours"
           },
           "back": {
-            "content": ["- [path/route/way]:", "- [experience/process]:"]
+            "content": [
+              "- [path/route/way]:",
+              "- [experience/process]:"
+            ]
           }
         },
         {
@@ -2200,7 +2644,9 @@
             "content": "chemin"
           },
           "back": {
-            "content": ["- [path/way]:"]
+            "content": [
+              "- [path/way]:"
+            ]
           }
         },
         {
@@ -2208,7 +2654,9 @@
             "content": "assez"
           },
           "back": {
-            "content": ["- [enough]: assez fort pour : strong enough for"]
+            "content": [
+              "- [enough]: assez fort pour : strong enough for"
+            ]
           }
         },
         {
@@ -2227,7 +2675,10 @@
             "content": "garder"
           },
           "back": {
-            "content": ["- [keep]", "- [take care of]"]
+            "content": [
+              "- [keep]",
+              "- [take care of]"
+            ]
           }
         },
         {
@@ -2235,7 +2686,9 @@
             "content": "quotidien"
           },
           "back": {
-            "content": ["- [daily]"]
+            "content": [
+              "- [daily]"
+            ]
           }
         },
         {
@@ -2243,7 +2696,9 @@
             "content": "fluent"
           },
           "back": {
-            "content": ["- [fluent]"]
+            "content": [
+              "- [fluent]"
+            ]
           }
         },
         {
@@ -2261,7 +2716,9 @@
             "content": " patiente"
           },
           "back": {
-            "content": ["- [patient]"]
+            "content": [
+              "- [patient]"
+            ]
           }
         },
         {
@@ -2269,7 +2726,9 @@
             "content": " modeste"
           },
           "back": {
-            "content": ["- [modest]"]
+            "content": [
+              "- [modest]"
+            ]
           }
         },
         {
@@ -2277,7 +2736,9 @@
             "content": " extraverti"
           },
           "back": {
-            "content": ["- [extrovert]"]
+            "content": [
+              "- [extrovert]"
+            ]
           }
         },
         {
@@ -2285,7 +2746,9 @@
             "content": " visionnaire"
           },
           "back": {
-            "content": ["- [visionary]"]
+            "content": [
+              "- [visionary]"
+            ]
           }
         },
         {
@@ -2293,7 +2756,9 @@
             "content": " brilliant"
           },
           "back": {
-            "content": ["- [brilliant]"]
+            "content": [
+              "- [brilliant]"
+            ]
           }
         },
         {
@@ -2301,7 +2766,9 @@
             "content": " inventif"
           },
           "back": {
-            "content": ["- [inventive]"]
+            "content": [
+              "- [inventive]"
+            ]
           }
         },
         {
@@ -2309,7 +2776,9 @@
             "content": " Persuasif"
           },
           "back": {
-            "content": ["- [persuasive]"]
+            "content": [
+              "- [persuasive]"
+            ]
           }
         },
         {
@@ -2317,7 +2786,9 @@
             "content": " Ambitieux - 14-05-24"
           },
           "back": {
-            "content": ["- [ambicious]"]
+            "content": [
+              "- [ambicious]"
+            ]
           }
         },
         {
@@ -2325,7 +2796,9 @@
             "content": " fameux"
           },
           "back": {
-            "content": ["- [famous]"]
+            "content": [
+              "- [famous]"
+            ]
           }
         },
         {
@@ -2333,7 +2806,9 @@
             "content": " crucial"
           },
           "back": {
-            "content": ["- [crucial]"]
+            "content": [
+              "- [crucial]"
+            ]
           }
         },
         {
@@ -2341,7 +2816,9 @@
             "content": " regret"
           },
           "back": {
-            "content": ["- [regret]"]
+            "content": [
+              "- [regret]"
+            ]
           }
         },
         {
@@ -2349,7 +2826,9 @@
             "content": " fréquemment"
           },
           "back": {
-            "content": ["- [frequently]"]
+            "content": [
+              "- [frequently]"
+            ]
           }
         },
         {
@@ -2357,7 +2836,9 @@
             "content": " approximativement"
           },
           "back": {
-            "content": ["- [approximately]"]
+            "content": [
+              "- [approximately]"
+            ]
           }
         },
         {
@@ -2365,7 +2846,9 @@
             "content": " parait"
           },
           "back": {
-            "content": ["- [seems]"]
+            "content": [
+              "- [seems]"
+            ]
           }
         },
         {
@@ -2373,7 +2856,9 @@
             "content": " dizaines/centaines"
           },
           "back": {
-            "content": ["- [tens/hundreds]"]
+            "content": [
+              "- [tens/hundreds]"
+            ]
           }
         },
         {
@@ -2381,7 +2866,9 @@
             "content": " gallerie"
           },
           "back": {
-            "content": ["- [tunnel]"]
+            "content": [
+              "- [tunnel]"
+            ]
           }
         },
         {
@@ -2389,7 +2876,9 @@
             "content": " percer"
           },
           "back": {
-            "content": ["- [perce/drill/burst]"]
+            "content": [
+              "- [perce/drill/burst]"
+            ]
           }
         },
         {
@@ -2397,7 +2886,9 @@
             "content": " souterrain (adj.)"
           },
           "back": {
-            "content": ["- [underground]"]
+            "content": [
+              "- [underground]"
+            ]
           }
         },
         {
@@ -2405,7 +2896,9 @@
             "content": " extraire"
           },
           "back": {
-            "content": ["- [extract]"]
+            "content": [
+              "- [extract]"
+            ]
           }
         },
         {
@@ -2413,7 +2906,9 @@
             "content": " profond - 06-05-24"
           },
           "back": {
-            "content": ["- [profound/deep]"]
+            "content": [
+              "- [profound/deep]"
+            ]
           }
         },
         {
@@ -2421,7 +2916,9 @@
             "content": " récemment"
           },
           "back": {
-            "content": ["- [recently]"]
+            "content": [
+              "- [recently]"
+            ]
           }
         },
         {
@@ -2429,7 +2926,9 @@
             "content": " autant"
           },
           "back": {
-            "content": ["- [as-much]"]
+            "content": [
+              "- [as-much]"
+            ]
           }
         },
         {
@@ -2461,7 +2960,9 @@
             "content": " mens (mensonge)"
           },
           "back": {
-            "content": ["- [lie]"]
+            "content": [
+              "- [lie]"
+            ]
           }
         },
         {
@@ -2469,7 +2970,9 @@
             "content": " primordiale"
           },
           "back": {
-            "content": ["- [essential]"]
+            "content": [
+              "- [essential]"
+            ]
           }
         },
         {
@@ -2477,7 +2980,10 @@
             "content": " lorsqe"
           },
           "back": {
-            "content": ["- [when]", "- [while]"]
+            "content": [
+              "- [when]",
+              "- [while]"
+            ]
           }
         },
         {
@@ -2485,7 +2991,9 @@
             "content": " malgré"
           },
           "back": {
-            "content": ["- [despite]"]
+            "content": [
+              "- [despite]"
+            ]
           }
         },
         {
@@ -2493,7 +3001,9 @@
             "content": " précaution"
           },
           "back": {
-            "content": ["- [precaution]"]
+            "content": [
+              "- [precaution]"
+            ]
           }
         },
         {
@@ -2501,7 +3011,9 @@
             "content": " admet"
           },
           "back": {
-            "content": ["- [admit]"]
+            "content": [
+              "- [admit]"
+            ]
           }
         },
         {
@@ -2539,7 +3051,9 @@
             "content": "poussée"
           },
           "back": {
-            "content": ["- [driving/thrust]:"]
+            "content": [
+              "- [driving/thrust]:"
+            ]
           }
         },
         {
@@ -2547,7 +3061,9 @@
             "content": "quasiment"
           },
           "back": {
-            "content": ["- [nearly]: j'ai quasiment arreter : I nearly stoped"]
+            "content": [
+              "- [nearly]: j'ai quasiment arreter : I nearly stoped"
+            ]
           }
         },
         {
@@ -2566,7 +3082,9 @@
             "content": " creuser"
           },
           "back": {
-            "content": ["- [dig]"]
+            "content": [
+              "- [dig]"
+            ]
           }
         },
         {
@@ -2574,7 +3092,9 @@
             "content": "détruire"
           },
           "back": {
-            "content": ["- [destroy]"]
+            "content": [
+              "- [destroy]"
+            ]
           }
         },
         {
@@ -2582,7 +3102,9 @@
             "content": "durant"
           },
           "back": {
-            "content": ["- [during]"]
+            "content": [
+              "- [during]"
+            ]
           }
         },
         {
@@ -2590,7 +3112,9 @@
             "content": "durer/dure"
           },
           "back": {
-            "content": ["- [last (period of time)]"]
+            "content": [
+              "- [last (period of time)]"
+            ]
           }
         },
         {
@@ -2598,7 +3122,9 @@
             "content": "constament"
           },
           "back": {
-            "content": ["- [constantly]"]
+            "content": [
+              "- [constantly]"
+            ]
           }
         },
         {
@@ -2606,7 +3132,9 @@
             "content": " gisment"
           },
           "back": {
-            "content": ["- [deposit]"]
+            "content": [
+              "- [deposit]"
+            ]
           }
         },
         {
@@ -2614,7 +3142,9 @@
             "content": "lamentable"
           },
           "back": {
-            "content": ["- [pathetic/lamentable]:"]
+            "content": [
+              "- [pathetic/lamentable]:"
+            ]
           }
         },
         {
@@ -2622,7 +3152,9 @@
             "content": " avoue - 13-05-24"
           },
           "back": {
-            "content": ["- [admit/confesse]"]
+            "content": [
+              "- [admit/confesse]"
+            ]
           }
         },
         {
@@ -2630,7 +3162,9 @@
             "content": "lourds"
           },
           "back": {
-            "content": ["- [heavy]"]
+            "content": [
+              "- [heavy]"
+            ]
           }
         },
         {
@@ -2638,7 +3172,9 @@
             "content": "enlacer"
           },
           "back": {
-            "content": ["- [embrace]"]
+            "content": [
+              "- [embrace]"
+            ]
           }
         },
         {
@@ -2646,7 +3182,9 @@
             "content": "proportionel(le)"
           },
           "back": {
-            "content": ["- [proportional]"]
+            "content": [
+              "- [proportional]"
+            ]
           }
         },
         {
@@ -2654,7 +3192,10 @@
             "content": " attentes - 01-05-24"
           },
           "back": {
-            "content": ["- [the-waitings]", "- [expectations]"]
+            "content": [
+              "- [the-waitings]",
+              "- [expectations]"
+            ]
           }
         },
         {
@@ -2662,7 +3203,9 @@
             "content": "combine"
           },
           "back": {
-            "content": ["- [to-combine]"]
+            "content": [
+              "- [to-combine]"
+            ]
           }
         },
         {
@@ -2670,7 +3213,9 @@
             "content": "sensible"
           },
           "back": {
-            "content": ["- [sensitive]"]
+            "content": [
+              "- [sensitive]"
+            ]
           }
         },
         {
@@ -2678,7 +3223,10 @@
             "content": "bienfait"
           },
           "back": {
-            "content": ["- [well-done]", "- [benefit]"]
+            "content": [
+              "- [well-done]",
+              "- [benefit]"
+            ]
           }
         },
         {
@@ -2686,7 +3234,9 @@
             "content": "salive"
           },
           "back": {
-            "content": ["- [saliva]"]
+            "content": [
+              "- [saliva]"
+            ]
           }
         },
         {
@@ -2694,7 +3244,9 @@
             "content": "mastique"
           },
           "back": {
-            "content": ["- [chew]"]
+            "content": [
+              "- [chew]"
+            ]
           }
         },
         {
@@ -2702,7 +3254,9 @@
             "content": "estomac"
           },
           "back": {
-            "content": ["- [stomack]"]
+            "content": [
+              "- [stomack]"
+            ]
           }
         },
         {
@@ -2710,7 +3264,9 @@
             "content": "tunnel"
           },
           "back": {
-            "content": ["- [tunnel]"]
+            "content": [
+              "- [tunnel]"
+            ]
           }
         },
         {
@@ -2718,7 +3274,9 @@
             "content": "morceau"
           },
           "back": {
-            "content": ["- [piece]"]
+            "content": [
+              "- [piece]"
+            ]
           }
         },
         {
@@ -2726,7 +3284,9 @@
             "content": "via"
           },
           "back": {
-            "content": ["- [via]"]
+            "content": [
+              "- [via]"
+            ]
           }
         },
         {
@@ -2734,7 +3294,9 @@
             "content": "tôt"
           },
           "back": {
-            "content": ["- [early]"]
+            "content": [
+              "- [early]"
+            ]
           }
         },
         {
@@ -2742,7 +3304,9 @@
             "content": "ingérer"
           },
           "back": {
-            "content": ["- [ingest]"]
+            "content": [
+              "- [ingest]"
+            ]
           }
         },
         {
@@ -2750,7 +3314,9 @@
             "content": "détériorer"
           },
           "back": {
-            "content": ["- [deteriorate]"]
+            "content": [
+              "- [deteriorate]"
+            ]
           }
         },
         {
@@ -2758,7 +3324,9 @@
             "content": "ceinture"
           },
           "back": {
-            "content": ["- [belt]:"]
+            "content": [
+              "- [belt]:"
+            ]
           }
         },
         {
@@ -2766,7 +3334,9 @@
             "content": "silhouette"
           },
           "back": {
-            "content": ["- [figure/shape]:"]
+            "content": [
+              "- [figure/shape]:"
+            ]
           }
         },
         {
@@ -2774,7 +3344,9 @@
             "content": "plaignent"
           },
           "back": {
-            "content": ["- [complain]"]
+            "content": [
+              "- [complain]"
+            ]
           }
         },
         {
@@ -2782,7 +3354,9 @@
             "content": "enchaînent"
           },
           "back": {
-            "content": ["- [chain together]"]
+            "content": [
+              "- [chain together]"
+            ]
           }
         },
         {
@@ -2790,7 +3364,9 @@
             "content": " grâce - 05-05-24"
           },
           "back": {
-            "content": ["- [because-of]"]
+            "content": [
+              "- [because-of]"
+            ]
           }
         },
         {
@@ -2798,7 +3374,9 @@
             "content": " roche"
           },
           "back": {
-            "content": ["- [rock]"]
+            "content": [
+              "- [rock]"
+            ]
           }
         },
         {
@@ -2806,7 +3384,9 @@
             "content": " taquiner"
           },
           "back": {
-            "content": ["- [tease]"]
+            "content": [
+              "- [tease]"
+            ]
           }
         },
         {
@@ -2814,7 +3394,9 @@
             "content": " énergique"
           },
           "back": {
-            "content": ["- [energetic]"]
+            "content": [
+              "- [energetic]"
+            ]
           }
         },
         {
@@ -2822,7 +3404,9 @@
             "content": " énergétique"
           },
           "back": {
-            "content": ["- [related-to-energy]"]
+            "content": [
+              "- [related-to-energy]"
+            ]
           }
         },
         {
@@ -2830,7 +3414,9 @@
             "content": " e'pave"
           },
           "back": {
-            "content": ["- [junk]"]
+            "content": [
+              "- [junk]"
+            ]
           }
         },
         {
@@ -2838,7 +3424,9 @@
             "content": "cap"
           },
           "back": {
-            "content": ["- [direction/course/direction]:"]
+            "content": [
+              "- [direction/course/direction]:"
+            ]
           }
         },
         {
@@ -2846,7 +3434,9 @@
             "content": " bavure"
           },
           "back": {
-            "content": ["- [blender]"]
+            "content": [
+              "- [blender]"
+            ]
           }
         },
         {
@@ -2854,7 +3444,9 @@
             "content": "rompre"
           },
           "back": {
-            "content": ["- [break up]: rompre le jeûn : break the fasting"]
+            "content": [
+              "- [break up]: rompre le jeûn : break the fasting"
+            ]
           }
         },
         {
@@ -2862,7 +3454,9 @@
             "content": "éloigner"
           },
           "back": {
-            "content": ["- [remove/take away]"]
+            "content": [
+              "- [remove/take away]"
+            ]
           }
         },
         {
@@ -2870,7 +3464,9 @@
             "content": "avenir"
           },
           "back": {
-            "content": ["- [future]"]
+            "content": [
+              "- [future]"
+            ]
           }
         },
         {
@@ -2878,7 +3474,9 @@
             "content": "aliments"
           },
           "back": {
-            "content": ["- [food]"]
+            "content": [
+              "- [food]"
+            ]
           }
         },
         {
@@ -2886,7 +3484,9 @@
             "content": "enrober"
           },
           "back": {
-            "content": ["- [to-coat (with something)]"]
+            "content": [
+              "- [to-coat (with something)]"
+            ]
           }
         },
         {
@@ -2894,7 +3494,9 @@
             "content": "digérer"
           },
           "back": {
-            "content": ["- [digest]"]
+            "content": [
+              "- [digest]"
+            ]
           }
         },
         {
@@ -2902,7 +3504,9 @@
             "content": "entends"
           },
           "back": {
-            "content": ["- [hear]"]
+            "content": [
+              "- [hear]"
+            ]
           }
         },
         {
@@ -2910,7 +3514,9 @@
             "content": "costaud"
           },
           "back": {
-            "content": ["- [strong]"]
+            "content": [
+              "- [strong]"
+            ]
           }
         },
         {
@@ -2918,7 +3524,9 @@
             "content": "soulager"
           },
           "back": {
-            "content": ["- [to-relieve (relief)]"]
+            "content": [
+              "- [to-relieve (relief)]"
+            ]
           }
         },
         {
@@ -2926,7 +3534,9 @@
             "content": "bilan"
           },
           "back": {
-            "content": ["- [test]"]
+            "content": [
+              "- [test]"
+            ]
           }
         },
         {
@@ -2934,7 +3544,9 @@
             "content": "aise"
           },
           "back": {
-            "content": ["- [comfort]"]
+            "content": [
+              "- [comfort]"
+            ]
           }
         },
         {
@@ -2942,7 +3554,9 @@
             "content": "a' l'aise"
           },
           "back": {
-            "content": ["- [comfortable]"]
+            "content": [
+              "- [comfortable]"
+            ]
           }
         },
         {
@@ -2960,7 +3574,9 @@
             "content": "gênent"
           },
           "back": {
-            "content": ["- [bother]:"]
+            "content": [
+              "- [bother]:"
+            ]
           }
         },
         {
@@ -2968,7 +3584,10 @@
             "content": "d'ailleur"
           },
           "back": {
-            "content": ["- [BTW]", "- [moreover]"]
+            "content": [
+              "- [BTW]",
+              "- [moreover]"
+            ]
           }
         },
         {
@@ -2976,7 +3595,9 @@
             "content": " souhaite"
           },
           "back": {
-            "content": ["- [wish]"]
+            "content": [
+              "- [wish]"
+            ]
           }
         },
         {
@@ -2984,7 +3605,9 @@
             "content": "crus"
           },
           "back": {
-            "content": ["- [raw]"]
+            "content": [
+              "- [raw]"
+            ]
           }
         },
         {
@@ -2992,7 +3615,9 @@
             "content": "malentendu"
           },
           "back": {
-            "content": ["- [misunderstanding]"]
+            "content": [
+              "- [misunderstanding]"
+            ]
           }
         },
         {
@@ -3000,7 +3625,9 @@
             "content": "disparaître/disparu"
           },
           "back": {
-            "content": ["- [dissappeared]:"]
+            "content": [
+              "- [dissappeared]:"
+            ]
           }
         },
         {
@@ -3008,7 +3635,9 @@
             "content": "vomir"
           },
           "back": {
-            "content": ["- [vomit]:"]
+            "content": [
+              "- [vomit]:"
+            ]
           }
         },
         {
@@ -3016,7 +3645,9 @@
             "content": " controdire"
           },
           "back": {
-            "content": ["- [contradict]"]
+            "content": [
+              "- [contradict]"
+            ]
           }
         },
         {
@@ -3024,7 +3655,9 @@
             "content": "finalement"
           },
           "back": {
-            "content": ["- [finally]:"]
+            "content": [
+              "- [finally]:"
+            ]
           }
         },
         {
@@ -3032,7 +3665,10 @@
             "content": "prévois"
           },
           "back": {
-            "content": ["- [plan]", "- [anticipate]"]
+            "content": [
+              "- [plan]",
+              "- [anticipate]"
+            ]
           }
         },
         {
@@ -3040,7 +3676,9 @@
             "content": "avec aissance"
           },
           "back": {
-            "content": ["- [with ease]:"]
+            "content": [
+              "- [with ease]:"
+            ]
           }
         },
         {
@@ -3048,7 +3686,9 @@
             "content": "se balade"
           },
           "back": {
-            "content": ["- [take a walk]:"]
+            "content": [
+              "- [take a walk]:"
+            ]
           }
         },
         {
@@ -3056,7 +3696,9 @@
             "content": "confronter"
           },
           "back": {
-            "content": ["- [contront/tackle/face]:"]
+            "content": [
+              "- [contront/tackle/face]:"
+            ]
           }
         },
         {
@@ -3064,7 +3706,9 @@
             "content": "onde"
           },
           "back": {
-            "content": ["- [wave]:"]
+            "content": [
+              "- [wave]:"
+            ]
           }
         },
         {
@@ -3072,7 +3716,9 @@
             "content": "puce"
           },
           "back": {
-            "content": ["- [chip]:"]
+            "content": [
+              "- [chip]:"
+            ]
           }
         },
         {
@@ -3080,7 +3726,9 @@
             "content": "anneau"
           },
           "back": {
-            "content": ["- [ring]:"]
+            "content": [
+              "- [ring]:"
+            ]
           }
         },
         {
@@ -3088,7 +3736,9 @@
             "content": "concurrence"
           },
           "back": {
-            "content": ["- [competition]:"]
+            "content": [
+              "- [competition]:"
+            ]
           }
         },
         {
@@ -3096,7 +3746,9 @@
             "content": "tenter"
           },
           "back": {
-            "content": ["- [try]:"]
+            "content": [
+              "- [try]:"
+            ]
           }
         },
         {
@@ -3104,7 +3756,9 @@
             "content": "prérequi"
           },
           "back": {
-            "content": ["- [prerequisite]:"]
+            "content": [
+              "- [prerequisite]:"
+            ]
           }
         },
         {
@@ -3112,7 +3766,9 @@
             "content": "adorer"
           },
           "back": {
-            "content": ["- [adore]:"]
+            "content": [
+              "- [adore]:"
+            ]
           }
         },
         {
@@ -3120,7 +3776,9 @@
             "content": "circonstance"
           },
           "back": {
-            "content": ["- [circumstances]:"]
+            "content": [
+              "- [circumstances]:"
+            ]
           }
         },
         {
@@ -3128,7 +3786,9 @@
             "content": "arnaque"
           },
           "back": {
-            "content": ["- [scam]:"]
+            "content": [
+              "- [scam]:"
+            ]
           }
         },
         {
@@ -3184,7 +3844,9 @@
             "content": " abattu"
           },
           "back": {
-            "content": ["- [cut]"]
+            "content": [
+              "- [cut]"
+            ]
           }
         },
         {
@@ -3192,7 +3854,9 @@
             "content": "accrocher"
           },
           "back": {
-            "content": ["- [hang on]:"]
+            "content": [
+              "- [hang on]:"
+            ]
           }
         },
         {
@@ -3216,7 +3880,9 @@
             "content": "rigoler"
           },
           "back": {
-            "content": ["- [laugh]:"]
+            "content": [
+              "- [laugh]:"
+            ]
           }
         },
         {
@@ -3224,7 +3890,9 @@
             "content": "détester"
           },
           "back": {
-            "content": ["- [hate]:"]
+            "content": [
+              "- [hate]:"
+            ]
           }
         },
         {
@@ -3232,7 +3900,9 @@
             "content": " deviner"
           },
           "back": {
-            "content": ["- [guess]"]
+            "content": [
+              "- [guess]"
+            ]
           }
         },
         {
@@ -3240,7 +3910,9 @@
             "content": "abîmer"
           },
           "back": {
-            "content": ["- [damage]"]
+            "content": [
+              "- [damage]"
+            ]
           }
         },
         {
@@ -3258,7 +3930,9 @@
             "content": "pareil"
           },
           "back": {
-            "content": ["- [same]:"]
+            "content": [
+              "- [same]:"
+            ]
           }
         },
         {
@@ -3266,7 +3940,9 @@
             "content": "agencement"
           },
           "back": {
-            "content": ["- [arrangement/organization/layout]:"]
+            "content": [
+              "- [arrangement/organization/layout]:"
+            ]
           }
         },
         {
@@ -3274,7 +3950,9 @@
             "content": "fonder"
           },
           "back": {
-            "content": ["- [found/create]:"]
+            "content": [
+              "- [found/create]:"
+            ]
           }
         },
         {
@@ -3282,7 +3960,9 @@
             "content": " nuire"
           },
           "back": {
-            "content": ["- [harm]"]
+            "content": [
+              "- [harm]"
+            ]
           }
         },
         {
@@ -3290,7 +3970,9 @@
             "content": " distrait"
           },
           "back": {
-            "content": ["- [distract]"]
+            "content": [
+              "- [distract]"
+            ]
           }
         },
         {
@@ -3378,7 +4060,10 @@
             "content": " decoller"
           },
           "back": {
-            "content": ["- [get going]", "- [take off]"]
+            "content": [
+              "- [get going]",
+              "- [take off]"
+            ]
           }
         },
         {
@@ -3386,7 +4071,9 @@
             "content": " toutefois"
           },
           "back": {
-            "content": ["- [however]"]
+            "content": [
+              "- [however]"
+            ]
           }
         },
         {
@@ -3493,7 +4180,9 @@
             "content": "contradictoire"
           },
           "back": {
-            "content": ["- [contradictory]"]
+            "content": [
+              "- [contradictory]"
+            ]
           }
         },
         {
@@ -3501,7 +4190,9 @@
             "content": "adéquat"
           },
           "back": {
-            "content": ["- [adequate]"]
+            "content": [
+              "- [adequate]"
+            ]
           }
         },
         {
@@ -3509,7 +4200,9 @@
             "content": "au-delà"
           },
           "back": {
-            "content": ["- [beyond]"]
+            "content": [
+              "- [beyond]"
+            ]
           }
         },
         {
@@ -3517,7 +4210,9 @@
             "content": " prudent"
           },
           "back": {
-            "content": ["- [careful]: soyez prudent : be careful"]
+            "content": [
+              "- [careful]: soyez prudent : be careful"
+            ]
           }
         },
         {
@@ -3525,7 +4220,11 @@
             "content": " éclater"
           },
           "back": {
-            "content": ["- [break]", "- [break-out]", "- [burst]"]
+            "content": [
+              "- [break]",
+              "- [break-out]",
+              "- [burst]"
+            ]
           }
         },
         {
@@ -3543,7 +4242,9 @@
             "content": "préconise"
           },
           "back": {
-            "content": ["- [recomended]"]
+            "content": [
+              "- [recomended]"
+            ]
           }
         },
         {
@@ -3551,7 +4252,9 @@
             "content": " presque"
           },
           "back": {
-            "content": ["- [almost]"]
+            "content": [
+              "- [almost]"
+            ]
           }
         },
         {
@@ -3559,7 +4262,9 @@
             "content": "douleur"
           },
           "back": {
-            "content": ["- [pain]"]
+            "content": [
+              "- [pain]"
+            ]
           }
         },
         {
@@ -3567,7 +4272,9 @@
             "content": "avale"
           },
           "back": {
-            "content": ["- [swallow]"]
+            "content": [
+              "- [swallow]"
+            ]
           }
         },
         {
@@ -3575,7 +4282,9 @@
             "content": "molle"
           },
           "back": {
-            "content": ["- [soft]"]
+            "content": [
+              "- [soft]"
+            ]
           }
         },
         {
@@ -3583,7 +4292,9 @@
             "content": " bénévole"
           },
           "back": {
-            "content": ["- [volounteer]"]
+            "content": [
+              "- [volounteer]"
+            ]
           }
         },
         {
@@ -3591,7 +4302,9 @@
             "content": "légèrement"
           },
           "back": {
-            "content": ["- [slightly]"]
+            "content": [
+              "- [slightly]"
+            ]
           }
         },
         {
@@ -3599,7 +4312,9 @@
             "content": "permanance"
           },
           "back": {
-            "content": ["- [permanently/all-the-time/on-call]:"]
+            "content": [
+              "- [permanently/all-the-time/on-call]:"
+            ]
           }
         },
         {
@@ -3607,7 +4322,9 @@
             "content": "puisse"
           },
           "back": {
-            "content": ["- [can]:"]
+            "content": [
+              "- [can]:"
+            ]
           }
         },
         {
@@ -3639,7 +4356,9 @@
             "content": "astuces"
           },
           "back": {
-            "content": ["- [tricks]:"]
+            "content": [
+              "- [tricks]:"
+            ]
           }
         },
         {
@@ -3647,7 +4366,9 @@
             "content": "envie"
           },
           "back": {
-            "content": ["- [want/desire]:"]
+            "content": [
+              "- [want/desire]:"
+            ]
           }
         },
         {
@@ -3655,7 +4376,9 @@
             "content": "malfaisant"
           },
           "back": {
-            "content": ["- [evil/bad/harmfu]:"]
+            "content": [
+              "- [evil/bad/harmfu]:"
+            ]
           }
         },
         {
@@ -3663,7 +4386,9 @@
             "content": "tort"
           },
           "back": {
-            "content": ["- [wrong]:"]
+            "content": [
+              "- [wrong]:"
+            ]
           }
         },
         {
@@ -3711,7 +4436,10 @@
             "content": " pilier"
           },
           "back": {
-            "content": ["- [support]", "- [foundation]"]
+            "content": [
+              "- [support]",
+              "- [foundation]"
+            ]
           }
         },
         {
@@ -3719,7 +4447,9 @@
             "content": "inébranlable"
           },
           "back": {
-            "content": ["- [unshakable]:"]
+            "content": [
+              "- [unshakable]:"
+            ]
           }
         },
         {
@@ -3999,7 +4729,10 @@
             "content": "démarche"
           },
           "back": {
-            "content": ["- [approach (n.)]: ", "- [process (n.)]: "]
+            "content": [
+              "- [approach (n.)]: ",
+              "- [process (n.)]: "
+            ]
           }
         },
         {
@@ -4015,7 +4748,9 @@
             "content": "concrètement"
           },
           "back": {
-            "content": ["- [definitely]"]
+            "content": [
+              "- [definitely]"
+            ]
           }
         },
         {
@@ -4047,7 +4782,9 @@
             "content": "notamment"
           },
           "back": {
-            "content": ["- [especially]"]
+            "content": [
+              "- [especially]"
+            ]
           }
         },
         {
@@ -4055,7 +4792,9 @@
             "content": "affamer"
           },
           "back": {
-            "content": ["- [starve]"]
+            "content": [
+              "- [starve]"
+            ]
           }
         },
         {
@@ -4063,7 +4802,9 @@
             "content": " ennuie"
           },
           "back": {
-            "content": ["- [annoy]"]
+            "content": [
+              "- [annoy]"
+            ]
           }
         },
         {
@@ -4183,7 +4924,10 @@
             "content": "cartonner"
           },
           "back": {
-            "content": ["- [attack]: ", "- [hit the jackpot]: "]
+            "content": [
+              "- [attack]: ",
+              "- [hit the jackpot]: "
+            ]
           }
         },
         {
@@ -4191,7 +4935,9 @@
             "content": "juridique"
           },
           "back": {
-            "content": ["- [juristic/legal]: "]
+            "content": [
+              "- [juristic/legal]: "
+            ]
           }
         },
         {
@@ -4199,7 +4945,9 @@
             "content": "insiste"
           },
           "back": {
-            "content": ["- [insist]: "]
+            "content": [
+              "- [insist]: "
+            ]
           }
         },
         {
@@ -4207,7 +4955,9 @@
             "content": "particulière"
           },
           "back": {
-            "content": ["- [particular]: "]
+            "content": [
+              "- [particular]: "
+            ]
           }
         },
         {
@@ -4215,7 +4965,9 @@
             "content": "relativement"
           },
           "back": {
-            "content": ["- [relatively]: "]
+            "content": [
+              "- [relatively]: "
+            ]
           }
         },
         {
@@ -4223,7 +4975,9 @@
             "content": "cependant"
           },
           "back": {
-            "content": ["- [however]: "]
+            "content": [
+              "- [however]: "
+            ]
           }
         },
         {
@@ -4231,7 +4985,9 @@
             "content": "impérativement"
           },
           "back": {
-            "content": ["- [imperatively/necesarily]: "]
+            "content": [
+              "- [imperatively/necesarily]: "
+            ]
           }
         },
         {
@@ -4239,7 +4995,9 @@
             "content": "saut"
           },
           "back": {
-            "content": ["- [jump/leap]: "]
+            "content": [
+              "- [jump/leap]: "
+            ]
           }
         },
         {
@@ -4247,7 +5005,9 @@
             "content": "pignon"
           },
           "back": {
-            "content": ["- [pinion/gear]: "]
+            "content": [
+              "- [pinion/gear]: "
+            ]
           }
         },
         {
@@ -4265,7 +5025,9 @@
             "content": "financer"
           },
           "back": {
-            "content": ["- [fund]: "]
+            "content": [
+              "- [fund]: "
+            ]
           }
         },
         {
@@ -4273,7 +5035,9 @@
             "content": "réglementaire"
           },
           "back": {
-            "content": ["- [regulatory]: "]
+            "content": [
+              "- [regulatory]: "
+            ]
           }
         },
         {
@@ -4281,7 +5045,9 @@
             "content": "repenser"
           },
           "back": {
-            "content": ["- [rethink]: "]
+            "content": [
+              "- [rethink]: "
+            ]
           }
         },
         {
@@ -4289,7 +5055,9 @@
             "content": "avantageu(x/se)"
           },
           "back": {
-            "content": ["- [advantageous]: "]
+            "content": [
+              "- [advantageous]: "
+            ]
           }
         },
         {
@@ -4297,7 +5065,9 @@
             "content": "distinguer"
           },
           "back": {
-            "content": ["- [distinguish]: "]
+            "content": [
+              "- [distinguish]: "
+            ]
           }
         },
         {
@@ -4305,7 +5075,9 @@
             "content": "coût"
           },
           "back": {
-            "content": ["- [cost]: "]
+            "content": [
+              "- [cost]: "
+            ]
           }
         }
       ]
@@ -4450,7 +5222,9 @@
             "content": " ou:"
           },
           "back": {
-            "content": ["- [or]: du the' ou du cafe' : tea or coffee"]
+            "content": [
+              "- [or]: du the' ou du cafe' : tea or coffee"
+            ]
           }
         },
         {
@@ -4630,7 +5404,9 @@
             "content": " entre"
           },
           "back": {
-            "content": ["- [between]"]
+            "content": [
+              "- [between]"
+            ]
           }
         },
         {
@@ -4638,7 +5414,9 @@
             "content": " aucun"
           },
           "back": {
-            "content": ["- [any]: je n'ai aucune probleme"]
+            "content": [
+              "- [any]: je n'ai aucune probleme"
+            ]
           }
         },
         {
@@ -4657,7 +5435,11 @@
             "content": " premier"
           },
           "back": {
-            "content": ["- [1st]", "- [biggest]", "- [main/original]"]
+            "content": [
+              "- [1st]",
+              "- [biggest]",
+              "- [main/original]"
+            ]
           }
         },
         {
@@ -4677,7 +5459,9 @@
             "content": " mon: 14-04-24"
           },
           "back": {
-            "content": ["- [my]:"]
+            "content": [
+              "- [my]:"
+            ]
           }
         },
         {
@@ -4685,7 +5469,9 @@
             "content": " quelque"
           },
           "back": {
-            "content": ["- [some/few]: ils ont eu quelque difficulte'"]
+            "content": [
+              "- [some/few]: ils ont eu quelque difficulte'"
+            ]
           }
         },
         {
@@ -4693,7 +5479,9 @@
             "content": " lui: 15-4-24"
           },
           "back": {
-            "content": ["- [him]"]
+            "content": [
+              "- [him]"
+            ]
           }
         },
         {
@@ -4701,7 +5489,9 @@
             "content": " très"
           },
           "back": {
-            "content": ["- [very]"]
+            "content": [
+              "- [very]"
+            ]
           }
         },
         {
@@ -4719,7 +5509,9 @@
             "content": " boulot"
           },
           "back": {
-            "content": ["- [work/job]"]
+            "content": [
+              "- [work/job]"
+            ]
           }
         },
         {
@@ -4789,7 +5581,9 @@
             "content": "dommage"
           },
           "back": {
-            "content": ["- [shame]"]
+            "content": [
+              "- [shame]"
+            ]
           }
         },
         {
@@ -4797,7 +5591,10 @@
             "content": " plutôt - 08-05-24"
           },
           "back": {
-            "content": ["- [instead]", "- [rather]"]
+            "content": [
+              "- [instead]",
+              "- [rather]"
+            ]
           }
         },
         {
@@ -4846,7 +5643,10 @@
             "content": " chelou"
           },
           "back": {
-            "content": ["- [sus]", "- [weird]"]
+            "content": [
+              "- [sus]",
+              "- [weird]"
+            ]
           }
         },
         {
@@ -4865,7 +5665,9 @@
             "content": "natale/native"
           },
           "back": {
-            "content": ["- [native]"]
+            "content": [
+              "- [native]"
+            ]
           }
         }
       ]
