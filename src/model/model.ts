@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 
+import { exec } from 'child_process';
+
 export type CardSide = 'front' | 'back';
 export interface CardFrontSide {
   content: string;
@@ -139,6 +141,18 @@ export function loadList({ item }: { item: string }) {
 
 export function saveList() {
   fs.writeFileSync(vars.paths.currentFile, JSON.stringify(vars.model, null, 2));
+
+  setTimeout(() => {
+    exec(
+      `git add ${vars.paths.currentFile}; git commit -m "chore: data update"`,
+      (err, stdout, stderr) => {
+        if (err) {
+          console.log("node couldn't execute git command");
+          return;
+        }
+      },
+    );
+  }, 2000);
 }
 
 export function getModel() {
