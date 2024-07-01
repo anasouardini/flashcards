@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 9,
+      "currentCardIndex": 11,
       "currentCardSide": "back",
       "cards": [
         {
@@ -95,7 +95,7 @@
         },
         {
           "front": {
-            "content": "croissance"
+            "content": "la croissance"
           },
           "back": {
             "content": [
@@ -110,16 +110,6 @@
           "back": {
             "content": [
               "- [worse]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "défi"
-          },
-          "back": {
-            "content": [
-              "- [challenge]: "
             ]
           }
         },
@@ -1487,6 +1477,16 @@
             "content": [
               "- [thin]: ",
               "- [end]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "défi"
+          },
+          "back": {
+            "content": [
+              "- [challenge]: "
             ]
           }
         }
@@ -9580,6 +9580,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-01T21:14:43.229Z"
+      },
+      {
+        "type": "move",
+        "word": "défi",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T21:27:41.368Z"
       }
     ],
     "levels": [
@@ -10704,6 +10711,10 @@
           {
             "length": 46,
             "date": "2024-07-01T21:14:43.229Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-07-01T21:27:41.368Z"
           }
         ]
       },
@@ -12844,6 +12855,10 @@
           {
             "length": 104,
             "date": "2024-07-01T21:14:43.229Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-07-01T21:27:41.368Z"
           }
         ]
       },
