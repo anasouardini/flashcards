@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 3,
+      "currentCardIndex": 7,
       "currentCardSide": "front",
       "cards": [
         {
@@ -35,54 +35,6 @@
         },
         {
           "front": {
-            "content": "affinage"
-          },
-          "back": {
-            "content": [
-              "- [refining/ameliorating]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "potable"
-          },
-          "back": {
-            "content": [
-              "- [drinkable]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "contourn"
-          },
-          "back": {
-            "content": "- [bypass]: "
-          }
-        },
-        {
-          "front": {
-            "content": "solliciter"
-          },
-          "back": {
-            "content": [
-              "- [to request]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "enfermer"
-          },
-          "back": {
-            "content": [
-              "- [lock up]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "surdoué"
           },
           "back": {
@@ -93,52 +45,11 @@
         },
         {
           "front": {
-            "content": "détenu"
-          },
-          "back": {
-            "content": [
-              "- [possessed]: le record est détenu par Mr.X : the record is possessed Mr.X",
-              "- [detained]:"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "renversement"
           },
           "back": {
             "content": [
               "- [reversal]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "régressé"
-          },
-          "back": {
-            "content": [
-              "- [regressed]: retourner a un état moins développé : return to a less developed state"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "douter/dout"
-          },
-          "back": {
-            "content": [
-              "- [to doubt/doubt]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "inné"
-          },
-          "back": {
-            "content": [
-              "- [innate/natural/from-birth]: le QI est une fonctionnalité inné : the IQ is an innate feature"
             ]
           }
         },
@@ -1487,6 +1398,95 @@
           "back": {
             "content": [
               "- [sand]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "affinage"
+          },
+          "back": {
+            "content": [
+              "- [refining/ameliorating]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "potable"
+          },
+          "back": {
+            "content": [
+              "- [drinkable]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "contourn"
+          },
+          "back": {
+            "content": "- [bypass]: "
+          }
+        },
+        {
+          "front": {
+            "content": "solliciter"
+          },
+          "back": {
+            "content": [
+              "- [to request]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "enfermer"
+          },
+          "back": {
+            "content": [
+              "- [lock up]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "détenu"
+          },
+          "back": {
+            "content": [
+              "- [possessed]: le record est détenu par Mr.X : the record is possessed Mr.X",
+              "- [detained]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "régressé"
+          },
+          "back": {
+            "content": [
+              "- [regressed]: retourner a un état moins développé : return to a less developed state"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "douter/dout"
+          },
+          "back": {
+            "content": [
+              "- [to doubt/doubt]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "inné"
+          },
+          "back": {
+            "content": [
+              "- [innate/natural/from-birth]: le QI est une fonctionnalité inné : the IQ is an innate feature"
             ]
           }
         }
@@ -9468,6 +9468,69 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-01T20:30:11.317Z"
+      },
+      {
+        "type": "move",
+        "word": "affinage",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T20:30:34.413Z"
+      },
+      {
+        "type": "move",
+        "word": "potable",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T20:30:38.020Z"
+      },
+      {
+        "type": "move",
+        "word": "contourn",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T20:30:42.036Z"
+      },
+      {
+        "type": "move",
+        "word": "solliciter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T20:30:50.604Z"
+      },
+      {
+        "type": "move",
+        "word": "enfermer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T20:30:58.108Z"
+      },
+      {
+        "type": "move",
+        "word": "détenu",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T20:31:31.092Z"
+      },
+      {
+        "type": "move",
+        "word": "régressé",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T20:32:08.637Z"
+      },
+      {
+        "type": "move",
+        "word": "douter/dout",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T20:32:15.300Z"
+      },
+      {
+        "type": "move",
+        "word": "inné",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T20:32:42.492Z"
       }
     ],
     "levels": [
@@ -10528,6 +10591,42 @@
           {
             "length": 62,
             "date": "2024-07-01T20:30:11.317Z"
+          },
+          {
+            "length": 61,
+            "date": "2024-07-01T20:30:34.413Z"
+          },
+          {
+            "length": 60,
+            "date": "2024-07-01T20:30:38.020Z"
+          },
+          {
+            "length": 59,
+            "date": "2024-07-01T20:30:42.036Z"
+          },
+          {
+            "length": 58,
+            "date": "2024-07-01T20:30:50.604Z"
+          },
+          {
+            "length": 57,
+            "date": "2024-07-01T20:30:58.108Z"
+          },
+          {
+            "length": 56,
+            "date": "2024-07-01T20:31:31.092Z"
+          },
+          {
+            "length": 55,
+            "date": "2024-07-01T20:32:08.637Z"
+          },
+          {
+            "length": 54,
+            "date": "2024-07-01T20:32:15.300Z"
+          },
+          {
+            "length": 53,
+            "date": "2024-07-01T20:32:42.492Z"
           }
         ]
       },
@@ -12604,6 +12703,42 @@
           {
             "length": 88,
             "date": "2024-07-01T20:30:11.317Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-07-01T20:30:34.413Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-07-01T20:30:38.020Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-07-01T20:30:42.036Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-07-01T20:30:50.604Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-07-01T20:30:58.108Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-07-01T20:31:31.092Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-07-01T20:32:08.637Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-07-01T20:32:15.300Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-07-01T20:32:42.492Z"
           }
         ]
       },
