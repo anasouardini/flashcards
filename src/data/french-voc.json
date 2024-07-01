@@ -238,16 +238,6 @@
         },
         {
           "front": {
-            "content": "liberté"
-          },
-          "back": {
-            "content": [
-              "- [freedom]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "sommaire"
           },
           "back": {
@@ -1497,6 +1487,16 @@
           "back": {
             "content": [
               "- [heart]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "liberté"
+          },
+          "back": {
+            "content": [
+              "- [freedom]: "
             ]
           }
         }
@@ -9744,6 +9744,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-01T22:28:53.268Z"
+      },
+      {
+        "type": "move",
+        "word": "liberté",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T22:29:14.465Z"
       }
     ],
     "levels": [
@@ -10952,6 +10959,10 @@
           {
             "length": 25,
             "date": "2024-07-01T22:28:53.268Z"
+          },
+          {
+            "length": 24,
+            "date": "2024-07-01T22:29:14.465Z"
           }
         ]
       },
@@ -13180,6 +13191,10 @@
           {
             "length": 126,
             "date": "2024-07-01T22:28:53.268Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-07-01T22:29:14.465Z"
           }
         ]
       },
