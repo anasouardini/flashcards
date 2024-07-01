@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 11,
+      "currentCardIndex": 16,
       "currentCardSide": "back",
       "cards": [
         {
@@ -115,7 +115,7 @@
         },
         {
           "front": {
-            "content": "vigueur"
+            "content": "la vigueur"
           },
           "back": {
             "content": [
@@ -135,53 +135,12 @@
         },
         {
           "front": {
-            "content": "surveillés"
-          },
-          "back": {
-            "content": [
-              "- [monitored]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "flux"
-          },
-          "back": {
-            "content": [
-              "- [stream/flow]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "veiller"
           },
           "back": {
             "content": [
               "- [stay awake]: ",
               "- [watch]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "caisse"
-          },
-          "back": {
-            "content": [
-              "- [box]: ",
-              "- [cash register]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "assure"
-          },
-          "back": {
-            "content": [
-              "- [make sure]: "
             ]
           }
         },
@@ -194,36 +153,6 @@
               "- [send]: ",
               "- [dispatch]: ",
               "- [hurry]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "traiter"
-          },
-          "back": {
-            "content": [
-              "- [treat]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "saturé"
-          },
-          "back": {
-            "content": [
-              "- [saturated]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "décidé"
-          },
-          "back": {
-            "content": [
-              "- [decided]: "
             ]
           }
         },
@@ -1487,6 +1416,77 @@
           "back": {
             "content": [
               "- [challenge]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "surveillés"
+          },
+          "back": {
+            "content": [
+              "- [monitored]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "flux"
+          },
+          "back": {
+            "content": [
+              "- [stream/flow]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "caisse"
+          },
+          "back": {
+            "content": [
+              "- [box]: ",
+              "- [cash register]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "assure"
+          },
+          "back": {
+            "content": [
+              "- [make sure]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "traiter"
+          },
+          "back": {
+            "content": [
+              "- [treat]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "saturé"
+          },
+          "back": {
+            "content": [
+              "- [saturated]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "décidé"
+          },
+          "back": {
+            "content": [
+              "- [decided]: "
             ]
           }
         }
@@ -9587,6 +9587,55 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-01T21:27:41.368Z"
+      },
+      {
+        "type": "move",
+        "word": "surveillés",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T21:32:17.006Z"
+      },
+      {
+        "type": "move",
+        "word": "flux",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T21:32:27.915Z"
+      },
+      {
+        "type": "move",
+        "word": "caisse",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T21:33:18.638Z"
+      },
+      {
+        "type": "move",
+        "word": "assure",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T21:33:29.302Z"
+      },
+      {
+        "type": "move",
+        "word": "traiter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T21:34:11.795Z"
+      },
+      {
+        "type": "move",
+        "word": "saturé",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T21:34:15.613Z"
+      },
+      {
+        "type": "move",
+        "word": "décidé",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T21:34:18.987Z"
       }
     ],
     "levels": [
@@ -10715,6 +10764,34 @@
           {
             "length": 45,
             "date": "2024-07-01T21:27:41.368Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-07-01T21:32:17.007Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-07-01T21:32:27.915Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-07-01T21:33:18.638Z"
+          },
+          {
+            "length": 41,
+            "date": "2024-07-01T21:33:29.302Z"
+          },
+          {
+            "length": 40,
+            "date": "2024-07-01T21:34:11.795Z"
+          },
+          {
+            "length": 39,
+            "date": "2024-07-01T21:34:15.613Z"
+          },
+          {
+            "length": 38,
+            "date": "2024-07-01T21:34:18.987Z"
           }
         ]
       },
@@ -12859,6 +12936,34 @@
           {
             "length": 105,
             "date": "2024-07-01T21:27:41.368Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-07-01T21:32:17.007Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-07-01T21:32:27.915Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-07-01T21:33:18.638Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-07-01T21:33:29.302Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-07-01T21:34:11.795Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-07-01T21:34:15.613Z"
+          },
+          {
+            "length": 112,
+            "date": "2024-07-01T21:34:18.987Z"
           }
         ]
       },
