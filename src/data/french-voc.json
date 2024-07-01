@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 22,
+      "currentCardIndex": 23,
       "currentCardSide": "front",
       "cards": [
         {
@@ -233,67 +233,6 @@
           "back": {
             "content": [
               "- [grow back]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "géant"
-          },
-          "back": {
-            "content": [
-              "- [giant]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "tromperie/trompe"
-          },
-          "back": {
-            "content": [
-              "- [deception]",
-              "- [deceive/mislead]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "surpuissante"
-          },
-          "back": {
-            "content": [
-              "- [overpowered]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "intérêt (n.)"
-          },
-          "back": {
-            "content": [
-              "- [interest]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "prolonger"
-          },
-          "back": {
-            "content": [
-              "- [extend]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "coeur"
-          },
-          "back": {
-            "content": [
-              "- [heart]: "
             ]
           }
         },
@@ -1497,6 +1436,67 @@
           "back": {
             "content": [
               "- [attempt]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "géant"
+          },
+          "back": {
+            "content": [
+              "- [giant]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "tromperie/trompe"
+          },
+          "back": {
+            "content": [
+              "- [deception]",
+              "- [deceive/mislead]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "surpuissante"
+          },
+          "back": {
+            "content": [
+              "- [overpowered]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "intérêt (n.)"
+          },
+          "back": {
+            "content": [
+              "- [interest]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "prolonger"
+          },
+          "back": {
+            "content": [
+              "- [extend]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "coeur"
+          },
+          "back": {
+            "content": [
+              "- [heart]: "
             ]
           }
         }
@@ -9702,6 +9702,48 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-01T22:27:03.881Z"
+      },
+      {
+        "type": "move",
+        "word": "géant",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T22:27:30.384Z"
+      },
+      {
+        "type": "move",
+        "word": "tromperie/trompe",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T22:27:42.946Z"
+      },
+      {
+        "type": "move",
+        "word": "surpuissante",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T22:27:54.602Z"
+      },
+      {
+        "type": "move",
+        "word": "intérêt (n.)",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T22:28:23.632Z"
+      },
+      {
+        "type": "move",
+        "word": "prolonger",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T22:28:45.128Z"
+      },
+      {
+        "type": "move",
+        "word": "coeur",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-01T22:28:53.268Z"
       }
     ],
     "levels": [
@@ -10886,6 +10928,30 @@
           {
             "length": 31,
             "date": "2024-07-01T22:27:03.881Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-07-01T22:27:30.384Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-07-01T22:27:42.946Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-07-01T22:27:54.602Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-07-01T22:28:23.632Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-07-01T22:28:45.128Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-07-01T22:28:53.268Z"
           }
         ]
       },
@@ -13090,6 +13156,30 @@
           {
             "length": 120,
             "date": "2024-07-01T22:27:03.881Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-07-01T22:27:30.385Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-07-01T22:27:42.946Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-07-01T22:27:54.602Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-07-01T22:28:23.632Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-07-01T22:28:45.128Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-07-01T22:28:53.268Z"
           }
         ]
       },
