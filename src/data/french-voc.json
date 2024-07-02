@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 23,
-      "currentCardSide": "front",
+      "currentCardIndex": 7,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -45,26 +45,6 @@
         },
         {
           "front": {
-            "content": "renversement"
-          },
-          "back": {
-            "content": [
-              "- [reversal]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "survenant"
-          },
-          "back": {
-            "content": [
-              "- [occuring]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "entente"
           },
           "back": {
@@ -85,41 +65,11 @@
         },
         {
           "front": {
-            "content": "pourtant"
-          },
-          "back": {
-            "content": [
-              "- [yet/however]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la croissance"
-          },
-          "back": {
-            "content": [
-              "- [growth]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "pire"
           },
           "back": {
             "content": [
               "- [worse]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la vigueur"
-          },
-          "back": {
-            "content": [
-              "- [strength]: "
             ]
           }
         },
@@ -1497,6 +1447,56 @@
           "back": {
             "content": [
               "- [freedom]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "renversement"
+          },
+          "back": {
+            "content": [
+              "- [reversal]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "survenant"
+          },
+          "back": {
+            "content": [
+              "- [occuring]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "pourtant"
+          },
+          "back": {
+            "content": [
+              "- [yet/however]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la croissance"
+          },
+          "back": {
+            "content": [
+              "- [growth]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la vigueur"
+          },
+          "back": {
+            "content": [
+              "- [strength]: "
             ]
           }
         }
@@ -9751,6 +9751,41 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-01T22:29:14.465Z"
+      },
+      {
+        "type": "move",
+        "word": "renversement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-02T22:06:13.561Z"
+      },
+      {
+        "type": "move",
+        "word": "survenant",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-02T22:06:56.179Z"
+      },
+      {
+        "type": "move",
+        "word": "pourtant",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-02T22:11:20.489Z"
+      },
+      {
+        "type": "move",
+        "word": "la croissance",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-02T22:11:42.957Z"
+      },
+      {
+        "type": "move",
+        "word": "la vigueur",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-02T22:13:10.603Z"
       }
     ],
     "levels": [
@@ -10963,6 +10998,26 @@
           {
             "length": 24,
             "date": "2024-07-01T22:29:14.465Z"
+          },
+          {
+            "length": 23,
+            "date": "2024-07-02T22:06:13.613Z"
+          },
+          {
+            "length": 22,
+            "date": "2024-07-02T22:06:56.180Z"
+          },
+          {
+            "length": 21,
+            "date": "2024-07-02T22:11:20.489Z"
+          },
+          {
+            "length": 20,
+            "date": "2024-07-02T22:11:42.957Z"
+          },
+          {
+            "length": 19,
+            "date": "2024-07-02T22:13:10.603Z"
           }
         ]
       },
@@ -13195,6 +13250,26 @@
           {
             "length": 127,
             "date": "2024-07-01T22:29:14.465Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-07-02T22:06:13.613Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-07-02T22:06:56.180Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-07-02T22:11:20.489Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-07-02T22:11:42.957Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-07-02T22:13:10.603Z"
           }
         ]
       },
