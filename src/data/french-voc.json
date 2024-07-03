@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 7,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -85,17 +85,6 @@
         },
         {
           "front": {
-            "content": "veiller"
-          },
-          "back": {
-            "content": [
-              "- [stay awake]: ",
-              "- [watch]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "expédié"
           },
           "back": {
@@ -128,16 +117,6 @@
         },
         {
           "front": {
-            "content": "sommairement"
-          },
-          "back": {
-            "content": [
-              "- [briefly/summarily]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "outre"
           },
           "back": {
@@ -158,41 +137,11 @@
         },
         {
           "front": {
-            "content": "allonger"
-          },
-          "back": {
-            "content": [
-              "- [lengthen]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "en témoigne"
           },
           "back": {
             "content": [
               "- [as evidence]: en témoigne mes excellents projets : as an evidence my excellent projects"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "repousser"
-          },
-          "back": {
-            "content": [
-              "- [grow back]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "sommaire"
-          },
-          "back": {
-            "content": [
-              "- [summary]: "
             ]
           }
         }
@@ -1497,6 +1446,67 @@
           "back": {
             "content": [
               "- [strength]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "veiller"
+          },
+          "back": {
+            "content": [
+              "- [stay awake]: ",
+              "- [watch]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "sommairement"
+          },
+          "back": {
+            "content": [
+              "- [briefly/summarily]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "allonger"
+          },
+          "back": {
+            "content": [
+              "- [lengthen]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "repousser"
+          },
+          "back": {
+            "content": [
+              "- [grow back]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "sommaire"
+          },
+          "back": {
+            "content": [
+              "- [summary]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "désolé"
+          },
+          "back": {
+            "content": [
+              "- [sorry]: "
             ]
           }
         }
@@ -9786,6 +9796,48 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-02T22:13:10.603Z"
+      },
+      {
+        "type": "move",
+        "word": "veiller",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-02T22:19:39.866Z"
+      },
+      {
+        "type": "move",
+        "word": "sommairement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-03T00:02:37.216Z"
+      },
+      {
+        "type": "move",
+        "word": "allonger",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-03T00:24:49.455Z"
+      },
+      {
+        "type": "move",
+        "word": "repousser",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-03T00:49:05.811Z"
+      },
+      {
+        "type": "move",
+        "word": "sommaire",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-03T00:49:10.013Z"
+      },
+      {
+        "type": "move",
+        "word": "désolé",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-03T00:49:16.709Z"
       }
     ],
     "levels": [
@@ -11018,6 +11070,26 @@
           {
             "length": 19,
             "date": "2024-07-02T22:13:10.603Z"
+          },
+          {
+            "length": 18,
+            "date": "2024-07-03T00:02:37.216Z"
+          },
+          {
+            "length": 17,
+            "date": "2024-07-03T00:24:49.455Z"
+          },
+          {
+            "length": 16,
+            "date": "2024-07-03T00:49:05.811Z"
+          },
+          {
+            "length": 15,
+            "date": "2024-07-03T00:49:10.013Z"
+          },
+          {
+            "length": 14,
+            "date": "2024-07-03T00:49:16.709Z"
           }
         ]
       },
@@ -13270,6 +13342,30 @@
           {
             "length": 132,
             "date": "2024-07-02T22:13:10.603Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-07-02T22:19:39.866Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-07-03T00:02:37.216Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-07-03T00:24:49.455Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-07-03T00:49:05.811Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-07-03T00:49:10.013Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-07-03T00:49:16.709Z"
           }
         ]
       },
