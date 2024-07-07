@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 1,
       "currentCardSide": "front",
       "cards": [
         {
@@ -11,16 +11,6 @@
           },
           "back": {
             "content": "- [scatter/spread/defuse]: "
-          }
-        },
-        {
-          "front": {
-            "content": "affoler"
-          },
-          "back": {
-            "content": [
-              "- [panic]: "
-            ]
           }
         },
         {
@@ -142,6 +132,356 @@
           "back": {
             "content": [
               "- [as evidence]: en témoigne mes excellents projets : as an evidence my excellent projects"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "stagne"
+          },
+          "back": {
+            "content": [
+              "- [stagnate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "surprenante"
+          },
+          "back": {
+            "content": [
+              "- [surprizing]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "désormais"
+          },
+          "back": {
+            "content": [
+              "- [from now on]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "brut"
+          },
+          "back": {
+            "content": [
+              "- [raw]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "capter"
+          },
+          "back": {
+            "content": [
+              "- [get/pick up/capture/understand]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "étrange"
+          },
+          "back": {
+            "content": [
+              "- [odd/strange]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "piquer"
+          },
+          "back": {
+            "content": [
+              "- [to sting]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la odeur"
+          },
+          "back": {
+            "content": [
+              "- [the odor]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "échapper"
+          },
+          "back": {
+            "content": [
+              "- [to escape]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "bruit"
+          },
+          "back": {
+            "content": [
+              "- [noise]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "impressionnant"
+          },
+          "back": {
+            "content": [
+              "- [impressive]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "d'après"
+          },
+          "back": {
+            "content": [
+              "- [according to]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "exposition"
+          },
+          "back": {
+            "content": [
+              "- [exposure]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "remettre"
+          },
+          "back": {
+            "content": [
+              "- [to put back]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "pronostics"
+          },
+          "back": {
+            "content": [
+              "- [predictions/prognostics]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "irrité"
+          },
+          "back": {
+            "content": [
+              "- [irritated]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "cher"
+          },
+          "back": {
+            "content": [
+              "- [dear]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "épuisée"
+          },
+          "back": {
+            "content": [
+              "- [exhausted]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "tristesse"
+          },
+          "back": {
+            "content": [
+              "- [sadness]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "souffrance"
+          },
+          "back": {
+            "content": [
+              "- [suffering]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "se semble"
+          },
+          "back": {
+            "content": [
+              "- [to seem/appear]: il me smeble que : it seems to me that"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rapprocher"
+          },
+          "back": {
+            "content": [
+              "- [to get close]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "peine"
+          },
+          "back": {
+            "content": [
+              "- [penalty/punishment]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "douce"
+          },
+          "back": {
+            "content": [
+              "- [gentle/soft/quiet]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "impeccable"
+          },
+          "back": {
+            "content": [
+              "- [perfect]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "pic"
+          },
+          "back": {
+            "content": [
+              "- [peek/top]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "entièrement"
+          },
+          "back": {
+            "content": [
+              "- [entirely]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "déclencher"
+          },
+          "back": {
+            "content": [
+              "- [trigger/provoke]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "secours (n. pl.)"
+          },
+          "back": {
+            "content": [
+              "- [help]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "probablement"
+          },
+          "back": {
+            "content": [
+              "- [probably]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "survivre/survie"
+          },
+          "back": {
+            "content": [
+              "- [to survive]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "intense"
+          },
+          "back": {
+            "content": [
+              "- [intense]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "empreinte"
+          },
+          "back": {
+            "content": [
+              "- [footprint]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "usine"
+          },
+          "back": {
+            "content": [
+              "- [factory]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "provient"
+          },
+          "back": {
+            "content": [
+              "- [comes from]: on peut utilise seulement dans le ou une chose provient de quelque chose ou lieu"
             ]
           }
         }
@@ -931,10 +1271,10 @@
         },
         {
           "front": {
-            "content": "détendre"
+            "content": "détendre/détendu"
           },
           "back": {
-            "content": "- [to relax]: je me détendre : I relax"
+            "content": "- [to relax/relaxed]: je me détendre : I relax"
           }
         },
         {
@@ -1509,6 +1849,16 @@
               "- [sorry]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "affoler"
+          },
+          "back": {
+            "content": [
+              "- [panic]: "
+            ]
+          }
         }
       ]
     },
@@ -2078,11 +2428,11 @@
         },
         {
           "front": {
-            "content": " précision"
+            "content": "précision/précis"
           },
           "back": {
             "content": [
-              "- [precision]: l'imprécision de son calcules : imprecision of his calculations"
+              "- [precision/precise]: l'imprécision de son calcules : imprecision of his calculations"
             ]
           }
         },
@@ -4000,7 +4350,10 @@
             "content": "surtout"
           },
           "back": {
-            "content": "- [mainly/mostly/especially]: "
+            "content": [
+              "- [mainly/mostly/especially]: ",
+              "- [above all]: "
+            ]
           }
         },
         {
@@ -9838,6 +10191,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-03T00:49:16.709Z"
+      },
+      {
+        "type": "move",
+        "word": "affoler",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-07T16:29:12.456Z"
       }
     ],
     "levels": [
@@ -11090,6 +11450,10 @@
           {
             "length": 14,
             "date": "2024-07-03T00:49:16.709Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-07-07T16:29:12.503Z"
           }
         ]
       },
@@ -13366,6 +13730,10 @@
           {
             "length": 138,
             "date": "2024-07-03T00:49:16.709Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-07-07T16:29:12.503Z"
           }
         ]
       },
