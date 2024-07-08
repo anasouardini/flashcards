@@ -304,11 +304,32 @@
               "- [to wear out/worn out (gone bad)]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "mouillé"
+          },
+          "back": {
+            "content": [
+              "- [wet]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "veiller"
+          },
+          "back": {
+            "content": [
+              "- [stay awake]: ",
+              "- [watch]: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 10,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -441,41 +462,11 @@
         },
         {
           "front": {
-            "content": "pognon"
-          },
-          "back": {
-            "content": [
-              "- [money]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "prestataires"
           },
           "back": {
             "content": [
               "- [providers]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "raccorder"
-          },
-          "back": {
-            "content": [
-              "- [connect]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "étonnant (adj.)/étonne (v.)"
-          },
-          "back": {
-            "content": [
-              "- [astonishing/amazing/surprizing]: "
             ]
           }
         },
@@ -491,125 +482,6 @@
         },
         {
           "front": {
-            "content": "sable"
-          },
-          "back": {
-            "content": [
-              "- [sand]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "affinage"
-          },
-          "back": {
-            "content": [
-              "- [refining/ameliorating]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "potable"
-          },
-          "back": {
-            "content": [
-              "- [drinkable]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "contourn"
-          },
-          "back": {
-            "content": "- [bypass]: "
-          }
-        },
-        {
-          "front": {
-            "content": "solliciter"
-          },
-          "back": {
-            "content": [
-              "- [to request]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "enfermer"
-          },
-          "back": {
-            "content": [
-              "- [lock up]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "détenu"
-          },
-          "back": {
-            "content": [
-              "- [possessed]: le record est détenu par Mr.X : the record is possessed Mr.X",
-              "- [detained]:"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "régressé"
-          },
-          "back": {
-            "content": [
-              "- [regressed]: retourner a un état moins développé : return to a less developed state"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "douter/dout"
-          },
-          "back": {
-            "content": [
-              "- [to doubt/doubt]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "inné"
-          },
-          "back": {
-            "content": [
-              "- [innate/natural/from-birth]: le QI est une fonctionnalité inné : the IQ is an innate feature"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "végétaux"
-          },
-          "back": {
-            "content": [
-              "- [plants]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "méconnu"
-          },
-          "back": {
-            "content": [
-              "- [unknown]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "davantage"
           },
           "back": {
@@ -620,31 +492,11 @@
         },
         {
           "front": {
-            "content": "mouillé"
-          },
-          "back": {
-            "content": [
-              "- [wet]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "retenir"
           },
           "back": {
             "content": [
               "- [keep/keep in mind]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "ressent"
-          },
-          "back": {
-            "content": [
-              "- [feel]: "
             ]
           }
         },
@@ -661,132 +513,11 @@
         },
         {
           "front": {
-            "content": "défi"
-          },
-          "back": {
-            "content": [
-              "- [challenge]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "surveillés"
-          },
-          "back": {
-            "content": [
-              "- [monitored]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "flux"
-          },
-          "back": {
-            "content": [
-              "- [stream/flow]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "caisse"
-          },
-          "back": {
-            "content": [
-              "- [box]: ",
-              "- [cash register]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "assure"
           },
           "back": {
             "content": [
               "- [make sure]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "traiter"
-          },
-          "back": {
-            "content": [
-              "- [treat]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "saturé"
-          },
-          "back": {
-            "content": [
-              "- [saturated]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "décidé"
-          },
-          "back": {
-            "content": [
-              "- [decided]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "carrément"
-          },
-          "back": {
-            "content": [
-              "- [totally/really]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "siest"
-          },
-          "back": {
-            "content": [
-              "- [nap]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "affronte"
-          },
-          "back": {
-            "content": [
-              "- [confront]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "rappeler"
-          },
-          "back": {
-            "content": [
-              "- [to remind]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "concours"
-          },
-          "back": {
-            "content": [
-              "- [competitive exam]: "
             ]
           }
         },
@@ -802,16 +533,6 @@
         },
         {
           "front": {
-            "content": "anticiper"
-          },
-          "back": {
-            "content": [
-              "- [anticipate]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "tentative"
           },
           "back": {
@@ -822,92 +543,11 @@
         },
         {
           "front": {
-            "content": "géant"
-          },
-          "back": {
-            "content": [
-              "- [giant]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "tromperie/trompe"
-          },
-          "back": {
-            "content": [
-              "- [deception]",
-              "- [deceive/mislead]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "surpuissante"
-          },
-          "back": {
-            "content": [
-              "- [overpowered]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "intérêt (n.)"
-          },
-          "back": {
-            "content": [
-              "- [interest]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "prolonger"
           },
           "back": {
             "content": [
               "- [extend]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "coeur"
-          },
-          "back": {
-            "content": [
-              "- [heart]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "liberté"
-          },
-          "back": {
-            "content": [
-              "- [freedom]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "renversement"
-          },
-          "back": {
-            "content": [
-              "- [reversal]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "survenant"
-          },
-          "back": {
-            "content": [
-              "- [occuring]: "
             ]
           }
         },
@@ -943,27 +583,6 @@
         },
         {
           "front": {
-            "content": "veiller"
-          },
-          "back": {
-            "content": [
-              "- [stay awake]: ",
-              "- [watch]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "sommairement"
-          },
-          "back": {
-            "content": [
-              "- [briefly/summarily]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "allonger"
           },
           "back": {
@@ -974,91 +593,11 @@
         },
         {
           "front": {
-            "content": "repousser"
-          },
-          "back": {
-            "content": [
-              "- [grow back]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "sommaire"
-          },
-          "back": {
-            "content": [
-              "- [summary]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "désolé"
-          },
-          "back": {
-            "content": [
-              "- [sorry]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "affoler"
-          },
-          "back": {
-            "content": [
-              "- [panic]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "pire"
-          },
-          "back": {
-            "content": [
-              "- [worse]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "stagne"
-          },
-          "back": {
-            "content": [
-              "- [stagnate]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "brut"
-          },
-          "back": {
-            "content": [
-              "- [raw]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "capter"
           },
           "back": {
             "content": [
               "- [get/pick up/capture/understand]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "étrange"
-          },
-          "back": {
-            "content": [
-              "- [odd/strange]: "
             ]
           }
         },
@@ -1159,26 +698,6 @@
           "back": {
             "content": [
               "- [entirely]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "secours (n. pl.)"
-          },
-          "back": {
-            "content": [
-              "- [help]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "probablement"
-          },
-          "back": {
-            "content": [
-              "- [probably]: "
             ]
           }
         },
@@ -5490,6 +5009,487 @@
           "back": {
             "content": [
               "- [steer/guide]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "pognon"
+          },
+          "back": {
+            "content": [
+              "- [money]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "raccorder"
+          },
+          "back": {
+            "content": [
+              "- [connect]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "étonnant (adj.)/étonne (v.)"
+          },
+          "back": {
+            "content": [
+              "- [astonishing/amazing/surprizing]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "sable"
+          },
+          "back": {
+            "content": [
+              "- [sand]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "affinage"
+          },
+          "back": {
+            "content": [
+              "- [refining/ameliorating]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "potable"
+          },
+          "back": {
+            "content": [
+              "- [drinkable]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "contourn"
+          },
+          "back": {
+            "content": "- [bypass]: "
+          }
+        },
+        {
+          "front": {
+            "content": "solliciter"
+          },
+          "back": {
+            "content": [
+              "- [to request]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "enfermer"
+          },
+          "back": {
+            "content": [
+              "- [lock up]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "détenu"
+          },
+          "back": {
+            "content": [
+              "- [possessed]: le record est détenu par Mr.X : the record is possessed Mr.X",
+              "- [detained]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "régressé"
+          },
+          "back": {
+            "content": [
+              "- [regressed]: retourner a un état moins développé : return to a less developed state"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "douter/dout"
+          },
+          "back": {
+            "content": [
+              "- [to doubt/doubt]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "inné"
+          },
+          "back": {
+            "content": [
+              "- [innate/natural/from-birth]: le QI est une fonctionnalité inné : the IQ is an innate feature"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "végétaux"
+          },
+          "back": {
+            "content": [
+              "- [plants]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "méconnu"
+          },
+          "back": {
+            "content": [
+              "- [unknown]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "ressent"
+          },
+          "back": {
+            "content": [
+              "- [feel]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "défi"
+          },
+          "back": {
+            "content": [
+              "- [challenge]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "surveillés"
+          },
+          "back": {
+            "content": [
+              "- [monitored]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "flux"
+          },
+          "back": {
+            "content": [
+              "- [stream/flow]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "caisse"
+          },
+          "back": {
+            "content": [
+              "- [box]: ",
+              "- [cash register]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "traiter"
+          },
+          "back": {
+            "content": [
+              "- [treat]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "saturé"
+          },
+          "back": {
+            "content": [
+              "- [saturated]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "décidé"
+          },
+          "back": {
+            "content": [
+              "- [decided]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "carrément"
+          },
+          "back": {
+            "content": [
+              "- [totally/really]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "siest"
+          },
+          "back": {
+            "content": [
+              "- [nap]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "affronte"
+          },
+          "back": {
+            "content": [
+              "- [confront]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rappeler"
+          },
+          "back": {
+            "content": [
+              "- [to remind]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "concours"
+          },
+          "back": {
+            "content": [
+              "- [competitive exam]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "anticiper"
+          },
+          "back": {
+            "content": [
+              "- [anticipate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "géant"
+          },
+          "back": {
+            "content": [
+              "- [giant]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "tromperie/trompe"
+          },
+          "back": {
+            "content": [
+              "- [deception]",
+              "- [deceive/mislead]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "surpuissante"
+          },
+          "back": {
+            "content": [
+              "- [overpowered]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "intérêt (n.)"
+          },
+          "back": {
+            "content": [
+              "- [interest]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "coeur"
+          },
+          "back": {
+            "content": [
+              "- [heart]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "liberté"
+          },
+          "back": {
+            "content": [
+              "- [freedom]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "renversement"
+          },
+          "back": {
+            "content": [
+              "- [reversal]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "survenant"
+          },
+          "back": {
+            "content": [
+              "- [occuring]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "sommairement"
+          },
+          "back": {
+            "content": [
+              "- [briefly/summarily]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "repousser"
+          },
+          "back": {
+            "content": [
+              "- [grow back]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "sommaire"
+          },
+          "back": {
+            "content": [
+              "- [summary]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "désolé"
+          },
+          "back": {
+            "content": [
+              "- [sorry]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "affoler"
+          },
+          "back": {
+            "content": [
+              "- [panic]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "pire"
+          },
+          "back": {
+            "content": [
+              "- [worse]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "stagne"
+          },
+          "back": {
+            "content": [
+              "- [stagnate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "brut"
+          },
+          "back": {
+            "content": [
+              "- [raw]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "étrange"
+          },
+          "back": {
+            "content": [
+              "- [odd/strange]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "secours (n. pl.)"
+          },
+          "back": {
+            "content": [
+              "- [help]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "probablement"
+          },
+          "back": {
+            "content": [
+              "- [probably]: "
             ]
           }
         }
@@ -10875,6 +10875,356 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-07-08T15:44:54.847Z"
+      },
+      {
+        "type": "move",
+        "word": "pognon",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:50:40.879Z"
+      },
+      {
+        "type": "move",
+        "word": "raccorder",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:51:24.442Z"
+      },
+      {
+        "type": "move",
+        "word": "étonnant (adj.)/étonne (v.)",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:51:43.651Z"
+      },
+      {
+        "type": "move",
+        "word": "sable",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:52:52.516Z"
+      },
+      {
+        "type": "move",
+        "word": "affinage",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:53:19.069Z"
+      },
+      {
+        "type": "move",
+        "word": "potable",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:53:21.564Z"
+      },
+      {
+        "type": "move",
+        "word": "contourn",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:53:30.200Z"
+      },
+      {
+        "type": "move",
+        "word": "solliciter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:53:37.500Z"
+      },
+      {
+        "type": "move",
+        "word": "enfermer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:53:44.812Z"
+      },
+      {
+        "type": "move",
+        "word": "détenu",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:54:11.060Z"
+      },
+      {
+        "type": "move",
+        "word": "régressé",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:54:27.951Z"
+      },
+      {
+        "type": "move",
+        "word": "douter/dout",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:54:40.976Z"
+      },
+      {
+        "type": "move",
+        "word": "inné",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:55:20.830Z"
+      },
+      {
+        "type": "move",
+        "word": "végétaux",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:55:31.998Z"
+      },
+      {
+        "type": "move",
+        "word": "méconnu",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:55:35.889Z"
+      },
+      {
+        "type": "move",
+        "word": "mouillé",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-07-08T15:56:39.697Z"
+      },
+      {
+        "type": "move",
+        "word": "ressent",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:58:03.936Z"
+      },
+      {
+        "type": "move",
+        "word": "défi",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:02:59.309Z"
+      },
+      {
+        "type": "move",
+        "word": "surveillés",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:03:08.480Z"
+      },
+      {
+        "type": "move",
+        "word": "flux",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:03:18.165Z"
+      },
+      {
+        "type": "move",
+        "word": "caisse",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:03:57.379Z"
+      },
+      {
+        "type": "move",
+        "word": "traiter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:04:35.736Z"
+      },
+      {
+        "type": "move",
+        "word": "saturé",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:04:39.216Z"
+      },
+      {
+        "type": "move",
+        "word": "décidé",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:04:43.032Z"
+      },
+      {
+        "type": "move",
+        "word": "carrément",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:04:51.882Z"
+      },
+      {
+        "type": "move",
+        "word": "siest",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:04:56.223Z"
+      },
+      {
+        "type": "move",
+        "word": "affronte",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:05:14.278Z"
+      },
+      {
+        "type": "move",
+        "word": "rappeler",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:05:44.428Z"
+      },
+      {
+        "type": "move",
+        "word": "concours",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:06:04.756Z"
+      },
+      {
+        "type": "move",
+        "word": "anticiper",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:06:53.264Z"
+      },
+      {
+        "type": "move",
+        "word": "géant",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:08:02.919Z"
+      },
+      {
+        "type": "move",
+        "word": "tromperie/trompe",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:08:23.358Z"
+      },
+      {
+        "type": "move",
+        "word": "surpuissante",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:08:36.507Z"
+      },
+      {
+        "type": "move",
+        "word": "intérêt (n.)",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:09:30.731Z"
+      },
+      {
+        "type": "move",
+        "word": "coeur",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:10:15.027Z"
+      },
+      {
+        "type": "move",
+        "word": "liberté",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:10:18.858Z"
+      },
+      {
+        "type": "move",
+        "word": "renversement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:10:23.681Z"
+      },
+      {
+        "type": "move",
+        "word": "survenant",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:10:49.328Z"
+      },
+      {
+        "type": "move",
+        "word": "veiller",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-07-08T16:14:31.479Z"
+      },
+      {
+        "type": "move",
+        "word": "sommairement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:14:55.603Z"
+      },
+      {
+        "type": "move",
+        "word": "repousser",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:16:14.652Z"
+      },
+      {
+        "type": "move",
+        "word": "sommaire",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:16:18.171Z"
+      },
+      {
+        "type": "move",
+        "word": "désolé",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:16:20.796Z"
+      },
+      {
+        "type": "move",
+        "word": "affoler",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:16:24.586Z"
+      },
+      {
+        "type": "move",
+        "word": "pire",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:16:27.036Z"
+      },
+      {
+        "type": "move",
+        "word": "stagne",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:16:39.203Z"
+      },
+      {
+        "type": "move",
+        "word": "brut",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:16:42.716Z"
+      },
+      {
+        "type": "move",
+        "word": "étrange",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:19:34.019Z"
+      },
+      {
+        "type": "move",
+        "word": "secours (n. pl.)",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:20:51.578Z"
+      },
+      {
+        "type": "move",
+        "word": "probablement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T16:20:55.639Z"
       }
     ],
     "levels": [
@@ -12219,6 +12569,14 @@
           {
             "length": 30,
             "date": "2024-07-08T01:45:58.326Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-07-08T15:56:39.697Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-07-08T16:14:31.479Z"
           }
         ]
       },
@@ -14863,6 +15221,206 @@
           {
             "length": 92,
             "date": "2024-07-08T15:44:54.847Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-07-08T15:50:40.879Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-07-08T15:51:24.443Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-07-08T15:51:43.651Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-07-08T15:52:52.516Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-07-08T15:53:19.069Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-07-08T15:53:21.564Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-07-08T15:53:30.200Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-07-08T15:53:37.500Z"
+          },
+          {
+            "length": 83,
+            "date": "2024-07-08T15:53:44.812Z"
+          },
+          {
+            "length": 82,
+            "date": "2024-07-08T15:54:11.060Z"
+          },
+          {
+            "length": 81,
+            "date": "2024-07-08T15:54:27.951Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-07-08T15:54:40.976Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-07-08T15:55:20.830Z"
+          },
+          {
+            "length": 78,
+            "date": "2024-07-08T15:55:31.998Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-07-08T15:55:35.889Z"
+          },
+          {
+            "length": 76,
+            "date": "2024-07-08T15:56:39.697Z"
+          },
+          {
+            "length": 75,
+            "date": "2024-07-08T15:58:03.936Z"
+          },
+          {
+            "length": 74,
+            "date": "2024-07-08T16:02:59.309Z"
+          },
+          {
+            "length": 73,
+            "date": "2024-07-08T16:03:08.480Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-07-08T16:03:18.165Z"
+          },
+          {
+            "length": 71,
+            "date": "2024-07-08T16:03:57.379Z"
+          },
+          {
+            "length": 70,
+            "date": "2024-07-08T16:04:35.736Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-07-08T16:04:39.216Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-07-08T16:04:43.032Z"
+          },
+          {
+            "length": 67,
+            "date": "2024-07-08T16:04:51.882Z"
+          },
+          {
+            "length": 66,
+            "date": "2024-07-08T16:04:56.223Z"
+          },
+          {
+            "length": 65,
+            "date": "2024-07-08T16:05:14.278Z"
+          },
+          {
+            "length": 64,
+            "date": "2024-07-08T16:05:44.428Z"
+          },
+          {
+            "length": 63,
+            "date": "2024-07-08T16:06:04.756Z"
+          },
+          {
+            "length": 62,
+            "date": "2024-07-08T16:06:53.264Z"
+          },
+          {
+            "length": 61,
+            "date": "2024-07-08T16:08:02.919Z"
+          },
+          {
+            "length": 60,
+            "date": "2024-07-08T16:08:23.358Z"
+          },
+          {
+            "length": 59,
+            "date": "2024-07-08T16:08:36.507Z"
+          },
+          {
+            "length": 58,
+            "date": "2024-07-08T16:09:30.731Z"
+          },
+          {
+            "length": 57,
+            "date": "2024-07-08T16:10:15.027Z"
+          },
+          {
+            "length": 56,
+            "date": "2024-07-08T16:10:18.858Z"
+          },
+          {
+            "length": 55,
+            "date": "2024-07-08T16:10:23.681Z"
+          },
+          {
+            "length": 54,
+            "date": "2024-07-08T16:10:49.328Z"
+          },
+          {
+            "length": 53,
+            "date": "2024-07-08T16:14:31.479Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-07-08T16:14:55.603Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-07-08T16:16:14.652Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-07-08T16:16:18.171Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-07-08T16:16:20.796Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-07-08T16:16:24.586Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-07-08T16:16:27.036Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-07-08T16:16:39.203Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-07-08T16:16:42.716Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-07-08T16:19:34.019Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-07-08T16:20:51.578Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-07-08T16:20:55.639Z"
           }
         ]
       },
@@ -16255,6 +16813,198 @@
           {
             "length": 439,
             "date": "2024-07-08T15:44:54.847Z"
+          },
+          {
+            "length": 440,
+            "date": "2024-07-08T15:50:40.879Z"
+          },
+          {
+            "length": 441,
+            "date": "2024-07-08T15:51:24.443Z"
+          },
+          {
+            "length": 442,
+            "date": "2024-07-08T15:51:43.651Z"
+          },
+          {
+            "length": 443,
+            "date": "2024-07-08T15:52:52.516Z"
+          },
+          {
+            "length": 444,
+            "date": "2024-07-08T15:53:19.069Z"
+          },
+          {
+            "length": 445,
+            "date": "2024-07-08T15:53:21.564Z"
+          },
+          {
+            "length": 446,
+            "date": "2024-07-08T15:53:30.200Z"
+          },
+          {
+            "length": 447,
+            "date": "2024-07-08T15:53:37.500Z"
+          },
+          {
+            "length": 448,
+            "date": "2024-07-08T15:53:44.812Z"
+          },
+          {
+            "length": 449,
+            "date": "2024-07-08T15:54:11.060Z"
+          },
+          {
+            "length": 450,
+            "date": "2024-07-08T15:54:27.951Z"
+          },
+          {
+            "length": 451,
+            "date": "2024-07-08T15:54:40.976Z"
+          },
+          {
+            "length": 452,
+            "date": "2024-07-08T15:55:20.830Z"
+          },
+          {
+            "length": 453,
+            "date": "2024-07-08T15:55:31.998Z"
+          },
+          {
+            "length": 454,
+            "date": "2024-07-08T15:55:35.889Z"
+          },
+          {
+            "length": 455,
+            "date": "2024-07-08T15:58:03.936Z"
+          },
+          {
+            "length": 456,
+            "date": "2024-07-08T16:02:59.309Z"
+          },
+          {
+            "length": 457,
+            "date": "2024-07-08T16:03:08.480Z"
+          },
+          {
+            "length": 458,
+            "date": "2024-07-08T16:03:18.165Z"
+          },
+          {
+            "length": 459,
+            "date": "2024-07-08T16:03:57.379Z"
+          },
+          {
+            "length": 460,
+            "date": "2024-07-08T16:04:35.736Z"
+          },
+          {
+            "length": 461,
+            "date": "2024-07-08T16:04:39.216Z"
+          },
+          {
+            "length": 462,
+            "date": "2024-07-08T16:04:43.032Z"
+          },
+          {
+            "length": 463,
+            "date": "2024-07-08T16:04:51.882Z"
+          },
+          {
+            "length": 464,
+            "date": "2024-07-08T16:04:56.223Z"
+          },
+          {
+            "length": 465,
+            "date": "2024-07-08T16:05:14.278Z"
+          },
+          {
+            "length": 466,
+            "date": "2024-07-08T16:05:44.428Z"
+          },
+          {
+            "length": 467,
+            "date": "2024-07-08T16:06:04.756Z"
+          },
+          {
+            "length": 468,
+            "date": "2024-07-08T16:06:53.264Z"
+          },
+          {
+            "length": 469,
+            "date": "2024-07-08T16:08:02.919Z"
+          },
+          {
+            "length": 470,
+            "date": "2024-07-08T16:08:23.358Z"
+          },
+          {
+            "length": 471,
+            "date": "2024-07-08T16:08:36.507Z"
+          },
+          {
+            "length": 472,
+            "date": "2024-07-08T16:09:30.731Z"
+          },
+          {
+            "length": 473,
+            "date": "2024-07-08T16:10:15.027Z"
+          },
+          {
+            "length": 474,
+            "date": "2024-07-08T16:10:18.858Z"
+          },
+          {
+            "length": 475,
+            "date": "2024-07-08T16:10:23.681Z"
+          },
+          {
+            "length": 476,
+            "date": "2024-07-08T16:10:49.328Z"
+          },
+          {
+            "length": 477,
+            "date": "2024-07-08T16:14:55.603Z"
+          },
+          {
+            "length": 478,
+            "date": "2024-07-08T16:16:14.652Z"
+          },
+          {
+            "length": 479,
+            "date": "2024-07-08T16:16:18.171Z"
+          },
+          {
+            "length": 480,
+            "date": "2024-07-08T16:16:20.796Z"
+          },
+          {
+            "length": 481,
+            "date": "2024-07-08T16:16:24.586Z"
+          },
+          {
+            "length": 482,
+            "date": "2024-07-08T16:16:27.036Z"
+          },
+          {
+            "length": 483,
+            "date": "2024-07-08T16:16:39.203Z"
+          },
+          {
+            "length": 484,
+            "date": "2024-07-08T16:16:42.716Z"
+          },
+          {
+            "length": 485,
+            "date": "2024-07-08T16:19:34.019Z"
+          },
+          {
+            "length": 486,
+            "date": "2024-07-08T16:20:51.578Z"
+          },
+          {
+            "length": 487,
+            "date": "2024-07-08T16:20:55.639Z"
           }
         ]
       },
