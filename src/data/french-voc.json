@@ -1,8 +1,8 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
-      "currentCardIndex": 29,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -308,7 +308,7 @@
       ]
     },
     {
-      "currentCardIndex": 78,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
