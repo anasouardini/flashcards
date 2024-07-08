@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 28,
+      "currentCardIndex": 29,
       "currentCardSide": "front",
       "cards": [
         {
@@ -287,16 +287,6 @@
         },
         {
           "front": {
-            "content": "accéder/l'accès"
-          },
-          "back": {
-            "content": [
-              "- [access]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "endroit"
           },
           "back": {
@@ -312,16 +302,6 @@
           "back": {
             "content": [
               "- [to wear out/worn out (gone bad)]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "reprendre"
-          },
-          "back": {
-            "content": [
-              "- [get back/continue]: "
             ]
           }
         }
@@ -1897,6 +1877,26 @@
           "back": {
             "content": [
               "- [factory]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "accéder/l'accès"
+          },
+          "back": {
+            "content": [
+              "- [access]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "reprendre"
+          },
+          "back": {
+            "content": [
+              "- [get back/continue]: "
             ]
           }
         }
@@ -10378,6 +10378,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-08T01:43:34.244Z"
+      },
+      {
+        "type": "move",
+        "word": "accéder/l'accès",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:44:49.401Z"
+      },
+      {
+        "type": "move",
+        "word": "reprendre",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:45:58.326Z"
       }
     ],
     "levels": [
@@ -11714,6 +11728,14 @@
           {
             "length": 32,
             "date": "2024-07-08T01:43:34.244Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-07-08T01:44:49.401Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-07-08T01:45:58.326Z"
           }
         ]
       },
@@ -14074,6 +14096,14 @@
           {
             "length": 159,
             "date": "2024-07-08T01:43:34.244Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-07-08T01:44:49.401Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-07-08T01:45:58.326Z"
           }
         ]
       },
