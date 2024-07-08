@@ -623,6 +623,41 @@
           "back": {
             "content": ["- [and so on]:"]
           }
+        },
+        {
+          "front": {
+            "content": "pleine mer"
+          },
+          "back": {
+            "content": ["- [open sea]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "péter les plombs"
+          },
+          "back": {
+            "content": [
+              "- [losing it]:",
+              "- [freaking out]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "mine de rien"
+          },
+          "back": {
+            "content": ["- [casually]:"]
+          }
+        },
+        {
+          "front": {
+            "content": "tourner vers"
+          },
+          "back": {
+            "content": ["- [head towards]:"]
+          }
         }
       ]
     },
