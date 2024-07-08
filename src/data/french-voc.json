@@ -308,7 +308,7 @@
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 5,
       "currentCardSide": "front",
       "cards": [
         {
@@ -354,16 +354,6 @@
         },
         {
           "front": {
-            "content": " s'embouiller - 11-05-24"
-          },
-          "back": {
-            "content": [
-              "- [be-confused]"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": " débarquer"
           },
           "back": {
@@ -371,14 +361,6 @@
               "- [not be up to speed]",
               "- [land]"
             ]
-          }
-        },
-        {
-          "front": {
-            "content": "corporel"
-          },
-          "back": {
-            "content": "- [related to body (corps) / bodily]: "
           }
         },
         {
@@ -5492,6 +5474,24 @@
               "- [cost]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": " s'embouiller - 11-05-24"
+          },
+          "back": {
+            "content": [
+              "- [be-confused]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "corporel"
+          },
+          "back": {
+            "content": "- [related to body (corps) / bodily]: "
+          }
         }
       ]
     },
@@ -10392,6 +10392,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-08T01:45:58.326Z"
+      },
+      {
+        "type": "move",
+        "word": "s'embouiller - 11-05-24",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:18:18.009Z"
+      },
+      {
+        "type": "move",
+        "word": "corporel",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:20:36.632Z"
       }
     ],
     "levels": [
@@ -14104,6 +14118,14 @@
           {
             "length": 161,
             "date": "2024-07-08T01:45:58.326Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-07-08T15:18:18.073Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-07-08T15:20:36.633Z"
           }
         ]
       },
@@ -15220,6 +15242,14 @@
           {
             "length": 370,
             "date": "2024-06-30T18:38:45.448Z"
+          },
+          {
+            "length": 371,
+            "date": "2024-07-08T15:18:18.073Z"
+          },
+          {
+            "length": 372,
+            "date": "2024-07-08T15:20:36.633Z"
           }
         ]
       },
