@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 1,
+      "currentCardIndex": 20,
       "currentCardSide": "front",
       "cards": [
         {
@@ -50,16 +50,6 @@
           "back": {
             "content": [
               "- [confusing]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "pire"
-          },
-          "back": {
-            "content": [
-              "- [worse]: "
             ]
           }
         },
@@ -137,16 +127,6 @@
         },
         {
           "front": {
-            "content": "stagne"
-          },
-          "back": {
-            "content": [
-              "- [stagnate]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "surprenante"
           },
           "back": {
@@ -167,71 +147,11 @@
         },
         {
           "front": {
-            "content": "brut"
-          },
-          "back": {
-            "content": [
-              "- [raw]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "capter"
-          },
-          "back": {
-            "content": [
-              "- [get/pick up/capture/understand]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "étrange"
-          },
-          "back": {
-            "content": [
-              "- [odd/strange]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "piquer"
           },
           "back": {
             "content": [
               "- [to sting]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la odeur"
-          },
-          "back": {
-            "content": [
-              "- [the odor]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "échapper"
-          },
-          "back": {
-            "content": [
-              "- [to escape]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "bruit"
-          },
-          "back": {
-            "content": [
-              "- [noise]: "
             ]
           }
         },
@@ -282,26 +202,6 @@
           "back": {
             "content": [
               "- [predictions/prognostics]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "irrité"
-          },
-          "back": {
-            "content": [
-              "- [irritated]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "cher"
-          },
-          "back": {
-            "content": [
-              "- [dear]: "
             ]
           }
         },
@@ -482,6 +382,46 @@
           "back": {
             "content": [
               "- [comes from]: on peut utilise seulement dans le ou une chose provient de quelque chose ou lieu"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "accéder/l'accès"
+          },
+          "back": {
+            "content": [
+              "- [access]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "endroit"
+          },
+          "back": {
+            "content": [
+              "- [place/spot]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "user/usées"
+          },
+          "back": {
+            "content": [
+              "- [to wear out/worn out (gone bad)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "reprendre"
+          },
+          "back": {
+            "content": [
+              "- [get back/continue]: "
             ]
           }
         }
@@ -1857,6 +1797,106 @@
           "back": {
             "content": [
               "- [panic]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "pire"
+          },
+          "back": {
+            "content": [
+              "- [worse]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "stagne"
+          },
+          "back": {
+            "content": [
+              "- [stagnate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "brut"
+          },
+          "back": {
+            "content": [
+              "- [raw]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "capter"
+          },
+          "back": {
+            "content": [
+              "- [get/pick up/capture/understand]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "étrange"
+          },
+          "back": {
+            "content": [
+              "- [odd/strange]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la odeur"
+          },
+          "back": {
+            "content": [
+              "- [the odor]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "échapper"
+          },
+          "back": {
+            "content": [
+              "- [to escape]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "bruit"
+          },
+          "back": {
+            "content": [
+              "- [noise]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "irrité"
+          },
+          "back": {
+            "content": [
+              "- [irritated]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "cher"
+          },
+          "back": {
+            "content": [
+              "- [dear]: "
             ]
           }
         }
@@ -10198,6 +10238,76 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-07T16:29:12.456Z"
+      },
+      {
+        "type": "move",
+        "word": "pire",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:15:21.922Z"
+      },
+      {
+        "type": "move",
+        "word": "stagne",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:19:43.649Z"
+      },
+      {
+        "type": "move",
+        "word": "brut",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:21:08.623Z"
+      },
+      {
+        "type": "move",
+        "word": "capter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:21:20.370Z"
+      },
+      {
+        "type": "move",
+        "word": "étrange",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:21:31.659Z"
+      },
+      {
+        "type": "move",
+        "word": "la odeur",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:22:18.625Z"
+      },
+      {
+        "type": "move",
+        "word": "échapper",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:22:23.355Z"
+      },
+      {
+        "type": "move",
+        "word": "bruit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:22:28.032Z"
+      },
+      {
+        "type": "move",
+        "word": "irrité",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:26:24.771Z"
+      },
+      {
+        "type": "move",
+        "word": "cher",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:26:31.447Z"
       }
     ],
     "levels": [
@@ -11454,6 +11564,46 @@
           {
             "length": 48,
             "date": "2024-07-07T16:29:12.503Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-07-08T01:15:21.923Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-07-08T01:19:43.649Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-07-08T01:21:08.623Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-07-08T01:21:20.370Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-07-08T01:21:31.659Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-07-08T01:22:18.625Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-07-08T01:22:23.355Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-07-08T01:22:28.032Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-07-08T01:26:24.771Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-07-08T01:26:31.447Z"
           }
         ]
       },
@@ -13734,6 +13884,46 @@
           {
             "length": 139,
             "date": "2024-07-07T16:29:12.503Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-07-08T01:15:21.924Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-07-08T01:19:43.649Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-07-08T01:21:08.623Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-07-08T01:21:20.370Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-07-08T01:21:31.659Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-07-08T01:22:18.625Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-07-08T01:22:23.355Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-07-08T01:22:28.032Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-07-08T01:26:24.771Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-07-08T01:26:31.447Z"
           }
         ]
       },
