@@ -308,7 +308,7 @@
       ]
     },
     {
-      "currentCardIndex": 5,
+      "currentCardIndex": 10,
       "currentCardSide": "front",
       "cards": [
         {
@@ -365,535 +365,12 @@
         },
         {
           "front": {
-            "content": "sein"
-          },
-          "back": {
-            "content": [
-              "- [breast/heart/center]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "levée"
-          },
-          "back": {
-            "content": [
-              "- [lifting/raising]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "instants"
-          },
-          "back": {
-            "content": [
-              "- [moments]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "inhérent"
-          },
-          "back": {
-            "content": [
-              "- [inherent]: li veut dire que il est inséparable"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "côté"
-          },
-          "back": {
-            "content": [
-              "- [side]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "discuter"
-          },
-          "back": {
-            "content": [
-              "- [discuss]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la hydratation"
-          },
-          "back": {
-            "content": [
-              "- [hydration]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "claire"
-          },
-          "back": {
-            "content": [
-              "- [clear]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "propre"
-          },
-          "back": {
-            "content": [
-              "- [clean]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "honnêtement"
-          },
-          "back": {
-            "content": [
-              "- [honestly]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "échantillon"
-          },
-          "back": {
-            "content": [
-              "- [sample]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "envisager"
-          },
-          "back": {
-            "content": [
-              "- [consider]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "occasion"
-          },
-          "back": {
-            "content": [
-              "- [occasion]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "bouteille"
-          },
-          "back": {
-            "content": [
-              "- [bottle]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "goût"
-          },
-          "back": {
-            "content": [
-              "- [taste]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "indispensable"
-          },
-          "back": {
-            "content": [
-              "- [indispensable]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "soif"
-          },
-          "back": {
-            "content": [
-              "- [thirsty]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "suffisamment"
-          },
-          "back": {
-            "content": [
-              "- [sufficiently]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "bête"
-          },
-          "back": {
-            "content": [
-              "- [stupid]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "manuel"
-          },
-          "back": {
-            "content": [
-              "- [manual]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "robinet"
-          },
-          "back": {
-            "content": [
-              "- [faucet]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "maintenir"
-          },
-          "back": {
-            "content": [
-              "- [maintain]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "distribué"
-          },
-          "back": {
-            "content": [
-              "- [distributed]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "histoire"
-          },
-          "back": {
-            "content": [
-              "- [story/history]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "réciter"
-          },
-          "back": {
-            "content": [
-              "- [recite]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "chute"
-          },
-          "back": {
-            "content": [
-              "- [fall/chute]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "anodin"
-          },
-          "back": {
-            "content": [
-              "- [trivial/insignificant]:"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "concluant"
-          },
-          "back": {
-            "content": [
-              "- [conclusive]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "se soumettre"
-          },
-          "back": {
-            "content": "- [submit (submition to something)]: "
-          }
-        },
-        {
-          "front": {
-            "content": "galère"
-          },
-          "back": {
-            "content": "- [struggle]: "
-          }
-        },
-        {
-          "front": {
-            "content": "courtoisie"
-          },
-          "back": {
-            "content": "- [cortesy]: "
-          }
-        },
-        {
-          "front": {
-            "content": "prestance"
-          },
-          "back": {
-            "content": "- [presence]: "
-          }
-        },
-        {
-          "front": {
-            "content": "pertinentes"
-          },
-          "back": {
-            "content": "- [relevant]: "
-          }
-        },
-        {
-          "front": {
-            "content": "noyé"
-          },
-          "back": {
-            "content": "- [drawned]: le recruteur est noyé sous touts les information dans mon CV : the recruiter is drowned under all the information in my CV"
-          }
-        },
-        {
-          "front": {
-            "content": "thématique"
-          },
-          "back": {
-            "content": "- [relevant to the current theme]: "
-          }
-        },
-        {
-          "front": {
-            "content": "apporter"
-          },
-          "back": {
-            "content": "- [bring]: "
-          }
-        },
-        {
-          "front": {
-            "content": "lent/lentement"
-          },
-          "back": {
-            "content": "- [slow/slowly]: "
-          }
-        },
-        {
-          "front": {
-            "content": "méfier de"
-          },
-          "back": {
-            "content": "- [beware of]: méfier du fait... : beware of the fact..."
-          }
-        },
-        {
-          "front": {
-            "content": "fournisseur"
-          },
-          "back": {
-            "content": [
-              "- [furnisher/supplier]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "fournir"
           },
           "back": {
             "content": [
               "- [provide/supply]: ",
               "- [full/complete]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "fluidité"
-          },
-          "back": {
-            "content": [
-              "- [fluidity]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "reproductible"
-          },
-          "back": {
-            "content": [
-              "- [reproducible]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "dépôt"
-          },
-          "back": {
-            "content": [
-              "- [safe-keeping/warehouse]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "aveugle"
-          },
-          "back": {
-            "content": [
-              "- [blind]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "tiède"
-          },
-          "back": {
-            "content": [
-              "- [lukewarm/tepid]: le temperature entre 'warm' et 'cool' : the temperature between 'warm' and 'cool'"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "jus"
-          },
-          "back": {
-            "content": [
-              "- [juice]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "alterne (v.)"
-          },
-          "back": {
-            "content": [
-              "- [alternate]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "goûter (v./n.)"
-          },
-          "back": {
-            "content": [
-              "- [to taste]: ",
-              "- [snack]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "déchets"
-          },
-          "back": {
-            "content": [
-              "- [trash/wastes]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "verser"
-          },
-          "back": {
-            "content": [
-              "- [pour]: ",
-              "- [deposit]: ",
-              "- [tranfer]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "polluer"
-          },
-          "back": {
-            "content": [
-              "- [polute]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "révéler"
-          },
-          "back": {
-            "content": [
-              "- [reveal]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "transpire"
-          },
-          "back": {
-            "content": [
-              "- [sweat]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "foncée"
-          },
-          "back": {
-            "content": [
-              "- [dark]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "dilution"
-          },
-          "back": {
-            "content": [
-              "- [dilution]: "
             ]
           }
         },
@@ -909,138 +386,11 @@
         },
         {
           "front": {
-            "content": "espoir"
-          },
-          "back": {
-            "content": [
-              "- [hope]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "lapsus"
-          },
-          "back": {
-            "content": [
-              "- [slip of tongue]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "taux"
-          },
-          "back": {
-            "content": [
-              "- [rate]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "rapport"
-          },
-          "back": {
-            "content": [
-              "- [report]: ",
-              "- [ratio]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "rosée"
-          },
-          "back": {
-            "content": [
-              "- [dew]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "sol"
-          },
-          "back": {
-            "content": [
-              "- [ground/soile/earth]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "dépend"
-          },
-          "back": {
-            "content": [
-              "- [depends]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "se couche"
-          },
-          "back": {
-            "content": [
-              "- [goes to bed]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "moindre (adj.)"
-          },
-          "back": {
-            "content": "- [lower/least]: "
-          }
-        },
-        {
-          "front": {
-            "content": "déballer"
-          },
-          "back": {
-            "content": "- [unpack]: "
-          }
-        },
-        {
-          "front": {
-            "content": "se vaut"
-          },
-          "back": {
-            "content": [
-              "- [worth]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "conçus"
-          },
-          "back": {
-            "content": [
-              "- [designed]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "préalable"
           },
           "back": {
             "content": [
               "- [prior]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "aiguiller"
-          },
-          "back": {
-            "content": [
-              "- [steer/guide]: "
             ]
           }
         },
@@ -5491,6 +4841,656 @@
           },
           "back": {
             "content": "- [related to body (corps) / bodily]: "
+          }
+        },
+        {
+          "front": {
+            "content": "sein"
+          },
+          "back": {
+            "content": [
+              "- [breast/heart/center]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "levée"
+          },
+          "back": {
+            "content": [
+              "- [lifting/raising]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "instants"
+          },
+          "back": {
+            "content": [
+              "- [moments]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "inhérent"
+          },
+          "back": {
+            "content": [
+              "- [inherent]: li veut dire que il est inséparable"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "côté"
+          },
+          "back": {
+            "content": [
+              "- [side]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "discuter"
+          },
+          "back": {
+            "content": [
+              "- [discuss]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la hydratation"
+          },
+          "back": {
+            "content": [
+              "- [hydration]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "claire"
+          },
+          "back": {
+            "content": [
+              "- [clear]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "propre"
+          },
+          "back": {
+            "content": [
+              "- [clean]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "honnêtement"
+          },
+          "back": {
+            "content": [
+              "- [honestly]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "échantillon"
+          },
+          "back": {
+            "content": [
+              "- [sample]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "envisager"
+          },
+          "back": {
+            "content": [
+              "- [consider]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "occasion"
+          },
+          "back": {
+            "content": [
+              "- [occasion]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "bouteille"
+          },
+          "back": {
+            "content": [
+              "- [bottle]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "goût"
+          },
+          "back": {
+            "content": [
+              "- [taste]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "indispensable"
+          },
+          "back": {
+            "content": [
+              "- [indispensable]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "soif"
+          },
+          "back": {
+            "content": [
+              "- [thirsty]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "suffisamment"
+          },
+          "back": {
+            "content": [
+              "- [sufficiently]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "bête"
+          },
+          "back": {
+            "content": [
+              "- [stupid]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "manuel"
+          },
+          "back": {
+            "content": [
+              "- [manual]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "robinet"
+          },
+          "back": {
+            "content": [
+              "- [faucet]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "maintenir"
+          },
+          "back": {
+            "content": [
+              "- [maintain]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "distribué"
+          },
+          "back": {
+            "content": [
+              "- [distributed]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "histoire"
+          },
+          "back": {
+            "content": [
+              "- [story/history]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "réciter"
+          },
+          "back": {
+            "content": [
+              "- [recite]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "chute"
+          },
+          "back": {
+            "content": [
+              "- [fall/chute]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "anodin"
+          },
+          "back": {
+            "content": [
+              "- [trivial/insignificant]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "concluant"
+          },
+          "back": {
+            "content": [
+              "- [conclusive]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "se soumettre"
+          },
+          "back": {
+            "content": "- [submit (submition to something)]: "
+          }
+        },
+        {
+          "front": {
+            "content": "galère"
+          },
+          "back": {
+            "content": "- [struggle]: "
+          }
+        },
+        {
+          "front": {
+            "content": "courtoisie"
+          },
+          "back": {
+            "content": "- [cortesy]: "
+          }
+        },
+        {
+          "front": {
+            "content": "prestance"
+          },
+          "back": {
+            "content": "- [presence]: "
+          }
+        },
+        {
+          "front": {
+            "content": "pertinentes"
+          },
+          "back": {
+            "content": "- [relevant]: "
+          }
+        },
+        {
+          "front": {
+            "content": "noyé"
+          },
+          "back": {
+            "content": "- [drawned]: le recruteur est noyé sous touts les information dans mon CV : the recruiter is drowned under all the information in my CV"
+          }
+        },
+        {
+          "front": {
+            "content": "thématique"
+          },
+          "back": {
+            "content": "- [relevant to the current theme]: "
+          }
+        },
+        {
+          "front": {
+            "content": "apporter"
+          },
+          "back": {
+            "content": "- [bring]: "
+          }
+        },
+        {
+          "front": {
+            "content": "lent/lentement"
+          },
+          "back": {
+            "content": "- [slow/slowly]: "
+          }
+        },
+        {
+          "front": {
+            "content": "méfier de"
+          },
+          "back": {
+            "content": "- [beware of]: méfier du fait... : beware of the fact..."
+          }
+        },
+        {
+          "front": {
+            "content": "fournisseur"
+          },
+          "back": {
+            "content": [
+              "- [furnisher/supplier]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "fluidité"
+          },
+          "back": {
+            "content": [
+              "- [fluidity]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "reproductible"
+          },
+          "back": {
+            "content": [
+              "- [reproducible]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "dépôt"
+          },
+          "back": {
+            "content": [
+              "- [safe-keeping/warehouse]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "aveugle"
+          },
+          "back": {
+            "content": [
+              "- [blind]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "tiède"
+          },
+          "back": {
+            "content": [
+              "- [lukewarm/tepid]: le temperature entre 'warm' et 'cool' : the temperature between 'warm' and 'cool'"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "jus"
+          },
+          "back": {
+            "content": [
+              "- [juice]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "alterne (v.)"
+          },
+          "back": {
+            "content": [
+              "- [alternate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "goûter (v./n.)"
+          },
+          "back": {
+            "content": [
+              "- [to taste]: ",
+              "- [snack]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "déchets"
+          },
+          "back": {
+            "content": [
+              "- [trash/wastes]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "verser"
+          },
+          "back": {
+            "content": [
+              "- [pour]: ",
+              "- [deposit]: ",
+              "- [tranfer]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "polluer"
+          },
+          "back": {
+            "content": [
+              "- [polute]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "révéler"
+          },
+          "back": {
+            "content": [
+              "- [reveal]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "transpire"
+          },
+          "back": {
+            "content": [
+              "- [sweat]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "foncée"
+          },
+          "back": {
+            "content": [
+              "- [dark]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "dilution"
+          },
+          "back": {
+            "content": [
+              "- [dilution]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "espoir"
+          },
+          "back": {
+            "content": [
+              "- [hope]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "lapsus"
+          },
+          "back": {
+            "content": [
+              "- [slip of tongue]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "taux"
+          },
+          "back": {
+            "content": [
+              "- [rate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rapport"
+          },
+          "back": {
+            "content": [
+              "- [report]: ",
+              "- [ratio]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rosée"
+          },
+          "back": {
+            "content": [
+              "- [dew]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "sol"
+          },
+          "back": {
+            "content": [
+              "- [ground/soile/earth]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "dépend"
+          },
+          "back": {
+            "content": [
+              "- [depends]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "se couche"
+          },
+          "back": {
+            "content": [
+              "- [goes to bed]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "moindre (adj.)"
+          },
+          "back": {
+            "content": "- [lower/least]: "
+          }
+        },
+        {
+          "front": {
+            "content": "déballer"
+          },
+          "back": {
+            "content": "- [unpack]: "
+          }
+        },
+        {
+          "front": {
+            "content": "se vaut"
+          },
+          "back": {
+            "content": [
+              "- [worth]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "conçus"
+          },
+          "back": {
+            "content": [
+              "- [designed]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "aiguiller"
+          },
+          "back": {
+            "content": [
+              "- [steer/guide]: "
+            ]
           }
         }
       ]
@@ -10406,6 +10406,475 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-07-08T15:20:36.632Z"
+      },
+      {
+        "type": "move",
+        "word": "sein",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:21:02.410Z"
+      },
+      {
+        "type": "move",
+        "word": "levée",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:21:19.479Z"
+      },
+      {
+        "type": "move",
+        "word": "instants",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:21:38.271Z"
+      },
+      {
+        "type": "move",
+        "word": "inhérent",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:22:48.654Z"
+      },
+      {
+        "type": "move",
+        "word": "côté",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:22:53.454Z"
+      },
+      {
+        "type": "move",
+        "word": "discuter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:22:56.182Z"
+      },
+      {
+        "type": "move",
+        "word": "la hydratation",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:22:59.598Z"
+      },
+      {
+        "type": "move",
+        "word": "claire",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:23:05.122Z"
+      },
+      {
+        "type": "move",
+        "word": "propre",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:23:07.582Z"
+      },
+      {
+        "type": "move",
+        "word": "honnêtement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:23:10.076Z"
+      },
+      {
+        "type": "move",
+        "word": "échantillon",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:23:16.184Z"
+      },
+      {
+        "type": "move",
+        "word": "envisager",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:23:20.444Z"
+      },
+      {
+        "type": "move",
+        "word": "occasion",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:23:26.038Z"
+      },
+      {
+        "type": "move",
+        "word": "bouteille",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:23:29.748Z"
+      },
+      {
+        "type": "move",
+        "word": "goût",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:23:32.495Z"
+      },
+      {
+        "type": "move",
+        "word": "indispensable",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:27:41.349Z"
+      },
+      {
+        "type": "move",
+        "word": "soif",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:27:47.966Z"
+      },
+      {
+        "type": "move",
+        "word": "suffisamment",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:27:54.022Z"
+      },
+      {
+        "type": "move",
+        "word": "bête",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:27:57.910Z"
+      },
+      {
+        "type": "move",
+        "word": "manuel",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:28:24.977Z"
+      },
+      {
+        "type": "move",
+        "word": "robinet",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:28:31.446Z"
+      },
+      {
+        "type": "move",
+        "word": "maintenir",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:28:36.689Z"
+      },
+      {
+        "type": "move",
+        "word": "distribué",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:28:41.162Z"
+      },
+      {
+        "type": "move",
+        "word": "histoire",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:28:47.122Z"
+      },
+      {
+        "type": "move",
+        "word": "réciter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:28:51.014Z"
+      },
+      {
+        "type": "move",
+        "word": "chute",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:28:59.967Z"
+      },
+      {
+        "type": "move",
+        "word": "anodin",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:29:13.162Z"
+      },
+      {
+        "type": "move",
+        "word": "concluant",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:29:16.698Z"
+      },
+      {
+        "type": "move",
+        "word": "se soumettre",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:29:24.888Z"
+      },
+      {
+        "type": "move",
+        "word": "galère",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:29:49.463Z"
+      },
+      {
+        "type": "move",
+        "word": "courtoisie",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:29:57.560Z"
+      },
+      {
+        "type": "move",
+        "word": "prestance",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:30:13.272Z"
+      },
+      {
+        "type": "move",
+        "word": "pertinentes",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:30:20.672Z"
+      },
+      {
+        "type": "move",
+        "word": "noyé",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:30:32.954Z"
+      },
+      {
+        "type": "move",
+        "word": "thématique",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:33:08.018Z"
+      },
+      {
+        "type": "move",
+        "word": "apporter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:33:14.666Z"
+      },
+      {
+        "type": "move",
+        "word": "lent/lentement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:33:18.764Z"
+      },
+      {
+        "type": "move",
+        "word": "méfier de",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:33:28.668Z"
+      },
+      {
+        "type": "move",
+        "word": "fournisseur",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:33:38.355Z"
+      },
+      {
+        "type": "move",
+        "word": "fluidité",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:34:17.212Z"
+      },
+      {
+        "type": "move",
+        "word": "reproductible",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:34:23.316Z"
+      },
+      {
+        "type": "move",
+        "word": "dépôt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:35:41.911Z"
+      },
+      {
+        "type": "move",
+        "word": "aveugle",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:36:02.772Z"
+      },
+      {
+        "type": "move",
+        "word": "tiède",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:36:19.735Z"
+      },
+      {
+        "type": "move",
+        "word": "jus",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:36:24.292Z"
+      },
+      {
+        "type": "move",
+        "word": "alterne (v.)",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:36:31.197Z"
+      },
+      {
+        "type": "move",
+        "word": "goûter (v./n.)",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:36:58.646Z"
+      },
+      {
+        "type": "move",
+        "word": "déchets",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:37:03.429Z"
+      },
+      {
+        "type": "move",
+        "word": "verser",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:37:44.316Z"
+      },
+      {
+        "type": "move",
+        "word": "polluer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:37:49.886Z"
+      },
+      {
+        "type": "move",
+        "word": "révéler",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:37:54.385Z"
+      },
+      {
+        "type": "move",
+        "word": "transpire",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:37:59.262Z"
+      },
+      {
+        "type": "move",
+        "word": "foncée",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:38:01.950Z"
+      },
+      {
+        "type": "move",
+        "word": "dilution",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:39:29.858Z"
+      },
+      {
+        "type": "move",
+        "word": "espoir",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:40:27.732Z"
+      },
+      {
+        "type": "move",
+        "word": "lapsus",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:40:39.561Z"
+      },
+      {
+        "type": "move",
+        "word": "taux",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:40:53.201Z"
+      },
+      {
+        "type": "move",
+        "word": "rapport",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:42:13.500Z"
+      },
+      {
+        "type": "move",
+        "word": "rosée",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:42:35.772Z"
+      },
+      {
+        "type": "move",
+        "word": "sol",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:42:45.429Z"
+      },
+      {
+        "type": "move",
+        "word": "dépend",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:42:54.602Z"
+      },
+      {
+        "type": "move",
+        "word": "se couche",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:43:17.953Z"
+      },
+      {
+        "type": "move",
+        "word": "moindre (adj.)",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:43:51.755Z"
+      },
+      {
+        "type": "move",
+        "word": "déballer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:43:56.468Z"
+      },
+      {
+        "type": "move",
+        "word": "se vaut",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:44:13.971Z"
+      },
+      {
+        "type": "move",
+        "word": "conçus",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:44:19.568Z"
+      },
+      {
+        "type": "move",
+        "word": "aiguiller",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-08T15:44:54.847Z"
       }
     ],
     "levels": [
@@ -14126,6 +14595,274 @@
           {
             "length": 159,
             "date": "2024-07-08T15:20:36.633Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-07-08T15:21:02.410Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-07-08T15:21:19.479Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-07-08T15:21:38.272Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-07-08T15:22:48.654Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-07-08T15:22:53.454Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-07-08T15:22:56.182Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-07-08T15:22:59.598Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-07-08T15:23:05.122Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-07-08T15:23:07.582Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-07-08T15:23:10.076Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-07-08T15:23:16.184Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-07-08T15:23:20.444Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-07-08T15:23:26.038Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-07-08T15:23:29.748Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-07-08T15:23:32.495Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-07-08T15:27:41.350Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-07-08T15:27:47.966Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-07-08T15:27:54.022Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-07-08T15:27:57.910Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-07-08T15:28:24.977Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-07-08T15:28:31.446Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-07-08T15:28:36.689Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-07-08T15:28:41.162Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-07-08T15:28:47.122Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-07-08T15:28:51.014Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-07-08T15:28:59.967Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-07-08T15:29:13.162Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-07-08T15:29:16.698Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-07-08T15:29:24.888Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-07-08T15:29:49.463Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-07-08T15:29:57.560Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-07-08T15:30:13.272Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-07-08T15:30:20.672Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-07-08T15:30:32.954Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-07-08T15:33:08.018Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-07-08T15:33:14.666Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-07-08T15:33:18.764Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-07-08T15:33:28.668Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-07-08T15:33:38.355Z"
+          },
+          {
+            "length": 119,
+            "date": "2024-07-08T15:34:17.212Z"
+          },
+          {
+            "length": 118,
+            "date": "2024-07-08T15:34:23.317Z"
+          },
+          {
+            "length": 117,
+            "date": "2024-07-08T15:35:41.911Z"
+          },
+          {
+            "length": 116,
+            "date": "2024-07-08T15:36:02.772Z"
+          },
+          {
+            "length": 115,
+            "date": "2024-07-08T15:36:19.735Z"
+          },
+          {
+            "length": 114,
+            "date": "2024-07-08T15:36:24.292Z"
+          },
+          {
+            "length": 113,
+            "date": "2024-07-08T15:36:31.197Z"
+          },
+          {
+            "length": 112,
+            "date": "2024-07-08T15:36:58.646Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-07-08T15:37:03.429Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-07-08T15:37:44.316Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-07-08T15:37:49.886Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-07-08T15:37:54.385Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-07-08T15:37:59.262Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-07-08T15:38:01.950Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-07-08T15:39:29.858Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-07-08T15:40:27.732Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-07-08T15:40:39.561Z"
+          },
+          {
+            "length": 102,
+            "date": "2024-07-08T15:40:53.201Z"
+          },
+          {
+            "length": 101,
+            "date": "2024-07-08T15:42:13.500Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-07-08T15:42:35.772Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-07-08T15:42:45.429Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-07-08T15:42:54.602Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-07-08T15:43:17.953Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-07-08T15:43:51.755Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-07-08T15:43:56.468Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-07-08T15:44:13.971Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-07-08T15:44:19.568Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-07-08T15:44:54.847Z"
           }
         ]
       },
@@ -15250,6 +15987,274 @@
           {
             "length": 372,
             "date": "2024-07-08T15:20:36.633Z"
+          },
+          {
+            "length": 373,
+            "date": "2024-07-08T15:21:02.410Z"
+          },
+          {
+            "length": 374,
+            "date": "2024-07-08T15:21:19.479Z"
+          },
+          {
+            "length": 375,
+            "date": "2024-07-08T15:21:38.272Z"
+          },
+          {
+            "length": 376,
+            "date": "2024-07-08T15:22:48.654Z"
+          },
+          {
+            "length": 377,
+            "date": "2024-07-08T15:22:53.454Z"
+          },
+          {
+            "length": 378,
+            "date": "2024-07-08T15:22:56.182Z"
+          },
+          {
+            "length": 379,
+            "date": "2024-07-08T15:22:59.598Z"
+          },
+          {
+            "length": 380,
+            "date": "2024-07-08T15:23:05.122Z"
+          },
+          {
+            "length": 381,
+            "date": "2024-07-08T15:23:07.582Z"
+          },
+          {
+            "length": 382,
+            "date": "2024-07-08T15:23:10.076Z"
+          },
+          {
+            "length": 383,
+            "date": "2024-07-08T15:23:16.184Z"
+          },
+          {
+            "length": 384,
+            "date": "2024-07-08T15:23:20.444Z"
+          },
+          {
+            "length": 385,
+            "date": "2024-07-08T15:23:26.038Z"
+          },
+          {
+            "length": 386,
+            "date": "2024-07-08T15:23:29.748Z"
+          },
+          {
+            "length": 387,
+            "date": "2024-07-08T15:23:32.495Z"
+          },
+          {
+            "length": 388,
+            "date": "2024-07-08T15:27:41.350Z"
+          },
+          {
+            "length": 389,
+            "date": "2024-07-08T15:27:47.966Z"
+          },
+          {
+            "length": 390,
+            "date": "2024-07-08T15:27:54.022Z"
+          },
+          {
+            "length": 391,
+            "date": "2024-07-08T15:27:57.910Z"
+          },
+          {
+            "length": 392,
+            "date": "2024-07-08T15:28:24.977Z"
+          },
+          {
+            "length": 393,
+            "date": "2024-07-08T15:28:31.447Z"
+          },
+          {
+            "length": 394,
+            "date": "2024-07-08T15:28:36.689Z"
+          },
+          {
+            "length": 395,
+            "date": "2024-07-08T15:28:41.162Z"
+          },
+          {
+            "length": 396,
+            "date": "2024-07-08T15:28:47.122Z"
+          },
+          {
+            "length": 397,
+            "date": "2024-07-08T15:28:51.014Z"
+          },
+          {
+            "length": 398,
+            "date": "2024-07-08T15:28:59.967Z"
+          },
+          {
+            "length": 399,
+            "date": "2024-07-08T15:29:13.162Z"
+          },
+          {
+            "length": 400,
+            "date": "2024-07-08T15:29:16.698Z"
+          },
+          {
+            "length": 401,
+            "date": "2024-07-08T15:29:24.888Z"
+          },
+          {
+            "length": 402,
+            "date": "2024-07-08T15:29:49.463Z"
+          },
+          {
+            "length": 403,
+            "date": "2024-07-08T15:29:57.560Z"
+          },
+          {
+            "length": 404,
+            "date": "2024-07-08T15:30:13.272Z"
+          },
+          {
+            "length": 405,
+            "date": "2024-07-08T15:30:20.672Z"
+          },
+          {
+            "length": 406,
+            "date": "2024-07-08T15:30:32.954Z"
+          },
+          {
+            "length": 407,
+            "date": "2024-07-08T15:33:08.018Z"
+          },
+          {
+            "length": 408,
+            "date": "2024-07-08T15:33:14.666Z"
+          },
+          {
+            "length": 409,
+            "date": "2024-07-08T15:33:18.764Z"
+          },
+          {
+            "length": 410,
+            "date": "2024-07-08T15:33:28.668Z"
+          },
+          {
+            "length": 411,
+            "date": "2024-07-08T15:33:38.355Z"
+          },
+          {
+            "length": 412,
+            "date": "2024-07-08T15:34:17.212Z"
+          },
+          {
+            "length": 413,
+            "date": "2024-07-08T15:34:23.317Z"
+          },
+          {
+            "length": 414,
+            "date": "2024-07-08T15:35:41.911Z"
+          },
+          {
+            "length": 415,
+            "date": "2024-07-08T15:36:02.772Z"
+          },
+          {
+            "length": 416,
+            "date": "2024-07-08T15:36:19.735Z"
+          },
+          {
+            "length": 417,
+            "date": "2024-07-08T15:36:24.292Z"
+          },
+          {
+            "length": 418,
+            "date": "2024-07-08T15:36:31.197Z"
+          },
+          {
+            "length": 419,
+            "date": "2024-07-08T15:36:58.646Z"
+          },
+          {
+            "length": 420,
+            "date": "2024-07-08T15:37:03.429Z"
+          },
+          {
+            "length": 421,
+            "date": "2024-07-08T15:37:44.316Z"
+          },
+          {
+            "length": 422,
+            "date": "2024-07-08T15:37:49.886Z"
+          },
+          {
+            "length": 423,
+            "date": "2024-07-08T15:37:54.385Z"
+          },
+          {
+            "length": 424,
+            "date": "2024-07-08T15:37:59.262Z"
+          },
+          {
+            "length": 425,
+            "date": "2024-07-08T15:38:01.950Z"
+          },
+          {
+            "length": 426,
+            "date": "2024-07-08T15:39:29.858Z"
+          },
+          {
+            "length": 427,
+            "date": "2024-07-08T15:40:27.732Z"
+          },
+          {
+            "length": 428,
+            "date": "2024-07-08T15:40:39.561Z"
+          },
+          {
+            "length": 429,
+            "date": "2024-07-08T15:40:53.201Z"
+          },
+          {
+            "length": 430,
+            "date": "2024-07-08T15:42:13.500Z"
+          },
+          {
+            "length": 431,
+            "date": "2024-07-08T15:42:35.772Z"
+          },
+          {
+            "length": 432,
+            "date": "2024-07-08T15:42:45.429Z"
+          },
+          {
+            "length": 433,
+            "date": "2024-07-08T15:42:54.602Z"
+          },
+          {
+            "length": 434,
+            "date": "2024-07-08T15:43:17.953Z"
+          },
+          {
+            "length": 435,
+            "date": "2024-07-08T15:43:51.755Z"
+          },
+          {
+            "length": 436,
+            "date": "2024-07-08T15:43:56.468Z"
+          },
+          {
+            "length": 437,
+            "date": "2024-07-08T15:44:13.971Z"
+          },
+          {
+            "length": 438,
+            "date": "2024-07-08T15:44:19.568Z"
+          },
+          {
+            "length": 439,
+            "date": "2024-07-08T15:44:54.847Z"
           }
         ]
       },
