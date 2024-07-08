@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 20,
+      "currentCardIndex": 28,
       "currentCardSide": "front",
       "cards": [
         {
@@ -217,26 +217,6 @@
         },
         {
           "front": {
-            "content": "tristesse"
-          },
-          "back": {
-            "content": [
-              "- [sadness]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "souffrance"
-          },
-          "back": {
-            "content": [
-              "- [suffering]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "se semble"
           },
           "back": {
@@ -247,31 +227,11 @@
         },
         {
           "front": {
-            "content": "rapprocher"
-          },
-          "back": {
-            "content": [
-              "- [to get close]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "peine"
           },
           "back": {
             "content": [
               "- [penalty/punishment]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "douce"
-          },
-          "back": {
-            "content": [
-              "- [gentle/soft/quiet]: "
             ]
           }
         },
@@ -297,16 +257,6 @@
         },
         {
           "front": {
-            "content": "entièrement"
-          },
-          "back": {
-            "content": [
-              "- [entirely]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "déclencher"
           },
           "back": {
@@ -317,61 +267,11 @@
         },
         {
           "front": {
-            "content": "secours (n. pl.)"
-          },
-          "back": {
-            "content": [
-              "- [help]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "probablement"
-          },
-          "back": {
-            "content": [
-              "- [probably]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "survivre/survie"
-          },
-          "back": {
-            "content": [
-              "- [to survive]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "intense"
-          },
-          "back": {
-            "content": [
-              "- [intense]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "empreinte"
           },
           "back": {
             "content": [
               "- [footprint]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "usine"
-          },
-          "back": {
-            "content": [
-              "- [factory]: "
             ]
           }
         },
@@ -428,7 +328,7 @@
       ]
     },
     {
-      "currentCardIndex": 77,
+      "currentCardIndex": 78,
       "currentCardSide": "front",
       "cards": [
         {
@@ -1897,6 +1797,106 @@
           "back": {
             "content": [
               "- [dear]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "tristesse"
+          },
+          "back": {
+            "content": [
+              "- [sadness]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "souffrance"
+          },
+          "back": {
+            "content": [
+              "- [suffering]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rapprocher"
+          },
+          "back": {
+            "content": [
+              "- [to get close]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "douce"
+          },
+          "back": {
+            "content": [
+              "- [gentle/soft/quiet]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "entièrement"
+          },
+          "back": {
+            "content": [
+              "- [entirely]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "secours (n. pl.)"
+          },
+          "back": {
+            "content": [
+              "- [help]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "probablement"
+          },
+          "back": {
+            "content": [
+              "- [probably]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "survivre/survie"
+          },
+          "back": {
+            "content": [
+              "- [to survive]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "intense"
+          },
+          "back": {
+            "content": [
+              "- [intense]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "usine"
+          },
+          "back": {
+            "content": [
+              "- [factory]: "
             ]
           }
         }
@@ -10308,6 +10308,76 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-08T01:26:31.447Z"
+      },
+      {
+        "type": "move",
+        "word": "tristesse",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:34:06.822Z"
+      },
+      {
+        "type": "move",
+        "word": "souffrance",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:34:11.485Z"
+      },
+      {
+        "type": "move",
+        "word": "rapprocher",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:35:13.277Z"
+      },
+      {
+        "type": "move",
+        "word": "douce",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:36:24.741Z"
+      },
+      {
+        "type": "move",
+        "word": "entièrement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:39:33.266Z"
+      },
+      {
+        "type": "move",
+        "word": "secours (n. pl.)",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:40:58.266Z"
+      },
+      {
+        "type": "move",
+        "word": "probablement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:41:03.300Z"
+      },
+      {
+        "type": "move",
+        "word": "survivre/survie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:41:18.270Z"
+      },
+      {
+        "type": "move",
+        "word": "intense",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:41:50.100Z"
+      },
+      {
+        "type": "move",
+        "word": "usine",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-08T01:43:34.244Z"
       }
     ],
     "levels": [
@@ -11604,6 +11674,46 @@
           {
             "length": 42,
             "date": "2024-07-08T01:26:31.447Z"
+          },
+          {
+            "length": 41,
+            "date": "2024-07-08T01:34:06.822Z"
+          },
+          {
+            "length": 40,
+            "date": "2024-07-08T01:34:11.485Z"
+          },
+          {
+            "length": 39,
+            "date": "2024-07-08T01:35:13.277Z"
+          },
+          {
+            "length": 38,
+            "date": "2024-07-08T01:36:24.741Z"
+          },
+          {
+            "length": 37,
+            "date": "2024-07-08T01:39:33.266Z"
+          },
+          {
+            "length": 36,
+            "date": "2024-07-08T01:40:58.266Z"
+          },
+          {
+            "length": 35,
+            "date": "2024-07-08T01:41:03.300Z"
+          },
+          {
+            "length": 34,
+            "date": "2024-07-08T01:41:18.270Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-07-08T01:41:50.100Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-07-08T01:43:34.244Z"
           }
         ]
       },
@@ -13924,6 +14034,46 @@
           {
             "length": 149,
             "date": "2024-07-08T01:26:31.447Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-07-08T01:34:06.822Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-07-08T01:34:11.485Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-07-08T01:35:13.277Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-07-08T01:36:24.741Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-07-08T01:39:33.266Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-07-08T01:40:58.266Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-07-08T01:41:03.300Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-07-08T01:41:18.270Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-07-08T01:41:50.100Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-07-08T01:43:34.244Z"
           }
         ]
       },
