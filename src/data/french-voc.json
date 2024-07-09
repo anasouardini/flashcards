@@ -339,7 +339,7 @@
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 43,
       "currentCardSide": "front",
       "cards": [
         {
@@ -783,11 +783,21 @@
               "- [respect]"
             ]
           }
+        },
+        {
+          "front": {
+            "content": " renseigné"
+          },
+          "back": {
+            "content": [
+              "- [informed]"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 4,
+      "currentCardIndex": 9,
       "currentCardSide": "front",
       "cards": [
         {
@@ -878,16 +888,6 @@
           "back": {
             "content": [
               "- [fill]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": " renseigné"
-          },
-          "back": {
-            "content": [
-              "- [informed]"
             ]
           }
         },
@@ -11259,6 +11259,13 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-09T16:28:53.618Z"
+      },
+      {
+        "type": "move",
+        "word": "renseigné",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-09T16:29:47.746Z"
       }
     ],
     "levels": [
@@ -15467,6 +15474,10 @@
           {
             "length": 44,
             "date": "2024-07-09T16:28:53.618Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-07-09T16:29:47.746Z"
           }
         ]
       },
@@ -17055,6 +17066,10 @@
           {
             "length": 486,
             "date": "2024-07-09T16:28:53.618Z"
+          },
+          {
+            "length": 485,
+            "date": "2024-07-09T16:29:47.746Z"
           }
         ]
       },
