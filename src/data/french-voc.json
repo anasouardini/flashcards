@@ -804,12 +804,42 @@
               "- [reach]"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "lamentable"
+          },
+          "back": {
+            "content": [
+              "- [pathetic/lamentable]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": " avoue - 13-05-24"
+          },
+          "back": {
+            "content": [
+              "- [admit/confesse]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "tôt"
+          },
+          "back": {
+            "content": [
+              "- [early]"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 131,
-      "currentCardSide": "back",
+      "currentCardIndex": 170,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2420,26 +2450,6 @@
         },
         {
           "front": {
-            "content": "lamentable"
-          },
-          "back": {
-            "content": [
-              "- [pathetic/lamentable]:"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": " avoue - 13-05-24"
-          },
-          "back": {
-            "content": [
-              "- [admit/confesse]"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "lourds"
           },
           "back": {
@@ -2567,16 +2577,6 @@
           "back": {
             "content": [
               "- [via]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "tôt"
-          },
-          "back": {
-            "content": [
-              "- [early]"
             ]
           }
         },
@@ -11273,6 +11273,27 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-09T20:32:04.670Z"
+      },
+      {
+        "type": "move",
+        "word": "lamentable",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-10T02:55:51.708Z"
+      },
+      {
+        "type": "move",
+        "word": "avoue - 13-05-24",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-10T02:56:05.787Z"
+      },
+      {
+        "type": "move",
+        "word": "tôt",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-10T02:58:26.019Z"
       }
     ],
     "levels": [
@@ -15489,6 +15510,18 @@
           {
             "length": 46,
             "date": "2024-07-09T20:32:04.735Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-07-10T02:55:51.708Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-07-10T02:56:05.787Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-07-10T02:58:26.019Z"
           }
         ]
       },
@@ -17085,6 +17118,18 @@
           {
             "length": 484,
             "date": "2024-07-09T20:32:04.735Z"
+          },
+          {
+            "length": 483,
+            "date": "2024-07-10T02:55:51.708Z"
+          },
+          {
+            "length": 482,
+            "date": "2024-07-10T02:56:05.787Z"
+          },
+          {
+            "length": 481,
+            "date": "2024-07-10T02:58:26.019Z"
           }
         ]
       },
