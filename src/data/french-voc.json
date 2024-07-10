@@ -834,11 +834,21 @@
               "- [early]"
             ]
           }
+        },
+        {
+          "front": {
+            "content": " taquiner"
+          },
+          "back": {
+            "content": [
+              "- [tease]"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 170,
+      "currentCardIndex": 201,
       "currentCardSide": "front",
       "cards": [
         {
@@ -2657,16 +2667,6 @@
           "back": {
             "content": [
               "- [rock]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": " taquiner"
-          },
-          "back": {
-            "content": [
-              "- [tease]"
             ]
           }
         },
@@ -11294,6 +11294,13 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-10T02:58:26.019Z"
+      },
+      {
+        "type": "move",
+        "word": "taquiner",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-10T18:26:46.327Z"
       }
     ],
     "levels": [
@@ -15522,6 +15529,10 @@
           {
             "length": 49,
             "date": "2024-07-10T02:58:26.019Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-07-10T18:26:46.376Z"
           }
         ]
       },
@@ -17130,6 +17141,10 @@
           {
             "length": 481,
             "date": "2024-07-10T02:58:26.019Z"
+          },
+          {
+            "length": 480,
+            "date": "2024-07-10T18:26:46.376Z"
           }
         ]
       },
