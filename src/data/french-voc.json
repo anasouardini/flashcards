@@ -864,11 +864,21 @@
               "- [arrangement/organization/layout]:"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "adéquat"
+          },
+          "back": {
+            "content": [
+              "- [adequate]"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 258,
+      "currentCardIndex": 259,
       "currentCardSide": "front",
       "cards": [
         {
@@ -3456,16 +3466,6 @@
           "back": {
             "content": [
               "- [contradictory]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "adéquat"
-          },
-          "back": {
-            "content": [
-              "- [adequate]"
             ]
           }
         },
@@ -11336,6 +11336,13 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-12T19:54:20.820Z"
+      },
+      {
+        "type": "move",
+        "word": "adéquat",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-12T21:31:04.447Z"
       }
     ],
     "levels": [
@@ -15592,6 +15599,10 @@
           {
             "length": 51,
             "date": "2024-07-12T19:54:20.821Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-07-12T21:31:04.448Z"
           }
         ]
       },
@@ -17220,6 +17231,10 @@
           {
             "length": 478,
             "date": "2024-07-12T19:54:20.821Z"
+          },
+          {
+            "length": 477,
+            "date": "2024-07-12T21:31:04.448Z"
           }
         ]
       },
