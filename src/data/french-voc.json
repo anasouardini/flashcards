@@ -844,11 +844,21 @@
               "- [tease]"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "découle"
+          },
+          "back": {
+            "content": [
+              "- [follows (happens as a concequence)]: il découle a la gère que le negative : war results in only the negative"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 201,
+      "currentCardIndex": 231,
       "currentCardSide": "front",
       "cards": [
         {
@@ -3193,16 +3203,6 @@
           "back": {
             "content": [
               "- [damage]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "découle"
-          },
-          "back": {
-            "content": [
-              "- [follows (happens as a concequence)]: il découle a la gère que le negative : war results in only the negative"
             ]
           }
         },
@@ -11301,6 +11301,13 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-10T18:26:46.327Z"
+      },
+      {
+        "type": "move",
+        "word": "découle",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-12T19:52:53.978Z"
       }
     ],
     "levels": [
@@ -15533,6 +15540,10 @@
           {
             "length": 50,
             "date": "2024-07-10T18:26:46.376Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-07-12T19:52:54.043Z"
           }
         ]
       },
@@ -17145,6 +17156,10 @@
           {
             "length": 480,
             "date": "2024-07-10T18:26:46.376Z"
+          },
+          {
+            "length": 479,
+            "date": "2024-07-12T19:52:54.043Z"
           }
         ]
       },
