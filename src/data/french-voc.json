@@ -335,11 +335,21 @@
               "- [manner/method]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "découle"
+          },
+          "back": {
+            "content": [
+              "- [follows (happens as a concequence)]: il découle a la gère que le negative : war results in only the negative"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 43,
+      "currentCardIndex": 49,
       "currentCardSide": "front",
       "cards": [
         {
@@ -842,26 +852,6 @@
           "back": {
             "content": [
               "- [tease]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "découle"
-          },
-          "back": {
-            "content": [
-              "- [follows (happens as a concequence)]: il découle a la gère que le negative : war results in only the negative"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "pareil"
-          },
-          "back": {
-            "content": [
-              "- [same]:"
             ]
           }
         }
@@ -5510,6 +5500,16 @@
           "back": {
             "content": [
               "- [probably]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "pareil"
+          },
+          "back": {
+            "content": [
+              "- [same]:"
             ]
           }
         }
@@ -11315,6 +11315,20 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-12T19:53:21.013Z"
+      },
+      {
+        "type": "move",
+        "word": "pareil",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-12T19:53:36.534Z"
+      },
+      {
+        "type": "move",
+        "word": "découle",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-07-12T19:53:38.452Z"
       }
     ],
     "levels": [
@@ -12671,6 +12685,10 @@
           {
             "length": 33,
             "date": "2024-07-09T16:28:51.810Z"
+          },
+          {
+            "length": 34,
+            "date": "2024-07-12T19:53:38.452Z"
           }
         ]
       },
@@ -15555,6 +15573,14 @@
           {
             "length": 52,
             "date": "2024-07-12T19:53:21.013Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-07-12T19:53:36.534Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-07-12T19:53:38.452Z"
           }
         ]
       },
@@ -17175,6 +17201,10 @@
           {
             "length": 478,
             "date": "2024-07-12T19:53:21.013Z"
+          },
+          {
+            "length": 479,
+            "date": "2024-07-12T19:53:36.534Z"
           }
         ]
       },
