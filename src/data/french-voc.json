@@ -854,11 +854,21 @@
               "- [tease]"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "agencement"
+          },
+          "back": {
+            "content": [
+              "- [arrangement/organization/layout]:"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 231,
+      "currentCardIndex": 258,
       "currentCardSide": "front",
       "cards": [
         {
@@ -3203,16 +3213,6 @@
           "back": {
             "content": [
               "- [damage]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "agencement"
-          },
-          "back": {
-            "content": [
-              "- [arrangement/organization/layout]:"
             ]
           }
         },
@@ -11329,6 +11329,13 @@
         "fromLevel": 1,
         "toLevel": 0,
         "date": "2024-07-12T19:53:38.452Z"
+      },
+      {
+        "type": "move",
+        "word": "agencement",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-12T19:54:20.820Z"
       }
     ],
     "levels": [
@@ -15581,6 +15588,10 @@
           {
             "length": 50,
             "date": "2024-07-12T19:53:38.452Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-07-12T19:54:20.821Z"
           }
         ]
       },
@@ -17205,6 +17216,10 @@
           {
             "length": 479,
             "date": "2024-07-12T19:53:36.534Z"
+          },
+          {
+            "length": 478,
+            "date": "2024-07-12T19:54:20.821Z"
           }
         ]
       },
