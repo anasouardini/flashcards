@@ -854,6 +854,16 @@
               "- [follows (happens as a concequence)]: il découle a la gère que le negative : war results in only the negative"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "pareil"
+          },
+          "back": {
+            "content": [
+              "- [same]:"
+            ]
+          }
         }
       ]
     },
@@ -3203,16 +3213,6 @@
           "back": {
             "content": [
               "- [damage]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "pareil"
-          },
-          "back": {
-            "content": [
-              "- [same]:"
             ]
           }
         },
@@ -11308,6 +11308,13 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-12T19:52:53.978Z"
+      },
+      {
+        "type": "move",
+        "word": "pareil",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-12T19:53:21.013Z"
       }
     ],
     "levels": [
@@ -15544,6 +15551,10 @@
           {
             "length": 51,
             "date": "2024-07-12T19:52:54.043Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-07-12T19:53:21.013Z"
           }
         ]
       },
@@ -17160,6 +17171,10 @@
           {
             "length": 479,
             "date": "2024-07-12T19:52:54.043Z"
+          },
+          {
+            "length": 478,
+            "date": "2024-07-12T19:53:21.013Z"
           }
         ]
       },
