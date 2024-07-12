@@ -1006,12 +1006,39 @@
           "back": {
             "content": "- [layer]: "
           }
+        },
+        {
+          "front": {
+            "content": "engorgement"
+          },
+          "back": {
+            "content": "- [congestion/over-crowding]: "
+          }
+        },
+        {
+          "front": {
+            "content": "quant a"
+          },
+          "back": {
+            "content": "- [as to/in terms of]: "
+          }
+        },
+        {
+          "front": {
+            "content": "démarche"
+          },
+          "back": {
+            "content": [
+              "- [approach (n.)]: ",
+              "- [process (n.)]: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 293,
-      "currentCardSide": "front",
+      "currentCardIndex": 305,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -3976,37 +4003,10 @@
         },
         {
           "front": {
-            "content": "engorgement"
-          },
-          "back": {
-            "content": "- [congestion/over-crowding]: "
-          }
-        },
-        {
-          "front": {
-            "content": "quant a"
-          },
-          "back": {
-            "content": "- [as to/in terms of]: "
-          }
-        },
-        {
-          "front": {
             "content": "dépenses"
           },
           "back": {
             "content": "- [expenses]: the act of spending"
-          }
-        },
-        {
-          "front": {
-            "content": "démarche"
-          },
-          "back": {
-            "content": [
-              "- [approach (n.)]: ",
-              "- [process (n.)]: "
-            ]
           }
         },
         {
@@ -11448,6 +11448,27 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-12T21:44:42.746Z"
+      },
+      {
+        "type": "move",
+        "word": "engorgement",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-12T21:48:45.769Z"
+      },
+      {
+        "type": "move",
+        "word": "quant a",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-12T21:49:35.857Z"
+      },
+      {
+        "type": "move",
+        "word": "démarche",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-12T21:50:35.908Z"
       }
     ],
     "levels": [
@@ -15768,6 +15789,18 @@
           {
             "length": 67,
             "date": "2024-07-12T21:44:42.746Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-07-12T21:48:45.769Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-07-12T21:49:35.857Z"
+          },
+          {
+            "length": 70,
+            "date": "2024-07-12T21:50:35.908Z"
           }
         ]
       },
@@ -17460,6 +17493,18 @@
           {
             "length": 462,
             "date": "2024-07-12T21:44:42.746Z"
+          },
+          {
+            "length": 461,
+            "date": "2024-07-12T21:48:45.769Z"
+          },
+          {
+            "length": 460,
+            "date": "2024-07-12T21:49:35.857Z"
+          },
+          {
+            "length": 459,
+            "date": "2024-07-12T21:50:35.908Z"
           }
         ]
       },
