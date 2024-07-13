@@ -1033,11 +1033,31 @@
               "- [process (n.)]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "notamment"
+          },
+          "back": {
+            "content": [
+              "- [especially]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": " ennuie"
+          },
+          "back": {
+            "content": [
+              "- [annoy]"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 305,
+      "currentCardIndex": 314,
       "currentCardSide": "back",
       "cards": [
         {
@@ -4053,31 +4073,11 @@
         },
         {
           "front": {
-            "content": "notamment"
-          },
-          "back": {
-            "content": [
-              "- [especially]"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "affamer"
           },
           "back": {
             "content": [
               "- [starve]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": " ennuie"
-          },
-          "back": {
-            "content": [
-              "- [annoy]"
             ]
           }
         },
@@ -11469,6 +11469,20 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-12T21:50:35.908Z"
+      },
+      {
+        "type": "move",
+        "word": "notamment",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-13T00:16:16.153Z"
+      },
+      {
+        "type": "move",
+        "word": "ennuie",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-13T00:16:34.440Z"
       }
     ],
     "levels": [
@@ -15801,6 +15815,14 @@
           {
             "length": 70,
             "date": "2024-07-12T21:50:35.908Z"
+          },
+          {
+            "length": 71,
+            "date": "2024-07-13T00:16:16.153Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-07-13T00:16:34.440Z"
           }
         ]
       },
@@ -17505,6 +17527,14 @@
           {
             "length": 459,
             "date": "2024-07-12T21:50:35.908Z"
+          },
+          {
+            "length": 458,
+            "date": "2024-07-13T00:16:16.153Z"
+          },
+          {
+            "length": 457,
+            "date": "2024-07-13T00:16:34.440Z"
           }
         ]
       },
