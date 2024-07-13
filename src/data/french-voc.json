@@ -1053,12 +1053,30 @@
               "- [annoy]"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "apporter"
+          },
+          "back": {
+            "content": "- [bring]: "
+          }
+        },
+        {
+          "front": {
+            "content": "révéler"
+          },
+          "back": {
+            "content": [
+              "- [reveal]: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 314,
-      "currentCardSide": "back",
+      "currentCardIndex": 390,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -4710,14 +4728,6 @@
         },
         {
           "front": {
-            "content": "apporter"
-          },
-          "back": {
-            "content": "- [bring]: "
-          }
-        },
-        {
-          "front": {
             "content": "lent/lentement"
           },
           "back": {
@@ -4852,16 +4862,6 @@
           "back": {
             "content": [
               "- [polute]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "révéler"
-          },
-          "back": {
-            "content": [
-              "- [reveal]: "
             ]
           }
         },
@@ -11483,6 +11483,20 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-13T00:16:34.440Z"
+      },
+      {
+        "type": "move",
+        "word": "apporter",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-13T20:06:49.129Z"
+      },
+      {
+        "type": "move",
+        "word": "révéler",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-13T20:13:15.166Z"
       }
     ],
     "levels": [
@@ -15823,6 +15837,14 @@
           {
             "length": 72,
             "date": "2024-07-13T00:16:34.440Z"
+          },
+          {
+            "length": 73,
+            "date": "2024-07-13T20:06:49.216Z"
+          },
+          {
+            "length": 74,
+            "date": "2024-07-13T20:13:15.166Z"
           }
         ]
       },
@@ -17535,6 +17557,14 @@
           {
             "length": 457,
             "date": "2024-07-13T00:16:34.440Z"
+          },
+          {
+            "length": 456,
+            "date": "2024-07-13T20:06:49.216Z"
+          },
+          {
+            "length": 455,
+            "date": "2024-07-13T20:13:15.166Z"
           }
         ]
       },
