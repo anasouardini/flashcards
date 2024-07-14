@@ -1,8 +1,8 @@
 {
-  "currentLevel": 2,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 61,
       "currentCardSide": "front",
       "cards": [
         {
@@ -343,6 +343,297 @@
           "back": {
             "content": [
               "- [follows (happens as a concequence)]: il découle a la gère que le negative : war results in only the negative"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "recommandations/ une recommandation"
+          },
+          "back": {
+            "content": [
+              "- [recommendation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "affecter"
+          },
+          "back": {
+            "content": [
+              "- [to affect]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "entraîner"
+          },
+          "back": {
+            "content": [
+              "- [lead]: il peut entraîner de dysfonctionnement : it can lead to disfunction",
+              "- [train]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "cérébral/cervical"
+          },
+          "back": {
+            "content": [
+              "- [cerebral/cervical]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "subtile/subtilement"
+          },
+          "back": {
+            "content": [
+              "- [subtle/subtly]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "agit"
+          },
+          "back": {
+            "content": [
+              "- [act/behave]: il agit comme : it acts like"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "reçoit"
+          },
+          "back": {
+            "content": [
+              "- [recieves]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "provenance"
+          },
+          "back": {
+            "content": [
+              "- [origin/source]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "grandissant"
+          },
+          "back": {
+            "content": [
+              "- [growing/increasing]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "grandement"
+          },
+          "back": {
+            "content": [
+              "- [greatly]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la perte/perdu"
+          },
+          "back": {
+            "content": [
+              "- [the loss/losst]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la perturbation/perturber"
+          },
+          "back": {
+            "content": [
+              "- [the disruption/to disrupt]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "l'humeur"
+          },
+          "back": {
+            "content": [
+              "- [mood/humor]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la sensation"
+          },
+          "back": {
+            "content": [
+              "- [sensation/feeling]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la fatigue"
+          },
+          "back": {
+            "content": [
+              "- [the fatigue]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "le bien-être"
+          },
+          "back": {
+            "content": [
+              "- [well-being]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "amplifié"
+          },
+          "back": {
+            "content": [
+              "- [amplified]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la taille"
+          },
+          "back": {
+            "content": [
+              "- [size]: la taille de l'effet : the size of the effect"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "semble"
+          },
+          "back": {
+            "content": [
+              "- [seems]: il semble être : it seems to be"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "demander"
+          },
+          "back": {
+            "content": [
+              "- [ask]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "anecdote"
+          },
+          "back": {
+            "content": [
+              "- [anecdote]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "attribué"
+          },
+          "back": {
+            "content": [
+              "- [assigned/attributed/associated]: ils ont l'attribué a le chauffement : they have associated it to the heat"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "liée"
+          },
+          "back": {
+            "content": [
+              "- [linked]: liée a : linked to"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "panique"
+          },
+          "back": {
+            "content": [
+              "- [to panic]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "évitable"
+          },
+          "back": {
+            "content": [
+              "- [evitable/avoidable]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "failli"
+          },
+          "back": {
+            "content": [
+              "- [nearly/almost (presque)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "longtemps"
+          },
+          "back": {
+            "content": [
+              "- [for long time]: s'exposer trop longtemps : exposed for a long time"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "intensifie"
+          },
+          "back": {
+            "content": [
+              "- [intensifies]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "plus tôt"
+          },
+          "back": {
+            "content": [
+              "- [earlier]: "
             ]
           }
         }
@@ -1087,6 +1378,16 @@
           "back": {
             "content": [
               "- [occuring]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "majeur"
+          },
+          "back": {
+            "content": [
+              "- [major]: "
             ]
           }
         }
@@ -4392,7 +4693,7 @@
         },
         {
           "front": {
-            "content": " s'embouiller - 11-05-24"
+            "content": " s'embrouiller - 11-05-24"
           },
           "back": {
             "content": [
@@ -6740,7 +7041,7 @@
       },
       {
         "type": "move",
-        "word": "s'embouiller - 11-05-24",
+        "word": "s'embrouiller - 11-05-24",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-06-03T07:12:53.674Z"
@@ -7454,7 +7755,7 @@
       },
       {
         "type": "move",
-        "word": "s'embouiller - 11-05-24",
+        "word": "s'embrouiller - 11-05-24",
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-06-08T21:45:09.766Z"
@@ -10415,7 +10716,7 @@
       },
       {
         "type": "move",
-        "word": "s'embouiller - 11-05-24",
+        "word": "s'embrouiller - 11-05-24",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-07-08T15:18:18.009Z"
@@ -11511,6 +11812,13 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-13T20:24:52.118Z"
+      },
+      {
+        "type": "move",
+        "word": "majeur",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-14T21:13:14.469Z"
       }
     ],
     "levels": [
@@ -12871,6 +13179,10 @@
           {
             "length": 34,
             "date": "2024-07-12T19:53:38.452Z"
+          },
+          {
+            "length": 63,
+            "date": "2024-07-14T21:13:14.531Z"
           }
         ]
       },
@@ -15867,6 +16179,10 @@
           {
             "length": 76,
             "date": "2024-07-13T20:24:52.118Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-07-14T21:13:14.531Z"
           }
         ]
       },
