@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 47,
-      "currentCardSide": "back",
+      "currentCardIndex": 33,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -348,26 +348,6 @@
         },
         {
           "front": {
-            "content": "recommandations/ une recommandation"
-          },
-          "back": {
-            "content": [
-              "- [recommendation]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "affecter"
-          },
-          "back": {
-            "content": [
-              "- [to affect]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "entraîner"
           },
           "back": {
@@ -379,41 +359,11 @@
         },
         {
           "front": {
-            "content": "cérébral/cervical"
-          },
-          "back": {
-            "content": [
-              "- [cerebral/cervical]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "subtile/subtilement"
-          },
-          "back": {
-            "content": [
-              "- [subtle/subtly]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "agit"
           },
           "back": {
             "content": [
               "- [act/behave]: il agit comme : it acts like"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "reçoit"
-          },
-          "back": {
-            "content": [
-              "- [recieves]: "
             ]
           }
         },
@@ -449,16 +399,6 @@
         },
         {
           "front": {
-            "content": "la perte/perdu"
-          },
-          "back": {
-            "content": [
-              "- [the loss/losst]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "l'humeur"
           },
           "back": {
@@ -474,16 +414,6 @@
           "back": {
             "content": [
               "- [nearly/almost (presque)]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la perturbation/perturber"
-          },
-          "back": {
-            "content": [
-              "- [the disruption/to disrupt]: "
             ]
           }
         }
@@ -1388,6 +1318,76 @@
           "back": {
             "content": [
               "- [sensation/feeling]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la perturbation/perturber"
+          },
+          "back": {
+            "content": [
+              "- [disturbing/to disturb]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la perte/perdu"
+          },
+          "back": {
+            "content": [
+              "- [the loss/losst]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "reçoit"
+          },
+          "back": {
+            "content": [
+              "- [recieves]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "subtile/subtilement"
+          },
+          "back": {
+            "content": [
+              "- [subtle/subtly]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "cérébral/cervical"
+          },
+          "back": {
+            "content": [
+              "- [cerebral/cervical]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "affecter"
+          },
+          "back": {
+            "content": [
+              "- [to affect]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "recommandations/ une recommandation"
+          },
+          "back": {
+            "content": [
+              "- [recommendation]: "
             ]
           }
         }
@@ -11938,6 +11938,55 @@
         "fromLevel": 1,
         "toLevel": 0,
         "date": "2024-07-16T15:08:13.616Z"
+      },
+      {
+        "type": "move",
+        "word": "la perturbation/perturber",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:09:37.240Z"
+      },
+      {
+        "type": "move",
+        "word": "la perte/perdu",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:10:08.551Z"
+      },
+      {
+        "type": "move",
+        "word": "reçoit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:12:52.687Z"
+      },
+      {
+        "type": "move",
+        "word": "subtile/subtilement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:13:24.655Z"
+      },
+      {
+        "type": "move",
+        "word": "cérébral/cervical",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:13:40.590Z"
+      },
+      {
+        "type": "move",
+        "word": "affecter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:14:23.216Z"
+      },
+      {
+        "type": "move",
+        "word": "recommandations/ une recommandation",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:14:36.912Z"
       }
     ],
     "levels": [
@@ -13370,6 +13419,34 @@
           {
             "length": 48,
             "date": "2024-07-16T15:08:13.616Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-07-16T15:09:37.241Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-07-16T15:10:08.551Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-07-16T15:12:52.687Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-07-16T15:13:24.655Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-07-16T15:13:40.590Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-07-16T15:14:23.216Z"
+          },
+          {
+            "length": 41,
+            "date": "2024-07-16T15:14:36.912Z"
           }
         ]
       },
@@ -16438,6 +16515,34 @@
           {
             "length": 92,
             "date": "2024-07-16T15:08:13.616Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-07-16T15:09:37.241Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-07-16T15:10:08.551Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-07-16T15:12:52.687Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-07-16T15:13:24.655Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-07-16T15:13:40.590Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-07-16T15:14:23.216Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-07-16T15:14:36.912Z"
           }
         ]
       },
