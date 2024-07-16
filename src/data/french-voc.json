@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 61,
-      "currentCardSide": "front",
+      "currentCardIndex": 47,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -459,141 +459,11 @@
         },
         {
           "front": {
-            "content": "la perturbation/perturber"
-          },
-          "back": {
-            "content": [
-              "- [the disruption/to disrupt]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "l'humeur"
           },
           "back": {
             "content": [
               "- [mood/humor]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la sensation"
-          },
-          "back": {
-            "content": [
-              "- [sensation/feeling]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la fatigue"
-          },
-          "back": {
-            "content": [
-              "- [the fatigue]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "le bien-être"
-          },
-          "back": {
-            "content": [
-              "- [well-being]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "amplifié"
-          },
-          "back": {
-            "content": [
-              "- [amplified]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la taille"
-          },
-          "back": {
-            "content": [
-              "- [size]: la taille de l'effet : the size of the effect"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "semble"
-          },
-          "back": {
-            "content": [
-              "- [seems]: il semble être : it seems to be"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "demander"
-          },
-          "back": {
-            "content": [
-              "- [ask]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "anecdote"
-          },
-          "back": {
-            "content": [
-              "- [anecdote]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "attribué"
-          },
-          "back": {
-            "content": [
-              "- [assigned/attributed/associated]: ils ont l'attribué a le chauffement : they have associated it to the heat"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "liée"
-          },
-          "back": {
-            "content": [
-              "- [linked]: liée a : linked to"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "panique"
-          },
-          "back": {
-            "content": [
-              "- [to panic]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "évitable"
-          },
-          "back": {
-            "content": [
-              "- [evitable/avoidable]: "
             ]
           }
         },
@@ -609,38 +479,18 @@
         },
         {
           "front": {
-            "content": "longtemps"
+            "content": "la perturbation/perturber"
           },
           "back": {
             "content": [
-              "- [for long time]: s'exposer trop longtemps : exposed for a long time"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "intensifie"
-          },
-          "back": {
-            "content": [
-              "- [intensifies]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "plus tôt"
-          },
-          "back": {
-            "content": [
-              "- [earlier]: "
+              "- [the disruption/to disrupt]: "
             ]
           }
         }
       ]
     },
     {
-      "currentCardIndex": 49,
+      "currentCardIndex": 91,
       "currentCardSide": "front",
       "cards": [
         {
@@ -1388,6 +1238,156 @@
           "back": {
             "content": [
               "- [major]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "plus tôt"
+          },
+          "back": {
+            "content": [
+              "- [earlier]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "intensifie"
+          },
+          "back": {
+            "content": [
+              "- [intensifies]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "longtemps"
+          },
+          "back": {
+            "content": [
+              "- [for long time]: s'exposer trop longtemps : exposed for a long time"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "évitable"
+          },
+          "back": {
+            "content": [
+              "- [evitable/avoidable]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "panique"
+          },
+          "back": {
+            "content": [
+              "- [to panic]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "liée"
+          },
+          "back": {
+            "content": [
+              "- [linked]: liée a : linked to"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "attribué"
+          },
+          "back": {
+            "content": [
+              "- [assigned/attributed/associated]: ils ont l'attribué a le chauffement : they have associated it to the heat"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "anecdote"
+          },
+          "back": {
+            "content": [
+              "- [anecdote]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "demander"
+          },
+          "back": {
+            "content": [
+              "- [ask]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "semble"
+          },
+          "back": {
+            "content": [
+              "- [seems]: il semble être : it seems to be"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la taille"
+          },
+          "back": {
+            "content": [
+              "- [size]: la taille de l'effet : the size of the effect"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "amplifié"
+          },
+          "back": {
+            "content": [
+              "- [amplified]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "le bien-être"
+          },
+          "back": {
+            "content": [
+              "- [well-being]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la fatigue"
+          },
+          "back": {
+            "content": [
+              "- [the fatigue]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la sensation"
+          },
+          "back": {
+            "content": [
+              "- [sensation/feeling]: "
             ]
           }
         }
@@ -11819,6 +11819,125 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-14T21:13:14.469Z"
+      },
+      {
+        "type": "move",
+        "word": "plus tôt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:01:58.693Z"
+      },
+      {
+        "type": "move",
+        "word": "intensifie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:02:00.444Z"
+      },
+      {
+        "type": "move",
+        "word": "longtemps",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:02:08.893Z"
+      },
+      {
+        "type": "move",
+        "word": "évitable",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:02:53.454Z"
+      },
+      {
+        "type": "move",
+        "word": "panique",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:02:58.783Z"
+      },
+      {
+        "type": "move",
+        "word": "liée",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:03:05.287Z"
+      },
+      {
+        "type": "move",
+        "word": "attribué",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:03:15.768Z"
+      },
+      {
+        "type": "move",
+        "word": "anecdote",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:04:30.015Z"
+      },
+      {
+        "type": "move",
+        "word": "demander",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:04:34.965Z"
+      },
+      {
+        "type": "move",
+        "word": "semble",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:04:49.319Z"
+      },
+      {
+        "type": "move",
+        "word": "la taille",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:05:05.591Z"
+      },
+      {
+        "type": "move",
+        "word": "amplifié",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:05:14.134Z"
+      },
+      {
+        "type": "move",
+        "word": "le bien-être",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:05:18.761Z"
+      },
+      {
+        "type": "move",
+        "word": "la fatigue",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:05:32.807Z"
+      },
+      {
+        "type": "move",
+        "word": "la sensation",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:05:43.943Z"
+      },
+      {
+        "type": "move",
+        "word": "la perturbation/perturber",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-16T15:07:13.416Z"
+      },
+      {
+        "type": "move",
+        "word": "la perturbation/perturber",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-07-16T15:08:13.616Z"
       }
     ],
     "levels": [
@@ -13183,6 +13302,74 @@
           {
             "length": 63,
             "date": "2024-07-14T21:13:14.531Z"
+          },
+          {
+            "length": 62,
+            "date": "2024-07-16T15:01:58.744Z"
+          },
+          {
+            "length": 61,
+            "date": "2024-07-16T15:02:00.444Z"
+          },
+          {
+            "length": 60,
+            "date": "2024-07-16T15:02:08.893Z"
+          },
+          {
+            "length": 59,
+            "date": "2024-07-16T15:02:53.454Z"
+          },
+          {
+            "length": 58,
+            "date": "2024-07-16T15:02:58.783Z"
+          },
+          {
+            "length": 57,
+            "date": "2024-07-16T15:03:05.287Z"
+          },
+          {
+            "length": 56,
+            "date": "2024-07-16T15:03:15.768Z"
+          },
+          {
+            "length": 55,
+            "date": "2024-07-16T15:04:30.016Z"
+          },
+          {
+            "length": 54,
+            "date": "2024-07-16T15:04:34.965Z"
+          },
+          {
+            "length": 53,
+            "date": "2024-07-16T15:04:49.319Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-07-16T15:05:05.591Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-07-16T15:05:14.134Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-07-16T15:05:18.761Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-07-16T15:05:32.807Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-07-16T15:05:43.943Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-07-16T15:07:13.416Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-07-16T15:08:13.616Z"
           }
         ]
       },
@@ -16183,6 +16370,74 @@
           {
             "length": 77,
             "date": "2024-07-14T21:13:14.531Z"
+          },
+          {
+            "length": 78,
+            "date": "2024-07-16T15:01:58.744Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-07-16T15:02:00.445Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-07-16T15:02:08.893Z"
+          },
+          {
+            "length": 81,
+            "date": "2024-07-16T15:02:53.454Z"
+          },
+          {
+            "length": 82,
+            "date": "2024-07-16T15:02:58.783Z"
+          },
+          {
+            "length": 83,
+            "date": "2024-07-16T15:03:05.287Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-07-16T15:03:15.768Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-07-16T15:04:30.016Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-07-16T15:04:34.965Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-07-16T15:04:49.319Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-07-16T15:05:05.591Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-07-16T15:05:14.134Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-07-16T15:05:18.761Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-07-16T15:05:32.807Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-07-16T15:05:43.943Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-07-16T15:07:13.416Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-07-16T15:08:13.616Z"
           }
         ]
       },
