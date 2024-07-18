@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 36,
-      "currentCardSide": "front",
+      "currentCardIndex": 16,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -152,16 +152,6 @@
           "back": {
             "content": [
               "- [to sting]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "remettre"
-          },
-          "back": {
-            "content": [
-              "- [to put back]: "
             ]
           }
         },
@@ -374,6 +364,66 @@
           "back": {
             "content": [
               "- [nearly/almost (presque)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "éligible"
+          },
+          "back": {
+            "content": [
+              "- [eligible]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "un atout"
+          },
+          "back": {
+            "content": [
+              "- [asset/advantage]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "déboursé"
+          },
+          "back": {
+            "content": [
+              "- [spent]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rivaliser"
+          },
+          "back": {
+            "content": [
+              "- [compete]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "entraider"
+          },
+          "back": {
+            "content": [
+              "- [help eachother]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "lors"
+          },
+          "back": {
+            "content": [
+              "- [during]: "
             ]
           }
         }
@@ -1388,6 +1438,16 @@
           "back": {
             "content": [
               "- [impressive]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "remettre"
+          },
+          "back": {
+            "content": [
+              "- [to put back]: "
             ]
           }
         }
@@ -12015,6 +12075,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-16T15:22:14.229Z"
+      },
+      {
+        "type": "move",
+        "word": "remettre",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-18T17:34:15.756Z"
       }
     ],
     "levels": [
@@ -13491,6 +13558,10 @@
           {
             "length": 37,
             "date": "2024-07-16T15:22:14.229Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-07-18T17:34:15.813Z"
           }
         ]
       },
@@ -16603,6 +16674,10 @@
           {
             "length": 103,
             "date": "2024-07-16T15:22:14.229Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-07-18T17:34:15.813Z"
           }
         ]
       },
