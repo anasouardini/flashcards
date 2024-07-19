@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 16,
+      "currentCardIndex": 30,
       "currentCardSide": "back",
       "cards": [
         {
@@ -424,6 +424,26 @@
           "back": {
             "content": [
               "- [during]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "au courant"
+          },
+          "back": {
+            "content": [
+              "- [aware]: pour etre au courant : to be aware"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "ressemble"
+          },
+          "back": {
+            "content": [
+              "- [aware]: pour etre au courant : to be aware"
             ]
           }
         }
@@ -1002,7 +1022,7 @@
           },
           "back": {
             "content": [
-              "- [can]:"
+              "- [could (subjonctif)]:"
             ]
           }
         },
