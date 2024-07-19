@@ -1,5 +1,5 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
       "currentCardIndex": 42,
@@ -433,14 +433,24 @@
           },
           "back": {
             "content": [
-              "- [aware]: pour etre au courant : to be aware"
+              "- [looks like]: ressemble a lui : looks like him"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "près"
+          },
+          "back": {
+            "content": [
+              "- [close]: un peu près d'un metre : a little close to one meter"
             ]
           }
         }
       ]
     },
     {
-      "currentCardIndex": 91,
+      "currentCardIndex": 6,
       "currentCardSide": "front",
       "cards": [
         {
@@ -503,16 +513,6 @@
             "content": [
               "- [provide/supply]: ",
               "- [full/complete]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "près"
-          },
-          "back": {
-            "content": [
-              "- [close]: un peu près d'un metre : a little close to one meter"
             ]
           }
         },
@@ -12109,6 +12109,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-19T00:48:18.736Z"
+      },
+      {
+        "type": "move",
+        "word": "près",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-07-19T03:45:22.350Z"
       }
     ],
     "levels": [
@@ -13593,6 +13600,10 @@
           {
             "length": 43,
             "date": "2024-07-19T00:48:18.791Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-07-19T03:45:22.375Z"
           }
         ]
       },
@@ -16713,6 +16724,10 @@
           {
             "length": 105,
             "date": "2024-07-19T00:48:18.791Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-07-19T03:45:22.375Z"
           }
         ]
       },
