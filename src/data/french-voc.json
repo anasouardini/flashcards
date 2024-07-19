@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 30,
-      "currentCardSide": "back",
+      "currentCardIndex": 36,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -309,7 +309,7 @@
         },
         {
           "front": {
-            "content": "agit"
+            "content": "agit/agir"
           },
           "back": {
             "content": [
@@ -364,16 +364,6 @@
           "back": {
             "content": [
               "- [nearly/almost (presque)]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "éligible"
-          },
-          "back": {
-            "content": [
-              "- [eligible]: "
             ]
           }
         },
@@ -1470,6 +1460,16 @@
               "- [to put back]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "éligible"
+          },
+          "back": {
+            "content": [
+              "- [eligible]: "
+            ]
+          }
         }
       ]
     },
@@ -2284,7 +2284,7 @@
         },
         {
           "front": {
-            "content": " agiter"
+            "content": "agiter"
           },
           "back": {
             "content": [
@@ -12102,6 +12102,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-18T17:34:15.756Z"
+      },
+      {
+        "type": "move",
+        "word": "éligible",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-19T00:48:18.736Z"
       }
     ],
     "levels": [
@@ -13582,6 +13589,10 @@
           {
             "length": 42,
             "date": "2024-07-18T17:34:15.813Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-07-19T00:48:18.791Z"
           }
         ]
       },
@@ -16698,6 +16709,10 @@
           {
             "length": 104,
             "date": "2024-07-18T17:34:15.813Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-07-19T00:48:18.791Z"
           }
         ]
       },
