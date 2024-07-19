@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 45,
+      "currentCardIndex": 47,
       "currentCardSide": "front",
       "cards": [
         {
@@ -465,6 +465,26 @@
             "content": [
               "- [deception]",
               "- [deceive/mislead]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "faible/affaiblit/affaiblir"
+          },
+          "back": {
+            "content": [
+              "- [weak/weakens/to weaken]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "aboutir"
+          },
+          "back": {
+            "content": [
+              "- [to lead/succeed]: "
             ]
           }
         }
