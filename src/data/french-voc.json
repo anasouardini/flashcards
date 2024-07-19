@@ -1,8 +1,8 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 42,
+      "currentCardIndex": 45,
       "currentCardSide": "front",
       "cards": [
         {
@@ -446,11 +446,32 @@
               "- [close]: un peu près d'un metre : a little close to one meter"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "jusqu/jusqu'à"
+          },
+          "back": {
+            "content": [
+              "- [until]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "tromperie/trompe/trompeuse"
+          },
+          "back": {
+            "content": [
+              "- [deception]",
+              "- [deceive/mislead]"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 6,
+      "currentCardIndex": 103,
       "currentCardSide": "front",
       "cards": [
         {
@@ -628,7 +649,7 @@
           },
           "back": {
             "content": [
-              "- [make sure]: "
+              "- [assure/insure]: "
             ]
           }
         },
@@ -1474,7 +1495,7 @@
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 435,
       "currentCardSide": "front",
       "cards": [
         {
@@ -2924,7 +2945,7 @@
         },
         {
           "front": {
-            "content": " lorsqe"
+            "content": "lorsqe"
           },
           "back": {
             "content": [
@@ -5710,17 +5731,6 @@
           "back": {
             "content": [
               "- [giant]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "tromperie/trompe"
-          },
-          "back": {
-            "content": [
-              "- [deception]",
-              "- [deceive/mislead]"
             ]
           }
         },
@@ -12116,6 +12126,20 @@
         "fromLevel": 1,
         "toLevel": 0,
         "date": "2024-07-19T03:45:22.350Z"
+      },
+      {
+        "type": "move",
+        "word": "tromperie/trompe/trompeuse",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-19T14:48:51.487Z"
+      },
+      {
+        "type": "move",
+        "word": "tromperie/trompe/trompeuse",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-07-19T14:48:54.122Z"
       }
     ],
     "levels": [
@@ -13604,6 +13628,14 @@
           {
             "length": 44,
             "date": "2024-07-19T03:45:22.375Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-07-19T14:48:51.515Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-07-19T14:48:54.122Z"
           }
         ]
       },
@@ -16728,6 +16760,14 @@
           {
             "length": 104,
             "date": "2024-07-19T03:45:22.375Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-07-19T14:48:51.515Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-07-19T14:48:54.122Z"
           }
         ]
       },
@@ -18456,6 +18496,10 @@
           {
             "length": 453,
             "date": "2024-07-13T20:24:52.118Z"
+          },
+          {
+            "length": 452,
+            "date": "2024-07-19T14:48:51.515Z"
           }
         ]
       },
