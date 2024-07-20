@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 23,
+      "currentCardIndex": 40,
       "currentCardSide": "back",
       "cards": [
         {
@@ -319,7 +319,7 @@
         },
         {
           "front": {
-            "content": "provenance"
+            "content": "la provenance"
           },
           "back": {
             "content": [
@@ -545,6 +545,26 @@
           "back": {
             "content": [
               "- [gathering]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rouvre"
+          },
+          "back": {
+            "content": [
+              "- [reopens]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "immense"
+          },
+          "back": {
+            "content": [
+              "- [immense]: "
             ]
           }
         }
