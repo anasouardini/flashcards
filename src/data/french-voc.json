@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 47,
+      "currentCardIndex": 20,
       "currentCardSide": "front",
       "cards": [
         {
@@ -485,6 +485,66 @@
           "back": {
             "content": [
               "- [to lead/succeed]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "sec/sèche/assèchement"
+          },
+          "back": {
+            "content": [
+              "- [dry/dry(fem)/drying]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "pallier"
+          },
+          "back": {
+            "content": [
+              "- [mitigate/overcome]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "entretenir (j'entretiens)"
+          },
+          "back": {
+            "content": [
+              "- [maintain/keep/interivew]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "prolifération"
+          },
+          "back": {
+            "content": [
+              "- [proliferation]: la prolifération est le rapid grandissant de nombre de qqc"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "surplombant"
+          },
+          "back": {
+            "content": [
+              "- [overlooking]: les arbres sont suplombant sur la rivière : the trees are overlooking the river"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rassemblement"
+          },
+          "back": {
+            "content": [
+              "- [gathering]: "
             ]
           }
         }
