@@ -2,139 +2,9 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 40,
-      "currentCardSide": "back",
+      "currentCardIndex": 4,
+      "currentCardSide": "front",
       "cards": [
-        {
-          "front": {
-            "content": "semer"
-          },
-          "back": {
-            "content": "- [scatter/spread/defuse]: "
-          }
-        },
-        {
-          "front": {
-            "content": "épaisseu/épais"
-          },
-          "back": {
-            "content": [
-              "- [thickness/thick]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "surdoué"
-          },
-          "back": {
-            "content": [
-              "- [gifted]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "entente"
-          },
-          "back": {
-            "content": [
-              "- [agreement/harmony]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "déroutant"
-          },
-          "back": {
-            "content": [
-              "- [confusing]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "pénible"
-          },
-          "back": {
-            "content": [
-              "- [difficult/hard]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "expédié"
-          },
-          "back": {
-            "content": [
-              "- [send]: ",
-              "- [dispatch]: ",
-              "- [hurry]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "s'apercevoir"
-          },
-          "back": {
-            "content": [
-              "- [notice/realize]: je m'appercois que : I noticed that"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la lacune"
-          },
-          "back": {
-            "content": [
-              "- [shortcoming]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "outre"
-          },
-          "back": {
-            "content": [
-              "- [besides]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "le sommeil"
-          },
-          "back": {
-            "content": [
-              "- [sleep]: rattraper mon sommeil : catch my sleep"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "en témoigne"
-          },
-          "back": {
-            "content": [
-              "- [as evidence]: en témoigne mes excellents projets : as an evidence my excellent projects"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "surprenante"
-          },
-          "back": {
-            "content": [
-              "- [surprizing]: "
-            ]
-          }
-        },
         {
           "front": {
             "content": "désormais"
@@ -142,16 +12,6 @@
           "back": {
             "content": [
               "- [from now on]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "piquer"
-          },
-          "back": {
-            "content": [
-              "- [to sting]: "
             ]
           }
         },
@@ -177,31 +37,11 @@
         },
         {
           "front": {
-            "content": "se semble"
-          },
-          "back": {
-            "content": [
-              "- [to seem/appear]: il me smeble que : it seems to me that"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "peine"
           },
           "back": {
             "content": [
               "- [penalty/punishment]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "impeccable"
-          },
-          "back": {
-            "content": [
-              "- [perfect]: "
             ]
           }
         },
@@ -567,12 +407,22 @@
               "- [immense]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "endurer"
+          },
+          "back": {
+            "content": [
+              "- [to endure]: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 103,
-      "currentCardSide": "front",
+      "currentCardIndex": 1,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -1589,6 +1439,166 @@
           "back": {
             "content": [
               "- [eligible]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "semer"
+          },
+          "back": {
+            "content": "- [scatter/spread/defuse]: "
+          }
+        },
+        {
+          "front": {
+            "content": "épaisseu/épais"
+          },
+          "back": {
+            "content": [
+              "- [thickness/thick]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "surdoué"
+          },
+          "back": {
+            "content": [
+              "- [gifted]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "entente"
+          },
+          "back": {
+            "content": [
+              "- [agreement/harmony]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "déroutant"
+          },
+          "back": {
+            "content": [
+              "- [confusing]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "pénible"
+          },
+          "back": {
+            "content": [
+              "- [difficult/hard]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "expédié"
+          },
+          "back": {
+            "content": [
+              "- [send]: ",
+              "- [dispatch]: ",
+              "- [hurry]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "s'apercevoir"
+          },
+          "back": {
+            "content": [
+              "- [notice/realize]: je m'appercois que : I noticed that"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la lacune"
+          },
+          "back": {
+            "content": [
+              "- [shortcoming]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "outre"
+          },
+          "back": {
+            "content": [
+              "- [besides]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "le sommeil"
+          },
+          "back": {
+            "content": [
+              "- [sleep]: rattraper mon sommeil : catch my sleep"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "en témoigne"
+          },
+          "back": {
+            "content": [
+              "- [as evidence]: en témoigne mes excellents projets : as an evidence my excellent projects"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "surprenante"
+          },
+          "back": {
+            "content": [
+              "- [surprizing]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "piquer"
+          },
+          "back": {
+            "content": [
+              "- [to sting]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "se semble"
+          },
+          "back": {
+            "content": [
+              "- [to seem/appear]: il me smeble que : it seems to me that"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "impeccable"
+          },
+          "back": {
+            "content": [
+              "- [perfect]: "
             ]
           }
         }
@@ -12240,6 +12250,118 @@
         "fromLevel": 1,
         "toLevel": 0,
         "date": "2024-07-19T14:48:54.122Z"
+      },
+      {
+        "type": "move",
+        "word": "semer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:26:10.418Z"
+      },
+      {
+        "type": "move",
+        "word": "épaisseu/épais",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:27:10.864Z"
+      },
+      {
+        "type": "move",
+        "word": "surdoué",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:27:16.080Z"
+      },
+      {
+        "type": "move",
+        "word": "entente",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:27:23.734Z"
+      },
+      {
+        "type": "move",
+        "word": "déroutant",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:27:29.639Z"
+      },
+      {
+        "type": "move",
+        "word": "pénible",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:27:32.264Z"
+      },
+      {
+        "type": "move",
+        "word": "expédié",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:27:41.275Z"
+      },
+      {
+        "type": "move",
+        "word": "s'apercevoir",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:28:00.343Z"
+      },
+      {
+        "type": "move",
+        "word": "la lacune",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:28:13.984Z"
+      },
+      {
+        "type": "move",
+        "word": "outre",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:28:17.392Z"
+      },
+      {
+        "type": "move",
+        "word": "le sommeil",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:28:20.248Z"
+      },
+      {
+        "type": "move",
+        "word": "en témoigne",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:28:43.016Z"
+      },
+      {
+        "type": "move",
+        "word": "surprenante",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:28:50.752Z"
+      },
+      {
+        "type": "move",
+        "word": "piquer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:30:07.240Z"
+      },
+      {
+        "type": "move",
+        "word": "se semble",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:31:46.712Z"
+      },
+      {
+        "type": "move",
+        "word": "impeccable",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:32:50.015Z"
       }
     ],
     "levels": [
@@ -13736,6 +13858,70 @@
           {
             "length": 46,
             "date": "2024-07-19T14:48:54.122Z"
+          },
+          {
+            "length": 56,
+            "date": "2024-07-21T22:26:10.520Z"
+          },
+          {
+            "length": 55,
+            "date": "2024-07-21T22:27:10.864Z"
+          },
+          {
+            "length": 54,
+            "date": "2024-07-21T22:27:16.080Z"
+          },
+          {
+            "length": 53,
+            "date": "2024-07-21T22:27:23.734Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-07-21T22:27:29.639Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-07-21T22:27:32.264Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-07-21T22:27:41.275Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-07-21T22:28:00.343Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-07-21T22:28:13.984Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-07-21T22:28:17.392Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-07-21T22:28:20.248Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-07-21T22:28:43.016Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-07-21T22:28:50.752Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-07-21T22:30:07.240Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-07-21T22:31:46.712Z"
+          },
+          {
+            "length": 41,
+            "date": "2024-07-21T22:32:50.015Z"
           }
         ]
       },
@@ -16868,6 +17054,70 @@
           {
             "length": 104,
             "date": "2024-07-19T14:48:54.122Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-07-21T22:26:10.520Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-07-21T22:27:10.864Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-07-21T22:27:16.080Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-07-21T22:27:23.734Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-07-21T22:27:29.639Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-07-21T22:27:32.264Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-07-21T22:27:41.275Z"
+          },
+          {
+            "length": 112,
+            "date": "2024-07-21T22:28:00.343Z"
+          },
+          {
+            "length": 113,
+            "date": "2024-07-21T22:28:13.984Z"
+          },
+          {
+            "length": 114,
+            "date": "2024-07-21T22:28:17.392Z"
+          },
+          {
+            "length": 115,
+            "date": "2024-07-21T22:28:20.248Z"
+          },
+          {
+            "length": 116,
+            "date": "2024-07-21T22:28:43.016Z"
+          },
+          {
+            "length": 117,
+            "date": "2024-07-21T22:28:50.752Z"
+          },
+          {
+            "length": 118,
+            "date": "2024-07-21T22:30:07.240Z"
+          },
+          {
+            "length": 119,
+            "date": "2024-07-21T22:31:46.712Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-07-21T22:32:50.015Z"
           }
         ]
       },
