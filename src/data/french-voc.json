@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 10,
+      "currentCardIndex": 17,
       "currentCardSide": "front",
       "cards": [
         {
@@ -107,51 +107,11 @@
         },
         {
           "front": {
-            "content": "grandement"
-          },
-          "back": {
-            "content": [
-              "- [greatly]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "l'humeur"
-          },
-          "back": {
-            "content": [
-              "- [mood/humor]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "failli"
-          },
-          "back": {
-            "content": [
-              "- [nearly/almost (presque)]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "un atout"
           },
           "back": {
             "content": [
               "- [asset/advantage]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "déboursé"
-          },
-          "back": {
-            "content": [
-              "- [spent]: "
             ]
           }
         },
@@ -212,27 +172,6 @@
           "back": {
             "content": [
               "- [close]: un peu près d'un metre : a little close to one meter"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "jusqu/jusqu'à"
-          },
-          "back": {
-            "content": [
-              "- [until]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "tromperie/trompe/trompeuse"
-          },
-          "back": {
-            "content": [
-              "- [deception]",
-              "- [deceive/mislead]"
             ]
           }
         },
@@ -1599,6 +1538,67 @@
           "back": {
             "content": [
               "- [growing/increasing]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "grandement"
+          },
+          "back": {
+            "content": [
+              "- [greatly]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "l'humeur"
+          },
+          "back": {
+            "content": [
+              "- [mood/humor]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "failli"
+          },
+          "back": {
+            "content": [
+              "- [nearly/almost (presque)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "déboursé"
+          },
+          "back": {
+            "content": [
+              "- [spent]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "jusqu/jusqu'à"
+          },
+          "back": {
+            "content": [
+              "- [until]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "tromperie/trompe/trompeuse"
+          },
+          "back": {
+            "content": [
+              "- [deception]",
+              "- [deceive/mislead]"
             ]
           }
         }
@@ -12411,6 +12411,48 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-21T22:41:31.432Z"
+      },
+      {
+        "type": "move",
+        "word": "grandement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:42:02.772Z"
+      },
+      {
+        "type": "move",
+        "word": "l'humeur",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:42:15.180Z"
+      },
+      {
+        "type": "move",
+        "word": "failli",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:42:26.716Z"
+      },
+      {
+        "type": "move",
+        "word": "déboursé",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:43:19.964Z"
+      },
+      {
+        "type": "move",
+        "word": "jusqu/jusqu'à",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:45:15.931Z"
+      },
+      {
+        "type": "move",
+        "word": "tromperie/trompe/trompeuse",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:45:34.603Z"
       }
     ],
     "levels": [
@@ -13999,6 +14041,30 @@
           {
             "length": 34,
             "date": "2024-07-21T22:41:31.432Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-07-21T22:42:02.772Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-07-21T22:42:15.180Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-07-21T22:42:26.716Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-07-21T22:43:19.964Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-07-21T22:45:15.931Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-07-21T22:45:34.603Z"
           }
         ]
       },
@@ -17223,6 +17289,30 @@
           {
             "length": 127,
             "date": "2024-07-21T22:41:31.432Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-07-21T22:42:02.773Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-07-21T22:42:15.180Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-07-21T22:42:26.716Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-07-21T22:43:19.964Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-07-21T22:45:15.931Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-07-21T22:45:34.603Z"
           }
         ]
       },
