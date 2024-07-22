@@ -1,5 +1,5 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -244,11 +244,31 @@
               "- [reopens]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "vital"
+          },
+          "back": {
+            "content": [
+              "- [vital]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": " concevoir"
+          },
+          "back": {
+            "content": [
+              "- [plan]"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 8,
       "currentCardSide": "front",
       "cards": [
         {
@@ -268,16 +288,6 @@
           "back": {
             "content": [
               "- [refers]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": " concevoir"
-          },
-          "back": {
-            "content": [
-              "- [plan]"
             ]
           }
         },
@@ -12481,6 +12491,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-22T03:17:48.457Z"
+      },
+      {
+        "type": "move",
+        "word": "concevoir",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-07-22T15:08:23.351Z"
       }
     ],
     "levels": [
@@ -14109,6 +14126,10 @@
           {
             "length": 24,
             "date": "2024-07-22T03:17:48.457Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-07-22T15:08:23.442Z"
           }
         ]
       },
@@ -17373,6 +17394,10 @@
           {
             "length": 137,
             "date": "2024-07-22T03:17:48.457Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-07-22T15:08:23.442Z"
           }
         ]
       },
