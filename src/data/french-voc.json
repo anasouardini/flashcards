@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 17,
-      "currentCardSide": "front",
+      "currentCardIndex": 20,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -177,31 +177,11 @@
         },
         {
           "front": {
-            "content": "faible/affaiblit/affaiblir"
-          },
-          "back": {
-            "content": [
-              "- [weak/weakens/to weaken]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "aboutir"
           },
           "back": {
             "content": [
               "- [to lead/succeed]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "sec/sèche/assèchement"
-          },
-          "back": {
-            "content": [
-              "- [dry/dry(fem)/drying]: "
             ]
           }
         },
@@ -288,8 +268,8 @@
       ]
     },
     {
-      "currentCardIndex": 1,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -1599,6 +1579,26 @@
             "content": [
               "- [deception]",
               "- [deceive/mislead]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "faible/affaiblit/affaiblir"
+          },
+          "back": {
+            "content": [
+              "- [weak/weakens/to weaken]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "sec/sèche/assèchement"
+          },
+          "back": {
+            "content": [
+              "- [dry/dry(fem)/drying]: "
             ]
           }
         }
@@ -12453,6 +12453,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-21T22:45:34.603Z"
+      },
+      {
+        "type": "move",
+        "word": "faible/affaiblit/affaiblir",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:48:29.522Z"
+      },
+      {
+        "type": "move",
+        "word": "sec/sèche/assèchement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-21T22:48:44.763Z"
       }
     ],
     "levels": [
@@ -14065,6 +14079,14 @@
           {
             "length": 28,
             "date": "2024-07-21T22:45:34.603Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-07-21T22:48:29.522Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-07-21T22:48:44.763Z"
           }
         ]
       },
@@ -17313,6 +17335,14 @@
           {
             "length": 133,
             "date": "2024-07-21T22:45:34.603Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-07-21T22:48:29.522Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-07-21T22:48:44.763Z"
           }
         ]
       },
