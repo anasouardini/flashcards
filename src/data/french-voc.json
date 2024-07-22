@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 20,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -242,26 +242,6 @@
           "back": {
             "content": [
               "- [reopens]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "immense"
-          },
-          "back": {
-            "content": [
-              "- [immense]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "endurer"
-          },
-          "back": {
-            "content": [
-              "- [to endure]: "
             ]
           }
         }
@@ -1599,6 +1579,26 @@
           "back": {
             "content": [
               "- [dry/dry(fem)/drying]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "immense"
+          },
+          "back": {
+            "content": [
+              "- [immense]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "endurer"
+          },
+          "back": {
+            "content": [
+              "- [to endure]: "
             ]
           }
         }
@@ -12467,6 +12467,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-21T22:48:44.763Z"
+      },
+      {
+        "type": "move",
+        "word": "immense",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-22T03:17:46.898Z"
+      },
+      {
+        "type": "move",
+        "word": "endurer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-22T03:17:48.457Z"
       }
     ],
     "levels": [
@@ -14087,6 +14101,14 @@
           {
             "length": 26,
             "date": "2024-07-21T22:48:44.763Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-07-22T03:17:46.898Z"
+          },
+          {
+            "length": 24,
+            "date": "2024-07-22T03:17:48.457Z"
           }
         ]
       },
@@ -17343,6 +17365,14 @@
           {
             "length": 135,
             "date": "2024-07-21T22:48:44.763Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-07-22T03:17:46.898Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-07-22T03:17:48.457Z"
           }
         ]
       },
