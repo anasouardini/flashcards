@@ -264,11 +264,111 @@
               "- [plan]"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "stagnation"
+          },
+          "back": {
+            "content": [
+              "- [stagnation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "actus"
+          },
+          "back": {
+            "content": [
+              "- [news]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "gouvernement"
+          },
+          "back": {
+            "content": [
+              "- [government]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "raffinerie"
+          },
+          "back": {
+            "content": [
+              "- [refinery]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "affiner"
+          },
+          "back": {
+            "content": [
+              "- [to refine]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "l'arbitrage"
+          },
+          "back": {
+            "content": [
+              "- [arbitration/refereeing]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "le règlement"
+          },
+          "back": {
+            "content": [
+              "- [the regulation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "les différents"
+          },
+          "back": {
+            "content": [
+              "- [differences/disputes]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "relative à/relatifs à"
+          },
+          "back": {
+            "content": [
+              "- [relative to]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "l'investissement"
+          },
+          "back": {
+            "content": [
+              "- [the investement]: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 8,
+      "currentCardIndex": 30,
       "currentCardSide": "front",
       "cards": [
         {
@@ -5608,7 +5708,7 @@
           },
           "back": {
             "content": [
-              "- [refining/ameliorating]: "
+              "- [refinement/amelioration]: "
             ]
           }
         },
