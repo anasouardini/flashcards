@@ -1,5 +1,5 @@
 {
-  "currentLevel": 2,
+  "currentLevel": 1,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -368,8 +368,8 @@
       ]
     },
     {
-      "currentCardIndex": 66,
-      "currentCardSide": "back",
+      "currentCardIndex": 74,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -1093,16 +1093,6 @@
         },
         {
           "front": {
-            "content": "majeur"
-          },
-          "back": {
-            "content": [
-              "- [major]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "plus tôt"
           },
           "back": {
@@ -1727,7 +1717,7 @@
       ]
     },
     {
-      "currentCardIndex": 439,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -6123,6 +6113,16 @@
           "back": {
             "content": [
               "- [same]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "majeur"
+          },
+          "back": {
+            "content": [
+              "- [major]: "
             ]
           }
         }
@@ -12607,6 +12607,13 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-07-24T18:41:00.684Z"
+      },
+      {
+        "type": "move",
+        "word": "majeur",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-24T19:19:21.647Z"
       }
     ],
     "levels": [
@@ -17515,6 +17522,10 @@
           {
             "length": 137,
             "date": "2024-07-24T18:41:00.754Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-07-24T19:19:21.647Z"
           }
         ]
       },
@@ -19251,6 +19262,10 @@
           {
             "length": 451,
             "date": "2024-07-24T18:41:00.754Z"
+          },
+          {
+            "length": 452,
+            "date": "2024-07-24T19:19:21.647Z"
           }
         ]
       },
