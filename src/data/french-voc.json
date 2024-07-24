@@ -1,5 +1,5 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 2,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -368,8 +368,8 @@
       ]
     },
     {
-      "currentCardIndex": 30,
-      "currentCardSide": "front",
+      "currentCardIndex": 66,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -582,7 +582,7 @@
         },
         {
           "front": {
-            "content": "la croissance"
+            "content": "la croissance/croître"
           },
           "back": {
             "content": [
@@ -696,7 +696,7 @@
           },
           "back": {
             "content": [
-              "- [to get close]: "
+              "- [to bring close]: "
             ]
           }
         },
@@ -777,6 +777,7 @@
           "back": {
             "content": [
               "- [value(v.)]",
+              "- [estimate]",
               "- [beleive]",
               "- [think]",
               "- [consider]"
@@ -789,7 +790,8 @@
           },
           "back": {
             "content": [
-              "- [respect]"
+              "- [respect]",
+              "- [esteem]"
             ]
           }
         },
@@ -1711,11 +1713,21 @@
               "- [to endure]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "renversement"
+          },
+          "back": {
+            "content": [
+              "- [reversal]: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 435,
+      "currentCardIndex": 439,
       "currentCardSide": "front",
       "cards": [
         {
@@ -5991,16 +6003,6 @@
           "back": {
             "content": [
               "- [freedom]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "renversement"
-          },
-          "back": {
-            "content": [
-              "- [reversal]: "
             ]
           }
         },
@@ -12598,6 +12600,13 @@
         "fromLevel": 1,
         "toLevel": 0,
         "date": "2024-07-22T15:08:23.351Z"
+      },
+      {
+        "type": "move",
+        "word": "renversement",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-07-24T18:41:00.684Z"
       }
     ],
     "levels": [
@@ -14230,6 +14239,10 @@
           {
             "length": 26,
             "date": "2024-07-22T15:08:23.442Z"
+          },
+          {
+            "length": 36,
+            "date": "2024-07-24T18:41:00.754Z"
           }
         ]
       },
@@ -17498,6 +17511,10 @@
           {
             "length": 136,
             "date": "2024-07-22T15:08:23.442Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-07-24T18:41:00.754Z"
           }
         ]
       },
@@ -19230,6 +19247,10 @@
           {
             "length": 452,
             "date": "2024-07-19T14:48:51.515Z"
+          },
+          {
+            "length": 451,
+            "date": "2024-07-24T18:41:00.754Z"
           }
         ]
       },
