@@ -368,8 +368,8 @@
       ]
     },
     {
-      "currentCardIndex": 74,
-      "currentCardSide": "front",
+      "currentCardIndex": 87,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -1133,41 +1133,11 @@
         },
         {
           "front": {
-            "content": "panique"
-          },
-          "back": {
-            "content": [
-              "- [to panic]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "liée"
-          },
-          "back": {
-            "content": [
-              "- [linked]: liée a : linked to"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "attribué"
           },
           "back": {
             "content": [
               "- [assigned/attributed/associated]: ils ont l'attribué a le chauffement : they have associated it to the heat"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "anecdote"
-          },
-          "back": {
-            "content": [
-              "- [anecdote]: "
             ]
           }
         },
@@ -1218,16 +1188,6 @@
           "back": {
             "content": [
               "- [well-being]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la fatigue"
-          },
-          "back": {
-            "content": [
-              "- [the fatigue]: "
             ]
           }
         },
@@ -6123,6 +6083,46 @@
           "back": {
             "content": [
               "- [major]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "panique"
+          },
+          "back": {
+            "content": [
+              "- [to panic]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "liée"
+          },
+          "back": {
+            "content": [
+              "- [linked]: liée a : linked to"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "anecdote"
+          },
+          "back": {
+            "content": [
+              "- [anecdote]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la fatigue"
+          },
+          "back": {
+            "content": [
+              "- [the fatigue]: "
             ]
           }
         }
@@ -12614,6 +12614,34 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-07-24T19:19:21.647Z"
+      },
+      {
+        "type": "move",
+        "word": "panique",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-24T19:20:52.080Z"
+      },
+      {
+        "type": "move",
+        "word": "liée",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-24T19:20:58.881Z"
+      },
+      {
+        "type": "move",
+        "word": "anecdote",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-24T19:22:53.176Z"
+      },
+      {
+        "type": "move",
+        "word": "la fatigue",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-24T19:29:46.911Z"
       }
     ],
     "levels": [
@@ -17526,6 +17554,22 @@
           {
             "length": 136,
             "date": "2024-07-24T19:19:21.647Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-07-24T19:20:52.080Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-07-24T19:20:58.881Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-07-24T19:22:53.176Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-07-24T19:29:46.911Z"
           }
         ]
       },
@@ -19266,6 +19310,22 @@
           {
             "length": 452,
             "date": "2024-07-24T19:19:21.647Z"
+          },
+          {
+            "length": 453,
+            "date": "2024-07-24T19:20:52.080Z"
+          },
+          {
+            "length": 454,
+            "date": "2024-07-24T19:20:58.881Z"
+          },
+          {
+            "length": 455,
+            "date": "2024-07-24T19:22:53.176Z"
+          },
+          {
+            "length": 456,
+            "date": "2024-07-24T19:29:46.911Z"
           }
         ]
       },
