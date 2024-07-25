@@ -1,5 +1,5 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -364,11 +364,21 @@
               "- [the investement]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "exposition"
+          },
+          "back": {
+            "content": [
+              "- [exposure]: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 87,
+      "currentCardIndex": 0,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1223,11 +1233,11 @@
         },
         {
           "front": {
-            "content": "reçoit"
+            "content": "reçoit/reçu"
           },
           "back": {
             "content": [
-              "- [recieves]: "
+              "- [recieves/received]: "
             ]
           }
         },
@@ -1258,36 +1268,6 @@
           "back": {
             "content": [
               "- [to affect]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "recommandations/ une recommandation"
-          },
-          "back": {
-            "content": [
-              "- [recommendation]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "une manière"
-          },
-          "back": {
-            "content": [
-              "- [manner/method]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "exposition"
-          },
-          "back": {
-            "content": [
-              "- [exposure]: "
             ]
           }
         },
@@ -1641,16 +1621,6 @@
           "back": {
             "content": [
               "- [dry/dry(fem)/drying]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "immense"
-          },
-          "back": {
-            "content": [
-              "- [immense]: "
             ]
           }
         },
@@ -6123,6 +6093,36 @@
           "back": {
             "content": [
               "- [the fatigue]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "recommandations/ une recommandation"
+          },
+          "back": {
+            "content": [
+              "- [recommendation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "une manière"
+          },
+          "back": {
+            "content": [
+              "- [manner/method]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "immense"
+          },
+          "back": {
+            "content": [
+              "- [immense]: "
             ]
           }
         }
@@ -12642,6 +12642,34 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-07-24T19:29:46.911Z"
+      },
+      {
+        "type": "move",
+        "word": "recommandations/ une recommandation",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-25T15:56:14.885Z"
+      },
+      {
+        "type": "move",
+        "word": "une manière",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-25T15:56:27.997Z"
+      },
+      {
+        "type": "move",
+        "word": "exposition",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-07-25T15:58:28.414Z"
+      },
+      {
+        "type": "move",
+        "word": "immense",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-07-25T16:19:46.331Z"
       }
     ],
     "levels": [
@@ -14278,6 +14306,10 @@
           {
             "length": 36,
             "date": "2024-07-24T18:41:00.754Z"
+          },
+          {
+            "length": 37,
+            "date": "2024-07-25T15:58:28.414Z"
           }
         ]
       },
@@ -17570,6 +17602,22 @@
           {
             "length": 132,
             "date": "2024-07-24T19:29:46.911Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-07-25T15:56:14.947Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-07-25T15:56:27.997Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-07-25T15:58:28.414Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-07-25T16:19:46.332Z"
           }
         ]
       },
@@ -19326,6 +19374,18 @@
           {
             "length": 456,
             "date": "2024-07-24T19:29:46.911Z"
+          },
+          {
+            "length": 457,
+            "date": "2024-07-25T15:56:14.947Z"
+          },
+          {
+            "length": 458,
+            "date": "2024-07-25T15:56:27.997Z"
+          },
+          {
+            "length": 459,
+            "date": "2024-07-25T16:19:46.332Z"
           }
         ]
       },
