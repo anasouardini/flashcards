@@ -2,29 +2,9 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 6,
       "currentCardSide": "front",
       "cards": [
-        {
-          "front": {
-            "content": "désormais"
-          },
-          "back": {
-            "content": [
-              "- [from now on]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "pronostics"
-          },
-          "back": {
-            "content": [
-              "- [predictions/prognostics]: "
-            ]
-          }
-        },
         {
           "front": {
             "content": "épuisée"
@@ -42,56 +22,6 @@
           "back": {
             "content": [
               "- [penalty/punishment]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "empreinte"
-          },
-          "back": {
-            "content": [
-              "- [footprint]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "provient"
-          },
-          "back": {
-            "content": [
-              "- [comes from]: on peut utilise seulement dans le ou une chose provient de quelque chose ou lieu"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "découle"
-          },
-          "back": {
-            "content": [
-              "- [follows (happens as a concequence)]: il découle a la gère que le negative : war results in only the negative"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "agit/agir"
-          },
-          "back": {
-            "content": [
-              "- [act/behave]: il agit comme : it acts like"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la provenance"
-          },
-          "back": {
-            "content": [
-              "- [origin/source]: "
             ]
           }
         },
@@ -117,16 +47,6 @@
         },
         {
           "front": {
-            "content": "entraider"
-          },
-          "back": {
-            "content": [
-              "- [help eachother]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "lors"
           },
           "back": {
@@ -137,31 +57,11 @@
         },
         {
           "front": {
-            "content": "au courant"
-          },
-          "back": {
-            "content": [
-              "- [aware]: pour etre au courant : to be aware"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "ressemble"
           },
           "back": {
             "content": [
               "- [looks like]: ressemble a lui : looks like him"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "près"
-          },
-          "back": {
-            "content": [
-              "- [close]: un peu près d'un metre : a little close to one meter"
             ]
           }
         },
@@ -282,6 +182,126 @@
           "back": {
             "content": [
               "- [exposure]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "approbation"
+          },
+          "back": {
+            "content": [
+              "- [endorsement/approval]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la réclamation"
+          },
+          "back": {
+            "content": [
+              "- [complaint]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "l'indemnisation"
+          },
+          "back": {
+            "content": [
+              "- [compensation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "chronique"
+          },
+          "back": {
+            "content": [
+              "- [chronic]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "délibéré"
+          },
+          "back": {
+            "content": [
+              "- [deliberate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "implications"
+          },
+          "back": {
+            "content": [
+              "- [implications]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "verdict"
+          },
+          "back": {
+            "content": [
+              "- [verdict(jury's decition)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "le volet"
+          },
+          "back": {
+            "content": [
+              "- [section/aspect/part]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "mensuel"
+          },
+          "back": {
+            "content": [
+              "- [monthly]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "hier"
+          },
+          "back": {
+            "content": [
+              "- [yesterday]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "députés"
+          },
+          "back": {
+            "content": [
+              "- [deputies]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "énoncée"
+          },
+          "back": {
+            "content": [
+              "- [announced/stated]: "
             ]
           }
         }
@@ -1475,11 +1495,11 @@
         },
         {
           "front": {
-            "content": "failli"
+            "content": "faillite/failli"
           },
           "back": {
             "content": [
-              "- [nearly/almost (presque)]: "
+              "- [bankruptcy/bankrupt]: "
             ]
           }
         },
@@ -1631,6 +1651,106 @@
           "back": {
             "content": [
               "- [the investement]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "désormais"
+          },
+          "back": {
+            "content": [
+              "- [from now on]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "pronostics"
+          },
+          "back": {
+            "content": [
+              "- [predictions/prognostics]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "empreinte"
+          },
+          "back": {
+            "content": [
+              "- [footprint]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "provient"
+          },
+          "back": {
+            "content": [
+              "- [comes from]: on peut utilise seulement dans le ou une chose provient de quelque chose ou lieu"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "découle"
+          },
+          "back": {
+            "content": [
+              "- [follows (happens as a concequence)]: il découle a la gère que le negative : war results in only the negative"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "agit/agir"
+          },
+          "back": {
+            "content": [
+              "- [act/behave]: il agit comme : it acts like"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la provenance"
+          },
+          "back": {
+            "content": [
+              "- [origin/source]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "entraider"
+          },
+          "back": {
+            "content": [
+              "- [help eachother]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "au courant"
+          },
+          "back": {
+            "content": [
+              "- [aware]: pour etre au courant : to be aware"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "près"
+          },
+          "back": {
+            "content": [
+              "- [close]: un peu près d'un metre : a little close to one meter"
             ]
           }
         }
@@ -12734,6 +12854,76 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-25T16:54:53.887Z"
+      },
+      {
+        "type": "move",
+        "word": "désormais",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T20:57:35.041Z"
+      },
+      {
+        "type": "move",
+        "word": "pronostics",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T20:57:41.523Z"
+      },
+      {
+        "type": "move",
+        "word": "empreinte",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T20:58:37.963Z"
+      },
+      {
+        "type": "move",
+        "word": "provient",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T20:59:15.017Z"
+      },
+      {
+        "type": "move",
+        "word": "découle",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T20:59:46.307Z"
+      },
+      {
+        "type": "move",
+        "word": "agit/agir",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:00:03.056Z"
+      },
+      {
+        "type": "move",
+        "word": "la provenance",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:00:46.953Z"
+      },
+      {
+        "type": "move",
+        "word": "entraider",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:01:36.202Z"
+      },
+      {
+        "type": "move",
+        "word": "au courant",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:03:26.082Z"
+      },
+      {
+        "type": "move",
+        "word": "près",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:06:23.426Z"
       }
     ],
     "levels": [
@@ -14410,6 +14600,46 @@
           {
             "length": 28,
             "date": "2024-07-25T16:54:53.887Z"
+          },
+          {
+            "length": 39,
+            "date": "2024-07-30T20:57:35.067Z"
+          },
+          {
+            "length": 38,
+            "date": "2024-07-30T20:57:41.523Z"
+          },
+          {
+            "length": 37,
+            "date": "2024-07-30T20:58:37.963Z"
+          },
+          {
+            "length": 36,
+            "date": "2024-07-30T20:59:15.017Z"
+          },
+          {
+            "length": 35,
+            "date": "2024-07-30T20:59:46.307Z"
+          },
+          {
+            "length": 34,
+            "date": "2024-07-30T21:00:03.056Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-07-30T21:00:46.953Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-07-30T21:01:36.202Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-07-30T21:03:26.082Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-07-30T21:06:23.426Z"
           }
         ]
       },
@@ -17750,6 +17980,46 @@
           {
             "length": 136,
             "date": "2024-07-25T16:54:53.887Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-07-30T20:57:35.067Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-07-30T20:57:41.523Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-07-30T20:58:37.963Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-07-30T20:59:15.017Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-07-30T20:59:46.307Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-07-30T21:00:03.056Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-07-30T21:00:46.953Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-07-30T21:01:36.202Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-07-30T21:03:26.082Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-07-30T21:06:23.426Z"
           }
         ]
       },
