@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 6,
+      "currentCardIndex": 16,
       "currentCardSide": "front",
       "cards": [
         {
@@ -87,51 +87,11 @@
         },
         {
           "front": {
-            "content": "entretenir (j'entretiens)"
-          },
-          "back": {
-            "content": [
-              "- [maintain/keep/interivew]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "prolifération"
-          },
-          "back": {
-            "content": [
-              "- [proliferation]: la prolifération est le rapid grandissant de nombre de qqc"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "surplombant"
           },
           "back": {
             "content": [
               "- [overlooking]: les arbres sont suplombant sur la rivière : the trees are overlooking the river"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "rassemblement"
-          },
-          "back": {
-            "content": [
-              "- [gathering]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "rouvre"
-          },
-          "back": {
-            "content": [
-              "- [reopens]: "
             ]
           }
         },
@@ -157,26 +117,6 @@
         },
         {
           "front": {
-            "content": "affiner"
-          },
-          "back": {
-            "content": [
-              "- [to refine]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "le règlement"
-          },
-          "back": {
-            "content": [
-              "- [the regulation]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "exposition"
           },
           "back": {
@@ -197,51 +137,11 @@
         },
         {
           "front": {
-            "content": "la réclamation"
-          },
-          "back": {
-            "content": [
-              "- [complaint]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "l'indemnisation"
           },
           "back": {
             "content": [
               "- [compensation]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "chronique"
-          },
-          "back": {
-            "content": [
-              "- [chronic]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "délibéré"
-          },
-          "back": {
-            "content": [
-              "- [deliberate]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "implications"
-          },
-          "back": {
-            "content": [
-              "- [implications]: "
             ]
           }
         },
@@ -262,16 +162,6 @@
           "back": {
             "content": [
               "- [section/aspect/part]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "mensuel"
-          },
-          "back": {
-            "content": [
-              "- [monthly]: "
             ]
           }
         },
@@ -1751,6 +1641,116 @@
           "back": {
             "content": [
               "- [close]: un peu près d'un metre : a little close to one meter"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "entretenir (j'entretiens)"
+          },
+          "back": {
+            "content": [
+              "- [maintain/keep/interivew]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "prolifération"
+          },
+          "back": {
+            "content": [
+              "- [proliferation]: la prolifération est le rapid grandissant de nombre de qqc"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rassemblement"
+          },
+          "back": {
+            "content": [
+              "- [gathering]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rouvre"
+          },
+          "back": {
+            "content": [
+              "- [reopens]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "affiner"
+          },
+          "back": {
+            "content": [
+              "- [to refine]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "le règlement"
+          },
+          "back": {
+            "content": [
+              "- [the regulation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la réclamation"
+          },
+          "back": {
+            "content": [
+              "- [complaint]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "chronique"
+          },
+          "back": {
+            "content": [
+              "- [chronic]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "délibéré"
+          },
+          "back": {
+            "content": [
+              "- [deliberate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "implications"
+          },
+          "back": {
+            "content": [
+              "- [implications]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "mensuel"
+          },
+          "back": {
+            "content": [
+              "- [monthly]: "
             ]
           }
         }
@@ -12924,6 +12924,83 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-30T21:06:23.426Z"
+      },
+      {
+        "type": "move",
+        "word": "entretenir (j'entretiens)",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:12:59.841Z"
+      },
+      {
+        "type": "move",
+        "word": "prolifération",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:13:29.369Z"
+      },
+      {
+        "type": "move",
+        "word": "rassemblement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:14:11.697Z"
+      },
+      {
+        "type": "move",
+        "word": "rouvre",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:15:01.609Z"
+      },
+      {
+        "type": "move",
+        "word": "affiner",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:16:35.401Z"
+      },
+      {
+        "type": "move",
+        "word": "le règlement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:16:43.644Z"
+      },
+      {
+        "type": "move",
+        "word": "la réclamation",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:17:39.027Z"
+      },
+      {
+        "type": "move",
+        "word": "chronique",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:19:38.721Z"
+      },
+      {
+        "type": "move",
+        "word": "délibéré",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:19:44.906Z"
+      },
+      {
+        "type": "move",
+        "word": "implications",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:19:48.736Z"
+      },
+      {
+        "type": "move",
+        "word": "mensuel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:26:01.143Z"
       }
     ],
     "levels": [
@@ -14640,6 +14717,50 @@
           {
             "length": 30,
             "date": "2024-07-30T21:06:23.426Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-07-30T21:12:59.841Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-07-30T21:13:29.369Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-07-30T21:14:11.697Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-07-30T21:15:01.609Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-07-30T21:16:35.401Z"
+          },
+          {
+            "length": 24,
+            "date": "2024-07-30T21:16:43.644Z"
+          },
+          {
+            "length": 23,
+            "date": "2024-07-30T21:17:39.027Z"
+          },
+          {
+            "length": 22,
+            "date": "2024-07-30T21:19:38.721Z"
+          },
+          {
+            "length": 21,
+            "date": "2024-07-30T21:19:44.906Z"
+          },
+          {
+            "length": 20,
+            "date": "2024-07-30T21:19:48.736Z"
+          },
+          {
+            "length": 19,
+            "date": "2024-07-30T21:26:01.143Z"
           }
         ]
       },
@@ -18020,6 +18141,50 @@
           {
             "length": 146,
             "date": "2024-07-30T21:06:23.426Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-07-30T21:12:59.841Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-07-30T21:13:29.369Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-07-30T21:14:11.697Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-07-30T21:15:01.609Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-07-30T21:16:35.401Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-07-30T21:16:43.644Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-07-30T21:17:39.027Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-07-30T21:19:38.721Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-07-30T21:19:44.906Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-07-30T21:19:48.736Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-07-30T21:26:01.143Z"
           }
         ]
       },
