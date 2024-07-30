@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 16,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -162,16 +162,6 @@
           "back": {
             "content": [
               "- [section/aspect/part]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "hier"
-          },
-          "back": {
-            "content": [
-              "- [yesterday]: "
             ]
           }
         },
@@ -1751,6 +1741,16 @@
           "back": {
             "content": [
               "- [monthly]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "hier"
+          },
+          "back": {
+            "content": [
+              "- [yesterday]: "
             ]
           }
         }
@@ -13001,6 +13001,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-30T21:26:01.143Z"
+      },
+      {
+        "type": "move",
+        "word": "hier",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-07-30T21:26:57.119Z"
       }
     ],
     "levels": [
@@ -14761,6 +14768,10 @@
           {
             "length": 19,
             "date": "2024-07-30T21:26:01.143Z"
+          },
+          {
+            "length": 18,
+            "date": "2024-07-30T21:26:57.119Z"
           }
         ]
       },
@@ -18185,6 +18196,10 @@
           {
             "length": 157,
             "date": "2024-07-30T21:26:01.143Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-07-30T21:26:57.119Z"
           }
         ]
       },
