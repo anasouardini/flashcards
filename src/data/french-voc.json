@@ -198,7 +198,7 @@
       ]
     },
     {
-      "currentCardIndex": 49,
+      "currentCardIndex": 63,
       "currentCardSide": "front",
       "cards": [
         {
@@ -802,31 +802,11 @@
         },
         {
           "front": {
-            "content": "plus tôt"
-          },
-          "back": {
-            "content": [
-              "- [earlier]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "intensifie"
           },
           "back": {
             "content": [
               "- [intensifies]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "longtemps"
-          },
-          "back": {
-            "content": [
-              "- [for long time]: s'exposer trop longtemps : exposed for a long time"
             ]
           }
         },
@@ -6243,6 +6223,26 @@
           "back": {
             "content": [
               "- [tease]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "plus tôt"
+          },
+          "back": {
+            "content": [
+              "- [earlier]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "longtemps"
+          },
+          "back": {
+            "content": [
+              "- [for long time]: s'exposer trop longtemps : exposed for a long time"
             ]
           }
         }
@@ -13102,6 +13102,20 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-07-31T21:58:46.991Z"
+      },
+      {
+        "type": "move",
+        "word": "plus tôt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T00:05:04.257Z"
+      },
+      {
+        "type": "move",
+        "word": "longtemps",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T00:07:40.908Z"
       }
     ],
     "levels": [
@@ -18346,6 +18360,14 @@
           {
             "length": 146,
             "date": "2024-07-31T21:58:46.991Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-08-01T00:05:04.257Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-08-01T00:07:40.908Z"
           }
         ]
       },
@@ -20162,6 +20184,14 @@
           {
             "length": 471,
             "date": "2024-07-31T21:58:46.991Z"
+          },
+          {
+            "length": 472,
+            "date": "2024-08-01T00:05:04.257Z"
+          },
+          {
+            "length": 473,
+            "date": "2024-08-01T00:07:40.908Z"
           }
         ]
       },
