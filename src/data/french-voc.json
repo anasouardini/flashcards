@@ -194,11 +194,31 @@
               "- [react]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "exposer"
+          },
+          "back": {
+            "content": [
+              "- [to expose]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "poser"
+          },
+          "back": {
+            "content": [
+              "- [put / put down]: poser une question : throw/put (ask) a question"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 63,
+      "currentCardIndex": 108,
       "currentCardSide": "front",
       "cards": [
         {
@@ -862,31 +882,11 @@
         },
         {
           "front": {
-            "content": "amplifié"
-          },
-          "back": {
-            "content": [
-              "- [amplified]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "le bien-être"
           },
           "back": {
             "content": [
               "- [well-being]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la sensation"
-          },
-          "back": {
-            "content": [
-              "- [sensation/feeling]: "
             ]
           }
         },
@@ -917,16 +917,6 @@
           "back": {
             "content": [
               "- [recieves/received]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "subtile/subtilement"
-          },
-          "back": {
-            "content": [
-              "- [subtle/subtly]: "
             ]
           }
         },
@@ -977,16 +967,6 @@
           "back": {
             "content": [
               "- [to put back]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "éligible"
-          },
-          "back": {
-            "content": [
-              "- [eligible]: "
             ]
           }
         },
@@ -1152,16 +1132,6 @@
         },
         {
           "front": {
-            "content": "pic"
-          },
-          "back": {
-            "content": [
-              "- [peek/top]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "endroit"
           },
           "back": {
@@ -1264,42 +1234,12 @@
         },
         {
           "front": {
-            "content": "jusqu/jusqu'à"
-          },
-          "back": {
-            "content": [
-              "- [until]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "tromperie/trompe/trompeuse"
           },
           "back": {
             "content": [
               "- [deception]",
               "- [deceive/mislead]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "faible/affaiblit/affaiblir"
-          },
-          "back": {
-            "content": [
-              "- [weak/weakens/to weaken]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "sec/sèche/assèchement"
-          },
-          "back": {
-            "content": [
-              "- [dry/dry(fem)/drying]: "
             ]
           }
         },
@@ -1330,36 +1270,6 @@
           "back": {
             "content": [
               "- [trigger/provoke]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "vital"
-          },
-          "back": {
-            "content": [
-              "- [vital]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "stagnation"
-          },
-          "back": {
-            "content": [
-              "- [stagnation]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "gouvernement"
-          },
-          "back": {
-            "content": [
-              "- [government]: "
             ]
           }
         },
@@ -1626,8 +1536,8 @@
       ]
     },
     {
-      "currentCardIndex": 463,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -6243,6 +6153,116 @@
           "back": {
             "content": [
               "- [for long time]: s'exposer trop longtemps : exposed for a long time"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "amplifié"
+          },
+          "back": {
+            "content": [
+              "- [amplified]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la sensation"
+          },
+          "back": {
+            "content": [
+              "- [sensation/feeling]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "subtile/subtilement"
+          },
+          "back": {
+            "content": [
+              "- [subtle/subtly]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "éligible"
+          },
+          "back": {
+            "content": [
+              "- [eligible]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "pic"
+          },
+          "back": {
+            "content": [
+              "- [peek/top]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "jusqu/jusqu'à"
+          },
+          "back": {
+            "content": [
+              "- [until]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "faible/affaiblit/affaiblir"
+          },
+          "back": {
+            "content": [
+              "- [weak/weakens/to weaken]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "sec/sèche/assèchement"
+          },
+          "back": {
+            "content": [
+              "- [dry/dry(fem)/drying]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "vital"
+          },
+          "back": {
+            "content": [
+              "- [vital]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "stagnation"
+          },
+          "back": {
+            "content": [
+              "- [stagnation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "gouvernement"
+          },
+          "back": {
+            "content": [
+              "- [government]: "
             ]
           }
         }
@@ -13116,6 +13136,83 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-08-01T00:07:40.908Z"
+      },
+      {
+        "type": "move",
+        "word": "amplifié",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T00:29:37.113Z"
+      },
+      {
+        "type": "move",
+        "word": "la sensation",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T00:30:34.521Z"
+      },
+      {
+        "type": "move",
+        "word": "subtile/subtilement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T00:42:01.558Z"
+      },
+      {
+        "type": "move",
+        "word": "éligible",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T00:43:28.686Z"
+      },
+      {
+        "type": "move",
+        "word": "pic",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T01:48:00.120Z"
+      },
+      {
+        "type": "move",
+        "word": "jusqu/jusqu'à",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T01:53:02.177Z"
+      },
+      {
+        "type": "move",
+        "word": "faible/affaiblit/affaiblir",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T01:54:37.632Z"
+      },
+      {
+        "type": "move",
+        "word": "sec/sèche/assèchement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T01:54:44.094Z"
+      },
+      {
+        "type": "move",
+        "word": "vital",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T01:56:29.309Z"
+      },
+      {
+        "type": "move",
+        "word": "stagnation",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T01:56:34.045Z"
+      },
+      {
+        "type": "move",
+        "word": "gouvernement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T01:57:07.029Z"
       }
     ],
     "levels": [
@@ -14884,6 +14981,10 @@
           {
             "length": 19,
             "date": "2024-07-31T21:20:04.269Z"
+          },
+          {
+            "length": 21,
+            "date": "2024-08-01T00:29:37.174Z"
           }
         ]
       },
@@ -18368,6 +18469,50 @@
           {
             "length": 144,
             "date": "2024-08-01T00:07:40.908Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-08-01T00:29:37.174Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-08-01T00:30:34.521Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-08-01T00:42:01.558Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-08-01T00:43:28.686Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-08-01T01:48:00.120Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-08-01T01:53:02.177Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-08-01T01:54:37.632Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-08-01T01:54:44.094Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-08-01T01:56:29.309Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-08-01T01:56:34.045Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-08-01T01:57:07.029Z"
           }
         ]
       },
@@ -20192,6 +20337,50 @@
           {
             "length": 473,
             "date": "2024-08-01T00:07:40.908Z"
+          },
+          {
+            "length": 474,
+            "date": "2024-08-01T00:29:37.174Z"
+          },
+          {
+            "length": 475,
+            "date": "2024-08-01T00:30:34.521Z"
+          },
+          {
+            "length": 476,
+            "date": "2024-08-01T00:42:01.558Z"
+          },
+          {
+            "length": 477,
+            "date": "2024-08-01T00:43:28.686Z"
+          },
+          {
+            "length": 478,
+            "date": "2024-08-01T01:48:00.120Z"
+          },
+          {
+            "length": 479,
+            "date": "2024-08-01T01:53:02.177Z"
+          },
+          {
+            "length": 480,
+            "date": "2024-08-01T01:54:37.632Z"
+          },
+          {
+            "length": 481,
+            "date": "2024-08-01T01:54:44.094Z"
+          },
+          {
+            "length": 482,
+            "date": "2024-08-01T01:56:29.309Z"
+          },
+          {
+            "length": 483,
+            "date": "2024-08-01T01:56:34.045Z"
+          },
+          {
+            "length": 484,
+            "date": "2024-08-01T01:57:07.029Z"
           }
         ]
       },
