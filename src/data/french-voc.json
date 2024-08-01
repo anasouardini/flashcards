@@ -218,7 +218,7 @@
       ]
     },
     {
-      "currentCardIndex": 108,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -1295,26 +1295,6 @@
         },
         {
           "front": {
-            "content": "relative à/relatifs à"
-          },
-          "back": {
-            "content": [
-              "- [relative to]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "l'investissement"
-          },
-          "back": {
-            "content": [
-              "- [the investement]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "désormais"
           },
           "back": {
@@ -1475,26 +1455,6 @@
         },
         {
           "front": {
-            "content": "la réclamation"
-          },
-          "back": {
-            "content": [
-              "- [complaint]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "chronique"
-          },
-          "back": {
-            "content": [
-              "- [chronic]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "délibéré"
           },
           "back": {
@@ -1520,16 +1480,6 @@
           "back": {
             "content": [
               "- [monthly]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "hier"
-          },
-          "back": {
-            "content": [
-              "- [yesterday]: "
             ]
           }
         }
@@ -6263,6 +6213,56 @@
           "back": {
             "content": [
               "- [government]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "relative à/relatifs à"
+          },
+          "back": {
+            "content": [
+              "- [relative to]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "l'investissement"
+          },
+          "back": {
+            "content": [
+              "- [the investement]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la réclamation"
+          },
+          "back": {
+            "content": [
+              "- [complaint]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "chronique"
+          },
+          "back": {
+            "content": [
+              "- [chronic]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "hier"
+          },
+          "back": {
+            "content": [
+              "- [yesterday]: "
             ]
           }
         }
@@ -13213,6 +13213,41 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-08-01T01:57:07.029Z"
+      },
+      {
+        "type": "move",
+        "word": "relative à/relatifs à",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T02:23:43.934Z"
+      },
+      {
+        "type": "move",
+        "word": "l'investissement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T02:23:50.015Z"
+      },
+      {
+        "type": "move",
+        "word": "la réclamation",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T02:31:45.549Z"
+      },
+      {
+        "type": "move",
+        "word": "chronique",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T02:31:51.717Z"
+      },
+      {
+        "type": "move",
+        "word": "hier",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-01T02:34:05.309Z"
       }
     ],
     "levels": [
@@ -18513,6 +18548,26 @@
           {
             "length": 133,
             "date": "2024-08-01T01:57:07.029Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-08-01T02:23:43.934Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-08-01T02:23:50.015Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-08-01T02:31:45.549Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-08-01T02:31:51.717Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-08-01T02:34:05.309Z"
           }
         ]
       },
@@ -20381,6 +20436,26 @@
           {
             "length": 484,
             "date": "2024-08-01T01:57:07.029Z"
+          },
+          {
+            "length": 485,
+            "date": "2024-08-01T02:23:43.934Z"
+          },
+          {
+            "length": 486,
+            "date": "2024-08-01T02:23:50.015Z"
+          },
+          {
+            "length": 487,
+            "date": "2024-08-01T02:31:45.549Z"
+          },
+          {
+            "length": 488,
+            "date": "2024-08-01T02:31:51.717Z"
+          },
+          {
+            "length": 489,
+            "date": "2024-08-01T02:34:05.309Z"
           }
         ]
       },
