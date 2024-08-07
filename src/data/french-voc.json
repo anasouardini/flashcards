@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 19,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -207,16 +207,6 @@
         },
         {
           "front": {
-            "content": "illusion"
-          },
-          "back": {
-            "content": [
-              "- [illusion]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "rejeter/je rejette/le rejet"
           },
           "back": {
@@ -237,16 +227,6 @@
         },
         {
           "front": {
-            "content": "unification"
-          },
-          "back": {
-            "content": [
-              "- [unification]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "enlever/enlevé"
           },
           "back": {
@@ -257,41 +237,11 @@
         },
         {
           "front": {
-            "content": "interchangeable"
-          },
-          "back": {
-            "content": [
-              "- [interchangeable]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "déléguées"
-          },
-          "back": {
-            "content": [
-              "- [delegated]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "la commission/Comité"
           },
           "back": {
             "content": [
               "- [commission/commitee]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "construire/la construction"
-          },
-          "back": {
-            "content": [
-              "- [build]: "
             ]
           }
         },
@@ -1710,6 +1660,56 @@
           "back": {
             "content": [
               "- [detail]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "illusion"
+          },
+          "back": {
+            "content": [
+              "- [illusion]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "unification"
+          },
+          "back": {
+            "content": [
+              "- [unification]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "interchangeable"
+          },
+          "back": {
+            "content": [
+              "- [interchangeable]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "déléguées"
+          },
+          "back": {
+            "content": [
+              "- [delegated]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "construire/la construction"
+          },
+          "back": {
+            "content": [
+              "- [build]: "
             ]
           }
         }
@@ -13576,6 +13576,41 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-08-07T01:25:58.360Z"
+      },
+      {
+        "type": "move",
+        "word": "illusion",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T01:26:34.505Z"
+      },
+      {
+        "type": "move",
+        "word": "unification",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T02:10:39.786Z"
+      },
+      {
+        "type": "move",
+        "word": "interchangeable",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T02:18:30.375Z"
+      },
+      {
+        "type": "move",
+        "word": "déléguées",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T02:18:41.016Z"
+      },
+      {
+        "type": "move",
+        "word": "construire/la construction",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T03:56:49.132Z"
       }
     ],
     "levels": [
@@ -15404,6 +15439,26 @@
           {
             "length": 30,
             "date": "2024-08-07T01:25:58.360Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-08-07T01:26:34.505Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-08-07T02:10:39.786Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-08-07T02:18:30.375Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-08-07T02:18:41.016Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-08-07T03:56:49.152Z"
           }
         ]
       },
@@ -19008,6 +19063,26 @@
           {
             "length": 142,
             "date": "2024-08-07T01:25:58.360Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-08-07T01:26:34.505Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-08-07T02:10:39.786Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-08-07T02:18:30.375Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-08-07T02:18:41.016Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-08-07T03:56:49.152Z"
           }
         ]
       },
