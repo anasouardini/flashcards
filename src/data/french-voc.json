@@ -1,20 +1,10 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 19,
       "currentCardSide": "front",
       "cards": [
-        {
-          "front": {
-            "content": "épuisée"
-          },
-          "back": {
-            "content": [
-              "- [exhausted]: "
-            ]
-          }
-        },
         {
           "front": {
             "content": "peine"
@@ -57,16 +47,6 @@
         },
         {
           "front": {
-            "content": "ressemble"
-          },
-          "back": {
-            "content": [
-              "- [looks like]: ressemble a lui : looks like him"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "aboutir"
           },
           "back": {
@@ -97,16 +77,6 @@
         },
         {
           "front": {
-            "content": " concevoir"
-          },
-          "back": {
-            "content": [
-              "- [plan]"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "actus"
           },
           "back": {
@@ -117,31 +87,11 @@
         },
         {
           "front": {
-            "content": "exposition"
-          },
-          "back": {
-            "content": [
-              "- [exposure]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "approbation"
           },
           "back": {
             "content": [
               "- [endorsement/approval]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "l'indemnisation"
-          },
-          "back": {
-            "content": [
-              "- [compensation]: "
             ]
           }
         },
@@ -167,31 +117,11 @@
         },
         {
           "front": {
-            "content": "députés"
-          },
-          "back": {
-            "content": [
-              "- [deputies]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "énoncée"
           },
           "back": {
             "content": [
               "- [announced/stated]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "réagir"
-          },
-          "back": {
-            "content": [
-              "- [react]: "
             ]
           }
         },
@@ -212,6 +142,166 @@
           "back": {
             "content": [
               "- [put / put down]: poser une question : throw/put (ask) a question"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "actualité"
+          },
+          "back": {
+            "content": [
+              "- [news(-ality)/topicality]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "en effet"
+          },
+          "back": {
+            "content": [
+              "- [indeed]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "depuis"
+          },
+          "back": {
+            "content": [
+              "- [since (time)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "en tant"
+          },
+          "back": {
+            "content": [
+              "- [as]: en tant qu'archetict : as an archetict"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "émission"
+          },
+          "back": {
+            "content": [
+              "- [programme/emission/issue]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "lotissement"
+          },
+          "back": {
+            "content": [
+              "- [subdivision]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "illusion"
+          },
+          "back": {
+            "content": [
+              "- [illusion]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rejeter/je rejette/le rejet"
+          },
+          "back": {
+            "content": [
+              "- [to reject/I reject/rejection]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "plaide"
+          },
+          "back": {
+            "content": [
+              "- [advocate]: plaide pour la unification : adovocate for the unification"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "unification"
+          },
+          "back": {
+            "content": [
+              "- [unification]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "enlever/enlevé"
+          },
+          "back": {
+            "content": [
+              "- [to remove/removed]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "interchangeable"
+          },
+          "back": {
+            "content": [
+              "- [interchangeable]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "déléguées"
+          },
+          "back": {
+            "content": [
+              "- [delegated]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la commission/Comité"
+          },
+          "back": {
+            "content": [
+              "- [commission/commitee]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "construire/la construction"
+          },
+          "back": {
+            "content": [
+              "- [build]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "effondre/effondré/effondrement"
+          },
+          "back": {
+            "content": [
+              "- [collapse/collapsed/collapsation]: "
             ]
           }
         }
@@ -275,7 +365,7 @@
         },
         {
           "front": {
-            "content": " puisqu"
+            "content": "puisque"
           },
           "back": {
             "content": [
@@ -1480,6 +1570,146 @@
           "back": {
             "content": [
               "- [monthly]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "épuisée"
+          },
+          "back": {
+            "content": [
+              "- [exhausted]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "ressemble"
+          },
+          "back": {
+            "content": [
+              "- [looks like]: ressemble a lui : looks like him"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": " concevoir"
+          },
+          "back": {
+            "content": [
+              "- [plan]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "exposition"
+          },
+          "back": {
+            "content": [
+              "- [exposure]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "l'indemnisation"
+          },
+          "back": {
+            "content": [
+              "- [compensation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "députés"
+          },
+          "back": {
+            "content": [
+              "- [deputies]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "réagir"
+          },
+          "back": {
+            "content": [
+              "- [react]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "croire/croyance"
+          },
+          "back": {
+            "content": [
+              "- [to believe/belief]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "urbain"
+          },
+          "back": {
+            "content": [
+              "- [urban]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "moderne"
+          },
+          "back": {
+            "content": [
+              "- [modern]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "royaume"
+          },
+          "back": {
+            "content": [
+              "- [kingdom]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "écrivain"
+          },
+          "back": {
+            "content": [
+              "- [writer]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "laisser"
+          },
+          "back": {
+            "content": [
+              "- [leave/let]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "detail"
+          },
+          "back": {
+            "content": [
+              "- [detail]: "
             ]
           }
         }
@@ -2936,7 +3166,7 @@
         },
         {
           "front": {
-            "content": "lorsqe"
+            "content": "lorsque"
           },
           "back": {
             "content": [
@@ -3581,12 +3811,12 @@
         },
         {
           "front": {
-            "content": "prévois"
+            "content": "prévois/prévu"
           },
           "back": {
             "content": [
-              "- [plan]",
-              "- [anticipate]"
+              "- [plan/planned]",
+              "- [anticipate/anticipated]"
             ]
           }
         },
@@ -6158,7 +6388,7 @@
         },
         {
           "front": {
-            "content": "jusqu/jusqu'à"
+            "content": "jusque/jusqu'à"
           },
           "back": {
             "content": [
@@ -6965,7 +7195,7 @@
       },
       {
         "type": "move",
-        "word": "puisqu",
+        "word": "puisque",
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-05-25T15:05:13.910Z"
@@ -7091,14 +7321,14 @@
       },
       {
         "type": "move",
-        "word": "prévois",
+        "word": "prévois/prévu",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-05-28T19:11:37.437Z"
       },
       {
         "type": "move",
-        "word": "prévois",
+        "word": "prévois/prévu",
         "fromLevel": 1,
         "toLevel": 0,
         "date": "2024-05-28T19:11:40.980Z"
@@ -7812,7 +8042,7 @@
       },
       {
         "type": "move",
-        "word": "prévois",
+        "word": "prévois/prévu",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-06-04T13:18:16.210Z"
@@ -8267,7 +8497,7 @@
       },
       {
         "type": "move",
-        "word": "prévois",
+        "word": "prévois/prévu",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-06-08T21:58:35.980Z"
@@ -10367,14 +10597,14 @@
       },
       {
         "type": "move",
-        "word": "puisqu",
+        "word": "puisque",
         "fromLevel": 1,
         "toLevel": 0,
         "date": "2024-06-30T18:26:18.043Z"
       },
       {
         "type": "move",
-        "word": "puisqu",
+        "word": "puisque",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-06-30T18:26:33.070Z"
@@ -12705,7 +12935,7 @@
       },
       {
         "type": "move",
-        "word": "jusqu/jusqu'à",
+        "word": "jusque/jusqu'à",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-07-21T22:45:15.931Z"
@@ -13174,7 +13404,7 @@
       },
       {
         "type": "move",
-        "word": "jusqu/jusqu'à",
+        "word": "jusque/jusqu'à",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-08-01T01:53:02.177Z"
@@ -13248,6 +13478,104 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-08-01T02:34:05.309Z"
+      },
+      {
+        "type": "move",
+        "word": "épuisée",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-06T18:49:14.168Z"
+      },
+      {
+        "type": "move",
+        "word": "ressemble",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-06T21:08:38.453Z"
+      },
+      {
+        "type": "move",
+        "word": "concevoir",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-06T21:13:49.648Z"
+      },
+      {
+        "type": "move",
+        "word": "exposition",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-06T21:15:15.928Z"
+      },
+      {
+        "type": "move",
+        "word": "l'indemnisation",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-06T23:16:02.544Z"
+      },
+      {
+        "type": "move",
+        "word": "députés",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-06T23:27:45.760Z"
+      },
+      {
+        "type": "move",
+        "word": "réagir",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-06T23:28:18.112Z"
+      },
+      {
+        "type": "move",
+        "word": "croire/croyance",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T01:17:39.818Z"
+      },
+      {
+        "type": "move",
+        "word": "urbain",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T01:18:12.627Z"
+      },
+      {
+        "type": "move",
+        "word": "moderne",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T01:18:16.289Z"
+      },
+      {
+        "type": "move",
+        "word": "royaume",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T01:18:20.958Z"
+      },
+      {
+        "type": "move",
+        "word": "écrivain",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T01:24:32.394Z"
+      },
+      {
+        "type": "move",
+        "word": "laisser",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T01:25:11.898Z"
+      },
+      {
+        "type": "move",
+        "word": "detail",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-07T01:25:58.360Z"
       }
     ],
     "levels": [
@@ -15020,6 +15348,62 @@
           {
             "length": 21,
             "date": "2024-08-01T00:29:37.174Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-08-06T18:49:14.224Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-08-06T21:08:38.474Z"
+          },
+          {
+            "length": 41,
+            "date": "2024-08-06T21:13:49.648Z"
+          },
+          {
+            "length": 40,
+            "date": "2024-08-06T21:15:15.928Z"
+          },
+          {
+            "length": 39,
+            "date": "2024-08-06T23:16:02.544Z"
+          },
+          {
+            "length": 38,
+            "date": "2024-08-06T23:27:45.760Z"
+          },
+          {
+            "length": 37,
+            "date": "2024-08-06T23:28:18.112Z"
+          },
+          {
+            "length": 36,
+            "date": "2024-08-07T01:17:39.818Z"
+          },
+          {
+            "length": 35,
+            "date": "2024-08-07T01:18:12.627Z"
+          },
+          {
+            "length": 34,
+            "date": "2024-08-07T01:18:16.289Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-08-07T01:18:20.958Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-08-07T01:24:32.394Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-08-07T01:25:11.898Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-08-07T01:25:58.360Z"
           }
         ]
       },
@@ -18568,6 +18952,62 @@
           {
             "length": 128,
             "date": "2024-08-01T02:34:05.309Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-08-06T18:49:14.224Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-08-06T21:08:38.474Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-08-06T21:13:49.648Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-08-06T21:15:15.928Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-08-06T23:16:02.544Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-08-06T23:27:45.760Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-08-06T23:28:18.112Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-08-07T01:17:39.818Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-08-07T01:18:12.627Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-08-07T01:18:16.289Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-08-07T01:18:20.958Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-08-07T01:24:32.394Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-08-07T01:25:11.898Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-08-07T01:25:58.360Z"
           }
         ]
       },
