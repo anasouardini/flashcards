@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 20,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -228,41 +228,11 @@
         },
         {
           "front": {
-            "content": "gonfler/dégonfler/(gonflage/inflation)/(dégonflage/déflation)"
-          },
-          "back": {
-            "content": [
-              "- [inflate/deflate/inflation/deflation]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "planter"
           },
           "back": {
             "content": [
               "- [crash/driver/hammer]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "abstrait"
-          },
-          "back": {
-            "content": [
-              "- [abstract]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "probablement"
-          },
-          "back": {
-            "content": [
-              "- [probably]: "
             ]
           }
         },
@@ -283,6 +253,26 @@
           "back": {
             "content": [
               "- [funny]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "le fond"
+          },
+          "back": {
+            "content": [
+              "- [bottom]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "plafond"
+          },
+          "back": {
+            "content": [
+              "- [ceiling]: "
             ]
           }
         }
@@ -1771,6 +1761,36 @@
           "back": {
             "content": [
               "- [since (time)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "gonfler/dégonfler/(gonflage/inflation)/(dégonflage/déflation)"
+          },
+          "back": {
+            "content": [
+              "- [inflate/deflate/inflation/deflation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "abstrait"
+          },
+          "back": {
+            "content": [
+              "- [abstract]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "probablement"
+          },
+          "back": {
+            "content": [
+              "- [probably]: "
             ]
           }
         }
@@ -13710,6 +13730,27 @@
         "fromLevel": 0,
         "toLevel": 10,
         "date": "2024-08-15T09:39:15.515Z"
+      },
+      {
+        "type": "move",
+        "word": "gonfler/dégonfler/(gonflage/inflation)/(dégonflage/déflation)",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-15T10:01:51.181Z"
+      },
+      {
+        "type": "move",
+        "word": "abstrait",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-15T10:34:59.054Z"
+      },
+      {
+        "type": "move",
+        "word": "probablement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-15T10:35:01.634Z"
       }
     ],
     "levels": [
@@ -15570,6 +15611,18 @@
           {
             "length": 28,
             "date": "2024-08-15T09:39:15.565Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-08-15T10:01:51.181Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-08-15T10:34:59.054Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-08-15T10:35:01.634Z"
           }
         ]
       },
@@ -19206,6 +19259,18 @@
           {
             "length": 150,
             "date": "2024-08-14T21:15:47.096Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-08-15T10:01:51.181Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-08-15T10:34:59.054Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-08-15T10:35:01.634Z"
           }
         ]
       },
