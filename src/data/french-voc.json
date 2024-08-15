@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 20,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -12,16 +12,6 @@
           "back": {
             "content": [
               "- [penalty/punishment]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "un atout"
-          },
-          "back": {
-            "content": [
-              "- [asset/advantage]: "
             ]
           }
         },
@@ -77,16 +67,6 @@
         },
         {
           "front": {
-            "content": "actus"
-          },
-          "back": {
-            "content": [
-              "- [news]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "approbation"
           },
           "back": {
@@ -97,7 +77,7 @@
         },
         {
           "front": {
-            "content": "verdict"
+            "content": "le verdict"
           },
           "back": {
             "content": [
@@ -131,7 +111,8 @@
           },
           "back": {
             "content": [
-              "- [to expose]: "
+              "- [to expose]: ",
+              "- [to display]: "
             ]
           }
         },
@@ -162,16 +143,6 @@
           "back": {
             "content": [
               "- [indeed]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "depuis"
-          },
-          "back": {
-            "content": [
-              "- [since (time)]: "
             ]
           }
         },
@@ -237,21 +208,81 @@
         },
         {
           "front": {
-            "content": "la commission/Comité"
-          },
-          "back": {
-            "content": [
-              "- [commission/commitee]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "effondre/effondré/effondrement"
           },
           "back": {
             "content": [
               "- [collapse/collapsed/collapsation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "poli/polie"
+          },
+          "back": {
+            "content": [
+              "- [polite]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "gonfler/dégonfler/(gonflage/inflation)/(dégonflage/déflation)"
+          },
+          "back": {
+            "content": [
+              "- [inflate/deflate/inflation/deflation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "planter"
+          },
+          "back": {
+            "content": [
+              "- [crash/driver/hammer]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "abstrait"
+          },
+          "back": {
+            "content": [
+              "- [abstract]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "probablement"
+          },
+          "back": {
+            "content": [
+              "- [probably]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "decompenser"
+          },
+          "back": {
+            "content": [
+              "- [decompensate]: to lose phsychological defenses"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "drole"
+          },
+          "back": {
+            "content": [
+              "- [funny]: "
             ]
           }
         }
@@ -1710,6 +1741,36 @@
           "back": {
             "content": [
               "- [build]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "un atout"
+          },
+          "back": {
+            "content": [
+              "- [asset/advantage]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "actus"
+          },
+          "back": {
+            "content": [
+              "- [news]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "depuis"
+          },
+          "back": {
+            "content": [
+              "- [since (time)]: "
             ]
           }
         }
@@ -7129,6 +7190,16 @@
           "back": {
             "content": [
               "- [refinery]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la commission/Comité"
+          },
+          "back": {
+            "content": [
+              "- [commission/commitee]: "
             ]
           }
         }
@@ -13611,6 +13682,34 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-08-07T03:56:49.132Z"
+      },
+      {
+        "type": "move",
+        "word": "un atout",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-14T17:05:13.103Z"
+      },
+      {
+        "type": "move",
+        "word": "actus",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-14T18:04:18.698Z"
+      },
+      {
+        "type": "move",
+        "word": "depuis",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-08-14T21:15:47.022Z"
+      },
+      {
+        "type": "move",
+        "word": "la commission/Comité",
+        "fromLevel": 0,
+        "toLevel": 10,
+        "date": "2024-08-15T09:39:15.515Z"
       }
     ],
     "levels": [
@@ -15459,6 +15558,18 @@
           {
             "length": 25,
             "date": "2024-08-07T03:56:49.152Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-08-14T17:05:13.210Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-08-14T18:04:18.698Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-08-15T09:39:15.565Z"
           }
         ]
       },
@@ -19083,6 +19194,18 @@
           {
             "length": 147,
             "date": "2024-08-07T03:56:49.152Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-08-14T17:05:13.210Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-08-14T18:04:18.698Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-08-14T21:15:47.096Z"
           }
         ]
       },
@@ -21057,6 +21180,10 @@
           {
             "length": 1,
             "date": "2024-07-25T16:53:30.816Z"
+          },
+          {
+            "length": 2,
+            "date": "2024-08-15T09:39:15.565Z"
           }
         ]
       }
