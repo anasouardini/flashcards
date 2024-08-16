@@ -315,11 +315,21 @@
               "- [expensive/costly]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "l'apprentissage/j'apprends"
+          },
+          "back": {
+            "content": [
+              "- [learning/I learn]: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 33,
+      "currentCardIndex": 51,
       "currentCardSide": "back",
       "cards": [
         {
@@ -695,16 +705,6 @@
           "back": {
             "content": [
               "- [arrangement/organization/layout]:"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "adéquat"
-          },
-          "back": {
-            "content": [
-              "- [adequate]"
             ]
           }
         },
@@ -6616,6 +6616,16 @@
           "back": {
             "content": [
               "- [yesterday]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "adéquat"
+          },
+          "back": {
+            "content": [
+              "- [adequate]"
             ]
           }
         }
@@ -13793,6 +13803,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-08-15T10:35:01.634Z"
+      },
+      {
+        "type": "move",
+        "word": "adéquat",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T03:45:18.600Z"
       }
     ],
     "levels": [
@@ -15665,6 +15682,10 @@
           {
             "length": 27,
             "date": "2024-08-15T10:35:01.634Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-08-16T03:45:18.667Z"
           }
         ]
       },
@@ -19313,6 +19334,10 @@
           {
             "length": 153,
             "date": "2024-08-15T10:35:01.634Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-08-16T03:45:18.667Z"
           }
         ]
       },
@@ -21201,6 +21226,10 @@
           {
             "length": 489,
             "date": "2024-08-01T02:34:05.309Z"
+          },
+          {
+            "length": 490,
+            "date": "2024-08-16T03:45:18.667Z"
           }
         ]
       },
