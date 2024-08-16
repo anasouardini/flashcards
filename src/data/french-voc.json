@@ -295,11 +295,31 @@
               "- [popular]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "emporter"
+          },
+          "back": {
+            "content": [
+              "- [take away]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "coûteux"
+          },
+          "back": {
+            "content": [
+              "- [expensive/costly]: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 16,
+      "currentCardIndex": 33,
       "currentCardSide": "back",
       "cards": [
         {
@@ -468,7 +488,7 @@
           },
           "back": {
             "content": [
-              "- [dectate/necessitate]: "
+              "- [dictate/necessitate]: "
             ]
           }
         },
