@@ -329,7 +329,7 @@
       ]
     },
     {
-      "currentCardIndex": 51,
+      "currentCardIndex": 112,
       "currentCardSide": "back",
       "cards": [
         {
@@ -834,7 +834,7 @@
         },
         {
           "front": {
-            "content": "couche"
+            "content": "couche (n.)"
           },
           "back": {
             "content": "- [layer]: "
@@ -925,26 +925,6 @@
         },
         {
           "front": {
-            "content": "intensifie"
-          },
-          "back": {
-            "content": [
-              "- [intensifies]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "évitable"
-          },
-          "back": {
-            "content": [
-              "- [evitable/avoidable]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "attribué"
           },
           "back": {
@@ -955,41 +935,11 @@
         },
         {
           "front": {
-            "content": "demander"
-          },
-          "back": {
-            "content": [
-              "- [ask]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "semble"
           },
           "back": {
             "content": [
               "- [seems]: il semble être : it seems to be"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la taille"
-          },
-          "back": {
-            "content": [
-              "- [size]: la taille de l'effet : the size of the effect"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "le bien-être"
-          },
-          "back": {
-            "content": [
-              "- [well-being]: "
             ]
           }
         },
@@ -1030,16 +980,6 @@
           "back": {
             "content": [
               "- [cerebral/cervical]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "affecter"
-          },
-          "back": {
-            "content": [
-              "- [to affect]: "
             ]
           }
         },
@@ -1225,16 +1165,6 @@
         },
         {
           "front": {
-            "content": "impeccable"
-          },
-          "back": {
-            "content": [
-              "- [perfect]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "endroit"
           },
           "back": {
@@ -1337,17 +1267,6 @@
         },
         {
           "front": {
-            "content": "tromperie/trompe/trompeuse"
-          },
-          "back": {
-            "content": [
-              "- [deception]",
-              "- [deceive/mislead]"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "endurer"
           },
           "back": {
@@ -1373,16 +1292,6 @@
           "back": {
             "content": [
               "- [trigger/provoke]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "l'arbitrage"
-          },
-          "back": {
-            "content": [
-              "- [arbitration/refereeing]: "
             ]
           }
         },
@@ -1513,26 +1422,6 @@
           "back": {
             "content": [
               "- [proliferation]: la prolifération est le rapid grandissant de nombre de qqc"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "rassemblement"
-          },
-          "back": {
-            "content": [
-              "- [gathering]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "rouvre"
-          },
-          "back": {
-            "content": [
-              "- [reopens]: "
             ]
           }
         },
@@ -6626,6 +6515,117 @@
           "back": {
             "content": [
               "- [adequate]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "intensifie"
+          },
+          "back": {
+            "content": [
+              "- [intensifies]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "évitable"
+          },
+          "back": {
+            "content": [
+              "- [evitable/avoidable]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "demander"
+          },
+          "back": {
+            "content": [
+              "- [ask]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la taille"
+          },
+          "back": {
+            "content": [
+              "- [size]: la taille de l'effet : the size of the effect"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "le bien-être"
+          },
+          "back": {
+            "content": [
+              "- [well-being]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "affecter"
+          },
+          "back": {
+            "content": [
+              "- [to affect]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "impeccable"
+          },
+          "back": {
+            "content": [
+              "- [perfect]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "tromperie/trompe/trompeuse"
+          },
+          "back": {
+            "content": [
+              "- [deception]",
+              "- [deceive/mislead]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "l'arbitrage"
+          },
+          "back": {
+            "content": [
+              "- [arbitration/refereeing]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rassemblement"
+          },
+          "back": {
+            "content": [
+              "- [gathering]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rouvre"
+          },
+          "back": {
+            "content": [
+              "- [reopens]: "
             ]
           }
         }
@@ -13810,6 +13810,83 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-08-16T03:45:18.600Z"
+      },
+      {
+        "type": "move",
+        "word": "intensifie",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T04:13:57.091Z"
+      },
+      {
+        "type": "move",
+        "word": "évitable",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T04:14:06.966Z"
+      },
+      {
+        "type": "move",
+        "word": "demander",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T04:14:40.774Z"
+      },
+      {
+        "type": "move",
+        "word": "la taille",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T04:15:02.115Z"
+      },
+      {
+        "type": "move",
+        "word": "le bien-être",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T04:15:07.067Z"
+      },
+      {
+        "type": "move",
+        "word": "affecter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T04:19:03.195Z"
+      },
+      {
+        "type": "move",
+        "word": "impeccable",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T04:50:10.504Z"
+      },
+      {
+        "type": "move",
+        "word": "tromperie/trompe/trompeuse",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T05:52:07.667Z"
+      },
+      {
+        "type": "move",
+        "word": "l'arbitrage",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T05:54:58.365Z"
+      },
+      {
+        "type": "move",
+        "word": "rassemblement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T06:16:43.255Z"
+      },
+      {
+        "type": "move",
+        "word": "rouvre",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-16T06:16:48.616Z"
       }
     ],
     "levels": [
@@ -19338,6 +19415,50 @@
           {
             "length": 152,
             "date": "2024-08-16T03:45:18.667Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-08-16T04:13:57.092Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-08-16T04:14:06.966Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-08-16T04:14:40.774Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-08-16T04:15:02.115Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-08-16T04:15:07.067Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-08-16T04:19:03.195Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-08-16T04:50:10.504Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-08-16T05:52:07.667Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-08-16T05:54:58.365Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-08-16T06:16:43.255Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-08-16T06:16:48.616Z"
           }
         ]
       },
@@ -21230,6 +21351,50 @@
           {
             "length": 490,
             "date": "2024-08-16T03:45:18.667Z"
+          },
+          {
+            "length": 491,
+            "date": "2024-08-16T04:13:57.092Z"
+          },
+          {
+            "length": 492,
+            "date": "2024-08-16T04:14:06.966Z"
+          },
+          {
+            "length": 493,
+            "date": "2024-08-16T04:14:40.774Z"
+          },
+          {
+            "length": 494,
+            "date": "2024-08-16T04:15:02.115Z"
+          },
+          {
+            "length": 495,
+            "date": "2024-08-16T04:15:07.067Z"
+          },
+          {
+            "length": 496,
+            "date": "2024-08-16T04:19:03.195Z"
+          },
+          {
+            "length": 497,
+            "date": "2024-08-16T04:50:10.504Z"
+          },
+          {
+            "length": 498,
+            "date": "2024-08-16T05:52:07.667Z"
+          },
+          {
+            "length": 499,
+            "date": "2024-08-16T05:54:58.365Z"
+          },
+          {
+            "length": 500,
+            "date": "2024-08-16T06:16:43.255Z"
+          },
+          {
+            "length": 501,
+            "date": "2024-08-16T06:16:48.616Z"
           }
         ]
       },
