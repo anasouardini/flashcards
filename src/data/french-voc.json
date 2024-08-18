@@ -329,8 +329,8 @@
       ]
     },
     {
-      "currentCardIndex": 112,
-      "currentCardSide": "back",
+      "currentCardIndex": 130,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -1441,7 +1441,8 @@
           },
           "back": {
             "content": [
-              "- [the regulation]: "
+              "- [solving]: ",
+              "- [adjustment]: "
             ]
           }
         },
@@ -1547,36 +1548,6 @@
         },
         {
           "front": {
-            "content": "croire/croyance"
-          },
-          "back": {
-            "content": [
-              "- [to believe/belief]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "urbain"
-          },
-          "back": {
-            "content": [
-              "- [urban]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "moderne"
-          },
-          "back": {
-            "content": [
-              "- [modern]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "royaume"
           },
           "back": {
@@ -1607,61 +1578,11 @@
         },
         {
           "front": {
-            "content": "detail"
-          },
-          "back": {
-            "content": [
-              "- [detail]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "illusion"
-          },
-          "back": {
-            "content": [
-              "- [illusion]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "unification"
-          },
-          "back": {
-            "content": [
-              "- [unification]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "interchangeable"
-          },
-          "back": {
-            "content": [
-              "- [interchangeable]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "déléguées"
           },
           "back": {
             "content": [
               "- [delegated]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "construire/la construction"
-          },
-          "back": {
-            "content": [
-              "- [build]: "
             ]
           }
         },
@@ -1687,16 +1608,6 @@
         },
         {
           "front": {
-            "content": "depuis"
-          },
-          "back": {
-            "content": [
-              "- [since (time)]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "gonfler/dégonfler/(gonflage/inflation)/(dégonflage/déflation)"
           },
           "back": {
@@ -1712,16 +1623,6 @@
           "back": {
             "content": [
               "- [abstract]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "probablement"
-          },
-          "back": {
-            "content": [
-              "- [probably]: "
             ]
           }
         }
@@ -6626,6 +6527,106 @@
           "back": {
             "content": [
               "- [reopens]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "croire/croyance"
+          },
+          "back": {
+            "content": [
+              "- [to believe/belief]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "urbain"
+          },
+          "back": {
+            "content": [
+              "- [urban]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "moderne"
+          },
+          "back": {
+            "content": [
+              "- [modern]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "detail"
+          },
+          "back": {
+            "content": [
+              "- [detail]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "illusion"
+          },
+          "back": {
+            "content": [
+              "- [illusion]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "unification"
+          },
+          "back": {
+            "content": [
+              "- [unification]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "interchangeable"
+          },
+          "back": {
+            "content": [
+              "- [interchangeable]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "construire/la construction"
+          },
+          "back": {
+            "content": [
+              "- [build]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "depuis"
+          },
+          "back": {
+            "content": [
+              "- [since (time)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "probablement"
+          },
+          "back": {
+            "content": [
+              "- [probably]: "
             ]
           }
         }
@@ -13887,6 +13888,76 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-08-16T06:16:48.616Z"
+      },
+      {
+        "type": "move",
+        "word": "croire/croyance",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-18T16:38:09.933Z"
+      },
+      {
+        "type": "move",
+        "word": "urbain",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-18T16:38:13.922Z"
+      },
+      {
+        "type": "move",
+        "word": "moderne",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-18T16:38:16.576Z"
+      },
+      {
+        "type": "move",
+        "word": "detail",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-18T16:38:39.088Z"
+      },
+      {
+        "type": "move",
+        "word": "illusion",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-18T16:38:42.128Z"
+      },
+      {
+        "type": "move",
+        "word": "unification",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-18T16:38:51.704Z"
+      },
+      {
+        "type": "move",
+        "word": "interchangeable",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-18T16:38:54.912Z"
+      },
+      {
+        "type": "move",
+        "word": "construire/la construction",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-18T16:39:43.511Z"
+      },
+      {
+        "type": "move",
+        "word": "depuis",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-18T16:40:23.464Z"
+      },
+      {
+        "type": "move",
+        "word": "probablement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-08-18T16:40:55.227Z"
       }
     ],
     "levels": [
@@ -19459,6 +19530,46 @@
           {
             "length": 141,
             "date": "2024-08-16T06:16:48.616Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-08-18T16:38:09.935Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-08-18T16:38:13.923Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-08-18T16:38:16.576Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-08-18T16:38:39.088Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-08-18T16:38:42.128Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-08-18T16:38:51.704Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-08-18T16:38:54.912Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-08-18T16:39:43.511Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-08-18T16:40:23.464Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-08-18T16:40:55.227Z"
           }
         ]
       },
@@ -21395,6 +21506,46 @@
           {
             "length": 501,
             "date": "2024-08-16T06:16:48.616Z"
+          },
+          {
+            "length": 502,
+            "date": "2024-08-18T16:38:09.935Z"
+          },
+          {
+            "length": 503,
+            "date": "2024-08-18T16:38:13.923Z"
+          },
+          {
+            "length": 504,
+            "date": "2024-08-18T16:38:16.576Z"
+          },
+          {
+            "length": 505,
+            "date": "2024-08-18T16:38:39.088Z"
+          },
+          {
+            "length": 506,
+            "date": "2024-08-18T16:38:42.128Z"
+          },
+          {
+            "length": 507,
+            "date": "2024-08-18T16:38:51.704Z"
+          },
+          {
+            "length": 508,
+            "date": "2024-08-18T16:38:54.912Z"
+          },
+          {
+            "length": 509,
+            "date": "2024-08-18T16:39:43.511Z"
+          },
+          {
+            "length": 510,
+            "date": "2024-08-18T16:40:23.464Z"
+          },
+          {
+            "length": 511,
+            "date": "2024-08-18T16:40:55.227Z"
           }
         ]
       },
