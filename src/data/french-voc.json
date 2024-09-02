@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 6,
+      "currentCardIndex": 8,
       "currentCardSide": "back",
       "cards": [
         {
@@ -73,16 +73,6 @@
             "content": [
               "- [to expose]: ",
               "- [to display]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "poser"
-          },
-          "back": {
-            "content": [
-              "- [put / put down]: poser une question : throw/put (ask) a question"
             ]
           }
         },
@@ -1623,6 +1613,16 @@
           "back": {
             "content": [
               "- [announced/stated]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "poser"
+          },
+          "back": {
+            "content": [
+              "- [put / put down]: poser une question : throw/put (ask) a question"
             ]
           }
         }
@@ -13986,6 +13986,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-02T16:15:47.102Z"
+      },
+      {
+        "type": "move",
+        "word": "poser",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-02T16:44:16.015Z"
       }
     ],
     "levels": [
@@ -15878,6 +15885,10 @@
           {
             "length": 28,
             "date": "2024-09-02T16:15:47.102Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-09-02T16:44:16.015Z"
           }
         ]
       },
@@ -19630,6 +19641,10 @@
           {
             "length": 135,
             "date": "2024-09-02T16:15:47.102Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-09-02T16:44:16.015Z"
           }
         ]
       },
