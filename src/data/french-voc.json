@@ -1,40 +1,10 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 6,
+      "currentCardSide": "back",
       "cards": [
-        {
-          "front": {
-            "content": "peine"
-          },
-          "back": {
-            "content": [
-              "- [penalty/punishment]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "rivaliser"
-          },
-          "back": {
-            "content": [
-              "- [compete]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "lors"
-          },
-          "back": {
-            "content": [
-              "- [during]: "
-            ]
-          }
-        },
         {
           "front": {
             "content": "aboutir"
@@ -92,16 +62,6 @@
           "back": {
             "content": [
               "- [section/aspect/part]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "énoncée"
-          },
-          "back": {
-            "content": [
-              "- [announced/stated]: "
             ]
           }
         },
@@ -1623,6 +1583,46 @@
           "back": {
             "content": [
               "- [abstract]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "peine"
+          },
+          "back": {
+            "content": [
+              "- [penalty/punishment]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rivaliser"
+          },
+          "back": {
+            "content": [
+              "- [compete]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "lors"
+          },
+          "back": {
+            "content": [
+              "- [during]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "énoncée"
+          },
+          "back": {
+            "content": [
+              "- [announced/stated]: "
             ]
           }
         }
@@ -13958,6 +13958,34 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-08-18T16:40:55.227Z"
+      },
+      {
+        "type": "move",
+        "word": "peine",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-02T16:14:45.327Z"
+      },
+      {
+        "type": "move",
+        "word": "rivaliser",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-02T16:14:49.342Z"
+      },
+      {
+        "type": "move",
+        "word": "lors",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-02T16:14:52.363Z"
+      },
+      {
+        "type": "move",
+        "word": "énoncée",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-02T16:15:47.102Z"
       }
     ],
     "levels": [
@@ -15834,6 +15862,22 @@
           {
             "length": 32,
             "date": "2024-08-16T03:45:18.667Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-09-02T16:14:45.402Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-09-02T16:14:49.342Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-09-02T16:14:52.363Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-09-02T16:15:47.102Z"
           }
         ]
       },
@@ -19570,6 +19614,22 @@
           {
             "length": 131,
             "date": "2024-08-18T16:40:55.227Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-09-02T16:14:45.402Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-09-02T16:14:49.342Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-09-02T16:14:52.363Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-09-02T16:15:47.102Z"
           }
         ]
       },
