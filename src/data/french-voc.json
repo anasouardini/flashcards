@@ -199,8 +199,8 @@
       ]
     },
     {
-      "currentCardIndex": 13,
-      "currentCardSide": "back",
+      "currentCardIndex": 20,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -344,14 +344,6 @@
         },
         {
           "front": {
-            "content": "couche (n.)"
-          },
-          "back": {
-            "content": "- [layer]: "
-          }
-        },
-        {
-          "front": {
             "content": "engorgement"
           },
           "back": {
@@ -379,117 +371,11 @@
         },
         {
           "front": {
-            "content": "notamment"
-          },
-          "back": {
-            "content": [
-              "- [especially]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": " ennuie"
-          },
-          "back": {
-            "content": [
-              "- [annoy]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "apporter"
-          },
-          "back": {
-            "content": "- [bring]: "
-          }
-        },
-        {
-          "front": {
-            "content": "révéler"
-          },
-          "back": {
-            "content": [
-              "- [reveal]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "contourn"
-          },
-          "back": {
-            "content": "- [bypass]: "
-          }
-        },
-        {
-          "front": {
-            "content": "survenant"
-          },
-          "back": {
-            "content": [
-              "- [occuring]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "attribué"
-          },
-          "back": {
-            "content": [
-              "- [assigned/attributed/associated]: ils ont l'attribué a le chauffement : they have associated it to the heat"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "semble"
-          },
-          "back": {
-            "content": [
-              "- [seems]: il semble être : it seems to be"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "la perturbation/perturber"
           },
           "back": {
             "content": [
               "- [disturbing/to disturb]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la perte/perdu"
-          },
-          "back": {
-            "content": [
-              "- [the loss/losst]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "reçoit/reçu"
-          },
-          "back": {
-            "content": [
-              "- [recieves/received]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "cérébral/cervical"
-          },
-          "back": {
-            "content": [
-              "- [cerebral/cervical]: "
             ]
           }
         },
@@ -510,44 +396,6 @@
           "back": {
             "content": [
               "- [impressive]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "remettre"
-          },
-          "back": {
-            "content": [
-              "- [to put back]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "semer"
-          },
-          "back": {
-            "content": "- [scatter/spread/defuse]: "
-          }
-        },
-        {
-          "front": {
-            "content": "épaisseu/épais"
-          },
-          "back": {
-            "content": [
-              "- [thickness/thick]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "surdoué"
-          },
-          "back": {
-            "content": [
-              "- [gifted]: "
             ]
           }
         },
@@ -6628,6 +6476,158 @@
           },
           "back": {
             "content": "- [encompasses (surround)]: réunir/englobe toutes les elements : reunites all the elements"
+          }
+        },
+        {
+          "front": {
+            "content": "couche (n.)"
+          },
+          "back": {
+            "content": "- [layer]: "
+          }
+        },
+        {
+          "front": {
+            "content": "notamment"
+          },
+          "back": {
+            "content": [
+              "- [especially]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": " ennuie"
+          },
+          "back": {
+            "content": [
+              "- [annoy]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "apporter"
+          },
+          "back": {
+            "content": "- [bring]: "
+          }
+        },
+        {
+          "front": {
+            "content": "révéler"
+          },
+          "back": {
+            "content": [
+              "- [reveal]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "contourn"
+          },
+          "back": {
+            "content": "- [bypass]: "
+          }
+        },
+        {
+          "front": {
+            "content": "survenant"
+          },
+          "back": {
+            "content": [
+              "- [occuring]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "attribué"
+          },
+          "back": {
+            "content": [
+              "- [assigned/attributed/associated]: ils ont l'attribué a le chauffement : they have associated it to the heat"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "semble"
+          },
+          "back": {
+            "content": [
+              "- [seems]: il semble être : it seems to be"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la perte/perdu"
+          },
+          "back": {
+            "content": [
+              "- [the loss/losst]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "reçoit/reçu"
+          },
+          "back": {
+            "content": [
+              "- [recieves/received]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "cérébral/cervical"
+          },
+          "back": {
+            "content": [
+              "- [cerebral/cervical]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "remettre"
+          },
+          "back": {
+            "content": [
+              "- [to put back]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "semer"
+          },
+          "back": {
+            "content": "- [scatter/spread/defuse]: "
+          }
+        },
+        {
+          "front": {
+            "content": "épaisseu/épais"
+          },
+          "back": {
+            "content": [
+              "- [thickness/thick]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "surdoué"
+          },
+          "back": {
+            "content": [
+              "- [gifted]: "
+            ]
           }
         }
       ]
@@ -14308,6 +14308,118 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-09-04T14:36:39.410Z"
+      },
+      {
+        "type": "move",
+        "word": "couche (n.)",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:10:47.357Z"
+      },
+      {
+        "type": "move",
+        "word": "notamment",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:36:59.044Z"
+      },
+      {
+        "type": "move",
+        "word": "ennuie",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:37:03.716Z"
+      },
+      {
+        "type": "move",
+        "word": "apporter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:37:16.164Z"
+      },
+      {
+        "type": "move",
+        "word": "révéler",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:37:20.028Z"
+      },
+      {
+        "type": "move",
+        "word": "contourn",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:37:25.364Z"
+      },
+      {
+        "type": "move",
+        "word": "survenant",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:37:43.236Z"
+      },
+      {
+        "type": "move",
+        "word": "attribué",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:38:28.059Z"
+      },
+      {
+        "type": "move",
+        "word": "semble",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:38:33.900Z"
+      },
+      {
+        "type": "move",
+        "word": "la perte/perdu",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:39:55.828Z"
+      },
+      {
+        "type": "move",
+        "word": "reçoit/reçu",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:43:46.547Z"
+      },
+      {
+        "type": "move",
+        "word": "cérébral/cervical",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:43:54.835Z"
+      },
+      {
+        "type": "move",
+        "word": "remettre",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:45:36.779Z"
+      },
+      {
+        "type": "move",
+        "word": "semer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:45:40.188Z"
+      },
+      {
+        "type": "move",
+        "word": "épaisseu/épais",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:46:31.802Z"
+      },
+      {
+        "type": "move",
+        "word": "surdoué",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T17:46:49.002Z"
       }
     ],
     "levels": [
@@ -20172,6 +20284,70 @@
           {
             "length": 107,
             "date": "2024-09-04T14:36:39.410Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-09-04T17:10:47.357Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-09-04T17:36:59.044Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-09-04T17:37:03.716Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-09-04T17:37:16.164Z"
+          },
+          {
+            "length": 102,
+            "date": "2024-09-04T17:37:20.028Z"
+          },
+          {
+            "length": 101,
+            "date": "2024-09-04T17:37:25.364Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-09-04T17:37:43.236Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-09-04T17:38:28.059Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-09-04T17:38:33.900Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-09-04T17:39:55.828Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-09-04T17:43:46.547Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-09-04T17:43:54.835Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-09-04T17:45:36.779Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-09-04T17:45:40.188Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-09-04T17:46:31.802Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-09-04T17:46:49.002Z"
           }
         ]
       },
@@ -22296,6 +22472,70 @@
           {
             "length": 548,
             "date": "2024-09-04T14:36:39.410Z"
+          },
+          {
+            "length": 549,
+            "date": "2024-09-04T17:10:47.357Z"
+          },
+          {
+            "length": 550,
+            "date": "2024-09-04T17:36:59.044Z"
+          },
+          {
+            "length": 551,
+            "date": "2024-09-04T17:37:03.716Z"
+          },
+          {
+            "length": 552,
+            "date": "2024-09-04T17:37:16.164Z"
+          },
+          {
+            "length": 553,
+            "date": "2024-09-04T17:37:20.028Z"
+          },
+          {
+            "length": 554,
+            "date": "2024-09-04T17:37:25.364Z"
+          },
+          {
+            "length": 555,
+            "date": "2024-09-04T17:37:43.236Z"
+          },
+          {
+            "length": 556,
+            "date": "2024-09-04T17:38:28.059Z"
+          },
+          {
+            "length": 557,
+            "date": "2024-09-04T17:38:33.900Z"
+          },
+          {
+            "length": 558,
+            "date": "2024-09-04T17:39:55.828Z"
+          },
+          {
+            "length": 559,
+            "date": "2024-09-04T17:43:46.547Z"
+          },
+          {
+            "length": 560,
+            "date": "2024-09-04T17:43:54.835Z"
+          },
+          {
+            "length": 561,
+            "date": "2024-09-04T17:45:36.779Z"
+          },
+          {
+            "length": 562,
+            "date": "2024-09-04T17:45:40.188Z"
+          },
+          {
+            "length": 563,
+            "date": "2024-09-04T17:46:31.802Z"
+          },
+          {
+            "length": 564,
+            "date": "2024-09-04T17:46:49.002Z"
           }
         ]
       },
