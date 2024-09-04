@@ -1,5 +1,5 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -199,8 +199,8 @@
       ]
     },
     {
-      "currentCardIndex": 130,
-      "currentCardSide": "front",
+      "currentCardIndex": 13,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -226,33 +226,12 @@
         },
         {
           "front": {
-            "content": "porter"
-          },
-          "back": {
-            "content": [
-              "- [carry]: ",
-              "- [wear]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": " débarquer"
           },
           "back": {
             "content": [
               "- [not be up to speed]",
               "- [land]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "préalable"
-          },
-          "back": {
-            "content": [
-              "- [prior]: "
             ]
           }
         },
@@ -293,51 +272,11 @@
         },
         {
           "front": {
-            "content": "rentable"
-          },
-          "back": {
-            "content": [
-              "- [profitable]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "prestataires"
           },
           "back": {
             "content": [
               "- [providers]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "convient"
-          },
-          "back": {
-            "content": [
-              "- [agree/suits you]: cette medicament te convient : this medication suits you"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "davantage"
-          },
-          "back": {
-            "content": [
-              "- [more/further]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "retenir"
-          },
-          "back": {
-            "content": [
-              "- [keep/keep in mind]: "
             ]
           }
         },
@@ -354,161 +293,11 @@
         },
         {
           "front": {
-            "content": "assure"
-          },
-          "back": {
-            "content": [
-              "- [assure/insure]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "oblige"
-          },
-          "back": {
-            "content": [
-              "- [dictate/necessitate]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "tentative"
-          },
-          "back": {
-            "content": [
-              "- [attempt]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "prolonger"
-          },
-          "back": {
-            "content": [
-              "- [extend]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "pourtant"
           },
           "back": {
             "content": [
               "- [yet/however]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la croissance/croître"
-          },
-          "back": {
-            "content": [
-              "- [growth]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "la vigueur"
-          },
-          "back": {
-            "content": [
-              "- [strength]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "allonger"
-          },
-          "back": {
-            "content": [
-              "- [lengthen]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "capter"
-          },
-          "back": {
-            "content": [
-              "- [get/pick up/capture/understand]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "échapper"
-          },
-          "back": {
-            "content": [
-              "- [to escape]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "irrité"
-          },
-          "back": {
-            "content": [
-              "- [irritated]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "cher"
-          },
-          "back": {
-            "content": [
-              "- [dear]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "rapprocher"
-          },
-          "back": {
-            "content": [
-              "- [to bring close]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "douce"
-          },
-          "back": {
-            "content": [
-              "- [gentle/soft/quiet]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "entièrement"
-          },
-          "back": {
-            "content": [
-              "- [entirely]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "reprendre"
-          },
-          "back": {
-            "content": [
-              "- [get back/continue]: "
             ]
           }
         },
@@ -528,27 +317,6 @@
         },
         {
           "front": {
-            "content": " estime"
-          },
-          "back": {
-            "content": [
-              "- [respect]",
-              "- [esteem]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": " renseigné"
-          },
-          "back": {
-            "content": [
-              "- [informed]"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": " atteindre"
           },
           "back": {
@@ -560,138 +328,10 @@
         },
         {
           "front": {
-            "content": "lamentable"
-          },
-          "back": {
-            "content": [
-              "- [pathetic/lamentable]:"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "agencement"
-          },
-          "back": {
-            "content": [
-              "- [arrangement/organization/layout]:"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": " prudent"
-          },
-          "back": {
-            "content": [
-              "- [careful]: soyez prudent : be careful"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "préconise"
-          },
-          "back": {
-            "content": [
-              "- [recomended]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "molle"
-          },
-          "back": {
-            "content": [
-              "- [soft]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": " bénévole"
-          },
-          "back": {
-            "content": [
-              "- [volounteer]"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "puisse"
-          },
-          "back": {
-            "content": [
-              "- [could (subjonctif)]:"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "déroule"
-          },
-          "back": {
-            "content": "- [start]: "
-          }
-        },
-        {
-          "front": {
-            "content": "envie"
-          },
-          "back": {
-            "content": [
-              "- [want/desire]:"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "ailleurs"
-          },
-          "back": {
-            "content": "- [elsewhere]: "
-          }
-        },
-        {
-          "front": {
-            "content": "pont"
-          },
-          "back": {
-            "content": "- [bridge]: "
-          }
-        },
-        {
-          "front": {
-            "content": "goulot"
-          },
-          "back": {
-            "content": "- [neck]: goulot d'étranglement : bottleneck"
-          }
-        },
-        {
-          "front": {
             "content": "serrer"
           },
           "back": {
             "content": "- [squeeze]: "
-          }
-        },
-        {
-          "front": {
-            "content": "accolade"
-          },
-          "back": {
-            "content": "- [embrace/hug/curly-brackets]: "
-          }
-        },
-        {
-          "front": {
-            "content": "englobe"
-          },
-          "back": {
-            "content": "- [encompasses (surround)]: réunir/englobe toutes les elements : reunites all the elements"
           }
         },
         {
@@ -6628,6 +6268,366 @@
             "content": [
               "- [probably]: "
             ]
+          }
+        },
+        {
+          "front": {
+            "content": "porter"
+          },
+          "back": {
+            "content": [
+              "- [carry]: ",
+              "- [wear]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "préalable"
+          },
+          "back": {
+            "content": [
+              "- [prior]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rentable"
+          },
+          "back": {
+            "content": [
+              "- [profitable]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "convient"
+          },
+          "back": {
+            "content": [
+              "- [agree/suits you]: cette medicament te convient : this medication suits you"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "davantage"
+          },
+          "back": {
+            "content": [
+              "- [more/further]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "retenir"
+          },
+          "back": {
+            "content": [
+              "- [keep/keep in mind]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "assure"
+          },
+          "back": {
+            "content": [
+              "- [assure/insure]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "oblige"
+          },
+          "back": {
+            "content": [
+              "- [dictate/necessitate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "tentative"
+          },
+          "back": {
+            "content": [
+              "- [attempt]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "prolonger"
+          },
+          "back": {
+            "content": [
+              "- [extend]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la croissance/croître"
+          },
+          "back": {
+            "content": [
+              "- [growth]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "la vigueur"
+          },
+          "back": {
+            "content": [
+              "- [strength]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "allonger"
+          },
+          "back": {
+            "content": [
+              "- [lengthen]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "capter"
+          },
+          "back": {
+            "content": [
+              "- [get/pick up/capture/understand]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "échapper"
+          },
+          "back": {
+            "content": [
+              "- [to escape]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "irrité"
+          },
+          "back": {
+            "content": [
+              "- [irritated]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "cher"
+          },
+          "back": {
+            "content": [
+              "- [dear]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "rapprocher"
+          },
+          "back": {
+            "content": [
+              "- [to bring close]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "douce"
+          },
+          "back": {
+            "content": [
+              "- [gentle/soft/quiet]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "entièrement"
+          },
+          "back": {
+            "content": [
+              "- [entirely]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "reprendre"
+          },
+          "back": {
+            "content": [
+              "- [get back/continue]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": " estime"
+          },
+          "back": {
+            "content": [
+              "- [respect]",
+              "- [esteem]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": " renseigné"
+          },
+          "back": {
+            "content": [
+              "- [informed]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "lamentable"
+          },
+          "back": {
+            "content": [
+              "- [pathetic/lamentable]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "agencement"
+          },
+          "back": {
+            "content": [
+              "- [arrangement/organization/layout]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": " prudent"
+          },
+          "back": {
+            "content": [
+              "- [careful]: soyez prudent : be careful"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "préconise"
+          },
+          "back": {
+            "content": [
+              "- [recomended]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "molle"
+          },
+          "back": {
+            "content": [
+              "- [soft]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": " bénévole"
+          },
+          "back": {
+            "content": [
+              "- [volounteer]"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "puisse"
+          },
+          "back": {
+            "content": [
+              "- [could (subjonctif)]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "déroule"
+          },
+          "back": {
+            "content": "- [start]: "
+          }
+        },
+        {
+          "front": {
+            "content": "envie"
+          },
+          "back": {
+            "content": [
+              "- [want/desire]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "ailleurs"
+          },
+          "back": {
+            "content": "- [elsewhere]: "
+          }
+        },
+        {
+          "front": {
+            "content": "pont"
+          },
+          "back": {
+            "content": "- [bridge]: "
+          }
+        },
+        {
+          "front": {
+            "content": "goulot"
+          },
+          "back": {
+            "content": "- [neck]: goulot d'étranglement : bottleneck"
+          }
+        },
+        {
+          "front": {
+            "content": "accolade"
+          },
+          "back": {
+            "content": "- [embrace/hug/curly-brackets]: "
+          }
+        },
+        {
+          "front": {
+            "content": "englobe"
+          },
+          "back": {
+            "content": "- [encompasses (surround)]: réunir/englobe toutes les elements : reunites all the elements"
           }
         }
       ]
@@ -14049,6 +14049,265 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-04T12:52:35.881Z"
+      },
+      {
+        "type": "move",
+        "word": "porter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:03:21.397Z"
+      },
+      {
+        "type": "move",
+        "word": "préalable",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:04:06.228Z"
+      },
+      {
+        "type": "move",
+        "word": "rentable",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:08:20.187Z"
+      },
+      {
+        "type": "move",
+        "word": "convient",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:08:41.332Z"
+      },
+      {
+        "type": "move",
+        "word": "davantage",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:08:46.965Z"
+      },
+      {
+        "type": "move",
+        "word": "retenir",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:08:52.586Z"
+      },
+      {
+        "type": "move",
+        "word": "assure",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:09:40.747Z"
+      },
+      {
+        "type": "move",
+        "word": "oblige",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:10:13.251Z"
+      },
+      {
+        "type": "move",
+        "word": "tentative",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:10:52.050Z"
+      },
+      {
+        "type": "move",
+        "word": "prolonger",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:11:45.322Z"
+      },
+      {
+        "type": "move",
+        "word": "la croissance/croître",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:28:26.071Z"
+      },
+      {
+        "type": "move",
+        "word": "la vigueur",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:28:34.095Z"
+      },
+      {
+        "type": "move",
+        "word": "allonger",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:28:40.423Z"
+      },
+      {
+        "type": "move",
+        "word": "capter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:28:58.191Z"
+      },
+      {
+        "type": "move",
+        "word": "échapper",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:29:12.079Z"
+      },
+      {
+        "type": "move",
+        "word": "irrité",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:29:45.335Z"
+      },
+      {
+        "type": "move",
+        "word": "cher",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:29:52.118Z"
+      },
+      {
+        "type": "move",
+        "word": "rapprocher",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:30:03.914Z"
+      },
+      {
+        "type": "move",
+        "word": "douce",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:30:24.014Z"
+      },
+      {
+        "type": "move",
+        "word": "entièrement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:30:31.222Z"
+      },
+      {
+        "type": "move",
+        "word": "reprendre",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:30:45.150Z"
+      },
+      {
+        "type": "move",
+        "word": "estime",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:51:57.291Z"
+      },
+      {
+        "type": "move",
+        "word": "renseigné",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:52:29.031Z"
+      },
+      {
+        "type": "move",
+        "word": "lamentable",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:53:47.377Z"
+      },
+      {
+        "type": "move",
+        "word": "agencement",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:54:25.274Z"
+      },
+      {
+        "type": "move",
+        "word": "prudent",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:54:35.162Z"
+      },
+      {
+        "type": "move",
+        "word": "préconise",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:54:48.770Z"
+      },
+      {
+        "type": "move",
+        "word": "molle",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:54:52.490Z"
+      },
+      {
+        "type": "move",
+        "word": "bénévole",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:54:59.178Z"
+      },
+      {
+        "type": "move",
+        "word": "puisse",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:55:11.954Z"
+      },
+      {
+        "type": "move",
+        "word": "déroule",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:55:29.362Z"
+      },
+      {
+        "type": "move",
+        "word": "envie",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:55:44.762Z"
+      },
+      {
+        "type": "move",
+        "word": "ailleurs",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:55:57.082Z"
+      },
+      {
+        "type": "move",
+        "word": "pont",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:56:02.938Z"
+      },
+      {
+        "type": "move",
+        "word": "goulot",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T13:56:11.970Z"
+      },
+      {
+        "type": "move",
+        "word": "accolade",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T14:16:16.334Z"
+      },
+      {
+        "type": "move",
+        "word": "englobe",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-04T14:36:39.410Z"
       }
     ],
     "levels": [
@@ -19765,6 +20024,154 @@
           {
             "length": 144,
             "date": "2024-09-04T12:52:35.881Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-09-04T13:03:21.397Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-09-04T13:04:06.228Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-09-04T13:08:20.187Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-09-04T13:08:41.332Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-09-04T13:08:46.965Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-09-04T13:08:52.586Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-09-04T13:09:40.747Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-09-04T13:10:13.251Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-09-04T13:10:52.050Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-09-04T13:11:45.322Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-09-04T13:28:26.071Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-09-04T13:28:34.095Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-09-04T13:28:40.423Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-09-04T13:28:58.191Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-09-04T13:29:12.079Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-09-04T13:29:45.335Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-09-04T13:29:52.119Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-09-04T13:30:03.914Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-09-04T13:30:24.015Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-09-04T13:30:31.222Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-09-04T13:30:45.151Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-09-04T13:51:57.291Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-09-04T13:52:29.031Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-09-04T13:53:47.377Z"
+          },
+          {
+            "length": 119,
+            "date": "2024-09-04T13:54:25.274Z"
+          },
+          {
+            "length": 118,
+            "date": "2024-09-04T13:54:35.162Z"
+          },
+          {
+            "length": 117,
+            "date": "2024-09-04T13:54:48.770Z"
+          },
+          {
+            "length": 116,
+            "date": "2024-09-04T13:54:52.490Z"
+          },
+          {
+            "length": 115,
+            "date": "2024-09-04T13:54:59.178Z"
+          },
+          {
+            "length": 114,
+            "date": "2024-09-04T13:55:11.954Z"
+          },
+          {
+            "length": 113,
+            "date": "2024-09-04T13:55:29.362Z"
+          },
+          {
+            "length": 112,
+            "date": "2024-09-04T13:55:44.762Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-09-04T13:55:57.082Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-09-04T13:56:02.938Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-09-04T13:56:11.970Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-09-04T14:16:16.334Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-09-04T14:36:39.410Z"
           }
         ]
       },
@@ -21741,6 +22148,154 @@
           {
             "length": 511,
             "date": "2024-08-18T16:40:55.227Z"
+          },
+          {
+            "length": 512,
+            "date": "2024-09-04T13:03:21.397Z"
+          },
+          {
+            "length": 513,
+            "date": "2024-09-04T13:04:06.228Z"
+          },
+          {
+            "length": 514,
+            "date": "2024-09-04T13:08:20.187Z"
+          },
+          {
+            "length": 515,
+            "date": "2024-09-04T13:08:41.332Z"
+          },
+          {
+            "length": 516,
+            "date": "2024-09-04T13:08:46.965Z"
+          },
+          {
+            "length": 517,
+            "date": "2024-09-04T13:08:52.586Z"
+          },
+          {
+            "length": 518,
+            "date": "2024-09-04T13:09:40.747Z"
+          },
+          {
+            "length": 519,
+            "date": "2024-09-04T13:10:13.251Z"
+          },
+          {
+            "length": 520,
+            "date": "2024-09-04T13:10:52.051Z"
+          },
+          {
+            "length": 521,
+            "date": "2024-09-04T13:11:45.322Z"
+          },
+          {
+            "length": 522,
+            "date": "2024-09-04T13:28:26.071Z"
+          },
+          {
+            "length": 523,
+            "date": "2024-09-04T13:28:34.095Z"
+          },
+          {
+            "length": 524,
+            "date": "2024-09-04T13:28:40.423Z"
+          },
+          {
+            "length": 525,
+            "date": "2024-09-04T13:28:58.191Z"
+          },
+          {
+            "length": 526,
+            "date": "2024-09-04T13:29:12.079Z"
+          },
+          {
+            "length": 527,
+            "date": "2024-09-04T13:29:45.335Z"
+          },
+          {
+            "length": 528,
+            "date": "2024-09-04T13:29:52.119Z"
+          },
+          {
+            "length": 529,
+            "date": "2024-09-04T13:30:03.914Z"
+          },
+          {
+            "length": 530,
+            "date": "2024-09-04T13:30:24.015Z"
+          },
+          {
+            "length": 531,
+            "date": "2024-09-04T13:30:31.222Z"
+          },
+          {
+            "length": 532,
+            "date": "2024-09-04T13:30:45.151Z"
+          },
+          {
+            "length": 533,
+            "date": "2024-09-04T13:51:57.291Z"
+          },
+          {
+            "length": 534,
+            "date": "2024-09-04T13:52:29.031Z"
+          },
+          {
+            "length": 535,
+            "date": "2024-09-04T13:53:47.377Z"
+          },
+          {
+            "length": 536,
+            "date": "2024-09-04T13:54:25.274Z"
+          },
+          {
+            "length": 537,
+            "date": "2024-09-04T13:54:35.162Z"
+          },
+          {
+            "length": 538,
+            "date": "2024-09-04T13:54:48.770Z"
+          },
+          {
+            "length": 539,
+            "date": "2024-09-04T13:54:52.490Z"
+          },
+          {
+            "length": 540,
+            "date": "2024-09-04T13:54:59.178Z"
+          },
+          {
+            "length": 541,
+            "date": "2024-09-04T13:55:11.954Z"
+          },
+          {
+            "length": 542,
+            "date": "2024-09-04T13:55:29.362Z"
+          },
+          {
+            "length": 543,
+            "date": "2024-09-04T13:55:44.762Z"
+          },
+          {
+            "length": 544,
+            "date": "2024-09-04T13:55:57.082Z"
+          },
+          {
+            "length": 545,
+            "date": "2024-09-04T13:56:02.938Z"
+          },
+          {
+            "length": 546,
+            "date": "2024-09-04T13:56:11.970Z"
+          },
+          {
+            "length": 547,
+            "date": "2024-09-04T14:16:16.334Z"
+          },
+          {
+            "length": 548,
+            "date": "2024-09-04T14:36:39.410Z"
           }
         ]
       },
