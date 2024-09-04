@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 8,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -118,16 +118,6 @@
         },
         {
           "front": {
-            "content": "lotissement"
-          },
-          "back": {
-            "content": [
-              "- [subdivision]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "rejeter/je rejette/le rejet"
           },
           "back": {
@@ -168,26 +158,6 @@
         },
         {
           "front": {
-            "content": "poli/polie"
-          },
-          "back": {
-            "content": [
-              "- [polite]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "planter"
-          },
-          "back": {
-            "content": [
-              "- [crash/driver/hammer]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "decompenser"
           },
           "back": {
@@ -218,61 +188,11 @@
         },
         {
           "front": {
-            "content": "plafond"
-          },
-          "back": {
-            "content": [
-              "- [ceiling]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "référer"
-          },
-          "back": {
-            "content": [
-              "- [refer]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "populaire"
-          },
-          "back": {
-            "content": [
-              "- [popular]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "emporter"
-          },
-          "back": {
-            "content": [
-              "- [take away]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "coûteux"
           },
           "back": {
             "content": [
               "- [expensive/costly]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "l'apprentissage/j'apprends"
-          },
-          "back": {
-            "content": [
-              "- [learning/I learn]: "
             ]
           }
         }
@@ -1623,6 +1543,86 @@
           "back": {
             "content": [
               "- [put / put down]: poser une question : throw/put (ask) a question"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "lotissement"
+          },
+          "back": {
+            "content": [
+              "- [subdivision]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "poli/polie"
+          },
+          "back": {
+            "content": [
+              "- [polite]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "planter"
+          },
+          "back": {
+            "content": [
+              "- [crash/driver/hammer]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "plafond"
+          },
+          "back": {
+            "content": [
+              "- [ceiling]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "référer"
+          },
+          "back": {
+            "content": [
+              "- [refer]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "populaire"
+          },
+          "back": {
+            "content": [
+              "- [popular]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "emporter"
+          },
+          "back": {
+            "content": [
+              "- [take away]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "l'apprentissage/j'apprends"
+          },
+          "back": {
+            "content": [
+              "- [learning/I learn]: "
             ]
           }
         }
@@ -13993,6 +13993,62 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-02T16:44:16.015Z"
+      },
+      {
+        "type": "move",
+        "word": "lotissement",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-04T11:31:23.217Z"
+      },
+      {
+        "type": "move",
+        "word": "poli/polie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-04T12:26:27.279Z"
+      },
+      {
+        "type": "move",
+        "word": "planter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-04T12:26:36.167Z"
+      },
+      {
+        "type": "move",
+        "word": "plafond",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-04T12:48:55.649Z"
+      },
+      {
+        "type": "move",
+        "word": "référer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-04T12:49:05.546Z"
+      },
+      {
+        "type": "move",
+        "word": "populaire",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-04T12:49:17.322Z"
+      },
+      {
+        "type": "move",
+        "word": "emporter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-04T12:50:22.681Z"
+      },
+      {
+        "type": "move",
+        "word": "l'apprentissage/j'apprends",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-04T12:52:35.881Z"
       }
     ],
     "levels": [
@@ -15889,6 +15945,38 @@
           {
             "length": 27,
             "date": "2024-09-02T16:44:16.015Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-09-04T11:31:23.316Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-09-04T12:26:27.279Z"
+          },
+          {
+            "length": 24,
+            "date": "2024-09-04T12:26:36.167Z"
+          },
+          {
+            "length": 23,
+            "date": "2024-09-04T12:48:55.650Z"
+          },
+          {
+            "length": 22,
+            "date": "2024-09-04T12:49:05.546Z"
+          },
+          {
+            "length": 21,
+            "date": "2024-09-04T12:49:17.322Z"
+          },
+          {
+            "length": 20,
+            "date": "2024-09-04T12:50:22.681Z"
+          },
+          {
+            "length": 19,
+            "date": "2024-09-04T12:52:35.881Z"
           }
         ]
       },
@@ -19645,6 +19733,38 @@
           {
             "length": 136,
             "date": "2024-09-02T16:44:16.015Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-09-04T11:31:23.316Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-09-04T12:26:27.279Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-09-04T12:26:36.167Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-09-04T12:48:55.650Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-09-04T12:49:05.546Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-09-04T12:49:17.322Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-09-04T12:50:22.681Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-09-04T12:52:35.881Z"
           }
         ]
       },
