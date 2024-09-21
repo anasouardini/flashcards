@@ -1,0 +1,120 @@
+{
+  "currentLevel": 1,
+  "levels": [
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": [
+        {
+          "front": {
+            "content": "Ich"
+          },
+          "back": {
+            "content": [
+              "- [I]: "
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "currentCardIndex": 1,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    }
+  ],
+  "history": {
+    "actions": [
+      {
+        "type": "add",
+        "word": "Ich",
+        "date": "2024-09-21T17:55:29.195Z"
+      }
+    ],
+    "levels": [
+      {
+        "lengths": [
+          {
+            "length": 1,
+            "date": "2024-09-21T17:55:29.195Z"
+          }
+        ]
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      }
+    ]
+  }
+}
