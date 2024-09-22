@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 22,
-      "currentCardSide": "front",
+      "currentCardIndex": 1,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -245,17 +245,6 @@
         },
         {
           "front": {
-            "content": "Guten (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Good]: ",
-              "- Other Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Abend (noun, singular, masculine)"
           },
           "back": {
@@ -421,17 +410,6 @@
         },
         {
           "front": {
-            "content": "Super (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Super/excellent]: ",
-              "- Forms: Super (Adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "So (adv.)"
           },
           "back": {
@@ -508,6 +486,28 @@
           "back": {
             "content": [
               "- [Hello!]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gut (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Good/Well]: ",
+              "- Other Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Super (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Super/excellent]: ",
+              "- Forms: Super (Adv.)"
             ]
           }
         }
@@ -804,6 +804,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-22T21:37:36.219Z"
+      },
+      {
+        "type": "move",
+        "word": "Gut",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-22T21:44:52.549Z"
+      },
+      {
+        "type": "move",
+        "word": "Super",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-22T22:10:03.554Z"
       }
     ],
     "levels": [
@@ -1000,6 +1014,14 @@
           {
             "length": 44,
             "date": "2024-09-22T21:37:36.219Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-09-22T21:44:52.550Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-09-22T22:10:03.554Z"
           }
         ]
       },
@@ -1012,6 +1034,14 @@
           {
             "length": 2,
             "date": "2024-09-22T21:37:36.219Z"
+          },
+          {
+            "length": 3,
+            "date": "2024-09-22T21:44:52.550Z"
+          },
+          {
+            "length": 4,
+            "date": "2024-09-22T22:10:03.554Z"
           }
         ]
       },
