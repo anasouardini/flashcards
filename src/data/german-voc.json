@@ -152,6 +152,17 @@
               "- Forms: Welt(s.), Welten(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Leben (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Life]: ",
+              "- Forms: Leben(s.), Leben(p.)"
+            ]
+          }
         }
       ]
     },
@@ -277,6 +288,11 @@
         "type": "add",
         "word": "Welt",
         "date": "2024-09-22T13:48:27.455Z"
+      },
+      {
+        "type": "add",
+        "word": "Leben",
+        "date": "2024-09-22T13:49:32.906Z"
       }
     ],
     "levels": [
@@ -337,6 +353,10 @@
           {
             "length": 14,
             "date": "2024-09-22T13:48:27.455Z"
+          },
+          {
+            "length": 15,
+            "date": "2024-09-22T13:49:32.906Z"
           }
         ]
       },
