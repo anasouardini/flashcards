@@ -108,6 +108,17 @@
               "- Forms: Nacht(s.), Nächte(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Morgen (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Morning]: ",
+              "- Forms: Morgen(s.), Morgen(p.)"
+            ]
+          }
         }
       ]
     },
@@ -213,6 +224,11 @@
         "type": "add",
         "word": "Nacht",
         "date": "2024-09-22T13:40:16.016Z"
+      },
+      {
+        "type": "add",
+        "word": "Morgen",
+        "date": "2024-09-22T13:42:16.523Z"
       }
     ],
     "levels": [
@@ -257,6 +273,10 @@
           {
             "length": 10,
             "date": "2024-09-22T13:40:16.138Z"
+          },
+          {
+            "length": 11,
+            "date": "2024-09-22T13:42:16.524Z"
           }
         ]
       },
