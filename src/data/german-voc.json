@@ -372,6 +372,17 @@
               "- Forms: Hausaufgaben (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Woher (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [From Where]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -597,6 +608,11 @@
         "type": "add",
         "word": "Hausaufgabe",
         "date": "2024-09-22T19:30:19.831Z"
+      },
+      {
+        "type": "add",
+        "word": "Woher",
+        "date": "2024-09-22T19:33:33.251Z"
       }
     ],
     "levels": [
@@ -737,6 +753,10 @@
           {
             "length": 34,
             "date": "2024-09-22T19:30:19.831Z"
+          },
+          {
+            "length": 35,
+            "date": "2024-09-22T19:33:33.251Z"
           }
         ]
       },
