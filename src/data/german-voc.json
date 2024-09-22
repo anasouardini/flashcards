@@ -67,31 +67,45 @@
         },
         {
           "front": {
-            "content": "Jahr"
+            "content": "Jahr (noun, singular, neuter)"
           },
           "back": {
             "content": [
-              "- [Year]: "
+              "- [Year]: ",
+              "- Forms: Jahr(s.), Jahre(p.)"
             ]
           }
         },
         {
           "front": {
-            "content": "Woche"
+            "content": "Woche (noun, singular, feminine)"
           },
           "back": {
             "content": [
-              "- [Week]: "
+              "- [Week]: ",
+              "- Forms: Wochen(s.), Wochen(p.)"
             ]
           }
         },
         {
           "front": {
-            "content": "Tag"
+            "content": "Tag (noun, singular, masculine)"
           },
           "back": {
             "content": [
-              "- [Day]: "
+              "- [Day]: ",
+              "- Forms: Tag(s.), Tage(p.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nacht (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Night]: ",
+              "- Forms: Nacht(s.), Nächte(p.)"
             ]
           }
         }
@@ -194,6 +208,11 @@
         "type": "add",
         "word": "Tag",
         "date": "2024-09-21T18:01:16.517Z"
+      },
+      {
+        "type": "add",
+        "word": "Nacht",
+        "date": "2024-09-22T13:40:16.016Z"
       }
     ],
     "levels": [
@@ -234,6 +253,10 @@
           {
             "length": 9,
             "date": "2024-09-21T18:01:16.519Z"
+          },
+          {
+            "length": 10,
+            "date": "2024-09-22T13:40:16.138Z"
           }
         ]
       },
