@@ -539,6 +539,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sofa (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Couch]: ",
+              "- Forms: Sofas (plural)"
+            ]
+          }
         }
       ]
     },
@@ -930,6 +941,11 @@
         "type": "add",
         "word": "Gern",
         "date": "2024-09-22T22:39:09.903Z"
+      },
+      {
+        "type": "add",
+        "word": "Sofa",
+        "date": "2024-09-22T22:43:59.258Z"
       }
     ],
     "levels": [
@@ -1162,6 +1178,10 @@
           {
             "length": 49,
             "date": "2024-09-22T22:39:09.904Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-09-22T22:43:59.258Z"
           }
         ]
       },
