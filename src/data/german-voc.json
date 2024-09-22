@@ -580,7 +580,18 @@
           "back": {
             "content": [
               "- [Alone]: ",
-              "- Forms: "
+              "- Forms: Allein (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mensch (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Person]: ",
+              "- Forms: Menschen (plural)"
             ]
           }
         }
@@ -994,6 +1005,11 @@
         "type": "add",
         "word": "Allein",
         "date": "2024-09-22T22:46:40.783Z"
+      },
+      {
+        "type": "add",
+        "word": "Mensch",
+        "date": "2024-09-22T22:53:22.303Z"
       }
     ],
     "levels": [
@@ -1242,6 +1258,10 @@
           {
             "length": 53,
             "date": "2024-09-22T22:46:40.783Z"
+          },
+          {
+            "length": 54,
+            "date": "2024-09-22T22:53:22.304Z"
           }
         ]
       },
