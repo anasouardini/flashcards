@@ -72,7 +72,7 @@
           "back": {
             "content": [
               "- [Year]: ",
-              "- Forms: Jahr(s.), Jahre(p.)"
+              "- Other Forms: Jahre (plural)"
             ]
           }
         },
@@ -83,7 +83,7 @@
           "back": {
             "content": [
               "- [Week]: ",
-              "- Forms: Wochen(s.), Wochen(p.)"
+              "- Other Forms: Wochen (plural)"
             ]
           }
         },
@@ -94,7 +94,7 @@
           "back": {
             "content": [
               "- [Day]: ",
-              "- Forms: Tag(s.), Tage(p.)"
+              "- Other Forms: Tage (plural)"
             ]
           }
         },
@@ -105,7 +105,7 @@
           "back": {
             "content": [
               "- [Night]: ",
-              "- Forms: Nacht(s.), Nächte(p.)"
+              "- Other Forms: Nächte (plural)"
             ]
           }
         },
@@ -116,7 +116,7 @@
           "back": {
             "content": [
               "- [Morning]: ",
-              "- Forms: Morgen(s.), Morgen(p.)"
+              "- Other Forms: Morgen (plural)"
             ]
           }
         },
@@ -127,7 +127,7 @@
           "back": {
             "content": [
               "- [Yesterday]: ",
-              "- Forms: Gestern(s.), -(p.)"
+              "- Other Forms: "
             ]
           }
         },
@@ -138,7 +138,7 @@
           "back": {
             "content": [
               "- [Today]: ",
-              "- Forms: Heute(s.), -(p.)"
+              "- Other Forms: "
             ]
           }
         },
@@ -149,7 +149,7 @@
           "back": {
             "content": [
               "- [World]: ",
-              "- Forms: Welt(s.), Welten(p.)"
+              "- Other Forms: Welten (plural)"
             ]
           }
         },
@@ -160,7 +160,7 @@
           "back": {
             "content": [
               "- [Life]: ",
-              "- Forms: Leben(s.), Leben(p.)"
+              "- Other Forms: Leben (plural)"
             ]
           }
         },
@@ -171,7 +171,7 @@
           "back": {
             "content": [
               "- [Red]: ",
-              "- Forms: Rot(noun, neuter)"
+              "- Other Forms: Rot (noun, singular, neuter)"
             ]
           }
         },
@@ -182,7 +182,7 @@
           "back": {
             "content": [
               "- [Orange]: ",
-              "- Forms: Orange(s.), Orangen(p.)"
+              "- Other Forms: Orangen(plural)"
             ]
           }
         },
@@ -193,7 +193,7 @@
           "back": {
             "content": [
               "- [Car]: ",
-              "- Forms: Auto(s.), Autos(p.)"
+              "- Other Forms: Autos(plural)"
             ]
           }
         },
@@ -204,7 +204,7 @@
           "back": {
             "content": [
               "- [Train]: ",
-              "- Forms: Zug(s.), Züge(p.)"
+              "- Other Forms: Züge(plural)"
             ]
           }
         },
@@ -215,7 +215,7 @@
           "back": {
             "content": [
               "- [Tractor]: ",
-              "- Forms: Traktor(s.), Traktoren(p.)"
+              "- Other Forms: Traktoren(plural)"
             ]
           }
         },
@@ -226,7 +226,7 @@
           "back": {
             "content": [
               "- [Bus]: ",
-              "- Forms: Bus(s.), Busse(p.)"
+              "- Other Forms: Busse(plural)"
             ]
           }
         },
@@ -237,7 +237,7 @@
           "back": {
             "content": [
               "- [Airplane]: ",
-              "- Forms: Flugzeug(s.), Flugzeuge(p.)"
+              "- Other Forms: Flugzeuge(plural)"
             ]
           }
         },
@@ -248,7 +248,7 @@
           "back": {
             "content": [
               "- [Boat]: ",
-              "- Forms: Boot(s.), Boote(p.)"
+              "- Other Forms: Boote(plural)"
             ]
           }
         },
@@ -259,7 +259,7 @@
           "back": {
             "content": [
               "- [Bicycle]: ",
-              "- Forms: Fahrrad(s.), Fahrräder(p.)"
+              "- Other Forms: Fahrräder(plural)"
             ]
           }
         },
@@ -270,7 +270,7 @@
           "back": {
             "content": [
               "- [Good]: ",
-              "- Forms: "
+              "- Other Forms: "
             ]
           }
         },
@@ -281,7 +281,18 @@
           "back": {
             "content": [
               "- [Evening]: ",
-              "- Forms: Abend (s.), Abende (p.)"
+              "- Other Forms: Abende (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schlaf (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sleep]: ",
+              "- Forms: "
             ]
           }
         }
@@ -469,6 +480,11 @@
         "type": "add",
         "word": "Abend",
         "date": "2024-09-22T16:20:39.109Z"
+      },
+      {
+        "type": "add",
+        "word": "Schlaf",
+        "date": "2024-09-22T16:39:07.811Z"
       }
     ],
     "levels": [
@@ -577,6 +593,10 @@
           {
             "length": 26,
             "date": "2024-09-22T16:20:39.200Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-09-22T16:39:07.888Z"
           }
         ]
       },
