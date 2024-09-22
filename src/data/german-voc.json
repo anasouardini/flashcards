@@ -405,6 +405,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Aus (preposition)"
+          },
+          "back": {
+            "content": [
+              "- [from]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -645,6 +656,11 @@
         "type": "add",
         "word": "Kommen",
         "date": "2024-09-22T19:35:06.681Z"
+      },
+      {
+        "type": "add",
+        "word": "Aus",
+        "date": "2024-09-22T19:38:46.274Z"
       }
     ],
     "levels": [
@@ -797,6 +813,10 @@
           {
             "length": 37,
             "date": "2024-09-22T19:35:06.682Z"
+          },
+          {
+            "length": 38,
+            "date": "2024-09-22T19:38:46.274Z"
           }
         ]
       },
