@@ -572,6 +572,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Allein (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Alone]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -978,6 +989,11 @@
         "type": "add",
         "word": "Wohnen",
         "date": "2024-09-22T22:45:16.418Z"
+      },
+      {
+        "type": "add",
+        "word": "Allein",
+        "date": "2024-09-22T22:46:40.783Z"
       }
     ],
     "levels": [
@@ -1222,6 +1238,10 @@
           {
             "length": 52,
             "date": "2024-09-22T22:45:16.419Z"
+          },
+          {
+            "length": 53,
+            "date": "2024-09-22T22:46:40.783Z"
           }
         ]
       },
