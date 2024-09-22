@@ -218,6 +218,17 @@
               "- Forms: Traktor(s.), Traktoren(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bus (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Bus]: ",
+              "- Forms: Bus(s.), Busse(p.)"
+            ]
+          }
         }
       ]
     },
@@ -373,6 +384,11 @@
         "type": "add",
         "word": "Traktor",
         "date": "2024-09-22T14:01:12.336Z"
+      },
+      {
+        "type": "add",
+        "word": "Bus",
+        "date": "2024-09-22T14:03:36.662Z"
       }
     ],
     "levels": [
@@ -457,6 +473,10 @@
           {
             "length": 20,
             "date": "2024-09-22T14:01:12.336Z"
+          },
+          {
+            "length": 21,
+            "date": "2024-09-22T14:03:36.662Z"
           }
         ]
       },
