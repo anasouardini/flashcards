@@ -438,6 +438,17 @@
               "- Forms: Wie (preposition)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Super (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Super/excellent]: ",
+              "- Forms: Super (Adv.)"
+            ]
+          }
         }
       ]
     },
@@ -693,6 +704,11 @@
         "type": "add",
         "word": "Wie",
         "date": "2024-09-22T19:43:46.233Z"
+      },
+      {
+        "type": "add",
+        "word": "Super",
+        "date": "2024-09-22T20:46:27.296Z"
       }
     ],
     "levels": [
@@ -857,6 +873,10 @@
           {
             "length": 40,
             "date": "2024-09-22T19:43:46.233Z"
+          },
+          {
+            "length": 41,
+            "date": "2024-09-22T20:46:27.368Z"
           }
         ]
       },
