@@ -240,6 +240,17 @@
               "- Forms: Flugzeug(s.), Flugzeuge(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Boot (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Boat]: ",
+              "- Forms: Boot(s.), Boote(p.)"
+            ]
+          }
         }
       ]
     },
@@ -405,6 +416,11 @@
         "type": "add",
         "word": "Flugzeug",
         "date": "2024-09-22T14:05:53.293Z"
+      },
+      {
+        "type": "add",
+        "word": "Boot",
+        "date": "2024-09-22T14:07:38.163Z"
       }
     ],
     "levels": [
@@ -497,6 +513,10 @@
           {
             "length": 22,
             "date": "2024-09-22T14:05:53.294Z"
+          },
+          {
+            "length": 23,
+            "date": "2024-09-22T14:07:38.163Z"
           }
         ]
       },
