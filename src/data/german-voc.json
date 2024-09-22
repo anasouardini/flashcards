@@ -229,6 +229,17 @@
               "- Forms: Bus(s.), Busse(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Flugzeug (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Airplane]: ",
+              "- Forms: Flugzeug(s.), Flugzeuge(p.)"
+            ]
+          }
         }
       ]
     },
@@ -389,6 +400,11 @@
         "type": "add",
         "word": "Bus",
         "date": "2024-09-22T14:03:36.662Z"
+      },
+      {
+        "type": "add",
+        "word": "Flugzeug",
+        "date": "2024-09-22T14:05:53.293Z"
       }
     ],
     "levels": [
@@ -477,6 +493,10 @@
           {
             "length": 21,
             "date": "2024-09-22T14:03:36.662Z"
+          },
+          {
+            "length": 22,
+            "date": "2024-09-22T14:05:53.294Z"
           }
         ]
       },
