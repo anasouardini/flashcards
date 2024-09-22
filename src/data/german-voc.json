@@ -449,6 +449,17 @@
               "- Forms: Super (Adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "So (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [That/As]: Das Problem war nicht so einfach zu lösen : The problem was not that easy to resolve.",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -709,6 +720,11 @@
         "type": "add",
         "word": "Super",
         "date": "2024-09-22T20:46:27.296Z"
+      },
+      {
+        "type": "add",
+        "word": "So",
+        "date": "2024-09-22T20:48:51.250Z"
       }
     ],
     "levels": [
@@ -877,6 +893,10 @@
           {
             "length": 41,
             "date": "2024-09-22T20:46:27.368Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-09-22T20:48:51.250Z"
           }
         ]
       },
