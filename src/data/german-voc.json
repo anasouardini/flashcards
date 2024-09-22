@@ -482,6 +482,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Typisch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Typical]: ",
+              "- Forms: Typisch (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -757,6 +768,11 @@
         "type": "add",
         "word": "Fehler",
         "date": "2024-09-22T20:51:42.482Z"
+      },
+      {
+        "type": "add",
+        "word": "Typisch",
+        "date": "2024-09-22T20:53:37.096Z"
       }
     ],
     "levels": [
@@ -937,6 +953,10 @@
           {
             "length": 44,
             "date": "2024-09-22T20:51:42.483Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-09-22T20:53:37.096Z"
           }
         ]
       },
