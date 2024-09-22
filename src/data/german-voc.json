@@ -185,6 +185,17 @@
               "- Forms: Orange(s.), Orangen(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Auto (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Car]: ",
+              "- Forms: Auto(s.), Autos(p.)"
+            ]
+          }
         }
       ]
     },
@@ -325,6 +336,11 @@
         "type": "add",
         "word": "Orange",
         "date": "2024-09-22T13:54:19.042Z"
+      },
+      {
+        "type": "add",
+        "word": "Auto",
+        "date": "2024-09-22T13:57:34.818Z"
       }
     ],
     "levels": [
@@ -397,6 +413,10 @@
           {
             "length": 17,
             "date": "2024-09-22T13:54:19.043Z"
+          },
+          {
+            "length": 18,
+            "date": "2024-09-22T13:57:34.818Z"
           }
         ]
       },
