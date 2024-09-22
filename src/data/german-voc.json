@@ -550,6 +550,17 @@
               "- Forms: Sofas (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Billig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Cheap]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -946,6 +957,11 @@
         "type": "add",
         "word": "Sofa",
         "date": "2024-09-22T22:43:59.258Z"
+      },
+      {
+        "type": "add",
+        "word": "Billig",
+        "date": "2024-09-22T22:44:28.389Z"
       }
     ],
     "levels": [
@@ -1182,6 +1198,10 @@
           {
             "length": 50,
             "date": "2024-09-22T22:43:59.258Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-09-22T22:44:28.389Z"
           }
         ]
       },
