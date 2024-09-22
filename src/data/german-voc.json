@@ -495,6 +495,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Frage (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Question]: ",
+              "- Forms: Frangen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -866,6 +877,11 @@
         "type": "add",
         "word": "Gehen",
         "date": "2024-09-22T22:23:37.476Z"
+      },
+      {
+        "type": "add",
+        "word": "Frage",
+        "date": "2024-09-22T22:34:00.621Z"
       }
     ],
     "levels": [
@@ -1082,6 +1098,10 @@
           {
             "length": 45,
             "date": "2024-09-22T22:23:37.476Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-09-22T22:34:00.622Z"
           }
         ]
       },
