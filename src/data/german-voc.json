@@ -416,6 +416,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Weg (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Way]: ",
+              "- Forms: Wege (plural)"
+            ]
+          }
         }
       ]
     },
@@ -661,6 +672,11 @@
         "type": "add",
         "word": "Aus",
         "date": "2024-09-22T19:38:46.274Z"
+      },
+      {
+        "type": "add",
+        "word": "Weg",
+        "date": "2024-09-22T19:41:24.665Z"
       }
     ],
     "levels": [
@@ -817,6 +833,10 @@
           {
             "length": 38,
             "date": "2024-09-22T19:38:46.274Z"
+          },
+          {
+            "length": 39,
+            "date": "2024-09-22T19:41:24.666Z"
           }
         ]
       },
