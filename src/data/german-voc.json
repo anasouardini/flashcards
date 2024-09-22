@@ -1,5 +1,5 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -262,11 +262,22 @@
               "- Forms: Fahrrad(s.), Fahrräder(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Guten (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Good]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 1,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": []
     },
@@ -437,6 +448,11 @@
         "type": "add",
         "word": "Fahrrad",
         "date": "2024-09-22T14:11:23.797Z"
+      },
+      {
+        "type": "add",
+        "word": "Guten",
+        "date": "2024-09-22T16:17:07.611Z"
       }
     ],
     "levels": [
@@ -537,6 +553,10 @@
           {
             "length": 24,
             "date": "2024-09-22T14:11:23.797Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-09-22T16:17:07.612Z"
           }
         ]
       },
