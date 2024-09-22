@@ -506,6 +506,17 @@
               "- Forms: Frangen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Buch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Book]: ",
+              "- Forms: Bücher (plural)"
+            ]
+          }
         }
       ]
     },
@@ -882,6 +893,11 @@
         "type": "add",
         "word": "Frage",
         "date": "2024-09-22T22:34:00.621Z"
+      },
+      {
+        "type": "add",
+        "word": "Buch",
+        "date": "2024-09-22T22:35:32.885Z"
       }
     ],
     "levels": [
@@ -1102,6 +1118,10 @@
           {
             "length": 46,
             "date": "2024-09-22T22:34:00.622Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-09-22T22:35:32.885Z"
           }
         ]
       },
