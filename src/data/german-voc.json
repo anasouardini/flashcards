@@ -493,6 +493,17 @@
               "- Forms: Typisch (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Antwort (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Answer]: ",
+              "- Forms: Antworten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -773,6 +784,11 @@
         "type": "add",
         "word": "Typisch",
         "date": "2024-09-22T20:53:37.096Z"
+      },
+      {
+        "type": "add",
+        "word": "Antwort",
+        "date": "2024-09-22T20:59:17.829Z"
       }
     ],
     "levels": [
@@ -957,6 +973,10 @@
           {
             "length": 45,
             "date": "2024-09-22T20:53:37.096Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-09-22T20:59:17.829Z"
           }
         ]
       },
