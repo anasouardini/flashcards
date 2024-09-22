@@ -561,6 +561,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wohnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Live/Reside]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -962,6 +973,11 @@
         "type": "add",
         "word": "Billig",
         "date": "2024-09-22T22:44:28.389Z"
+      },
+      {
+        "type": "add",
+        "word": "Wohnen",
+        "date": "2024-09-22T22:45:16.418Z"
       }
     ],
     "levels": [
@@ -1202,6 +1218,10 @@
           {
             "length": 51,
             "date": "2024-09-22T22:44:28.389Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-09-22T22:45:16.419Z"
           }
         ]
       },
