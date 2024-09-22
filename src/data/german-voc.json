@@ -306,6 +306,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "tschü/tschüss/tschüssi (interj)"
+          },
+          "back": {
+            "content": [
+              "- [Bye]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -501,6 +512,11 @@
         "type": "add",
         "word": "schön",
         "date": "2024-09-22T16:40:28.059Z"
+      },
+      {
+        "type": "add",
+        "word": "tschü/tschüss/tschüssi",
+        "date": "2024-09-22T16:45:54.925Z"
       }
     ],
     "levels": [
@@ -617,6 +633,10 @@
           {
             "length": 28,
             "date": "2024-09-22T16:40:28.059Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-09-22T16:45:54.925Z"
           }
         ]
       },
