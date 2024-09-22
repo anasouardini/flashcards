@@ -196,6 +196,17 @@
               "- Forms: Auto(s.), Autos(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zug (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Train]: ",
+              "- Forms: Zug(s.), Züge(p.)"
+            ]
+          }
         }
       ]
     },
@@ -341,6 +352,11 @@
         "type": "add",
         "word": "Auto",
         "date": "2024-09-22T13:57:34.818Z"
+      },
+      {
+        "type": "add",
+        "word": "Zug",
+        "date": "2024-09-22T13:59:17.084Z"
       }
     ],
     "levels": [
@@ -417,6 +433,10 @@
           {
             "length": 18,
             "date": "2024-09-22T13:57:34.818Z"
+          },
+          {
+            "length": 19,
+            "date": "2024-09-22T13:59:17.084Z"
           }
         ]
       },
