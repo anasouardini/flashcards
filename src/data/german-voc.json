@@ -421,7 +421,7 @@
         },
         {
           "front": {
-            "content": "Nicht (adv.)"
+            "content": "Nicht/Kein (adv.)"
           },
           "back": {
             "content": [
@@ -471,6 +471,17 @@
             "content": [
               "- [Table]: ",
               "- Forms: Tische (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bild (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Image/Picture/View]: ",
+              "- Forms: Bilder (plural)"
             ]
           }
         }
@@ -784,7 +795,7 @@
       },
       {
         "type": "add",
-        "word": "Nicht",
+        "word": "Nicht/Kein",
         "date": "2024-09-22T20:49:20.991Z"
       },
       {
@@ -834,6 +845,11 @@
         "type": "add",
         "word": "Tisch",
         "date": "2024-09-22T22:20:32.971Z"
+      },
+      {
+        "type": "add",
+        "word": "Bild",
+        "date": "2024-09-22T22:22:51.625Z"
       }
     ],
     "levels": [
@@ -1042,6 +1058,10 @@
           {
             "length": 43,
             "date": "2024-09-22T22:20:33.036Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-09-22T22:22:51.626Z"
           }
         ]
       },
