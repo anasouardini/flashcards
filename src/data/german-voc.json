@@ -324,7 +324,18 @@
           },
           "back": {
             "content": [
-              "- [By/until/to]: ",
+              "- [by/until/to]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "später (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [later/subsequently]: ",
               "- Forms: "
             ]
           }
@@ -533,6 +544,11 @@
         "type": "add",
         "word": "Bis",
         "date": "2024-09-22T16:52:48.403Z"
+      },
+      {
+        "type": "add",
+        "word": "später",
+        "date": "2024-09-22T16:55:34.456Z"
       }
     ],
     "levels": [
@@ -657,6 +673,10 @@
           {
             "length": 30,
             "date": "2024-09-22T16:52:48.404Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-09-22T16:55:34.456Z"
           }
         ]
       },
