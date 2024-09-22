@@ -361,6 +361,17 @@
               "- Forms: Namen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Hausaufgabe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Homework]: ",
+              "- Forms: Hausaufgaben (plural)"
+            ]
+          }
         }
       ]
     },
@@ -581,6 +592,11 @@
         "type": "add",
         "word": "Name",
         "date": "2024-09-22T19:24:27.744Z"
+      },
+      {
+        "type": "add",
+        "word": "Hausaufgabe",
+        "date": "2024-09-22T19:30:19.831Z"
       }
     ],
     "levels": [
@@ -717,6 +733,10 @@
           {
             "length": 33,
             "date": "2024-09-22T19:24:27.744Z"
+          },
+          {
+            "length": 34,
+            "date": "2024-09-22T19:30:19.831Z"
           }
         ]
       },
