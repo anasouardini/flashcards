@@ -21,7 +21,7 @@
           },
           "back": {
             "content": [
-              "- [Thank you]: "
+              "- [Thank you/ Thanks]: "
             ]
           }
         },
@@ -462,6 +462,17 @@
               "- Forms: Antworten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Tisch (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Table]: ",
+              "- Forms: Tische (plural)"
+            ]
+          }
         }
       ]
     },
@@ -818,6 +829,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-22T22:10:03.554Z"
+      },
+      {
+        "type": "add",
+        "word": "Tisch",
+        "date": "2024-09-22T22:20:32.971Z"
       }
     ],
     "levels": [
@@ -1022,6 +1038,10 @@
           {
             "length": 42,
             "date": "2024-09-22T22:10:03.554Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-09-22T22:20:33.036Z"
           }
         ]
       },
