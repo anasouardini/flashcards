@@ -394,6 +394,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kommen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Come/Arrive]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -629,6 +640,11 @@
         "type": "add",
         "word": "Wo",
         "date": "2024-09-22T19:33:58.996Z"
+      },
+      {
+        "type": "add",
+        "word": "Kommen",
+        "date": "2024-09-22T19:35:06.681Z"
       }
     ],
     "levels": [
@@ -777,6 +793,10 @@
           {
             "length": 36,
             "date": "2024-09-22T19:33:58.997Z"
+          },
+          {
+            "length": 37,
+            "date": "2024-09-22T19:35:06.682Z"
           }
         ]
       },
