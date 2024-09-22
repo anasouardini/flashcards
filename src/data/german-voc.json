@@ -350,6 +350,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Name (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Name]: ",
+              "- Forms: Namen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -565,6 +576,11 @@
         "type": "add",
         "word": "heiß",
         "date": "2024-09-22T19:20:16.667Z"
+      },
+      {
+        "type": "add",
+        "word": "Name",
+        "date": "2024-09-22T19:24:27.744Z"
       }
     ],
     "levels": [
@@ -697,6 +713,10 @@
           {
             "length": 32,
             "date": "2024-09-22T19:20:16.668Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-09-22T19:24:27.744Z"
           }
         ]
       },
