@@ -298,7 +298,7 @@
         },
         {
           "front": {
-            "content": "schön (adj.)"
+            "content": "Schön (adj.)"
           },
           "back": {
             "content": [
@@ -309,7 +309,7 @@
         },
         {
           "front": {
-            "content": "tschau!/tschü!/tschüss!/tschüssi! (interj)"
+            "content": "Tschau!/Tschü!/Tschüss!/Tschüssi! (interj)"
           },
           "back": {
             "content": [
@@ -331,11 +331,22 @@
         },
         {
           "front": {
-            "content": "später (adv.)"
+            "content": "Später (adv.)"
           },
           "back": {
             "content": [
               "- [later/subsequently]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "heiß (v.)"
+          },
+          "back": {
+            "content": [
+              "- [to be called]: ",
               "- Forms: "
             ]
           }
@@ -532,12 +543,12 @@
       },
       {
         "type": "add",
-        "word": "schön",
+        "word": "Schön",
         "date": "2024-09-22T16:40:28.059Z"
       },
       {
         "type": "add",
-        "word": "tschü/tschüss/tschüssi",
+        "word": "Tschü/Tschüss/Tschüssi",
         "date": "2024-09-22T16:45:54.925Z"
       },
       {
@@ -547,8 +558,13 @@
       },
       {
         "type": "add",
-        "word": "später",
+        "word": "Später",
         "date": "2024-09-22T16:55:34.456Z"
+      },
+      {
+        "type": "add",
+        "word": "heiß",
+        "date": "2024-09-22T19:20:16.667Z"
       }
     ],
     "levels": [
@@ -677,6 +693,10 @@
           {
             "length": 31,
             "date": "2024-09-22T16:55:34.456Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-09-22T19:20:16.668Z"
           }
         ]
       },
