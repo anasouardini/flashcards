@@ -517,6 +517,17 @@
               "- Forms: Bücher (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Verstehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Understand]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -898,6 +909,11 @@
         "type": "add",
         "word": "Buch",
         "date": "2024-09-22T22:35:32.885Z"
+      },
+      {
+        "type": "add",
+        "word": "Verstehen",
+        "date": "2024-09-22T22:38:23.130Z"
       }
     ],
     "levels": [
@@ -1122,6 +1138,10 @@
           {
             "length": 47,
             "date": "2024-09-22T22:35:32.885Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-09-22T22:38:23.130Z"
           }
         ]
       },
