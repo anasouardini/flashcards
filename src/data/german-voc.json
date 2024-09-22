@@ -2,29 +2,9 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 22,
       "currentCardSide": "front",
       "cards": [
-        {
-          "front": {
-            "content": "Ich"
-          },
-          "back": {
-            "content": [
-              "- [I]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hallo!/Hi!/Na?"
-          },
-          "back": {
-            "content": [
-              "- [Hello!]: "
-            ]
-          }
-        },
         {
           "front": {
             "content": "Bitte"
@@ -510,7 +490,28 @@
     {
       "currentCardIndex": 0,
       "currentCardSide": "front",
-      "cards": []
+      "cards": [
+        {
+          "front": {
+            "content": "Ich"
+          },
+          "back": {
+            "content": [
+              "- [I]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hallo!/Hi!/Na?"
+          },
+          "back": {
+            "content": [
+              "- [Hello!]: "
+            ]
+          }
+        }
+      ]
     },
     {
       "currentCardIndex": 0,
@@ -789,6 +790,20 @@
         "type": "add",
         "word": "Antwort",
         "date": "2024-09-22T20:59:17.829Z"
+      },
+      {
+        "type": "move",
+        "word": "Ich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-22T21:37:24.535Z"
+      },
+      {
+        "type": "move",
+        "word": "Hallo!/Hi!/Na?",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-22T21:37:36.219Z"
       }
     ],
     "levels": [
@@ -977,11 +992,28 @@
           {
             "length": 46,
             "date": "2024-09-22T20:59:17.829Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-09-22T21:37:24.607Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-09-22T21:37:36.219Z"
           }
         ]
       },
       {
-        "lengths": []
+        "lengths": [
+          {
+            "length": 1,
+            "date": "2024-09-22T21:37:24.607Z"
+          },
+          {
+            "length": 2,
+            "date": "2024-09-22T21:37:36.219Z"
+          }
+        ]
       },
       {
         "lengths": []
