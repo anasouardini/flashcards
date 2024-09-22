@@ -251,6 +251,17 @@
               "- Forms: Boot(s.), Boote(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Fahrrad (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Bicycle]: ",
+              "- Forms: Fahrrad(s.), Fahrräder(p.)"
+            ]
+          }
         }
       ]
     },
@@ -421,6 +432,11 @@
         "type": "add",
         "word": "Boot",
         "date": "2024-09-22T14:07:38.163Z"
+      },
+      {
+        "type": "add",
+        "word": "Fahrrad",
+        "date": "2024-09-22T14:11:23.797Z"
       }
     ],
     "levels": [
@@ -517,6 +533,10 @@
           {
             "length": 23,
             "date": "2024-09-22T14:07:38.163Z"
+          },
+          {
+            "length": 24,
+            "date": "2024-09-22T14:11:23.797Z"
           }
         ]
       },
