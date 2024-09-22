@@ -119,6 +119,17 @@
               "- Forms: Morgen(s.), Morgen(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gestern (noun, singular, neutre)"
+          },
+          "back": {
+            "content": [
+              "- [Yesterday]: ",
+              "- Forms: Gestern(s.), -(p.)"
+            ]
+          }
         }
       ]
     },
@@ -229,6 +240,11 @@
         "type": "add",
         "word": "Morgen",
         "date": "2024-09-22T13:42:16.523Z"
+      },
+      {
+        "type": "add",
+        "word": "Gestern",
+        "date": "2024-09-22T13:44:46.845Z"
       }
     ],
     "levels": [
@@ -277,6 +293,10 @@
           {
             "length": 11,
             "date": "2024-09-22T13:42:16.524Z"
+          },
+          {
+            "length": 12,
+            "date": "2024-09-22T13:44:46.846Z"
           }
         ]
       },
