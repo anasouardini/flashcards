@@ -141,6 +141,17 @@
               "- Forms: Heute(s.), -(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Welt (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [World]: ",
+              "- Forms: Welt(s.), Welten(p.)"
+            ]
+          }
         }
       ]
     },
@@ -261,6 +272,11 @@
         "type": "add",
         "word": "Heute",
         "date": "2024-09-22T13:47:08.779Z"
+      },
+      {
+        "type": "add",
+        "word": "Welt",
+        "date": "2024-09-22T13:48:27.455Z"
       }
     ],
     "levels": [
@@ -317,6 +333,10 @@
           {
             "length": 13,
             "date": "2024-09-22T13:47:08.780Z"
+          },
+          {
+            "length": 14,
+            "date": "2024-09-22T13:48:27.455Z"
           }
         ]
       },
