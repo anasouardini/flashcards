@@ -273,6 +273,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Abend (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Evening]: ",
+              "- Forms: Abend (s.), Abende (p.)"
+            ]
+          }
         }
       ]
     },
@@ -453,6 +464,11 @@
         "type": "add",
         "word": "Guten",
         "date": "2024-09-22T16:17:07.611Z"
+      },
+      {
+        "type": "add",
+        "word": "Abend",
+        "date": "2024-09-22T16:20:39.109Z"
       }
     ],
     "levels": [
@@ -557,6 +573,10 @@
           {
             "length": 25,
             "date": "2024-09-22T16:17:07.612Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-09-22T16:20:39.200Z"
           }
         ]
       },
