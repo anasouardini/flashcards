@@ -471,6 +471,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Fehler (noun, singuler/plural, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Mistake/Error]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -741,6 +752,11 @@
         "type": "add",
         "word": "Nicht",
         "date": "2024-09-22T20:49:20.991Z"
+      },
+      {
+        "type": "add",
+        "word": "Fehler",
+        "date": "2024-09-22T20:51:42.482Z"
       }
     ],
     "levels": [
@@ -917,6 +933,10 @@
           {
             "length": 43,
             "date": "2024-09-22T20:49:20.992Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-09-22T20:51:42.483Z"
           }
         ]
       },
