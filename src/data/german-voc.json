@@ -17,11 +17,11 @@
         },
         {
           "front": {
-            "content": "Hallo"
+            "content": "Hallo!/Hi!/Na?"
           },
           "back": {
             "content": [
-              "- [Hello]: "
+              "- [Hello!]: "
             ]
           }
         },
@@ -309,11 +309,22 @@
         },
         {
           "front": {
-            "content": "tschü/tschüss/tschüssi (interj)"
+            "content": "tschau!/tschü!/tschüss!/tschüssi! (interj)"
           },
           "back": {
             "content": [
               "- [Bye]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bis (preposition)"
+          },
+          "back": {
+            "content": [
+              "- [By/until/to]: ",
               "- Forms: "
             ]
           }
@@ -517,6 +528,11 @@
         "type": "add",
         "word": "tschü/tschüss/tschüssi",
         "date": "2024-09-22T16:45:54.925Z"
+      },
+      {
+        "type": "add",
+        "word": "Bis",
+        "date": "2024-09-22T16:52:48.403Z"
       }
     ],
     "levels": [
@@ -637,6 +653,10 @@
           {
             "length": 29,
             "date": "2024-09-22T16:45:54.925Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-09-22T16:52:48.404Z"
           }
         ]
       },
