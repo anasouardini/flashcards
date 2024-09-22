@@ -130,6 +130,17 @@
               "- Forms: Gestern(s.), -(p.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Heute (noun, singular, neutre)"
+          },
+          "back": {
+            "content": [
+              "- [Today]: ",
+              "- Forms: Heute(s.), -(p.)"
+            ]
+          }
         }
       ]
     },
@@ -245,6 +256,11 @@
         "type": "add",
         "word": "Gestern",
         "date": "2024-09-22T13:44:46.845Z"
+      },
+      {
+        "type": "add",
+        "word": "Heute",
+        "date": "2024-09-22T13:47:08.779Z"
       }
     ],
     "levels": [
@@ -297,6 +313,10 @@
           {
             "length": 12,
             "date": "2024-09-22T13:44:46.846Z"
+          },
+          {
+            "length": 13,
+            "date": "2024-09-22T13:47:08.780Z"
           }
         ]
       },
