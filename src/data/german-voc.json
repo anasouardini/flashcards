@@ -528,6 +528,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gern (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Gladly/With pleasure]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -914,6 +925,11 @@
         "type": "add",
         "word": "Verstehen",
         "date": "2024-09-22T22:38:23.130Z"
+      },
+      {
+        "type": "add",
+        "word": "Gern",
+        "date": "2024-09-22T22:39:09.903Z"
       }
     ],
     "levels": [
@@ -1142,6 +1158,10 @@
           {
             "length": 48,
             "date": "2024-09-22T22:38:23.130Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-09-22T22:39:09.904Z"
           }
         ]
       },
