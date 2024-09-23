@@ -605,6 +605,17 @@
               "- Forms: Schulen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Normalerweise (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Normally]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1026,6 +1037,11 @@
         "type": "add",
         "word": "Schule",
         "date": "2024-09-23T02:24:57.117Z"
+      },
+      {
+        "type": "add",
+        "word": "Normalerweise",
+        "date": "2024-09-23T02:26:17.320Z"
       }
     ],
     "levels": [
@@ -1282,6 +1298,10 @@
           {
             "length": 55,
             "date": "2024-09-23T02:24:57.117Z"
+          },
+          {
+            "length": 56,
+            "date": "2024-09-23T02:26:17.321Z"
           }
         ]
       },
