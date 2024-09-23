@@ -649,6 +649,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wenn (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [If/When]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1090,6 +1101,11 @@
         "type": "add",
         "word": "Zu",
         "date": "2024-09-23T02:33:18.481Z"
+      },
+      {
+        "type": "add",
+        "word": "Wenn",
+        "date": "2024-09-23T02:34:20.170Z"
       }
     ],
     "levels": [
@@ -1362,6 +1378,10 @@
           {
             "length": 59,
             "date": "2024-09-23T02:33:18.482Z"
+          },
+          {
+            "length": 60,
+            "date": "2024-09-23T02:34:20.171Z"
           }
         ]
       },
