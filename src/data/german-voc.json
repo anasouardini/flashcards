@@ -715,6 +715,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Öffentlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Public]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1186,6 +1197,11 @@
         "type": "add",
         "word": "Meisten",
         "date": "2024-09-23T02:52:44.075Z"
+      },
+      {
+        "type": "add",
+        "word": "Öffentlich",
+        "date": "2024-09-23T02:56:11.208Z"
       }
     ],
     "levels": [
@@ -1482,6 +1498,10 @@
           {
             "length": 65,
             "date": "2024-09-23T02:52:44.075Z"
+          },
+          {
+            "length": 66,
+            "date": "2024-09-23T02:56:11.208Z"
           }
         ]
       },
