@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 50,
+      "currentCardIndex": 57,
       "currentCardSide": "back",
       "cards": [
         {
@@ -560,7 +560,7 @@
           },
           "back": {
             "content": [
-              "- [To have to]: Müssen zur : Have to",
+              "- [To have to]: Gehen müssen : Have to go",
               "- Forms: "
             ]
           }
