@@ -782,6 +782,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Internationale (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [International]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1283,6 +1294,11 @@
         "type": "add",
         "word": "Private",
         "date": "2024-09-23T03:13:39.424Z"
+      },
+      {
+        "type": "add",
+        "word": "Internationale",
+        "date": "2024-09-23T03:20:35.712Z"
       }
     ],
     "levels": [
@@ -1603,6 +1619,10 @@
           {
             "length": 71,
             "date": "2024-09-23T03:13:39.424Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-09-23T03:20:35.713Z"
           }
         ]
       },
