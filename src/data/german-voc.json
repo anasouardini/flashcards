@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 30,
-      "currentCardSide": "back",
+      "currentCardIndex": 41,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -413,17 +413,6 @@
         },
         {
           "front": {
-            "content": "Gehen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Go]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Frage (noun, singular, feminine)"
           },
           "back": {
@@ -463,17 +452,6 @@
             "content": [
               "- [Gladly/With pleasure]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sofa (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Couch]: ",
-              "- Forms: Sofas (plural)"
             ]
           }
         },
@@ -895,6 +873,28 @@
             "content": [
               "- [Name]: ",
               "- Forms: Namen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Go]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sofa (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Couch]: ",
+              "- Forms: Sofas (plural)"
             ]
           }
         }
@@ -1429,6 +1429,20 @@
         "type": "add",
         "word": "Lösen",
         "date": "2024-09-23T16:01:36.678Z"
+      },
+      {
+        "type": "move",
+        "word": "Gehen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-23T16:12:50.208Z"
+      },
+      {
+        "type": "move",
+        "word": "Sofa",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-23T16:38:09.945Z"
       }
     ],
     "levels": [
@@ -1801,6 +1815,14 @@
           {
             "length": 70,
             "date": "2024-09-23T16:01:36.679Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-09-23T16:12:50.209Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-09-23T16:38:09.945Z"
           }
         ]
       },
@@ -1849,6 +1871,14 @@
           {
             "length": 11,
             "date": "2024-09-23T15:37:08.559Z"
+          },
+          {
+            "length": 12,
+            "date": "2024-09-23T16:12:50.209Z"
+          },
+          {
+            "length": 13,
+            "date": "2024-09-23T16:38:09.945Z"
           }
         ]
       },
