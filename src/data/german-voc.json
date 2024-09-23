@@ -744,8 +744,20 @@
           },
           "back": {
             "content": [
-              "- [Ability/Skill]: ",
+              "- [Ability/Skill] (n.): ",
+              "- [To Know/To be able to] (v.): ",
               "- Forms: Können (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kostenlos (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Free]: ",
+              "- Forms: "
             ]
           }
         }
@@ -1234,6 +1246,11 @@
         "type": "add",
         "word": "Können",
         "date": "2024-09-23T03:01:48.836Z"
+      },
+      {
+        "type": "add",
+        "word": "Kostenlos",
+        "date": "2024-09-23T03:06:00.632Z"
       }
     ],
     "levels": [
@@ -1542,6 +1559,10 @@
           {
             "length": 68,
             "date": "2024-09-23T03:01:48.836Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-09-23T03:06:00.633Z"
           }
         ]
       },
