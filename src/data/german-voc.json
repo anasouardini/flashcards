@@ -737,6 +737,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Können (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Ability/Skill]: ",
+              "- Forms: Können (v.)"
+            ]
+          }
         }
       ]
     },
@@ -1218,6 +1229,11 @@
         "type": "add",
         "word": "Deshalb",
         "date": "2024-09-23T02:57:37.419Z"
+      },
+      {
+        "type": "add",
+        "word": "Können",
+        "date": "2024-09-23T03:01:48.836Z"
       }
     ],
     "levels": [
@@ -1522,6 +1538,10 @@
           {
             "length": 67,
             "date": "2024-09-23T02:57:37.419Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-09-23T03:01:48.836Z"
           }
         ]
       },
