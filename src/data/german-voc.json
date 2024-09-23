@@ -594,6 +594,17 @@
               "- Forms: Menschen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schule (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [School]: ",
+              "- Forms: Schulen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -1010,6 +1021,11 @@
         "type": "add",
         "word": "Mensch",
         "date": "2024-09-22T22:53:22.303Z"
+      },
+      {
+        "type": "add",
+        "word": "Schule",
+        "date": "2024-09-23T02:24:57.117Z"
       }
     ],
     "levels": [
@@ -1262,6 +1278,10 @@
           {
             "length": 54,
             "date": "2024-09-22T22:53:22.304Z"
+          },
+          {
+            "length": 55,
+            "date": "2024-09-23T02:24:57.117Z"
           }
         ]
       },
