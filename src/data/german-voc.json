@@ -726,6 +726,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Deshalb (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Therefore]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1202,6 +1213,11 @@
         "type": "add",
         "word": "Öffentlich",
         "date": "2024-09-23T02:56:11.208Z"
+      },
+      {
+        "type": "add",
+        "word": "Deshalb",
+        "date": "2024-09-23T02:57:37.419Z"
       }
     ],
     "levels": [
@@ -1502,6 +1518,10 @@
           {
             "length": 66,
             "date": "2024-09-23T02:56:11.208Z"
+          },
+          {
+            "length": 67,
+            "date": "2024-09-23T02:57:37.419Z"
           }
         ]
       },
