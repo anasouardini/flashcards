@@ -682,6 +682,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Heißen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Be called/Mean]: Das heißt : That means",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1138,6 +1149,11 @@
         "type": "add",
         "word": "Alt",
         "date": "2024-09-23T02:38:12.289Z"
+      },
+      {
+        "type": "add",
+        "word": "Heißen",
+        "date": "2024-09-23T02:44:38.375Z"
       }
     ],
     "levels": [
@@ -1422,6 +1438,10 @@
           {
             "length": 62,
             "date": "2024-09-23T02:38:12.289Z"
+          },
+          {
+            "length": 63,
+            "date": "2024-09-23T02:44:38.376Z"
           }
         ]
       },
