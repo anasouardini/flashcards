@@ -616,6 +616,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kind (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Child]: ",
+              "- Forms: Kinder (plural)"
+            ]
+          }
         }
       ]
     },
@@ -1042,6 +1053,11 @@
         "type": "add",
         "word": "Normalerweise",
         "date": "2024-09-23T02:26:17.320Z"
+      },
+      {
+        "type": "add",
+        "word": "Kind",
+        "date": "2024-09-23T02:29:59.024Z"
       }
     ],
     "levels": [
@@ -1302,6 +1318,10 @@
           {
             "length": 56,
             "date": "2024-09-23T02:26:17.321Z"
+          },
+          {
+            "length": 57,
+            "date": "2024-09-23T02:29:59.024Z"
           }
         ]
       },
