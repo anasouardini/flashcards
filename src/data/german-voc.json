@@ -771,6 +771,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Private (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Private]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1267,6 +1278,11 @@
         "type": "add",
         "word": "Auch",
         "date": "2024-09-23T03:12:10.359Z"
+      },
+      {
+        "type": "add",
+        "word": "Private",
+        "date": "2024-09-23T03:13:39.424Z"
       }
     ],
     "levels": [
@@ -1583,6 +1599,10 @@
           {
             "length": 70,
             "date": "2024-09-23T03:12:10.360Z"
+          },
+          {
+            "length": 71,
+            "date": "2024-09-23T03:13:39.424Z"
           }
         ]
       },
