@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 57,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -634,22 +634,11 @@
         },
         {
           "front": {
-            "content": "Private (adj.)"
+            "content": "Privat (adj.)"
           },
           "back": {
             "content": [
               "- [Private]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Internationale (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [International]: ",
               "- Forms: "
             ]
           }
@@ -694,7 +683,7 @@
           },
           "back": {
             "content": [
-              "- [Easy]: ",
+              "- [Easy]: Nicht so einfach : Not so easy",
               "- Forms: "
             ]
           }
@@ -894,6 +883,17 @@
           "back": {
             "content": [
               "- [Or]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Internationale (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [International]: ",
               "- Forms: "
             ]
           }
@@ -1471,6 +1471,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-23T16:51:40.725Z"
+      },
+      {
+        "type": "move",
+        "word": "Internationale",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-23T17:11:15.157Z"
       }
     ],
     "levels": [
@@ -1867,6 +1874,10 @@
           {
             "length": 64,
             "date": "2024-09-23T16:51:40.725Z"
+          },
+          {
+            "length": 63,
+            "date": "2024-09-23T17:11:15.158Z"
           }
         ]
       },
@@ -1939,6 +1950,10 @@
           {
             "length": 17,
             "date": "2024-09-23T16:51:40.725Z"
+          },
+          {
+            "length": 18,
+            "date": "2024-09-23T17:11:15.158Z"
           }
         ]
       },
