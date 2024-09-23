@@ -693,6 +693,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Müssen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To have to]: Müssen zur : Have to",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1154,6 +1165,11 @@
         "type": "add",
         "word": "Heißen",
         "date": "2024-09-23T02:44:38.375Z"
+      },
+      {
+        "type": "add",
+        "word": "Müssen",
+        "date": "2024-09-23T02:47:32.554Z"
       }
     ],
     "levels": [
@@ -1442,6 +1458,10 @@
           {
             "length": 63,
             "date": "2024-09-23T02:44:38.376Z"
+          },
+          {
+            "length": 64,
+            "date": "2024-09-23T02:47:32.554Z"
           }
         ]
       },
