@@ -741,6 +741,17 @@
               "- Forms: Ausbildungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Weiß (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Know]: ",
+              "- Forms: weiß (noun, singular, neuter)"
+            ]
+          }
         }
       ]
     },
@@ -1380,6 +1391,11 @@
         "type": "add",
         "word": "Ausbildung",
         "date": "2024-09-23T15:47:19.069Z"
+      },
+      {
+        "type": "add",
+        "word": "Weiß",
+        "date": "2024-09-23T15:56:47.406Z"
       }
     ],
     "levels": [
@@ -1740,6 +1756,10 @@
           {
             "length": 67,
             "date": "2024-09-23T15:47:19.069Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-09-23T15:56:47.407Z"
           }
         ]
       },
