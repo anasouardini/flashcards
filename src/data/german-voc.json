@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 29,
+      "currentCardIndex": 30,
       "currentCardSide": "back",
       "cards": [
         {
@@ -749,7 +749,19 @@
           "back": {
             "content": [
               "- [Know]: ",
-              "- Forms: weiß (noun, singular, neuter)"
+              "- [White] (noun, singular, neuter): ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einfach (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Easy]: ",
+              "- Forms: "
             ]
           }
         }
@@ -1396,6 +1408,11 @@
         "type": "add",
         "word": "Weiß",
         "date": "2024-09-23T15:56:47.406Z"
+      },
+      {
+        "type": "add",
+        "word": "Einfach",
+        "date": "2024-09-23T15:59:12.741Z"
       }
     ],
     "levels": [
@@ -1760,6 +1777,10 @@
           {
             "length": 68,
             "date": "2024-09-23T15:56:47.407Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-09-23T15:59:12.741Z"
           }
         ]
       },
