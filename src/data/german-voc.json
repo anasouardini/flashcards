@@ -627,6 +627,17 @@
               "- Forms: Kinder (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "In (preposition)"
+          },
+          "back": {
+            "content": [
+              "- [In]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1058,6 +1069,11 @@
         "type": "add",
         "word": "Kind",
         "date": "2024-09-23T02:29:59.024Z"
+      },
+      {
+        "type": "add",
+        "word": "In",
+        "date": "2024-09-23T02:31:51.273Z"
       }
     ],
     "levels": [
@@ -1322,6 +1338,10 @@
           {
             "length": 57,
             "date": "2024-09-23T02:29:59.024Z"
+          },
+          {
+            "length": 58,
+            "date": "2024-09-23T02:31:51.274Z"
           }
         ]
       },
