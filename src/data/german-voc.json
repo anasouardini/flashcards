@@ -733,7 +733,7 @@
           },
           "back": {
             "content": [
-              "- [Therefore]: ",
+              "- [Therefore/That's why]: ",
               "- Forms: "
             ]
           }
@@ -757,6 +757,17 @@
           "back": {
             "content": [
               "- [Free]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auch (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Also]: ",
               "- Forms: "
             ]
           }
@@ -1251,6 +1262,11 @@
         "type": "add",
         "word": "Kostenlos",
         "date": "2024-09-23T03:06:00.632Z"
+      },
+      {
+        "type": "add",
+        "word": "Auch",
+        "date": "2024-09-23T03:12:10.359Z"
       }
     ],
     "levels": [
@@ -1563,6 +1579,10 @@
           {
             "length": 69,
             "date": "2024-09-23T03:06:00.633Z"
+          },
+          {
+            "length": 70,
+            "date": "2024-09-23T03:12:10.360Z"
           }
         ]
       },
