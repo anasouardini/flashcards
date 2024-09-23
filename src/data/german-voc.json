@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 42,
+      "currentCardIndex": 50,
       "currentCardSide": "back",
       "cards": [
         {
@@ -472,7 +472,7 @@
           },
           "back": {
             "content": [
-              "- [Live/Reside]: ",
+              "- [Live/Reside]: Ich wohne in Marokko : I live in Morocco",
               "- Forms: "
             ]
           }
@@ -501,17 +501,6 @@
         },
         {
           "front": {
-            "content": "Schule (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [School]: ",
-              "- Forms: Schulen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Normalerweise (adv.)"
           },
           "back": {
@@ -534,44 +523,11 @@
         },
         {
           "front": {
-            "content": "In (preposition)"
-          },
-          "back": {
-            "content": [
-              "- [In]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zu (preposition)"
-          },
-          "back": {
-            "content": [
-              "- [To]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wenn (conjunction)"
           },
           "back": {
             "content": [
               "- [If/When]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Oder (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Or]: ",
               "- Forms: "
             ]
           }
@@ -895,6 +851,50 @@
             "content": [
               "- [Couch]: ",
               "- Forms: Sofas (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schule (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [School]: ",
+              "- Forms: Schulen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "In (preposition)"
+          },
+          "back": {
+            "content": [
+              "- [In]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zu (preposition)"
+          },
+          "back": {
+            "content": [
+              "- [To]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Oder (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Or]: ",
+              "- Forms: "
             ]
           }
         }
@@ -1443,6 +1443,34 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-23T16:38:09.945Z"
+      },
+      {
+        "type": "move",
+        "word": "Schule",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-23T16:46:00.648Z"
+      },
+      {
+        "type": "move",
+        "word": "In",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-23T16:49:17.086Z"
+      },
+      {
+        "type": "move",
+        "word": "Zu",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-23T16:49:23.486Z"
+      },
+      {
+        "type": "move",
+        "word": "Oder",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-23T16:51:40.725Z"
       }
     ],
     "levels": [
@@ -1823,6 +1851,22 @@
           {
             "length": 68,
             "date": "2024-09-23T16:38:09.945Z"
+          },
+          {
+            "length": 67,
+            "date": "2024-09-23T16:46:00.650Z"
+          },
+          {
+            "length": 66,
+            "date": "2024-09-23T16:49:17.086Z"
+          },
+          {
+            "length": 65,
+            "date": "2024-09-23T16:49:23.486Z"
+          },
+          {
+            "length": 64,
+            "date": "2024-09-23T16:51:40.725Z"
           }
         ]
       },
@@ -1879,6 +1923,22 @@
           {
             "length": 13,
             "date": "2024-09-23T16:38:09.945Z"
+          },
+          {
+            "length": 14,
+            "date": "2024-09-23T16:46:00.650Z"
+          },
+          {
+            "length": 15,
+            "date": "2024-09-23T16:49:17.086Z"
+          },
+          {
+            "length": 16,
+            "date": "2024-09-23T16:49:23.486Z"
+          },
+          {
+            "length": 17,
+            "date": "2024-09-23T16:51:40.725Z"
           }
         ]
       },
