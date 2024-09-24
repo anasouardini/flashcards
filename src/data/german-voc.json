@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 41,
-      "currentCardSide": "front",
+      "currentCardIndex": 0,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -471,39 +471,6 @@
         },
         {
           "front": {
-            "content": "Privat (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Private]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bildung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Education]: ",
-              "- Forms: Bildungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ausbildung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Training]: ",
-              "- Forms: Ausbildungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Weiß (v.)"
           },
           "back": {
@@ -896,6 +863,39 @@
             "content": [
               "- [Free]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Privat (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Private]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bildung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Education]: ",
+              "- Forms: Bildungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ausbildung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Training]: ",
+              "- Forms: Ausbildungen (plural)"
             ]
           }
         }
@@ -1584,6 +1584,27 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-24T18:50:24.711Z"
+      },
+      {
+        "type": "move",
+        "word": "Privat",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:51:27.031Z"
+      },
+      {
+        "type": "move",
+        "word": "Bildung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:51:43.006Z"
+      },
+      {
+        "type": "move",
+        "word": "Ausbildung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:51:45.630Z"
       }
     ],
     "levels": [
@@ -2044,6 +2065,18 @@
           {
             "length": 48,
             "date": "2024-09-24T18:50:24.711Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-09-24T18:51:27.031Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-09-24T18:51:43.006Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-09-24T18:51:45.630Z"
           }
         ]
       },
@@ -2180,6 +2213,18 @@
           {
             "length": 33,
             "date": "2024-09-24T18:50:24.711Z"
+          },
+          {
+            "length": 34,
+            "date": "2024-09-24T18:51:27.031Z"
+          },
+          {
+            "length": 35,
+            "date": "2024-09-24T18:51:43.006Z"
+          },
+          {
+            "length": 36,
+            "date": "2024-09-24T18:51:45.630Z"
           }
         ]
       },
