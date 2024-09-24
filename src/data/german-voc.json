@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 11,
+      "currentCardIndex": 41,
       "currentCardSide": "front",
       "cards": [
         {
@@ -162,17 +162,6 @@
         },
         {
           "front": {
-            "content": "Hausaufgabe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Homework]: ",
-              "- Forms: Hausaufgaben (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Woher (adv.)"
           },
           "back": {
@@ -267,28 +256,6 @@
             "content": [
               "- [Mistake/Error]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Typisch (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Typical]: ",
-              "- Forms: Typisch (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Antwort (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Answer]: ",
-              "- Forms: Antworten (plural)"
             ]
           }
         },
@@ -404,28 +371,6 @@
         },
         {
           "front": {
-            "content": "Normalerweise (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Normally]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kind (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Child]: ",
-              "- Forms: Kinder (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wenn (conjunction)"
           },
           "back": {
@@ -510,17 +455,6 @@
               "- [Ability/Skill] (n.): ",
               "- [To Know/To be able to] (v.): ",
               "- Forms: Können (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kostenlos (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Free]: ",
-              "- Forms: "
             ]
           }
         },
@@ -895,6 +829,72 @@
           "back": {
             "content": [
               "- [Bye]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hausaufgabe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Homework]: ",
+              "- Forms: Hausaufgaben (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Typisch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Typical]: ",
+              "- Forms: Typisch (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Antwort (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Answer]: ",
+              "- Forms: Antworten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Normalerweise (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Normally]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kind (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Child]: ",
+              "- Forms: Kinder (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kostenlos (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Free]: ",
               "- Forms: "
             ]
           }
@@ -1542,6 +1542,48 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-24T18:06:49.010Z"
+      },
+      {
+        "type": "move",
+        "word": "Hausaufgabe",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:08:35.890Z"
+      },
+      {
+        "type": "move",
+        "word": "Typisch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:30:50.659Z"
+      },
+      {
+        "type": "move",
+        "word": "Antwort",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:31:13.180Z"
+      },
+      {
+        "type": "move",
+        "word": "Normalerweise",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:38:27.722Z"
+      },
+      {
+        "type": "move",
+        "word": "Kind",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:38:50.201Z"
+      },
+      {
+        "type": "move",
+        "word": "Kostenlos",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:50:24.711Z"
       }
     ],
     "levels": [
@@ -1978,6 +2020,30 @@
           {
             "length": 54,
             "date": "2024-09-24T18:06:49.010Z"
+          },
+          {
+            "length": 53,
+            "date": "2024-09-24T18:08:35.890Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-09-24T18:30:50.659Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-09-24T18:31:13.180Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-09-24T18:38:27.722Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-09-24T18:38:50.201Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-09-24T18:50:24.711Z"
           }
         ]
       },
@@ -2090,6 +2156,30 @@
           {
             "length": 27,
             "date": "2024-09-24T18:06:49.010Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-09-24T18:08:35.890Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-09-24T18:30:50.659Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-09-24T18:31:13.180Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-09-24T18:38:27.722Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-09-24T18:38:50.201Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-09-24T18:50:24.711Z"
           }
         ]
       },
