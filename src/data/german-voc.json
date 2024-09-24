@@ -2,30 +2,9 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 11,
       "currentCardSide": "front",
       "cards": [
-        {
-          "front": {
-            "content": "Bitte"
-          },
-          "back": {
-            "content": [
-              "- [Please]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Jahr (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Year]: ",
-              "- Other Forms: Jahre (plural)"
-            ]
-          }
-        },
         {
           "front": {
             "content": "Woche (noun, singular, feminine)"
@@ -34,39 +13,6 @@
             "content": [
               "- [Week]: ",
               "- Other Forms: Wochen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tag (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Day]: ",
-              "- Other Forms: Tage (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nacht (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Night]: ",
-              "- Other Forms: Nächte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Morgen (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Morning]: ",
-              "- Other Forms: Morgen (plural)"
             ]
           }
         },
@@ -109,7 +55,8 @@
           },
           "back": {
             "content": [
-              "- [Life]: ",
+              "- [Life] (noun): ",
+              "- [To Live] (v.): ",
               "- Other Forms: Leben (plural)"
             ]
           }
@@ -127,17 +74,6 @@
         },
         {
           "front": {
-            "content": "Auto (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Car]: ",
-              "- Other Forms: Autos(plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zug (noun, singular, masculine)"
           },
           "back": {
@@ -149,34 +85,12 @@
         },
         {
           "front": {
-            "content": "Traktor (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Tractor]: ",
-              "- Other Forms: Traktoren(plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Flugzeug (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [Airplane]: ",
               "- Other Forms: Flugzeuge(plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Boot (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Boat]: ",
-              "- Other Forms: Boote(plural)"
             ]
           }
         },
@@ -209,17 +123,6 @@
           "back": {
             "content": [
               "- [Sleep]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tschau!/Tschü!/Tschüss!/Tschüssi! (interj)"
-          },
-          "back": {
-            "content": [
-              "- [Bye]: ",
               "- Forms: "
             ]
           }
@@ -897,6 +800,104 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bitte"
+          },
+          "back": {
+            "content": [
+              "- [Please]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Jahr (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Year]: ",
+              "- Other Forms: Jahre (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Day]: ",
+              "- Other Forms: Tage (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nacht (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Night]: ",
+              "- Other Forms: Nächte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Morgen (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Morning]: ",
+              "- Other Forms: Morgen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auto (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Car]: ",
+              "- Other Forms: Autos(plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Traktor (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Tractor]: ",
+              "- Other Forms: Traktoren(plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Boot (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Boat]: ",
+              "- Other Forms: Boote(plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tschau!/Tschü!/Tschüss!/Tschüssi! (interj)"
+          },
+          "back": {
+            "content": [
+              "- [Bye]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1478,6 +1479,69 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-23T17:11:15.157Z"
+      },
+      {
+        "type": "move",
+        "word": "Bitte",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T17:56:28.839Z"
+      },
+      {
+        "type": "move",
+        "word": "Jahr",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T17:56:32.941Z"
+      },
+      {
+        "type": "move",
+        "word": "Tag",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T17:56:39.556Z"
+      },
+      {
+        "type": "move",
+        "word": "Nacht",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T17:56:41.188Z"
+      },
+      {
+        "type": "move",
+        "word": "Morgen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T17:56:42.555Z"
+      },
+      {
+        "type": "move",
+        "word": "Auto",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:06:39.723Z"
+      },
+      {
+        "type": "move",
+        "word": "Traktor",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:06:41.226Z"
+      },
+      {
+        "type": "move",
+        "word": "Boot",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:06:43.754Z"
+      },
+      {
+        "type": "move",
+        "word": "Tschau!/Tschü!/Tschüss!/Tschüssi!",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-24T18:06:49.010Z"
       }
     ],
     "levels": [
@@ -1878,6 +1942,42 @@
           {
             "length": 63,
             "date": "2024-09-23T17:11:15.158Z"
+          },
+          {
+            "length": 62,
+            "date": "2024-09-24T17:56:28.902Z"
+          },
+          {
+            "length": 61,
+            "date": "2024-09-24T17:56:32.941Z"
+          },
+          {
+            "length": 60,
+            "date": "2024-09-24T17:56:39.556Z"
+          },
+          {
+            "length": 59,
+            "date": "2024-09-24T17:56:41.188Z"
+          },
+          {
+            "length": 58,
+            "date": "2024-09-24T17:56:42.555Z"
+          },
+          {
+            "length": 57,
+            "date": "2024-09-24T18:06:39.724Z"
+          },
+          {
+            "length": 56,
+            "date": "2024-09-24T18:06:41.226Z"
+          },
+          {
+            "length": 55,
+            "date": "2024-09-24T18:06:43.754Z"
+          },
+          {
+            "length": 54,
+            "date": "2024-09-24T18:06:49.010Z"
           }
         ]
       },
@@ -1954,6 +2054,42 @@
           {
             "length": 18,
             "date": "2024-09-23T17:11:15.158Z"
+          },
+          {
+            "length": 19,
+            "date": "2024-09-24T17:56:28.902Z"
+          },
+          {
+            "length": 20,
+            "date": "2024-09-24T17:56:32.941Z"
+          },
+          {
+            "length": 21,
+            "date": "2024-09-24T17:56:39.556Z"
+          },
+          {
+            "length": 22,
+            "date": "2024-09-24T17:56:41.188Z"
+          },
+          {
+            "length": 23,
+            "date": "2024-09-24T17:56:42.555Z"
+          },
+          {
+            "length": 24,
+            "date": "2024-09-24T18:06:39.724Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-09-24T18:06:41.226Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-09-24T18:06:43.754Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-09-24T18:06:49.010Z"
           }
         ]
       },
