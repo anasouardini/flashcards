@@ -667,6 +667,17 @@
               "- Forms: Töchter (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Geschwister (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Sibling]: ",
+              "- Forms: Geschwister (plural)"
+            ]
+          }
         }
       ]
     },
@@ -1845,6 +1856,11 @@
         "type": "add",
         "word": "Tochter",
         "date": "2024-09-25T22:24:54.727Z"
+      },
+      {
+        "type": "add",
+        "word": "Geschwister",
+        "date": "2024-09-25T22:26:43.294Z"
       }
     ],
     "levels": [
@@ -2377,6 +2393,10 @@
           {
             "length": 60,
             "date": "2024-09-25T22:24:54.728Z"
+          },
+          {
+            "length": 61,
+            "date": "2024-09-25T22:26:43.294Z"
           }
         ]
       },
