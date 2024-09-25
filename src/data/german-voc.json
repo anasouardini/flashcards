@@ -502,6 +502,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Herzlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Kind]: Herzlich Wilkommen : Kind welcome",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1605,6 +1616,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-24T18:51:45.630Z"
+      },
+      {
+        "type": "add",
+        "word": "Herzlich",
+        "date": "2024-09-25T21:53:22.734Z"
       }
     ],
     "levels": [
@@ -2077,6 +2093,10 @@
           {
             "length": 45,
             "date": "2024-09-24T18:51:45.630Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-09-25T21:53:22.877Z"
           }
         ]
       },
