@@ -524,6 +524,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Auf (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [in/at/on/for]: Auf Deutsch : In German",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1637,6 +1648,11 @@
         "type": "add",
         "word": "Langsamem",
         "date": "2024-09-25T21:56:26.459Z"
+      },
+      {
+        "type": "add",
+        "word": "Auf",
+        "date": "2024-09-25T21:58:05.090Z"
       }
     ],
     "levels": [
@@ -2117,6 +2133,10 @@
           {
             "length": 47,
             "date": "2024-09-25T21:56:26.459Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-09-25T21:58:05.091Z"
           }
         ]
       },
