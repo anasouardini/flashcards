@@ -645,6 +645,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Verheiratet (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Married/Coupled]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1813,6 +1824,11 @@
         "type": "add",
         "word": "Wann",
         "date": "2024-09-25T22:19:24.601Z"
+      },
+      {
+        "type": "add",
+        "word": "Verheiratet",
+        "date": "2024-09-25T22:21:27.072Z"
       }
     ],
     "levels": [
@@ -2337,6 +2353,10 @@
           {
             "length": 58,
             "date": "2024-09-25T22:19:24.602Z"
+          },
+          {
+            "length": 59,
+            "date": "2024-09-25T22:21:27.073Z"
           }
         ]
       },
