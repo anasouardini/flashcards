@@ -766,6 +766,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Einzel (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Only/Standalone]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1989,6 +2000,11 @@
         "type": "add",
         "word": "Jung",
         "date": "2024-09-25T22:39:47.550Z"
+      },
+      {
+        "type": "add",
+        "word": "Einzel",
+        "date": "2024-09-25T22:40:57.433Z"
       }
     ],
     "levels": [
@@ -2557,6 +2573,10 @@
           {
             "length": 69,
             "date": "2024-09-25T22:39:47.551Z"
+          },
+          {
+            "length": 70,
+            "date": "2024-09-25T22:40:57.433Z"
           }
         ]
       },
