@@ -744,6 +744,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Jüngere (noun, singular, ?)"
+          },
+          "back": {
+            "content": [
+              "- [Junior]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1957,6 +1968,11 @@
         "type": "add",
         "word": "Gestorben",
         "date": "2024-09-25T22:34:28.961Z"
+      },
+      {
+        "type": "add",
+        "word": "Jüngere",
+        "date": "2024-09-25T22:39:31.241Z"
       }
     ],
     "levels": [
@@ -2517,6 +2533,10 @@
           {
             "length": 67,
             "date": "2024-09-25T22:34:28.961Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-09-25T22:39:31.241Z"
           }
         ]
       },
