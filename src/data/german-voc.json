@@ -513,6 +513,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Langsamem (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Slow]: Auf langsamem Deutsch : In slow German",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1621,6 +1632,11 @@
         "type": "add",
         "word": "Herzlich",
         "date": "2024-09-25T21:53:22.734Z"
+      },
+      {
+        "type": "add",
+        "word": "Langsamem",
+        "date": "2024-09-25T21:56:26.459Z"
       }
     ],
     "levels": [
@@ -2097,6 +2113,10 @@
           {
             "length": 46,
             "date": "2024-09-25T21:53:22.877Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-09-25T21:56:26.459Z"
           }
         ]
       },
