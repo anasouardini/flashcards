@@ -700,6 +700,17 @@
               "- Forms: Brüder (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Krieg (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [War]: ",
+              "- Forms: Kriege (plural)"
+            ]
+          }
         }
       ]
     },
@@ -1893,6 +1904,11 @@
         "type": "add",
         "word": "Bruder",
         "date": "2024-09-25T22:29:55.376Z"
+      },
+      {
+        "type": "add",
+        "word": "Krieg",
+        "date": "2024-09-25T22:32:14.400Z"
       }
     ],
     "levels": [
@@ -2437,6 +2453,10 @@
           {
             "length": 63,
             "date": "2024-09-25T22:29:55.377Z"
+          },
+          {
+            "length": 64,
+            "date": "2024-09-25T22:32:14.401Z"
           }
         ]
       },
