@@ -722,6 +722,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Leider (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Unfortunately]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1925,6 +1936,11 @@
         "type": "add",
         "word": "im",
         "date": "2024-09-25T22:32:36.113Z"
+      },
+      {
+        "type": "add",
+        "word": "Leider",
+        "date": "2024-09-25T22:33:01.906Z"
       }
     ],
     "levels": [
@@ -2477,6 +2493,10 @@
           {
             "length": 65,
             "date": "2024-09-25T22:32:36.113Z"
+          },
+          {
+            "length": 66,
+            "date": "2024-09-25T22:33:01.907Z"
           }
         ]
       },
