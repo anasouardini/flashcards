@@ -711,6 +711,17 @@
               "- Forms: Kriege (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "im (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [In/At]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1909,6 +1920,11 @@
         "type": "add",
         "word": "Krieg",
         "date": "2024-09-25T22:32:14.400Z"
+      },
+      {
+        "type": "add",
+        "word": "im",
+        "date": "2024-09-25T22:32:36.113Z"
       }
     ],
     "levels": [
@@ -2457,6 +2473,10 @@
           {
             "length": 64,
             "date": "2024-09-25T22:32:14.401Z"
+          },
+          {
+            "length": 65,
+            "date": "2024-09-25T22:32:36.113Z"
           }
         ]
       },
