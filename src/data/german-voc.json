@@ -593,11 +593,11 @@
         },
         {
           "front": {
-            "content": "Woher (adv.)"
+            "content": "Wähe (noun, singular, feminine)"
           },
           "back": {
             "content": [
-              "- [Where from]: ",
+              "- [Near/Approximity]: ",
               "- Forms: "
             ]
           }
@@ -1747,8 +1747,8 @@
       },
       {
         "type": "add",
-        "word": "Woher",
-        "date": "2024-09-25T22:10:27.080Z"
+        "word": "Wähe",
+        "date": "2024-09-25T22:13:51.598Z"
       }
     ],
     "levels": [
