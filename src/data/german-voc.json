@@ -689,6 +689,17 @@
               "- Forms: Schwestern (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bruder (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Brother]: ",
+              "- Forms: Brüder (plural)"
+            ]
+          }
         }
       ]
     },
@@ -1877,6 +1888,11 @@
         "type": "add",
         "word": "Schwester",
         "date": "2024-09-25T22:28:26.356Z"
+      },
+      {
+        "type": "add",
+        "word": "Bruder",
+        "date": "2024-09-25T22:29:55.376Z"
       }
     ],
     "levels": [
@@ -2417,6 +2433,10 @@
           {
             "length": 62,
             "date": "2024-09-25T22:28:26.356Z"
+          },
+          {
+            "length": 63,
+            "date": "2024-09-25T22:29:55.377Z"
           }
         ]
       },
