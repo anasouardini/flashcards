@@ -714,7 +714,7 @@
         },
         {
           "front": {
-            "content": "im (prep.)"
+            "content": "Im (prep.)"
           },
           "back": {
             "content": [
@@ -730,6 +730,17 @@
           "back": {
             "content": [
               "- [Unfortunately]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gestorben (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Dead]: ",
               "- Forms: "
             ]
           }
@@ -1941,6 +1952,11 @@
         "type": "add",
         "word": "Leider",
         "date": "2024-09-25T22:33:01.906Z"
+      },
+      {
+        "type": "add",
+        "word": "Gestorben",
+        "date": "2024-09-25T22:34:28.961Z"
       }
     ],
     "levels": [
@@ -2497,6 +2513,10 @@
           {
             "length": 66,
             "date": "2024-09-25T22:33:01.907Z"
+          },
+          {
+            "length": 67,
+            "date": "2024-09-25T22:34:28.961Z"
           }
         ]
       },
