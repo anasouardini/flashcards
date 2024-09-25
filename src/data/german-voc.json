@@ -601,6 +601,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "anderthalb (numeral)"
+          },
+          "back": {
+            "content": [
+              "- [One and a half]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1749,6 +1760,11 @@
         "type": "add",
         "word": "Wähe",
         "date": "2024-09-25T22:13:51.598Z"
+      },
+      {
+        "type": "add",
+        "word": "anderthalb",
+        "date": "2024-09-25T22:15:58.525Z"
       }
     ],
     "levels": [
@@ -2257,6 +2273,10 @@
           {
             "length": 54,
             "date": "2024-09-25T22:10:27.080Z"
+          },
+          {
+            "length": 55,
+            "date": "2024-09-25T22:15:58.525Z"
           }
         ]
       },
