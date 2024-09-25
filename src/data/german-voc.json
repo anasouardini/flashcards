@@ -568,6 +568,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Hauptstadt (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Capital City]: ",
+              "- Forms: Häuptstadte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -1701,6 +1712,11 @@
         "type": "add",
         "word": "aus",
         "date": "2024-09-25T22:04:28.981Z"
+      },
+      {
+        "type": "add",
+        "word": "Hauptstadt",
+        "date": "2024-09-25T22:06:54.502Z"
       }
     ],
     "levels": [
@@ -2197,6 +2213,10 @@
           {
             "length": 51,
             "date": "2024-09-25T22:04:28.982Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-09-25T22:06:54.502Z"
           }
         ]
       },
