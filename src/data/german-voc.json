@@ -579,6 +579,17 @@
               "- Forms: Häuptstadte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wo (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Where]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1717,6 +1728,11 @@
         "type": "add",
         "word": "Hauptstadt",
         "date": "2024-09-25T22:06:54.502Z"
+      },
+      {
+        "type": "add",
+        "word": "Wo",
+        "date": "2024-09-25T22:09:32.779Z"
       }
     ],
     "levels": [
@@ -2217,6 +2233,10 @@
           {
             "length": 52,
             "date": "2024-09-25T22:06:54.502Z"
+          },
+          {
+            "length": 53,
+            "date": "2024-09-25T22:09:32.780Z"
           }
         ]
       },
