@@ -964,6 +964,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zusammen (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Together]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2277,6 +2288,11 @@
         "type": "add",
         "word": "Zur",
         "date": "2024-09-26T15:42:30.693Z"
+      },
+      {
+        "type": "add",
+        "word": "Zusammen",
+        "date": "2024-09-26T16:37:11.919Z"
       }
     ],
     "levels": [
@@ -2917,6 +2933,10 @@
           {
             "length": 87,
             "date": "2024-09-26T15:42:30.693Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-09-26T16:37:11.995Z"
           }
         ]
       },
