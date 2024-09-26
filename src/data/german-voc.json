@@ -953,6 +953,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zur (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [To The]: Zur ist 'Zu' zuzüglich 'der' : Zur is 'Zu', plus 'der'",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2261,6 +2272,11 @@
         "type": "add",
         "word": "Zum",
         "date": "2024-09-26T15:41:02.301Z"
+      },
+      {
+        "type": "add",
+        "word": "Zur",
+        "date": "2024-09-26T15:42:30.693Z"
       }
     ],
     "levels": [
@@ -2897,6 +2913,10 @@
           {
             "length": 86,
             "date": "2024-09-26T15:41:02.302Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-09-26T15:42:30.693Z"
           }
         ]
       },
