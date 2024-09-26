@@ -1,9 +1,9 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "back",
+      "currentCardIndex": 16,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -40,29 +40,6 @@
         },
         {
           "front": {
-            "content": "Welt (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [World]: ",
-              "- Other Forms: Welten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Leben (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Life] (noun): ",
-              "- [To Live] (v.): ",
-              "- Other Forms: Leben (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Rot (adj)"
           },
           "back": {
@@ -80,28 +57,6 @@
             "content": [
               "- [Train]: ",
               "- Other Forms: Züge(plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Flugzeug (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Airplane]: ",
-              "- Other Forms: Flugzeuge(plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fahrrad (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Bicycle]: ",
-              "- Other Forms: Fahrräder(plural)"
             ]
           }
         },
@@ -140,17 +95,6 @@
         },
         {
           "front": {
-            "content": "Später (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [later/subsequently]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "heiß (v.)"
           },
           "back": {
@@ -178,17 +122,6 @@
           "back": {
             "content": [
               "- [Where]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kommen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Come/Arrive]: ",
               "- Forms: "
             ]
           }
@@ -239,34 +172,12 @@
         },
         {
           "front": {
-            "content": "Nicht/Kein (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Not]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Fehler (noun, singuler/plural, masculine)"
           },
           "back": {
             "content": [
               "- [Mistake/Error]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tisch (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Table]: ",
-              "- Forms: Tische (plural)"
             ]
           }
         },
@@ -990,7 +901,7 @@
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 20,
       "currentCardSide": "front",
       "cards": [
         {
@@ -1132,6 +1043,95 @@
             "content": [
               "- [Training]: ",
               "- Forms: Ausbildungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Welt (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [World]: ",
+              "- Other Forms: Welten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Leben (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Life] (noun): ",
+              "- [To Live] (v.): ",
+              "- Other Forms: Leben (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Flugzeug (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Airplane]: ",
+              "- Other Forms: Flugzeuge(plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fahrrad (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Bicycle]: ",
+              "- Other Forms: Fahrräder(plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Später (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [later/subsequently]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kommen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Come/Arrive]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nicht/Kein (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Not]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tisch (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Table]: ",
+              "- Forms: Tische (plural)"
             ]
           }
         }
@@ -2471,6 +2471,62 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-09-26T20:41:44.440Z"
+      },
+      {
+        "type": "move",
+        "word": "Welt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T20:45:34.544Z"
+      },
+      {
+        "type": "move",
+        "word": "Leben",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T20:45:49.775Z"
+      },
+      {
+        "type": "move",
+        "word": "Flugzeug",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T20:50:26.783Z"
+      },
+      {
+        "type": "move",
+        "word": "Fahrrad",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T20:50:27.510Z"
+      },
+      {
+        "type": "move",
+        "word": "Später",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T20:56:56.509Z"
+      },
+      {
+        "type": "move",
+        "word": "Kommen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T21:02:56.628Z"
+      },
+      {
+        "type": "move",
+        "word": "Nicht/Kein",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T21:06:49.890Z"
+      },
+      {
+        "type": "move",
+        "word": "Tisch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T21:08:18.199Z"
       }
     ],
     "levels": [
@@ -3119,6 +3175,38 @@
           {
             "length": 89,
             "date": "2024-09-26T16:42:13.013Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-09-26T20:45:34.544Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-09-26T20:45:49.775Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-09-26T20:50:26.783Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-09-26T20:50:27.510Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-09-26T20:56:56.509Z"
+          },
+          {
+            "length": 83,
+            "date": "2024-09-26T21:02:56.628Z"
+          },
+          {
+            "length": 82,
+            "date": "2024-09-26T21:06:49.890Z"
+          },
+          {
+            "length": 81,
+            "date": "2024-09-26T21:08:18.200Z"
           }
         ]
       },
@@ -3359,6 +3447,38 @@
           {
             "length": 13,
             "date": "2024-09-26T20:41:44.440Z"
+          },
+          {
+            "length": 14,
+            "date": "2024-09-26T20:45:34.544Z"
+          },
+          {
+            "length": 15,
+            "date": "2024-09-26T20:45:49.775Z"
+          },
+          {
+            "length": 16,
+            "date": "2024-09-26T20:50:26.783Z"
+          },
+          {
+            "length": 17,
+            "date": "2024-09-26T20:50:27.510Z"
+          },
+          {
+            "length": 18,
+            "date": "2024-09-26T20:56:56.509Z"
+          },
+          {
+            "length": 19,
+            "date": "2024-09-26T21:02:56.628Z"
+          },
+          {
+            "length": 20,
+            "date": "2024-09-26T21:06:49.890Z"
+          },
+          {
+            "length": 21,
+            "date": "2024-09-26T21:08:18.200Z"
           }
         ]
       },
