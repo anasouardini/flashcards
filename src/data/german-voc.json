@@ -821,6 +821,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Mädchen (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Girl]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2069,6 +2080,11 @@
         "type": "add",
         "word": "Frau",
         "date": "2024-09-26T03:41:14.008Z"
+      },
+      {
+        "type": "add",
+        "word": "Mädchen",
+        "date": "2024-09-26T03:41:37.281Z"
       }
     ],
     "levels": [
@@ -2657,6 +2673,10 @@
           {
             "length": 74,
             "date": "2024-09-26T03:41:14.009Z"
+          },
+          {
+            "length": 75,
+            "date": "2024-09-26T03:41:37.282Z"
           }
         ]
       },
