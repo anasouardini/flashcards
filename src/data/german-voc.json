@@ -942,6 +942,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zum (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [To The]: Zum ist 'Zu' zuzüglich 'dem' : Zum is 'Zu', plus 'dem'",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2245,6 +2256,11 @@
         "type": "add",
         "word": "Vom",
         "date": "2024-09-26T15:37:53.916Z"
+      },
+      {
+        "type": "add",
+        "word": "Zum",
+        "date": "2024-09-26T15:41:02.301Z"
       }
     ],
     "levels": [
@@ -2877,6 +2893,10 @@
           {
             "length": 85,
             "date": "2024-09-26T15:37:53.916Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-09-26T15:41:02.302Z"
           }
         ]
       },
