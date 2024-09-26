@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 16,
-      "currentCardSide": "front",
+      "currentCardIndex": 31,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -260,17 +260,6 @@
         },
         {
           "front": {
-            "content": "Allein (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Alone]: ",
-              "- Forms: Allein (adj.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Mensch (noun, singular, masculine)"
           },
           "back": {
@@ -331,17 +320,6 @@
           "back": {
             "content": [
               "- [Most]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Öffentlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Public]: ",
               "- Forms: "
             ]
           }
@@ -1132,6 +1110,28 @@
             "content": [
               "- [Table]: ",
               "- Forms: Tische (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Allein (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Alone]: ",
+              "- Forms: Allein (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Öffentlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Public]: ",
+              "- Forms: "
             ]
           }
         }
@@ -2527,6 +2527,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-26T21:08:18.199Z"
+      },
+      {
+        "type": "move",
+        "word": "Allein",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T21:15:52.048Z"
+      },
+      {
+        "type": "move",
+        "word": "Öffentlich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T21:22:09.231Z"
       }
     ],
     "levels": [
@@ -3207,6 +3221,14 @@
           {
             "length": 81,
             "date": "2024-09-26T21:08:18.200Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-09-26T21:15:52.048Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-09-26T21:22:09.231Z"
           }
         ]
       },
@@ -3479,6 +3501,14 @@
           {
             "length": 21,
             "date": "2024-09-26T21:08:18.200Z"
+          },
+          {
+            "length": 22,
+            "date": "2024-09-26T21:15:52.048Z"
+          },
+          {
+            "length": 23,
+            "date": "2024-09-26T21:22:09.231Z"
           }
         ]
       },
