@@ -810,6 +810,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Frau (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Women]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2053,6 +2064,11 @@
         "type": "add",
         "word": "Helfe",
         "date": "2024-09-26T03:38:12.546Z"
+      },
+      {
+        "type": "add",
+        "word": "Frau",
+        "date": "2024-09-26T03:41:14.008Z"
       }
     ],
     "levels": [
@@ -2637,6 +2653,10 @@
           {
             "length": 73,
             "date": "2024-09-26T03:38:12.609Z"
+          },
+          {
+            "length": 74,
+            "date": "2024-09-26T03:41:14.009Z"
           }
         ]
       },
