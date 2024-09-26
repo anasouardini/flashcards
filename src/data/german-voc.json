@@ -824,11 +824,22 @@
         },
         {
           "front": {
-            "content": "Mädchen (noun, singular, feminine)"
+            "content": "Mädchen (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [Girl]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Leute (noun, plural, -)"
+          },
+          "back": {
+            "content": [
+              "- [People]: ",
               "- Forms: "
             ]
           }
@@ -2085,6 +2096,11 @@
         "type": "add",
         "word": "Mädchen",
         "date": "2024-09-26T03:41:37.281Z"
+      },
+      {
+        "type": "add",
+        "word": "Leute",
+        "date": "2024-09-26T03:52:58.445Z"
       }
     ],
     "levels": [
@@ -2677,6 +2693,10 @@
           {
             "length": 75,
             "date": "2024-09-26T03:41:37.282Z"
+          },
+          {
+            "length": 76,
+            "date": "2024-09-26T03:52:58.446Z"
           }
         ]
       },
