@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 63,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -702,7 +702,7 @@
         },
         {
           "front": {
-            "content": "Feund (noun, singular, masculine)"
+            "content": "Freund (noun, singular, masculine)"
           },
           "back": {
             "content": [
@@ -724,7 +724,7 @@
         },
         {
           "front": {
-            "content": "Esrten (adj.)"
+            "content": "Ersten (adj.)"
           },
           "back": {
             "content": [
@@ -2242,7 +2242,7 @@
       },
       {
         "type": "add",
-        "word": "Esrten",
+        "word": "Ersten",
         "date": "2024-09-26T15:05:23.320Z"
       },
       {
