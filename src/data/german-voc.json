@@ -975,6 +975,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Arzt (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Doctor]: ",
+              "- Forms: Ärzte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -2293,6 +2304,11 @@
         "type": "add",
         "word": "Zusammen",
         "date": "2024-09-26T16:37:11.919Z"
+      },
+      {
+        "type": "add",
+        "word": "Arzt",
+        "date": "2024-09-26T16:42:13.013Z"
       }
     ],
     "levels": [
@@ -2937,6 +2953,10 @@
           {
             "length": 88,
             "date": "2024-09-26T16:37:11.995Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-09-26T16:42:13.013Z"
           }
         ]
       },
