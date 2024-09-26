@@ -1,5 +1,5 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -990,8 +990,156 @@
       ]
     },
     {
-      "currentCardIndex": 7,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": [
+        {
+          "front": {
+            "content": "Gehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Go]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bitte"
+          },
+          "back": {
+            "content": [
+              "- [Please]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Jahr (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Year]: ",
+              "- Other Forms: Jahre (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auto (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Car]: ",
+              "- Other Forms: Autos(plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Boot (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Boat]: ",
+              "- Other Forms: Boote(plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hausaufgabe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Homework]: ",
+              "- Forms: Hausaufgaben (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Typisch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Typical]: ",
+              "- Forms: Typisch (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Antwort (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Answer]: ",
+              "- Forms: Antworten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Normalerweise (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Normally]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kind (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Child]: ",
+              "- Forms: Kinder (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kostenlos (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Free]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bildung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Education]: ",
+              "- Forms: Bildungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ausbildung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Training]: ",
+              "- Forms: Ausbildungen (plural)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -1111,17 +1259,6 @@
         },
         {
           "front": {
-            "content": "Gehen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Go]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sofa (noun, singular, neuter)"
           },
           "back": {
@@ -1188,27 +1325,6 @@
         },
         {
           "front": {
-            "content": "Bitte"
-          },
-          "back": {
-            "content": [
-              "- [Please]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Jahr (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Year]: ",
-              "- Other Forms: Jahre (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Tag (noun, singular, masculine)"
           },
           "back": {
@@ -1242,34 +1358,12 @@
         },
         {
           "front": {
-            "content": "Auto (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Car]: ",
-              "- Other Forms: Autos(plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Traktor (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Tractor]: ",
               "- Other Forms: Traktoren(plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Boot (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Boat]: ",
-              "- Other Forms: Boote(plural)"
             ]
           }
         },
@@ -1286,72 +1380,6 @@
         },
         {
           "front": {
-            "content": "Hausaufgabe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Homework]: ",
-              "- Forms: Hausaufgaben (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Typisch (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Typical]: ",
-              "- Forms: Typisch (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Antwort (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Answer]: ",
-              "- Forms: Antworten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Normalerweise (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Normally]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kind (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Child]: ",
-              "- Forms: Kinder (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kostenlos (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Free]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Privat (adj.)"
           },
           "back": {
@@ -1360,35 +1388,8 @@
               "- Forms: "
             ]
           }
-        },
-        {
-          "front": {
-            "content": "Bildung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Education]: ",
-              "- Forms: Bildungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ausbildung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Training]: ",
-              "- Forms: Ausbildungen (plural)"
-            ]
-          }
         }
       ]
-    },
-    {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
-      "cards": []
     },
     {
       "currentCardIndex": 0,
@@ -2309,6 +2310,167 @@
         "type": "add",
         "word": "Arzt",
         "date": "2024-09-26T16:42:13.013Z"
+      },
+      {
+        "type": "move",
+        "word": "Ich",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:34.721Z"
+      },
+      {
+        "type": "move",
+        "word": "Hallo!/Hi!/Na?",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:36.081Z"
+      },
+      {
+        "type": "move",
+        "word": "Gut",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:37.050Z"
+      },
+      {
+        "type": "move",
+        "word": "Super",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:37.977Z"
+      },
+      {
+        "type": "move",
+        "word": "Danke",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:39.105Z"
+      },
+      {
+        "type": "move",
+        "word": "Ja",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:39.953Z"
+      },
+      {
+        "type": "move",
+        "word": "Nein",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:40.817Z"
+      },
+      {
+        "type": "move",
+        "word": "Orange",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:45.024Z"
+      },
+      {
+        "type": "move",
+        "word": "Bus",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:46.545Z"
+      },
+      {
+        "type": "move",
+        "word": "Schön",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:48.288Z"
+      },
+      {
+        "type": "move",
+        "word": "Name",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:49.577Z"
+      },
+      {
+        "type": "move",
+        "word": "Sofa",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:54.161Z"
+      },
+      {
+        "type": "move",
+        "word": "Schule",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:55.593Z"
+      },
+      {
+        "type": "move",
+        "word": "In",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:40:57.361Z"
+      },
+      {
+        "type": "move",
+        "word": "Zu",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:41:01.065Z"
+      },
+      {
+        "type": "move",
+        "word": "Oder",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:41:05.553Z"
+      },
+      {
+        "type": "move",
+        "word": "Internationale",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:41:07.793Z"
+      },
+      {
+        "type": "move",
+        "word": "Tag",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:41:15.281Z"
+      },
+      {
+        "type": "move",
+        "word": "Nacht",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:41:17.193Z"
+      },
+      {
+        "type": "move",
+        "word": "Morgen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:41:18.545Z"
+      },
+      {
+        "type": "move",
+        "word": "Traktor",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:41:21.721Z"
+      },
+      {
+        "type": "move",
+        "word": "Tschau!/Tschü!/Tschüss!/Tschüssi!",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:41:30.257Z"
+      },
+      {
+        "type": "move",
+        "word": "Privat",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-26T20:41:44.440Z"
       }
     ],
     "levels": [
@@ -3105,11 +3267,196 @@
           {
             "length": 36,
             "date": "2024-09-24T18:51:45.630Z"
+          },
+          {
+            "length": 35,
+            "date": "2024-09-26T20:40:34.801Z"
+          },
+          {
+            "length": 34,
+            "date": "2024-09-26T20:40:36.081Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-09-26T20:40:37.050Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-09-26T20:40:37.977Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-09-26T20:40:39.105Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-09-26T20:40:39.953Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-09-26T20:40:40.817Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-09-26T20:40:45.024Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-09-26T20:40:46.545Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-09-26T20:40:48.288Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-09-26T20:40:49.577Z"
+          },
+          {
+            "length": 24,
+            "date": "2024-09-26T20:40:54.161Z"
+          },
+          {
+            "length": 23,
+            "date": "2024-09-26T20:40:55.593Z"
+          },
+          {
+            "length": 22,
+            "date": "2024-09-26T20:40:57.361Z"
+          },
+          {
+            "length": 21,
+            "date": "2024-09-26T20:41:01.065Z"
+          },
+          {
+            "length": 20,
+            "date": "2024-09-26T20:41:05.553Z"
+          },
+          {
+            "length": 19,
+            "date": "2024-09-26T20:41:07.793Z"
+          },
+          {
+            "length": 18,
+            "date": "2024-09-26T20:41:15.281Z"
+          },
+          {
+            "length": 17,
+            "date": "2024-09-26T20:41:17.193Z"
+          },
+          {
+            "length": 16,
+            "date": "2024-09-26T20:41:18.545Z"
+          },
+          {
+            "length": 15,
+            "date": "2024-09-26T20:41:21.721Z"
+          },
+          {
+            "length": 14,
+            "date": "2024-09-26T20:41:30.257Z"
+          },
+          {
+            "length": 13,
+            "date": "2024-09-26T20:41:44.440Z"
           }
         ]
       },
       {
-        "lengths": []
+        "lengths": [
+          {
+            "length": 1,
+            "date": "2024-09-26T20:40:34.801Z"
+          },
+          {
+            "length": 2,
+            "date": "2024-09-26T20:40:36.081Z"
+          },
+          {
+            "length": 3,
+            "date": "2024-09-26T20:40:37.050Z"
+          },
+          {
+            "length": 4,
+            "date": "2024-09-26T20:40:37.977Z"
+          },
+          {
+            "length": 5,
+            "date": "2024-09-26T20:40:39.105Z"
+          },
+          {
+            "length": 6,
+            "date": "2024-09-26T20:40:39.953Z"
+          },
+          {
+            "length": 7,
+            "date": "2024-09-26T20:40:40.817Z"
+          },
+          {
+            "length": 8,
+            "date": "2024-09-26T20:40:45.024Z"
+          },
+          {
+            "length": 9,
+            "date": "2024-09-26T20:40:46.545Z"
+          },
+          {
+            "length": 10,
+            "date": "2024-09-26T20:40:48.288Z"
+          },
+          {
+            "length": 11,
+            "date": "2024-09-26T20:40:49.577Z"
+          },
+          {
+            "length": 12,
+            "date": "2024-09-26T20:40:54.161Z"
+          },
+          {
+            "length": 13,
+            "date": "2024-09-26T20:40:55.593Z"
+          },
+          {
+            "length": 14,
+            "date": "2024-09-26T20:40:57.361Z"
+          },
+          {
+            "length": 15,
+            "date": "2024-09-26T20:41:01.065Z"
+          },
+          {
+            "length": 16,
+            "date": "2024-09-26T20:41:05.553Z"
+          },
+          {
+            "length": 17,
+            "date": "2024-09-26T20:41:07.793Z"
+          },
+          {
+            "length": 18,
+            "date": "2024-09-26T20:41:15.281Z"
+          },
+          {
+            "length": 19,
+            "date": "2024-09-26T20:41:17.193Z"
+          },
+          {
+            "length": 20,
+            "date": "2024-09-26T20:41:18.545Z"
+          },
+          {
+            "length": 21,
+            "date": "2024-09-26T20:41:21.721Z"
+          },
+          {
+            "length": 22,
+            "date": "2024-09-26T20:41:30.257Z"
+          },
+          {
+            "length": 23,
+            "date": "2024-09-26T20:41:44.440Z"
+          }
+        ]
       },
       {
         "lengths": []
