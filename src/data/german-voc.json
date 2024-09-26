@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 31,
+      "currentCardIndex": 63,
       "currentCardSide": "back",
       "cards": [
         {
@@ -122,17 +122,6 @@
           "back": {
             "content": [
               "- [Where]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Aus (preposition)"
-          },
-          "back": {
-            "content": [
-              "- [from]: ",
               "- Forms: "
             ]
           }
@@ -449,7 +438,7 @@
         },
         {
           "front": {
-            "content": "aus (prep.)"
+            "content": "Aus (prep.)"
           },
           "back": {
             "content": [
@@ -663,28 +652,6 @@
           "back": {
             "content": [
               "- [Only/Standalone]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Familie (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Family]: ",
-              "- Forms: Familien (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Eltern (noun, plural, ?)"
-          },
-          "back": {
-            "content": [
-              "- [Parents]: ",
               "- Forms: "
             ]
           }
@@ -1131,6 +1098,28 @@
           "back": {
             "content": [
               "- [Public]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Familie (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Family]: ",
+              "- Forms: Familien (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Eltern (noun, plural, ?)"
+          },
+          "back": {
+            "content": [
+              "- [Parents]: ",
               "- Forms: "
             ]
           }
@@ -2118,11 +2107,6 @@
       },
       {
         "type": "add",
-        "word": "aus",
-        "date": "2024-09-25T22:04:28.981Z"
-      },
-      {
-        "type": "add",
         "word": "Hauptstadt",
         "date": "2024-09-25T22:06:54.502Z"
       },
@@ -2541,6 +2525,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-26T21:22:09.231Z"
+      },
+      {
+        "type": "move",
+        "word": "Familie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T22:18:59.619Z"
+      },
+      {
+        "type": "move",
+        "word": "Eltern",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-26T22:19:11.681Z"
       }
     ],
     "levels": [
@@ -3229,6 +3227,14 @@
           {
             "length": 79,
             "date": "2024-09-26T21:22:09.231Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-09-26T22:18:59.706Z"
+          },
+          {
+            "length": 76,
+            "date": "2024-09-26T22:19:11.681Z"
           }
         ]
       },
@@ -3509,6 +3515,14 @@
           {
             "length": 23,
             "date": "2024-09-26T21:22:09.231Z"
+          },
+          {
+            "length": 24,
+            "date": "2024-09-26T22:18:59.706Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-09-26T22:19:11.681Z"
           }
         ]
       },
