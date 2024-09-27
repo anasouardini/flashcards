@@ -853,6 +853,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wieder (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Again]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2553,8 +2564,13 @@
       },
       {
         "type": "add",
-        "word": "abmelden",
+        "word": "Abmelden",
         "date": "2024-09-27T03:26:57.306Z"
+      },
+      {
+        "type": "add",
+        "word": "Wieder",
+        "date": "2024-09-27T03:29:25.135Z"
       }
     ],
     "levels": [
@@ -3255,6 +3271,10 @@
           {
             "length": 77,
             "date": "2024-09-27T03:26:57.379Z"
+          },
+          {
+            "length": 78,
+            "date": "2024-09-27T03:29:25.136Z"
           }
         ]
       },
