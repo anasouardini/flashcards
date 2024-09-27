@@ -941,6 +941,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Hobbymäßig (noun, singular, ?)"
+          },
+          "back": {
+            "content": [
+              "- [Hobby]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2683,6 +2694,11 @@
         "type": "add",
         "word": "Nichts",
         "date": "2024-09-27T03:41:26.759Z"
+      },
+      {
+        "type": "add",
+        "word": "Hobbymäßig",
+        "date": "2024-09-27T03:44:37.220Z"
       }
     ],
     "levels": [
@@ -3415,6 +3431,10 @@
           {
             "length": 85,
             "date": "2024-09-27T03:41:26.760Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-09-27T03:44:37.220Z"
           }
         ]
       },
