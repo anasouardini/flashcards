@@ -1,5 +1,5 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -930,11 +930,22 @@
               "- Forms: Zeiten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Allein (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Alone]: ",
+              "- Forms: Allein (adj.)"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 20,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -1165,17 +1176,6 @@
             "content": [
               "- [Table]: ",
               "- Forms: Tische (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Allein (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Alone]: ",
-              "- Forms: Allein (adj.)"
             ]
           }
         },
@@ -2851,6 +2851,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-27T21:02:30.492Z"
+      },
+      {
+        "type": "move",
+        "word": "Allein",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-09-27T21:21:51.094Z"
       }
     ],
     "levels": [
@@ -3643,6 +3650,10 @@
           {
             "length": 84,
             "date": "2024-09-27T21:02:30.492Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-09-27T21:21:51.094Z"
           }
         ]
       },
@@ -3963,6 +3974,10 @@
           {
             "length": 33,
             "date": "2024-09-27T21:02:30.492Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-09-27T21:21:51.094Z"
           }
         ]
       },
