@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 62,
+      "currentCardIndex": 74,
       "currentCardSide": "back",
       "cards": [
         {
@@ -695,18 +695,7 @@
           },
           "back": {
             "content": [
-              "- [without]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Alle (pronoun/quantifier)"
-          },
-          "back": {
-            "content": [
-              "- [All/Everybody]: ",
+              "- [Except]: ",
               "- Forms: "
             ]
           }
@@ -751,39 +740,6 @@
           "back": {
             "content": [
               "- [From The]: Vom ist 'Von' zuzüglich 'dem' : Vom is 'Von', plus 'dem'",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zum (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [To The]: Zum ist 'Zu' zuzüglich 'dem' : Zum is 'Zu', plus 'dem'",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zur (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [To The]: Zur ist 'Zu' zuzüglich 'der' : Zur is 'Zu', plus 'der'",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zusammen (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Together]: ",
               "- Forms: "
             ]
           }
@@ -1297,6 +1253,50 @@
             "content": [
               "- [Book]: ",
               "- Forms: Bücher (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Alle (pronoun/quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [All/Everybody]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zum (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [To The]: Zum ist 'Zu' zuzüglich 'dem' : Zum is 'Zu', plus 'dem'",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zur (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [To The]: Zur ist 'Zu' zuzüglich 'der' : Zur is 'Zu', plus 'der'",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zusammen (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Together]: ",
+              "- Forms: "
             ]
           }
         }
@@ -2816,6 +2816,34 @@
         "type": "add",
         "word": "Zeit",
         "date": "2024-09-27T20:16:10.404Z"
+      },
+      {
+        "type": "move",
+        "word": "Alle",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-27T20:50:30.593Z"
+      },
+      {
+        "type": "move",
+        "word": "Zum",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-27T20:52:35.416Z"
+      },
+      {
+        "type": "move",
+        "word": "Zur",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-27T20:52:37.000Z"
+      },
+      {
+        "type": "move",
+        "word": "Zusammen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-27T20:52:42.056Z"
       }
     ],
     "levels": [
@@ -3588,6 +3616,22 @@
           {
             "length": 89,
             "date": "2024-09-27T17:07:45.133Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-09-27T20:50:30.595Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-09-27T20:52:35.416Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-09-27T20:52:37.000Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-09-27T20:52:42.056Z"
           }
         ]
       },
@@ -3888,6 +3932,22 @@
           {
             "length": 28,
             "date": "2024-09-27T17:07:45.133Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-09-27T20:50:30.595Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-09-27T20:52:35.416Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-09-27T20:52:37.000Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-09-27T20:52:42.056Z"
           }
         ]
       },
