@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 31,
+      "currentCardIndex": 41,
       "currentCardSide": "back",
       "cards": [
         {
@@ -350,7 +350,7 @@
         },
         {
           "front": {
-            "content": "Langsamem (adj.)"
+            "content": "Langsam (adj.)"
           },
           "back": {
             "content": [
@@ -972,6 +972,17 @@
             "content": [
               "- [Migration]: ",
               "- Forms: Migrationen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Time]: ",
+              "- Forms: Zeiten (plural)"
             ]
           }
         }
@@ -2800,6 +2811,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-27T17:07:45.133Z"
+      },
+      {
+        "type": "add",
+        "word": "Zeit",
+        "date": "2024-09-27T20:16:10.404Z"
       }
     ],
     "levels": [
