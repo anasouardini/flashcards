@@ -919,6 +919,17 @@
               "- Forms: Studieren (noun, singular, neuter"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Lernen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Learn]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2651,6 +2662,11 @@
         "type": "add",
         "word": "Studieren",
         "date": "2024-09-27T03:36:43.562Z"
+      },
+      {
+        "type": "add",
+        "word": "Lernen",
+        "date": "2024-09-27T03:37:24.665Z"
       }
     ],
     "levels": [
@@ -3375,6 +3391,10 @@
           {
             "length": 83,
             "date": "2024-09-27T03:36:43.562Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-09-27T03:37:24.665Z"
           }
         ]
       },
