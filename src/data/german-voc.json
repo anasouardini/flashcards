@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 61,
-      "currentCardSide": "front",
+      "currentCardIndex": 62,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -680,11 +680,11 @@
         },
         {
           "front": {
-            "content": "Ersten (adj.)"
+            "content": "Erste (adj.)"
           },
           "back": {
             "content": [
-              "- [First]: ",
+              "- [First]: Ich bin der erste : I'm the first",
               "- Forms: "
             ]
           }
