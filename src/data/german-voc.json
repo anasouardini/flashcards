@@ -864,6 +864,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Jederzeit (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [At any time]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2571,6 +2582,11 @@
         "type": "add",
         "word": "Wieder",
         "date": "2024-09-27T03:29:25.135Z"
+      },
+      {
+        "type": "add",
+        "word": "Jederzeit",
+        "date": "2024-09-27T03:31:27.502Z"
       }
     ],
     "levels": [
@@ -3275,6 +3291,10 @@
           {
             "length": 78,
             "date": "2024-09-27T03:29:25.136Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-09-27T03:31:27.503Z"
           }
         ]
       },
