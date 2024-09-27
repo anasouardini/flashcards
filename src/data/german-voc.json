@@ -952,6 +952,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gelingen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Succeed]: ",
+              "- Forms: Gelingen (noun)"
+            ]
+          }
         }
       ]
     },
@@ -2699,6 +2710,11 @@
         "type": "add",
         "word": "Hobbymäßig",
         "date": "2024-09-27T03:44:37.220Z"
+      },
+      {
+        "type": "add",
+        "word": "Gelingen",
+        "date": "2024-09-27T03:46:47.685Z"
       }
     ],
     "levels": [
@@ -3435,6 +3451,10 @@
           {
             "length": 86,
             "date": "2024-09-27T03:44:37.220Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-09-27T03:46:47.686Z"
           }
         ]
       },
