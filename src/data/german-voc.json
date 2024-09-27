@@ -1007,6 +1007,17 @@
               "- Forms: Geschichte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Migration (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Migration]: ",
+              "- Forms: Migrationen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -2779,6 +2790,11 @@
         "type": "add",
         "word": "Geschichte",
         "date": "2024-09-27T03:53:19.772Z"
+      },
+      {
+        "type": "add",
+        "word": "Migration",
+        "date": "2024-09-27T03:54:27.619Z"
       }
     ],
     "levels": [
@@ -3535,6 +3551,10 @@
           {
             "length": 91,
             "date": "2024-09-27T03:53:19.772Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-09-27T03:54:27.620Z"
           }
         ]
       },
