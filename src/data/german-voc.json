@@ -985,6 +985,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Als (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [As]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2747,6 +2758,11 @@
         "type": "add",
         "word": "Aufzubauen",
         "date": "2024-09-27T03:49:52.339Z"
+      },
+      {
+        "type": "add",
+        "word": "Als",
+        "date": "2024-09-27T03:51:04.798Z"
       }
     ],
     "levels": [
@@ -3495,6 +3511,10 @@
           {
             "length": 89,
             "date": "2024-09-27T03:49:52.340Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-09-27T03:51:04.798Z"
           }
         ]
       },
