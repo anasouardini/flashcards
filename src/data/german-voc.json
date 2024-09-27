@@ -930,6 +930,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nichts (pronoun)"
+          },
+          "back": {
+            "content": [
+              "- [None/Nothing/Void]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2667,6 +2678,11 @@
         "type": "add",
         "word": "Lernen",
         "date": "2024-09-27T03:37:24.665Z"
+      },
+      {
+        "type": "add",
+        "word": "Nichts",
+        "date": "2024-09-27T03:41:26.759Z"
       }
     ],
     "levels": [
@@ -3395,6 +3411,10 @@
           {
             "length": 84,
             "date": "2024-09-27T03:37:24.665Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-09-27T03:41:26.760Z"
           }
         ]
       },
