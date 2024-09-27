@@ -996,6 +996,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Geschichte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [History]: ",
+              "- Forms: Geschichte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -2763,6 +2774,11 @@
         "type": "add",
         "word": "Als",
         "date": "2024-09-27T03:51:04.798Z"
+      },
+      {
+        "type": "add",
+        "word": "Geschichte",
+        "date": "2024-09-27T03:53:19.772Z"
       }
     ],
     "levels": [
@@ -3515,6 +3531,10 @@
           {
             "length": 90,
             "date": "2024-09-27T03:51:04.798Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-09-27T03:53:19.772Z"
           }
         ]
       },
