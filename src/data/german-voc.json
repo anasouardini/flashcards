@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 52,
-      "currentCardSide": "back",
+      "currentCardIndex": 61,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -581,7 +581,7 @@
         },
         {
           "front": {
-            "content": "Jüngere (noun, singular, ?)"
+            "content": "Jüngere (noun, singular, fiminine)"
           },
           "back": {
             "content": [
