@@ -974,6 +974,17 @@
               "- Forms: Firmen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Aufzubauen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Build/Establish]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2731,6 +2742,11 @@
         "type": "add",
         "word": "Firma",
         "date": "2024-09-27T03:48:18.149Z"
+      },
+      {
+        "type": "add",
+        "word": "Aufzubauen",
+        "date": "2024-09-27T03:49:52.339Z"
       }
     ],
     "levels": [
@@ -3475,6 +3491,10 @@
           {
             "length": 88,
             "date": "2024-09-27T03:48:18.150Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-09-27T03:49:52.340Z"
           }
         ]
       },
