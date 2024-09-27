@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 74,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -828,18 +828,7 @@
           "back": {
             "content": [
               "- [Study]: ",
-              "- Forms: Studieren (noun, singular, neuter"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lernen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Learn]: ",
-              "- Forms: "
+              "- Forms: Studieren (noun, singular, neuter)"
             ]
           }
         },
@@ -1296,6 +1285,17 @@
           "back": {
             "content": [
               "- [Together]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lernen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Learn]: ",
               "- Forms: "
             ]
           }
@@ -2844,6 +2844,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-27T20:52:42.056Z"
+      },
+      {
+        "type": "move",
+        "word": "Lernen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-27T21:02:30.492Z"
       }
     ],
     "levels": [
@@ -3632,6 +3639,10 @@
           {
             "length": 85,
             "date": "2024-09-27T20:52:42.056Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-09-27T21:02:30.492Z"
           }
         ]
       },
@@ -3948,6 +3959,10 @@
           {
             "length": 32,
             "date": "2024-09-27T20:52:42.056Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-09-27T21:02:30.492Z"
           }
         ]
       },
