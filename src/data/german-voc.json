@@ -842,6 +842,17 @@
               "- Forms: Ärzte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Abmelden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Cancel]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2539,6 +2550,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-26T22:19:11.681Z"
+      },
+      {
+        "type": "add",
+        "word": "abmelden",
+        "date": "2024-09-27T03:26:57.306Z"
       }
     ],
     "levels": [
@@ -3235,6 +3251,10 @@
           {
             "length": 76,
             "date": "2024-09-26T22:19:11.681Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-09-27T03:26:57.379Z"
           }
         ]
       },
