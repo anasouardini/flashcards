@@ -900,12 +900,23 @@
         },
         {
           "front": {
-            "content": "Dort (v.)"
+            "content": "Dort (adv.)"
           },
           "back": {
             "content": [
               "- [There]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Studieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Study]: ",
+              "- Forms: Studieren (noun, singular, neuter"
             ]
           }
         }
@@ -2635,6 +2646,11 @@
         "type": "add",
         "word": "Dort",
         "date": "2024-09-27T03:34:20.126Z"
+      },
+      {
+        "type": "add",
+        "word": "Studieren",
+        "date": "2024-09-27T03:36:43.562Z"
       }
     ],
     "levels": [
@@ -3355,6 +3371,10 @@
           {
             "length": 82,
             "date": "2024-09-27T03:34:20.126Z"
+          },
+          {
+            "length": 83,
+            "date": "2024-09-27T03:36:43.562Z"
           }
         ]
       },
