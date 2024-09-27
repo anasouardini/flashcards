@@ -960,7 +960,18 @@
           "back": {
             "content": [
               "- [Succeed]: ",
-              "- Forms: Gelingen (noun)"
+              "- Forms: Gelingen (noun, singular, neuter)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Firma (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Company]: ",
+              "- Forms: Firmen (plural)"
             ]
           }
         }
@@ -2715,6 +2726,11 @@
         "type": "add",
         "word": "Gelingen",
         "date": "2024-09-27T03:46:47.685Z"
+      },
+      {
+        "type": "add",
+        "word": "Firma",
+        "date": "2024-09-27T03:48:18.149Z"
       }
     ],
     "levels": [
@@ -3455,6 +3471,10 @@
           {
             "length": 87,
             "date": "2024-09-27T03:46:47.686Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-09-27T03:48:18.150Z"
           }
         ]
       },
