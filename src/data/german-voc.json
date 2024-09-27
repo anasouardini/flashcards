@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 31,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -35,17 +35,6 @@
             "content": [
               "- [Today]: ",
               "- Other Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Rot (adj)"
-          },
-          "back": {
-            "content": [
-              "- [Red]: ",
-              "- Other Forms: Rot (noun, singular, neuter)"
             ]
           }
         },
@@ -89,17 +78,6 @@
           "back": {
             "content": [
               "- [by/until/to]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "heiß (v.)"
-          },
-          "back": {
-            "content": [
-              "- [to be called]: Ich heiße Anas : I'm called Anas",
               "- Forms: "
             ]
           }
@@ -172,34 +150,12 @@
         },
         {
           "front": {
-            "content": "Bild (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Image/Picture/View]: ",
-              "- Forms: Bilder (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Frage (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Question]: ",
               "- Forms: Frangen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Buch (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Book]: ",
-              "- Forms: Bücher (plural)"
             ]
           }
         },
@@ -286,7 +242,7 @@
           },
           "back": {
             "content": [
-              "- [Be called/Mean]: Das heißt : That means",
+              "- [Be called/Mean]: Das heißt : That means; Ich heiße Anas : I'm called Anas",
               "- Forms: "
             ]
           }
@@ -1299,6 +1255,39 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Rot (adj)"
+          },
+          "back": {
+            "content": [
+              "- [Red]: ",
+              "- Other Forms: Rot (noun, singular, neuter)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bild (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Image/Picture/View]: ",
+              "- Forms: Bilder (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Buch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Book]: ",
+              "- Forms: Bücher (plural)"
+            ]
+          }
         }
       ]
     },
@@ -1753,11 +1742,6 @@
         "type": "add",
         "word": "Später",
         "date": "2024-09-22T16:55:34.456Z"
-      },
-      {
-        "type": "add",
-        "word": "heiß",
-        "date": "2024-09-22T19:20:16.667Z"
       },
       {
         "type": "add",
@@ -2795,6 +2779,27 @@
         "type": "add",
         "word": "Migration",
         "date": "2024-09-27T03:54:27.619Z"
+      },
+      {
+        "type": "move",
+        "word": "Rot",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-27T16:44:34.376Z"
+      },
+      {
+        "type": "move",
+        "word": "Bild",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-27T17:02:19.929Z"
+      },
+      {
+        "type": "move",
+        "word": "Buch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-27T17:07:45.133Z"
       }
     ],
     "levels": [
@@ -3555,6 +3560,18 @@
           {
             "length": 92,
             "date": "2024-09-27T03:54:27.620Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-09-27T16:44:34.448Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-09-27T17:02:19.929Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-09-27T17:07:45.133Z"
           }
         ]
       },
@@ -3843,6 +3860,18 @@
           {
             "length": 25,
             "date": "2024-09-26T22:19:11.681Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-09-27T16:44:34.448Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-09-27T17:02:19.929Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-09-27T17:07:45.133Z"
           }
         ]
       },
