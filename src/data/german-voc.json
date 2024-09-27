@@ -875,6 +875,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Freuen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Be pleased]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2587,6 +2598,11 @@
         "type": "add",
         "word": "Jederzeit",
         "date": "2024-09-27T03:31:27.502Z"
+      },
+      {
+        "type": "add",
+        "word": "Freuen",
+        "date": "2024-09-27T03:33:09.003Z"
       }
     ],
     "levels": [
@@ -3295,6 +3311,10 @@
           {
             "length": 79,
             "date": "2024-09-27T03:31:27.503Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-09-27T03:33:09.003Z"
           }
         ]
       },
