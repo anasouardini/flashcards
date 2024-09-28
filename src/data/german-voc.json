@@ -1227,6 +1227,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Durst (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Thirst]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3274,6 +3285,11 @@
         "type": "add",
         "word": "Hunger",
         "date": "2024-09-28T15:37:28.287Z"
+      },
+      {
+        "type": "add",
+        "word": "Durst",
+        "date": "2024-09-28T15:38:06.133Z"
       }
     ],
     "levels": [
@@ -4174,6 +4190,10 @@
           {
             "length": 111,
             "date": "2024-09-28T15:37:28.287Z"
+          },
+          {
+            "length": 112,
+            "date": "2024-09-28T15:38:06.133Z"
           }
         ]
       },
