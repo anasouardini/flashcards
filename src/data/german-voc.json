@@ -1887,6 +1887,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bringen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To bring]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4236,6 +4247,11 @@
         "type": "add",
         "word": "Stehen",
         "date": "2024-09-28T19:38:53.370Z"
+      },
+      {
+        "type": "add",
+        "word": "Bringen",
+        "date": "2024-09-28T19:39:12.893Z"
       }
     ],
     "levels": [
@@ -5376,6 +5392,10 @@
           {
             "length": 171,
             "date": "2024-09-28T19:38:53.371Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-09-28T19:39:12.893Z"
           }
         ]
       },
