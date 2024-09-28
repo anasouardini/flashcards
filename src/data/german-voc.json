@@ -1469,6 +1469,17 @@
               "- Forms: Ausgänge (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wiedersehen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Good Bye]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3626,6 +3637,11 @@
         "type": "add",
         "word": "Ausgang",
         "date": "2024-09-28T16:24:26.059Z"
+      },
+      {
+        "type": "add",
+        "word": "Wiedersehen",
+        "date": "2024-09-28T16:26:40.092Z"
       }
     ],
     "levels": [
@@ -4614,6 +4630,10 @@
           {
             "length": 133,
             "date": "2024-09-28T16:24:26.060Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-09-28T16:26:40.092Z"
           }
         ]
       },
