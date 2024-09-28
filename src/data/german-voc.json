@@ -1590,6 +1590,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Appetit (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Appetite]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3804,6 +3815,11 @@
         "type": "add",
         "word": "Prost",
         "date": "2024-09-28T18:19:35.821Z"
+      },
+      {
+        "type": "add",
+        "word": "Appetit",
+        "date": "2024-09-28T18:20:21.844Z"
       }
     ],
     "levels": [
@@ -4836,6 +4852,10 @@
           {
             "length": 144,
             "date": "2024-09-28T18:19:35.822Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-09-28T18:20:21.845Z"
           }
         ]
       },
