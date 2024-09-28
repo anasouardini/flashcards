@@ -2041,6 +2041,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Treffen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To hit/meet]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4460,6 +4471,11 @@
         "type": "add",
         "word": "Trinken",
         "date": "2024-09-28T19:48:42.081Z"
+      },
+      {
+        "type": "add",
+        "word": "Treffen",
+        "date": "2024-09-28T19:49:05.001Z"
       }
     ],
     "levels": [
@@ -5656,6 +5672,10 @@
           {
             "length": 185,
             "date": "2024-09-28T19:48:42.081Z"
+          },
+          {
+            "length": 186,
+            "date": "2024-09-28T19:49:05.001Z"
           }
         ]
       },
