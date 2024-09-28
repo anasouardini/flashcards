@@ -1315,6 +1315,17 @@
               "- Forms: Kosten (noun, plural, neuter)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Teuer (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Expensive]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3402,6 +3413,11 @@
         "type": "add",
         "word": "Kosten",
         "date": "2024-09-28T15:52:21.252Z"
+      },
+      {
+        "type": "add",
+        "word": "Teuer",
+        "date": "2024-09-28T15:53:39.291Z"
       }
     ],
     "levels": [
@@ -4334,6 +4350,10 @@
           {
             "length": 119,
             "date": "2024-09-28T15:52:21.252Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-09-28T15:53:39.291Z"
           }
         ]
       },
