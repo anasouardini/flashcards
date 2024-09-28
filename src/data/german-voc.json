@@ -1931,6 +1931,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gucken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To look/watch]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4300,6 +4311,11 @@
         "type": "add",
         "word": "Bleiben",
         "date": "2024-09-28T19:40:53.892Z"
+      },
+      {
+        "type": "add",
+        "word": "Gucken",
+        "date": "2024-09-28T19:41:35.081Z"
       }
     ],
     "levels": [
@@ -5456,6 +5472,10 @@
           {
             "length": 175,
             "date": "2024-09-28T19:40:53.892Z"
+          },
+          {
+            "length": 176,
+            "date": "2024-09-28T19:41:35.081Z"
           }
         ]
       },
