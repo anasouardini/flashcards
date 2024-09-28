@@ -2063,6 +2063,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nennen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To name/to call oneslef]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4492,6 +4503,11 @@
         "type": "add",
         "word": "Lesen",
         "date": "2024-09-28T20:54:42.707Z"
+      },
+      {
+        "type": "add",
+        "word": "Nennen",
+        "date": "2024-09-28T20:56:27.444Z"
       }
     ],
     "levels": [
@@ -5696,6 +5712,10 @@
           {
             "length": 187,
             "date": "2024-09-28T20:54:42.707Z"
+          },
+          {
+            "length": 188,
+            "date": "2024-09-28T20:56:27.445Z"
           }
         ]
       },
