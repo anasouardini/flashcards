@@ -1612,6 +1612,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Hotel (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Hotel]: ",
+              "- Forms: Hotels (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3836,6 +3847,11 @@
         "type": "add",
         "word": "Schon",
         "date": "2024-09-28T18:21:38.747Z"
+      },
+      {
+        "type": "add",
+        "word": "Hotel",
+        "date": "2024-09-28T18:27:05.105Z"
       }
     ],
     "levels": [
@@ -4876,6 +4892,10 @@
           {
             "length": 146,
             "date": "2024-09-28T18:21:38.748Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-09-28T18:27:05.105Z"
           }
         ]
       },
