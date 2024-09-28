@@ -1337,6 +1337,17 @@
               "- Forms: Karten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bar (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Cash]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3434,6 +3445,11 @@
         "type": "add",
         "word": "Karte",
         "date": "2024-09-28T15:54:49.509Z"
+      },
+      {
+        "type": "add",
+        "word": "Bar",
+        "date": "2024-09-28T15:57:04.433Z"
       }
     ],
     "levels": [
@@ -4374,6 +4390,10 @@
           {
             "length": 121,
             "date": "2024-09-28T15:54:49.509Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-09-28T15:57:04.433Z"
           }
         ]
       },
