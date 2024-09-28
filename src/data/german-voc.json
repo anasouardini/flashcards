@@ -2096,6 +2096,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Stimmen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To tune / to be correct / to be true]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4540,6 +4551,11 @@
         "type": "add",
         "word": "Brauchen",
         "date": "2024-09-28T21:00:33.024Z"
+      },
+      {
+        "type": "add",
+        "word": "Stimmen",
+        "date": "2024-09-28T21:04:05.823Z"
       }
     ],
     "levels": [
@@ -5756,6 +5772,10 @@
           {
             "length": 190,
             "date": "2024-09-28T21:00:33.024Z"
+          },
+          {
+            "length": 191,
+            "date": "2024-09-28T21:04:05.823Z"
           }
         ]
       },
