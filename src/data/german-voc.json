@@ -1392,6 +1392,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Haltestelle (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Stop/Station]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3514,6 +3525,11 @@
         "type": "add",
         "word": "Geradeaus",
         "date": "2024-09-28T16:04:05.878Z"
+      },
+      {
+        "type": "add",
+        "word": "Haltestelle",
+        "date": "2024-09-28T16:13:25.671Z"
       }
     ],
     "levels": [
@@ -4474,6 +4490,10 @@
           {
             "length": 126,
             "date": "2024-09-28T16:04:05.879Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-09-28T16:13:25.672Z"
           }
         ]
       },
