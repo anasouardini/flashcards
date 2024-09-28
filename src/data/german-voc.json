@@ -1810,6 +1810,17 @@
               "- Forms: Total (adj.), Total (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schreiben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Write]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4124,6 +4135,11 @@
         "type": "add",
         "word": "Total",
         "date": "2024-09-28T19:23:37.451Z"
+      },
+      {
+        "type": "add",
+        "word": "Schreiben",
+        "date": "2024-09-28T19:32:54.903Z"
       }
     ],
     "levels": [
@@ -5236,6 +5252,10 @@
           {
             "length": 164,
             "date": "2024-09-28T19:23:37.452Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-09-28T19:32:54.904Z"
           }
         ]
       },
