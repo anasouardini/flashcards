@@ -1370,6 +1370,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Rechts (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Right (direction)]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3482,6 +3493,11 @@
         "type": "add",
         "word": "Links",
         "date": "2024-09-28T16:00:56.771Z"
+      },
+      {
+        "type": "add",
+        "word": "Rechts",
+        "date": "2024-09-28T16:03:21.746Z"
       }
     ],
     "levels": [
@@ -4434,6 +4450,10 @@
           {
             "length": 124,
             "date": "2024-09-28T16:00:56.771Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-09-28T16:03:21.746Z"
           }
         ]
       },
