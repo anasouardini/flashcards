@@ -1513,6 +1513,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Mittag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Mid-day/Noon]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3692,6 +3703,11 @@
         "type": "add",
         "word": "Aendessen",
         "date": "2024-09-28T16:31:05.529Z"
+      },
+      {
+        "type": "add",
+        "word": "Mittag",
+        "date": "2024-09-28T16:31:48.937Z"
       }
     ],
     "levels": [
@@ -4696,6 +4712,10 @@
           {
             "length": 137,
             "date": "2024-09-28T16:31:05.529Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-09-28T16:31:48.937Z"
           }
         ]
       },
