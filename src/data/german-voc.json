@@ -1403,6 +1403,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Verspätung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Delay]: ",
+              "- Forms: Verspätungen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3530,6 +3541,11 @@
         "type": "add",
         "word": "Haltestelle",
         "date": "2024-09-28T16:13:25.671Z"
+      },
+      {
+        "type": "add",
+        "word": "Verspätung",
+        "date": "2024-09-28T16:18:08.327Z"
       }
     ],
     "levels": [
@@ -4494,6 +4510,10 @@
           {
             "length": 127,
             "date": "2024-09-28T16:13:25.672Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-09-28T16:18:08.327Z"
           }
         ]
       },
