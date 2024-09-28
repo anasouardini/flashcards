@@ -1502,6 +1502,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Aendessen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Dinner]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3676,6 +3687,11 @@
         "type": "add",
         "word": "Essen",
         "date": "2024-09-28T16:30:35.661Z"
+      },
+      {
+        "type": "add",
+        "word": "Aendessen",
+        "date": "2024-09-28T16:31:05.529Z"
       }
     ],
     "levels": [
@@ -4676,6 +4692,10 @@
           {
             "length": 136,
             "date": "2024-09-28T16:30:35.662Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-09-28T16:31:05.529Z"
           }
         ]
       },
