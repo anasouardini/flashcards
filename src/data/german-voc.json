@@ -1018,6 +1018,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sollen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To be supposed to]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2970,6 +2981,11 @@
         "type": "add",
         "word": "Wollen",
         "date": "2024-09-28T01:01:34.049Z"
+      },
+      {
+        "type": "add",
+        "word": "Sollen",
+        "date": "2024-09-28T01:02:32.854Z"
       }
     ],
     "levels": [
@@ -3794,6 +3810,10 @@
           {
             "length": 92,
             "date": "2024-09-28T01:01:34.049Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-09-28T01:02:32.854Z"
           }
         ]
       },
