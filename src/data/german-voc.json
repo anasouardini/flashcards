@@ -1216,6 +1216,17 @@
               "- Forms: Entschuldigungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Hunger (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Hunger]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3258,6 +3269,11 @@
         "type": "add",
         "word": "Entschuldigung",
         "date": "2024-09-28T15:35:55.656Z"
+      },
+      {
+        "type": "add",
+        "word": "Hunger",
+        "date": "2024-09-28T15:37:28.287Z"
       }
     ],
     "levels": [
@@ -4154,6 +4170,10 @@
           {
             "length": 110,
             "date": "2024-09-28T15:35:55.716Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-09-28T15:37:28.287Z"
           }
         ]
       },
