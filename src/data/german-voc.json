@@ -1304,6 +1304,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kosten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Cost]: ",
+              "- Forms: Kosten (noun, plural, neuter)"
+            ]
+          }
         }
       ]
     },
@@ -3386,6 +3397,11 @@
         "type": "add",
         "word": "Viel",
         "date": "2024-09-28T15:49:57.232Z"
+      },
+      {
+        "type": "add",
+        "word": "Kosten",
+        "date": "2024-09-28T15:52:21.252Z"
       }
     ],
     "levels": [
@@ -4314,6 +4330,10 @@
           {
             "length": 118,
             "date": "2024-09-28T15:49:57.232Z"
+          },
+          {
+            "length": 119,
+            "date": "2024-09-28T15:52:21.252Z"
           }
         ]
       },
