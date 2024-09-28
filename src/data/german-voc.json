@@ -1920,6 +1920,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bleiben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To stay]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4284,6 +4295,11 @@
         "type": "add",
         "word": "Benutzen",
         "date": "2024-09-28T19:40:39.263Z"
+      },
+      {
+        "type": "add",
+        "word": "Bleiben",
+        "date": "2024-09-28T19:40:53.892Z"
       }
     ],
     "levels": [
@@ -5436,6 +5452,10 @@
           {
             "length": 174,
             "date": "2024-09-28T19:40:39.264Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-09-28T19:40:53.892Z"
           }
         ]
       },
