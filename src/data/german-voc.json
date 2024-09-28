@@ -1722,6 +1722,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Stimmt (adj./interjection)"
+          },
+          "back": {
+            "content": [
+              "- [True]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3996,6 +4007,11 @@
         "type": "add",
         "word": "Genau",
         "date": "2024-09-28T18:45:36.743Z"
+      },
+      {
+        "type": "add",
+        "word": "Stimmt",
+        "date": "2024-09-28T19:16:19.550Z"
       }
     ],
     "levels": [
@@ -5076,6 +5092,10 @@
           {
             "length": 156,
             "date": "2024-09-28T18:45:36.744Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-09-28T19:16:19.550Z"
           }
         ]
       },
