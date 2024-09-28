@@ -1095,6 +1095,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sprechen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To talk/speak]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3082,6 +3093,11 @@
         "type": "add",
         "word": "Denken",
         "date": "2024-09-28T01:05:02.785Z"
+      },
+      {
+        "type": "add",
+        "word": "Sprechen",
+        "date": "2024-09-28T01:06:41.069Z"
       }
     ],
     "levels": [
@@ -3934,6 +3950,10 @@
           {
             "length": 99,
             "date": "2024-09-28T01:05:02.785Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-09-28T01:06:41.069Z"
           }
         ]
       },
