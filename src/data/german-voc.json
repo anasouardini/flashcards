@@ -1260,6 +1260,17 @@
               "- Forms: Klos (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Toilette (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Toilet]: ",
+              "- Forms: Toiletten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3322,6 +3333,11 @@
         "type": "add",
         "word": "Klo",
         "date": "2024-09-28T15:40:00.951Z"
+      },
+      {
+        "type": "add",
+        "word": "Toilette",
+        "date": "2024-09-28T15:42:00.072Z"
       }
     ],
     "levels": [
@@ -4234,6 +4250,10 @@
           {
             "length": 114,
             "date": "2024-09-28T15:40:00.951Z"
+          },
+          {
+            "length": 115,
+            "date": "2024-09-28T15:42:00.073Z"
           }
         ]
       },
