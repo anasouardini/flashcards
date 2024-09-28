@@ -1447,6 +1447,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Eingang (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Entrance]: ",
+              "- Forms: Eingänge (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3594,6 +3605,11 @@
         "type": "add",
         "word": "Aufzug",
         "date": "2024-09-28T16:21:35.043Z"
+      },
+      {
+        "type": "add",
+        "word": "Eingang",
+        "date": "2024-09-28T16:23:21.860Z"
       }
     ],
     "levels": [
@@ -4574,6 +4590,10 @@
           {
             "length": 131,
             "date": "2024-09-28T16:21:35.043Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-09-28T16:23:21.860Z"
           }
         ]
       },
