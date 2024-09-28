@@ -1744,6 +1744,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wetter (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Weather]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4028,6 +4039,11 @@
         "type": "add",
         "word": "Heiß",
         "date": "2024-09-28T19:18:01.457Z"
+      },
+      {
+        "type": "add",
+        "word": "Wetter",
+        "date": "2024-09-28T19:18:47.897Z"
       }
     ],
     "levels": [
@@ -5116,6 +5132,10 @@
           {
             "length": 158,
             "date": "2024-09-28T19:18:01.457Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-09-28T19:18:47.898Z"
           }
         ]
       },
