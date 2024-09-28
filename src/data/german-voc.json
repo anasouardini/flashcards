@@ -2173,6 +2173,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gewinnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To win/gain/obtain]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4652,6 +4663,11 @@
         "type": "add",
         "word": "Laufen",
         "date": "2024-09-28T21:15:35.951Z"
+      },
+      {
+        "type": "add",
+        "word": "Gewinnen",
+        "date": "2024-09-28T21:17:01.528Z"
       }
     ],
     "levels": [
@@ -5896,6 +5912,10 @@
           {
             "length": 197,
             "date": "2024-09-28T21:15:35.951Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-09-28T21:17:01.529Z"
           }
         ]
       },
