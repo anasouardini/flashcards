@@ -2217,6 +2217,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Konzentrieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To concentrate]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4716,6 +4727,11 @@
         "type": "add",
         "word": "Entscheiden",
         "date": "2024-09-28T21:19:38.198Z"
+      },
+      {
+        "type": "add",
+        "word": "Konzentrieren",
+        "date": "2024-09-28T21:26:45.328Z"
       }
     ],
     "levels": [
@@ -5976,6 +5992,10 @@
           {
             "length": 201,
             "date": "2024-09-28T21:19:38.198Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-09-28T21:26:45.328Z"
           }
         ]
       },
