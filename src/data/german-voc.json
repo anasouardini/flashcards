@@ -2195,6 +2195,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Erklären (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To explain]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4684,6 +4695,11 @@
         "type": "add",
         "word": "Suchen",
         "date": "2024-09-28T21:18:09.198Z"
+      },
+      {
+        "type": "add",
+        "word": "Erklären",
+        "date": "2024-09-28T21:18:58.402Z"
       }
     ],
     "levels": [
@@ -5936,6 +5952,10 @@
           {
             "length": 199,
             "date": "2024-09-28T21:18:09.199Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-09-28T21:18:58.402Z"
           }
         ]
       },
