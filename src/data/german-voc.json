@@ -1436,6 +1436,17 @@
               "- Forms: Rolltreppen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Aufzug (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Elevator]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3578,6 +3589,11 @@
         "type": "add",
         "word": "Rolltreppe",
         "date": "2024-09-28T16:20:38.360Z"
+      },
+      {
+        "type": "add",
+        "word": "Aufzug",
+        "date": "2024-09-28T16:21:35.043Z"
       }
     ],
     "levels": [
@@ -4554,6 +4570,10 @@
           {
             "length": 130,
             "date": "2024-09-28T16:20:38.360Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-09-28T16:21:35.043Z"
           }
         ]
       },
