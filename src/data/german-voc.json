@@ -1986,6 +1986,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Passieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To happen]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4380,6 +4391,11 @@
         "type": "add",
         "word": "Kaufen",
         "date": "2024-09-28T19:45:26.341Z"
+      },
+      {
+        "type": "add",
+        "word": "Passieren",
+        "date": "2024-09-28T19:45:45.088Z"
       }
     ],
     "levels": [
@@ -5556,6 +5572,10 @@
           {
             "length": 180,
             "date": "2024-09-28T19:45:26.341Z"
+          },
+          {
+            "length": 181,
+            "date": "2024-09-28T19:45:45.088Z"
           }
         ]
       },
