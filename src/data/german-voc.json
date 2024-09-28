@@ -2118,6 +2118,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Erreichen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To acheive/reach]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4572,6 +4583,11 @@
         "type": "add",
         "word": "Erzählen",
         "date": "2024-09-28T21:06:32.547Z"
+      },
+      {
+        "type": "add",
+        "word": "Erreichen",
+        "date": "2024-09-28T21:07:00.020Z"
       }
     ],
     "levels": [
@@ -5796,6 +5812,10 @@
           {
             "length": 192,
             "date": "2024-09-28T21:06:32.547Z"
+          },
+          {
+            "length": 193,
+            "date": "2024-09-28T21:07:00.021Z"
           }
         ]
       },
