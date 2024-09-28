@@ -2206,6 +2206,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Entscheiden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To decide]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4700,6 +4711,11 @@
         "type": "add",
         "word": "Erklären",
         "date": "2024-09-28T21:18:58.402Z"
+      },
+      {
+        "type": "add",
+        "word": "Entscheiden",
+        "date": "2024-09-28T21:19:38.198Z"
       }
     ],
     "levels": [
@@ -5956,6 +5972,10 @@
           {
             "length": 200,
             "date": "2024-09-28T21:18:58.402Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-09-28T21:19:38.198Z"
           }
         ]
       },
