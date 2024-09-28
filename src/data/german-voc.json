@@ -1458,6 +1458,17 @@
               "- Forms: Eingänge (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ausgang (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Exit]: ",
+              "- Forms: Ausgänge (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3610,6 +3621,11 @@
         "type": "add",
         "word": "Eingang",
         "date": "2024-09-28T16:23:21.860Z"
+      },
+      {
+        "type": "add",
+        "word": "Ausgang",
+        "date": "2024-09-28T16:24:26.059Z"
       }
     ],
     "levels": [
@@ -4594,6 +4610,10 @@
           {
             "length": 132,
             "date": "2024-09-28T16:23:21.860Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-09-28T16:24:26.060Z"
           }
         ]
       },
