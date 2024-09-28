@@ -2228,6 +2228,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Waschen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To wash]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4732,6 +4743,11 @@
         "type": "add",
         "word": "Konzentrieren",
         "date": "2024-09-28T21:26:45.328Z"
+      },
+      {
+        "type": "add",
+        "word": "Waschen",
+        "date": "2024-09-28T21:27:00.819Z"
       }
     ],
     "levels": [
@@ -5996,6 +6012,10 @@
           {
             "length": 202,
             "date": "2024-09-28T21:26:45.328Z"
+          },
+          {
+            "length": 203,
+            "date": "2024-09-28T21:27:00.819Z"
           }
         ]
       },
