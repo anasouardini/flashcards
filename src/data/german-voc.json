@@ -1271,6 +1271,17 @@
               "- Forms: Toiletten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Muss (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Must]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3338,6 +3349,11 @@
         "type": "add",
         "word": "Toilette",
         "date": "2024-09-28T15:42:00.072Z"
+      },
+      {
+        "type": "add",
+        "word": "Muss",
+        "date": "2024-09-28T15:43:01.205Z"
       }
     ],
     "levels": [
@@ -4254,6 +4270,10 @@
           {
             "length": 115,
             "date": "2024-09-28T15:42:00.073Z"
+          },
+          {
+            "length": 116,
+            "date": "2024-09-28T15:43:01.205Z"
           }
         ]
       },
