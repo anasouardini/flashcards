@@ -1678,6 +1678,17 @@
               "- Forms: Reisepässe (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Stock (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Floor]: ",
+              "- Forms: Stöcke (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3932,6 +3943,11 @@
         "type": "add",
         "word": "Reisepass",
         "date": "2024-09-28T18:34:02.612Z"
+      },
+      {
+        "type": "add",
+        "word": "Stock",
+        "date": "2024-09-28T18:35:35.888Z"
       }
     ],
     "levels": [
@@ -4996,6 +5012,10 @@
           {
             "length": 152,
             "date": "2024-09-28T18:34:02.612Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-09-28T18:35:35.888Z"
           }
         ]
       },
