@@ -1128,6 +1128,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Scheiben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To write]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3130,6 +3141,11 @@
         "type": "add",
         "word": "Fahren",
         "date": "2024-09-28T01:07:58.390Z"
+      },
+      {
+        "type": "add",
+        "word": "Scheiben",
+        "date": "2024-09-28T01:08:17.604Z"
       }
     ],
     "levels": [
@@ -3994,6 +4010,10 @@
           {
             "length": 102,
             "date": "2024-09-28T01:07:58.390Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-09-28T01:08:17.604Z"
           }
         ]
       },
