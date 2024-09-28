@@ -1755,6 +1755,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Regen (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Rain]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4044,6 +4055,11 @@
         "type": "add",
         "word": "Wetter",
         "date": "2024-09-28T19:18:47.897Z"
+      },
+      {
+        "type": "add",
+        "word": "Regen",
+        "date": "2024-09-28T19:19:40.073Z"
       }
     ],
     "levels": [
@@ -5136,6 +5152,10 @@
           {
             "length": 159,
             "date": "2024-09-28T19:18:47.898Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-09-28T19:19:40.073Z"
           }
         ]
       },
