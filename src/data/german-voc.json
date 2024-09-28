@@ -1799,6 +1799,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Total (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Total]: ",
+              "- Forms: Total (adj.), Total (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -4108,6 +4119,11 @@
         "type": "add",
         "word": "Klar",
         "date": "2024-09-28T19:22:13.505Z"
+      },
+      {
+        "type": "add",
+        "word": "Total",
+        "date": "2024-09-28T19:23:37.451Z"
       }
     ],
     "levels": [
@@ -5216,6 +5232,10 @@
           {
             "length": 163,
             "date": "2024-09-28T19:22:13.505Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-09-28T19:23:37.452Z"
           }
         ]
       },
