@@ -1579,6 +1579,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Prost (interjetion)"
+          },
+          "back": {
+            "content": [
+              "- [Cheers]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3788,6 +3799,11 @@
         "type": "add",
         "word": "Lecker",
         "date": "2024-09-28T18:19:03.069Z"
+      },
+      {
+        "type": "add",
+        "word": "Prost",
+        "date": "2024-09-28T18:19:35.821Z"
       }
     ],
     "levels": [
@@ -4816,6 +4832,10 @@
           {
             "length": 143,
             "date": "2024-09-28T18:19:03.069Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-09-28T18:19:35.822Z"
           }
         ]
       },
