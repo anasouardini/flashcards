@@ -2019,6 +2019,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Halten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To keep/hold]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4428,6 +4439,11 @@
         "type": "add",
         "word": "Schaffen",
         "date": "2024-09-28T19:47:30.585Z"
+      },
+      {
+        "type": "add",
+        "word": "Halten",
+        "date": "2024-09-28T19:47:56.930Z"
       }
     ],
     "levels": [
@@ -5616,6 +5632,10 @@
           {
             "length": 183,
             "date": "2024-09-28T19:47:30.585Z"
+          },
+          {
+            "length": 184,
+            "date": "2024-09-28T19:47:56.931Z"
           }
         ]
       },
