@@ -1876,6 +1876,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Stehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To stand]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4220,6 +4231,11 @@
         "type": "add",
         "word": "Arbeiten",
         "date": "2024-09-28T19:38:15.635Z"
+      },
+      {
+        "type": "add",
+        "word": "Stehen",
+        "date": "2024-09-28T19:38:53.370Z"
       }
     ],
     "levels": [
@@ -5356,6 +5372,10 @@
           {
             "length": 170,
             "date": "2024-09-28T19:38:15.635Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-09-28T19:38:53.371Z"
           }
         ]
       },
