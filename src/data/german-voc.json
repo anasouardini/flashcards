@@ -1491,6 +1491,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Essen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Food]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -1515,7 +1526,9 @@
           },
           "back": {
             "content": [
-              "- [Please]: "
+              "- [Please]: ",
+              "- [You are welcome!] (interjection): ",
+              "- [Forms]: "
             ]
           }
         },
@@ -3658,6 +3671,11 @@
         "type": "add",
         "word": "Ebenso",
         "date": "2024-09-28T16:27:50.372Z"
+      },
+      {
+        "type": "add",
+        "word": "Essen",
+        "date": "2024-09-28T16:30:35.661Z"
       }
     ],
     "levels": [
@@ -4654,6 +4672,10 @@
           {
             "length": 135,
             "date": "2024-09-28T16:27:50.372Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-09-28T16:30:35.662Z"
           }
         ]
       },
