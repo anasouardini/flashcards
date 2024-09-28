@@ -1623,6 +1623,17 @@
               "- Forms: Hotels (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zimmer (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Room]: ",
+              "- Forms: Zimmer (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3852,6 +3863,11 @@
         "type": "add",
         "word": "Hotel",
         "date": "2024-09-28T18:27:05.105Z"
+      },
+      {
+        "type": "add",
+        "word": "Zimmer",
+        "date": "2024-09-28T18:27:43.174Z"
       }
     ],
     "levels": [
@@ -4896,6 +4912,10 @@
           {
             "length": 147,
             "date": "2024-09-28T18:27:05.105Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-09-28T18:27:43.175Z"
           }
         ]
       },
