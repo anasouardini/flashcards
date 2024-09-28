@@ -1524,6 +1524,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Mittagessen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Lunch]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3708,6 +3719,11 @@
         "type": "add",
         "word": "Mittag",
         "date": "2024-09-28T16:31:48.937Z"
+      },
+      {
+        "type": "add",
+        "word": "Mittagessen",
+        "date": "2024-09-28T16:32:22.438Z"
       }
     ],
     "levels": [
@@ -4716,6 +4732,10 @@
           {
             "length": 138,
             "date": "2024-09-28T16:31:48.937Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-09-28T16:32:22.438Z"
           }
         ]
       },
