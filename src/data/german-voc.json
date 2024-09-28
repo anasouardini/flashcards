@@ -1766,6 +1766,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sonne (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Sun]: ",
+              "- Forms: Sonnen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -4060,6 +4071,11 @@
         "type": "add",
         "word": "Regen",
         "date": "2024-09-28T19:19:40.073Z"
+      },
+      {
+        "type": "add",
+        "word": "Sonne",
+        "date": "2024-09-28T19:20:14.038Z"
       }
     ],
     "levels": [
@@ -5156,6 +5172,10 @@
           {
             "length": 160,
             "date": "2024-09-28T19:19:40.073Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-09-28T19:20:14.039Z"
           }
         ]
       },
