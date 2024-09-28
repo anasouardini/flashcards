@@ -1601,6 +1601,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schon (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Already/Yet]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3820,6 +3831,11 @@
         "type": "add",
         "word": "Appetit",
         "date": "2024-09-28T18:20:21.844Z"
+      },
+      {
+        "type": "add",
+        "word": "Schon",
+        "date": "2024-09-28T18:21:38.747Z"
       }
     ],
     "levels": [
@@ -4856,6 +4872,10 @@
           {
             "length": 145,
             "date": "2024-09-28T18:20:21.845Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-09-28T18:21:38.748Z"
           }
         ]
       },
