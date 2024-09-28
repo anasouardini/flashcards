@@ -1535,6 +1535,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Frühstück (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Breakfast]: ",
+              "- Forms: Frühstücken (v.)"
+            ]
+          }
         }
       ]
     },
@@ -3724,6 +3735,11 @@
         "type": "add",
         "word": "Mittagessen",
         "date": "2024-09-28T16:32:22.438Z"
+      },
+      {
+        "type": "add",
+        "word": "Frühstück",
+        "date": "2024-09-28T16:33:56.014Z"
       }
     ],
     "levels": [
@@ -4736,6 +4752,10 @@
           {
             "length": 139,
             "date": "2024-09-28T16:32:22.438Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-09-28T16:33:56.015Z"
           }
         ]
       },
