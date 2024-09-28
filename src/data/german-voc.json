@@ -1326,6 +1326,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Karte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Card]: ",
+              "- Forms: Karten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3418,6 +3429,11 @@
         "type": "add",
         "word": "Teuer",
         "date": "2024-09-28T15:53:39.291Z"
+      },
+      {
+        "type": "add",
+        "word": "Karte",
+        "date": "2024-09-28T15:54:49.509Z"
       }
     ],
     "levels": [
@@ -4354,6 +4370,10 @@
           {
             "length": 120,
             "date": "2024-09-28T15:53:39.291Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-09-28T15:54:49.509Z"
           }
         ]
       },
