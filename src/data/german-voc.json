@@ -1645,6 +1645,17 @@
               "- Forms: Wohnungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Reservierung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Rservation]: ",
+              "- Forms: Rservierungen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3884,6 +3895,11 @@
         "type": "add",
         "word": "Wohnung",
         "date": "2024-09-28T18:29:15.700Z"
+      },
+      {
+        "type": "add",
+        "word": "Reservierung",
+        "date": "2024-09-28T18:31:28.476Z"
       }
     ],
     "levels": [
@@ -4936,6 +4952,10 @@
           {
             "length": 149,
             "date": "2024-09-28T18:29:15.701Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-09-28T18:31:28.477Z"
           }
         ]
       },
