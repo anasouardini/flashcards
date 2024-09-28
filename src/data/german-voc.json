@@ -1249,6 +1249,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Klo (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Toilet]: ",
+              "- Forms: Klos (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3306,6 +3317,11 @@
         "type": "add",
         "word": "Satt",
         "date": "2024-09-28T15:38:38.596Z"
+      },
+      {
+        "type": "add",
+        "word": "Klo",
+        "date": "2024-09-28T15:40:00.951Z"
       }
     ],
     "levels": [
@@ -4214,6 +4230,10 @@
           {
             "length": 113,
             "date": "2024-09-28T15:38:38.597Z"
+          },
+          {
+            "length": 114,
+            "date": "2024-09-28T15:40:00.951Z"
           }
         ]
       },
