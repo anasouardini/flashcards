@@ -1480,6 +1480,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ebenso (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Also/As well]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3642,6 +3653,11 @@
         "type": "add",
         "word": "Wiedersehen",
         "date": "2024-09-28T16:26:40.092Z"
+      },
+      {
+        "type": "add",
+        "word": "Ebenso",
+        "date": "2024-09-28T16:27:50.372Z"
       }
     ],
     "levels": [
@@ -4634,6 +4650,10 @@
           {
             "length": 134,
             "date": "2024-09-28T16:26:40.092Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-09-28T16:27:50.372Z"
           }
         ]
       },
