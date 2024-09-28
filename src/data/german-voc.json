@@ -2184,6 +2184,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Suchen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To search/look/seek/find]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4668,6 +4679,11 @@
         "type": "add",
         "word": "Gewinnen",
         "date": "2024-09-28T21:17:01.528Z"
+      },
+      {
+        "type": "add",
+        "word": "Suchen",
+        "date": "2024-09-28T21:18:09.198Z"
       }
     ],
     "levels": [
@@ -5916,6 +5932,10 @@
           {
             "length": 198,
             "date": "2024-09-28T21:17:01.529Z"
+          },
+          {
+            "length": 199,
+            "date": "2024-09-28T21:18:09.199Z"
           }
         ]
       },
