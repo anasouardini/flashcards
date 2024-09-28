@@ -1293,6 +1293,17 @@
               "- Forms: Angebote (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Viel (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Much]: Das Geschenk hat nicht viel gekostet : the present did not cost much",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3370,6 +3381,11 @@
         "type": "add",
         "word": "Angebot",
         "date": "2024-09-28T15:48:20.897Z"
+      },
+      {
+        "type": "add",
+        "word": "Viel",
+        "date": "2024-09-28T15:49:57.232Z"
       }
     ],
     "levels": [
@@ -4294,6 +4310,10 @@
           {
             "length": 117,
             "date": "2024-09-28T15:48:20.898Z"
+          },
+          {
+            "length": 118,
+            "date": "2024-09-28T15:49:57.232Z"
           }
         ]
       },
