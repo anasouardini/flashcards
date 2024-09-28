@@ -1414,6 +1414,17 @@
               "- Forms: Verspätungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Treppe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Stair]: ",
+              "- Forms: Treppen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3546,6 +3557,11 @@
         "type": "add",
         "word": "Verspätung",
         "date": "2024-09-28T16:18:08.327Z"
+      },
+      {
+        "type": "add",
+        "word": "Treppe",
+        "date": "2024-09-28T16:19:23.875Z"
       }
     ],
     "levels": [
@@ -4514,6 +4530,10 @@
           {
             "length": 128,
             "date": "2024-09-28T16:18:08.327Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-09-28T16:19:23.876Z"
           }
         ]
       },
