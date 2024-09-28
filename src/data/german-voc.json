@@ -1425,6 +1425,17 @@
               "- Forms: Treppen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Rolltreppe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Escalator]: ",
+              "- Forms: Rolltreppen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3562,6 +3573,11 @@
         "type": "add",
         "word": "Treppe",
         "date": "2024-09-28T16:19:23.875Z"
+      },
+      {
+        "type": "add",
+        "word": "Rolltreppe",
+        "date": "2024-09-28T16:20:38.360Z"
       }
     ],
     "levels": [
@@ -4534,6 +4550,10 @@
           {
             "length": 129,
             "date": "2024-09-28T16:19:23.876Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-09-28T16:20:38.360Z"
           }
         ]
       },
