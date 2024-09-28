@@ -1161,6 +1161,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Thema (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Topic]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -3178,6 +3189,11 @@
         "type": "add",
         "word": "Schlecht",
         "date": "2024-09-28T05:39:38.914Z"
+      },
+      {
+        "type": "add",
+        "word": "Thema",
+        "date": "2024-09-28T05:45:20.245Z"
       }
     ],
     "levels": [
@@ -4054,6 +4070,10 @@
           {
             "length": 105,
             "date": "2024-09-28T05:39:38.987Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-09-28T05:45:20.245Z"
           }
         ]
       },
