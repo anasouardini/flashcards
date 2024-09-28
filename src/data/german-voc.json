@@ -2143,11 +2143,22 @@
         },
         {
           "front": {
-            "content": "Zeihen (v.)"
+            "content": "Ziehen (v.)"
           },
           "back": {
             "content": [
               "- [To pull/drag/draw]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Versuchen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To try]: ",
               "- Forms: "
             ]
           }
@@ -4620,6 +4631,11 @@
         "type": "add",
         "word": "Zeihen",
         "date": "2024-09-28T21:13:39.083Z"
+      },
+      {
+        "type": "add",
+        "word": "Versuchen",
+        "date": "2024-09-28T21:14:16.173Z"
       }
     ],
     "levels": [
@@ -5856,6 +5872,10 @@
           {
             "length": 195,
             "date": "2024-09-28T21:13:39.084Z"
+          },
+          {
+            "length": 196,
+            "date": "2024-09-28T21:14:16.173Z"
           }
         ]
       },
