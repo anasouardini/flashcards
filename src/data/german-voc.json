@@ -1777,6 +1777,17 @@
               "- Forms: Sonnen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Regnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Rain]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4076,6 +4087,11 @@
         "type": "add",
         "word": "Sonne",
         "date": "2024-09-28T19:20:14.038Z"
+      },
+      {
+        "type": "add",
+        "word": "Regnen",
+        "date": "2024-09-28T19:21:37.987Z"
       }
     ],
     "levels": [
@@ -5176,6 +5192,10 @@
           {
             "length": 161,
             "date": "2024-09-28T19:20:14.039Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-09-28T19:21:37.987Z"
           }
         ]
       },
