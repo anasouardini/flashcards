@@ -1964,6 +1964,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Spielen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To play/act]: ",
+              "- Forms: Spiele (noun, plural, neuter)"
+            ]
+          }
         }
       ]
     },
@@ -4348,6 +4359,11 @@
         "type": "add",
         "word": "Hören",
         "date": "2024-09-28T19:43:12.971Z"
+      },
+      {
+        "type": "add",
+        "word": "Spielen",
+        "date": "2024-09-28T19:45:04.155Z"
       }
     ],
     "levels": [
@@ -5516,6 +5532,10 @@
           {
             "length": 178,
             "date": "2024-09-28T19:43:12.972Z"
+          },
+          {
+            "length": 179,
+            "date": "2024-09-28T19:45:04.155Z"
           }
         ]
       },
