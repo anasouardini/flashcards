@@ -1667,6 +1667,17 @@
               "- Forms: Reisen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Reisepass (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Passport]: ",
+              "- Forms: Reisepässe (plural)"
+            ]
+          }
         }
       ]
     },
@@ -3916,6 +3927,11 @@
         "type": "add",
         "word": "Reise",
         "date": "2024-09-28T18:32:07.080Z"
+      },
+      {
+        "type": "add",
+        "word": "Reisepass",
+        "date": "2024-09-28T18:34:02.612Z"
       }
     ],
     "levels": [
@@ -4976,6 +4992,10 @@
           {
             "length": 151,
             "date": "2024-09-28T18:32:07.080Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-09-28T18:34:02.612Z"
           }
         ]
       },
