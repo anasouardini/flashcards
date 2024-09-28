@@ -2030,6 +2030,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Trinken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To drink]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4444,6 +4455,11 @@
         "type": "add",
         "word": "Halten",
         "date": "2024-09-28T19:47:56.930Z"
+      },
+      {
+        "type": "add",
+        "word": "Trinken",
+        "date": "2024-09-28T19:48:42.081Z"
       }
     ],
     "levels": [
@@ -5636,6 +5652,10 @@
           {
             "length": 184,
             "date": "2024-09-28T19:47:56.931Z"
+          },
+          {
+            "length": 185,
+            "date": "2024-09-28T19:48:42.081Z"
           }
         ]
       },
