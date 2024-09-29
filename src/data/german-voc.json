@@ -2197,6 +2197,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Entwickeln (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To develop]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5753,6 +5764,11 @@
         "type": "add",
         "word": "Bauen",
         "date": "2024-09-29T19:32:17.635Z"
+      },
+      {
+        "type": "add",
+        "word": "Entwickeln",
+        "date": "2024-09-29T19:34:00.729Z"
       }
     ],
     "levels": [
@@ -7385,6 +7401,10 @@
           {
             "length": 199,
             "date": "2024-09-29T19:32:17.636Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-09-29T19:34:00.729Z"
           }
         ]
       },
