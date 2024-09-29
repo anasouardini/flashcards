@@ -2869,6 +2869,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Überrascht (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Surprised]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6730,6 +6741,11 @@
         "type": "add",
         "word": "Aufgeregt",
         "date": "2024-09-29T22:32:21.043Z"
+      },
+      {
+        "type": "add",
+        "word": "Überrascht",
+        "date": "2024-09-29T22:32:52.140Z"
       }
     ],
     "levels": [
@@ -8606,6 +8622,10 @@
           {
             "length": 260,
             "date": "2024-09-29T22:32:21.043Z"
+          },
+          {
+            "length": 261,
+            "date": "2024-09-29T22:32:52.140Z"
           }
         ]
       },
