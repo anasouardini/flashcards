@@ -1808,6 +1808,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nachdem (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [After]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5189,6 +5200,11 @@
         "type": "add",
         "word": "Nur_Wenn",
         "date": "2024-09-29T18:09:06.574Z"
+      },
+      {
+        "type": "add",
+        "word": "Nachdem",
+        "date": "2024-09-29T18:13:14.732Z"
       }
     ],
     "levels": [
@@ -6681,6 +6697,10 @@
           {
             "length": 164,
             "date": "2024-09-29T18:09:06.575Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-09-29T18:13:14.733Z"
           }
         ]
       },
