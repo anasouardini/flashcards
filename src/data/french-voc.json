@@ -199,19 +199,9 @@
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 1,
       "currentCardSide": "front",
       "cards": [
-        {
-          "front": {
-            "content": " écraser"
-          },
-          "back": {
-            "content": [
-              "- [press/flaten]: ton nez va s'écraser : your nose will get flattened"
-            ]
-          }
-        },
         {
           "front": {
             "content": " renvoie"
@@ -6627,6 +6617,16 @@
           "back": {
             "content": [
               "- [gifted]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": " écraser"
+          },
+          "back": {
+            "content": [
+              "- [press/flaten]: ton nez va s'écraser : your nose will get flattened"
             ]
           }
         }
@@ -14420,6 +14420,13 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-09-04T17:46:49.002Z"
+      },
+      {
+        "type": "move",
+        "word": "écraser",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-09-15T00:26:11.390Z"
       }
     ],
     "levels": [
@@ -20348,6 +20355,10 @@
           {
             "length": 91,
             "date": "2024-09-04T17:46:49.002Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-09-15T00:26:11.527Z"
           }
         ]
       },
@@ -22536,6 +22547,10 @@
           {
             "length": 564,
             "date": "2024-09-04T17:46:49.002Z"
+          },
+          {
+            "length": 565,
+            "date": "2024-09-15T00:26:11.527Z"
           }
         ]
       },

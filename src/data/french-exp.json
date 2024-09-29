@@ -10,7 +10,9 @@
             "content": "il bosse "
           },
           "back": {
-            "content": ["- he works"]
+            "content": [
+              "- he works"
+            ]
           }
         },
         {
@@ -18,15 +20,9 @@
             "content": "que des bombes "
           },
           "back": {
-            "content": ["- only the bombes (could mean women)"]
-          }
-        },
-        {
-          "front": {
-            "content": "peut-etre "
-          },
-          "back": {
-            "content": ["- maybe"]
+            "content": [
+              "- only the bombes (could mean women)"
+            ]
           }
         },
         {
@@ -46,7 +42,9 @@
             "content": "quoi faire? | pour quoi faire? "
           },
           "back": {
-            "content": ["- to do what?"]
+            "content": [
+              "- to do what?"
+            ]
           }
         },
         {
@@ -54,7 +52,9 @@
             "content": "quand même "
           },
           "back": {
-            "content": ["- anyways"]
+            "content": [
+              "- anyways"
+            ]
           }
         },
         {
@@ -62,7 +62,9 @@
             "content": "depuis mon plus jeun a^ge"
           },
           "back": {
-            "content": ["- depuis mon plus jeun a^ge"]
+            "content": [
+              "- depuis mon plus jeun a^ge"
+            ]
           }
         },
         {
@@ -70,7 +72,9 @@
             "content": "depuis toujours"
           },
           "back": {
-            "content": ["- depuis toujours"]
+            "content": [
+              "- depuis toujours"
+            ]
           }
         },
         {
@@ -78,7 +82,9 @@
             "content": "on a change depuis "
           },
           "back": {
-            "content": ["- we've changed since then"]
+            "content": [
+              "- we've changed since then"
+            ]
           }
         },
         {
@@ -86,7 +92,9 @@
             "content": "depuis qui'il y est "
           },
           "back": {
-            "content": ["- since he is/was there"]
+            "content": [
+              "- since he is/was there"
+            ]
           }
         },
         {
@@ -94,7 +102,9 @@
             "content": "le plus (adj.) que je (v.) "
           },
           "back": {
-            "content": ["- the most (adj.) that I (v.)"]
+            "content": [
+              "- the most (adj.) that I (v.)"
+            ]
           }
         },
         {
@@ -102,7 +112,9 @@
             "content": "on se voit "
           },
           "back": {
-            "content": ["- will see each other"]
+            "content": [
+              "- will see each other"
+            ]
           }
         },
         {
@@ -110,7 +122,9 @@
             "content": "a` tout a l'heure "
           },
           "back": {
-            "content": ["- after a short while"]
+            "content": [
+              "- after a short while"
+            ]
           }
         },
         {
@@ -118,7 +132,9 @@
             "content": "prend soin "
           },
           "back": {
-            "content": ["- take care"]
+            "content": [
+              "- take care"
+            ]
           }
         },
         {
@@ -126,7 +142,9 @@
             "content": "bat les couilles "
           },
           "back": {
-            "content": ["- doesn't give a fuck"]
+            "content": [
+              "- doesn't give a fuck"
+            ]
           }
         },
         {
@@ -134,7 +152,9 @@
             "content": "passe pour un connard "
           },
           "back": {
-            "content": ["- look like an idiot"]
+            "content": [
+              "- look like an idiot"
+            ]
           }
         },
         {
@@ -142,7 +162,9 @@
             "content": "tomber bien "
           },
           "back": {
-            "content": ["- good coincidence (serendipity)"]
+            "content": [
+              "- good coincidence (serendipity)"
+            ]
           }
         },
         {
@@ -150,7 +172,9 @@
             "content": "mis du temps "
           },
           "back": {
-            "content": ["- wasted time"]
+            "content": [
+              "- wasted time"
+            ]
           }
         },
         {
@@ -158,7 +182,9 @@
             "content": "fait chier "
           },
           "back": {
-            "content": ["- makes shit (it sucks)"]
+            "content": [
+              "- makes shit (it sucks)"
+            ]
           }
         },
         {
@@ -166,7 +192,9 @@
             "content": "qu'est-ce que t'a pris "
           },
           "back": {
-            "content": ["- what happend to you"]
+            "content": [
+              "- what happend to you"
+            ]
           }
         },
         {
@@ -174,7 +202,9 @@
             "content": "sang-froid "
           },
           "back": {
-            "content": ["- calmness"]
+            "content": [
+              "- calmness"
+            ]
           }
         },
         {
@@ -182,7 +212,9 @@
             "content": "du coup "
           },
           "back": {
-            "content": ["- in short"]
+            "content": [
+              "- in short"
+            ]
           }
         },
         {
@@ -190,7 +222,9 @@
             "content": "peut pas piffrer avec lui "
           },
           "back": {
-            "content": ["- can't put up with him"]
+            "content": [
+              "- can't put up with him"
+            ]
           }
         },
         {
@@ -198,7 +232,9 @@
             "content": "il va me manger dans la main "
           },
           "back": {
-            "content": ["- he'll eat from my hand (under my control)"]
+            "content": [
+              "- he'll eat from my hand (under my control)"
+            ]
           }
         },
         {
@@ -206,7 +242,9 @@
             "content": "l'un des meilleur "
           },
           "back": {
-            "content": ["- one of the best"]
+            "content": [
+              "- one of the best"
+            ]
           }
         },
         {
@@ -214,7 +252,9 @@
             "content": "les uns des autres "
           },
           "back": {
-            "content": ["- one another"]
+            "content": [
+              "- one another"
+            ]
           }
         },
         {
@@ -222,7 +262,9 @@
             "content": "mener à bien "
           },
           "back": {
-            "content": ["- lead to good"]
+            "content": [
+              "- lead to good"
+            ]
           }
         },
         {
@@ -230,7 +272,9 @@
             "content": "en effet | en fait "
           },
           "back": {
-            "content": ["- indeed | in fact"]
+            "content": [
+              "- indeed | in fact"
+            ]
           }
         },
         {
@@ -238,7 +282,9 @@
             "content": "tirer parti au profit "
           },
           "back": {
-            "content": ["- leverage for the benefit"]
+            "content": [
+              "- leverage for the benefit"
+            ]
           }
         },
         {
@@ -246,7 +292,9 @@
             "content": "dans son ensemble "
           },
           "back": {
-            "content": ["- in its entirety"]
+            "content": [
+              "- in its entirety"
+            ]
           }
         },
         {
@@ -254,7 +302,9 @@
             "content": "je t'ai bien eu "
           },
           "back": {
-            "content": ["- gotcha good there"]
+            "content": [
+              "- gotcha good there"
+            ]
           }
         },
         {
@@ -262,7 +312,9 @@
             "content": "**tu n'as qu'a`** partir. "
           },
           "back": {
-            "content": ["- **all you have to do is** leave."]
+            "content": [
+              "- **all you have to do is** leave."
+            ]
           }
         },
         {
@@ -270,7 +322,9 @@
             "content": "J'en **ai apre`s** toi "
           },
           "back": {
-            "content": ["- I've **had it with** you"]
+            "content": [
+              "- I've **had it with** you"
+            ]
           }
         },
         {
@@ -278,7 +332,9 @@
             "content": "Étant donné que "
           },
           "back": {
-            "content": ["- given that"]
+            "content": [
+              "- given that"
+            ]
           }
         },
         {
@@ -286,7 +342,9 @@
             "content": "peu import | quelles que "
           },
           "back": {
-            "content": ["- no matter"]
+            "content": [
+              "- no matter"
+            ]
           }
         },
         {
@@ -294,7 +352,9 @@
             "content": "[verbe] à l'excès "
           },
           "back": {
-            "content": ["- over[verbe]"]
+            "content": [
+              "- over[verbe]"
+            ]
           }
         },
         {
@@ -302,7 +362,9 @@
             "content": "pour que le travail soit bien "
           },
           "back": {
-            "content": ["- so that the work is good"]
+            "content": [
+              "- so that the work is good"
+            ]
           }
         },
         {
@@ -310,7 +372,9 @@
             "content": "ce (impersonelle) peut prendre le temps de faire... "
           },
           "back": {
-            "content": ["- it can take time to do..."]
+            "content": [
+              "- it can take time to do..."
+            ]
           }
         },
         {
@@ -318,7 +382,9 @@
             "content": "accrochez-vous "
           },
           "back": {
-            "content": ["- hang on (ched frask)"]
+            "content": [
+              "- hang on (ched frask)"
+            ]
           }
         },
         {
@@ -326,7 +392,9 @@
             "content": "n'en sera que gagnante"
           },
           "back": {
-            "content": ["- n'en sera que gagnante"]
+            "content": [
+              "- n'en sera que gagnante"
+            ]
           }
         },
         {
@@ -334,7 +402,9 @@
             "content": "tais-toi "
           },
           "back": {
-            "content": ["- shut up"]
+            "content": [
+              "- shut up"
+            ]
           }
         },
         {
@@ -353,7 +423,9 @@
             "content": "quelles que soient vos ambitions "
           },
           "back": {
-            "content": ["- whatever your ambitions are"]
+            "content": [
+              "- whatever your ambitions are"
+            ]
           }
         },
         {
@@ -361,7 +433,9 @@
             "content": "quelque peu "
           },
           "back": {
-            "content": ["- somewhat"]
+            "content": [
+              "- somewhat"
+            ]
           }
         },
         {
@@ -369,7 +443,9 @@
             "content": "revient à "
           },
           "back": {
-            "content": ["- amounts to"]
+            "content": [
+              "- amounts to"
+            ]
           }
         },
         {
@@ -377,7 +453,9 @@
             "content": "gagne ma vie "
           },
           "back": {
-            "content": ["- earn my living"]
+            "content": [
+              "- earn my living"
+            ]
           }
         },
         {
@@ -385,7 +463,9 @@
             "content": "mettre en relation 1 et 2 "
           },
           "back": {
-            "content": ["- link between 1 and 2"]
+            "content": [
+              "- link between 1 and 2"
+            ]
           }
         },
         {
@@ -393,7 +473,9 @@
             "content": "est cela en vaut la peine? "
           },
           "back": {
-            "content": ["- is it worth it"]
+            "content": [
+              "- is it worth it"
+            ]
           }
         },
         {
@@ -401,7 +483,9 @@
             "content": "tel ou tel "
           },
           "back": {
-            "content": ["- this or that | more or less"]
+            "content": [
+              "- this or that | more or less"
+            ]
           }
         },
         {
@@ -409,7 +493,9 @@
             "content": "si on peu dir "
           },
           "back": {
-            "content": ["- if you will (for the lack of better words)"]
+            "content": [
+              "- if you will (for the lack of better words)"
+            ]
           }
         },
         {
@@ -417,7 +503,9 @@
             "content": "prender avec des pincettes "
           },
           "back": {
-            "content": ["- be cautious about it"]
+            "content": [
+              "- be cautious about it"
+            ]
           }
         },
         {
@@ -425,7 +513,9 @@
             "content": "comment se fait-il "
           },
           "back": {
-            "content": ["- how come"]
+            "content": [
+              "- how come"
+            ]
           }
         },
         {
@@ -433,7 +523,9 @@
             "content": "jeter un coup d'oeil"
           },
           "back": {
-            "content": ["- jeter un coup d'oeil"]
+            "content": [
+              "- jeter un coup d'oeil"
+            ]
           }
         },
         {
@@ -441,7 +533,9 @@
             "content": "je me demandais "
           },
           "back": {
-            "content": ["- I was asking my self (I was wondering)"]
+            "content": [
+              "- I was asking my self (I was wondering)"
+            ]
           }
         },
         {
@@ -449,7 +543,9 @@
             "content": "peu importe si c'est "
           },
           "back": {
-            "content": ["- wether or not it's"]
+            "content": [
+              "- wether or not it's"
+            ]
           }
         },
         {
@@ -457,7 +553,9 @@
             "content": "on s'en fiche de "
           },
           "back": {
-            "content": ["- we neglect (don't care) de "]
+            "content": [
+              "- we neglect (don't care) de "
+            ]
           }
         },
         {
@@ -465,7 +563,9 @@
             "content": "quant a = a propose de "
           },
           "back": {
-            "content": ["- in terms of"]
+            "content": [
+              "- in terms of"
+            ]
           }
         },
         {
@@ -473,7 +573,9 @@
             "content": "bien qu "
           },
           "back": {
-            "content": ["- although"]
+            "content": [
+              "- although"
+            ]
           }
         },
         {
@@ -481,7 +583,9 @@
             "content": "baisse les bras"
           },
           "back": {
-            "content": ["- [give up]"]
+            "content": [
+              "- [give up]"
+            ]
           }
         },
         {
@@ -489,7 +593,9 @@
             "content": "pris en charge"
           },
           "back": {
-            "content": ["- [take care of]"]
+            "content": [
+              "- [take care of]"
+            ]
           }
         },
         {
@@ -497,7 +603,9 @@
             "content": "pensé bien faire"
           },
           "back": {
-            "content": ["- [think you're doing well]"]
+            "content": [
+              "- [think you're doing well]"
+            ]
           }
         },
         {
@@ -505,7 +613,9 @@
             "content": "tout a fait"
           },
           "back": {
-            "content": ["- [exactly]"]
+            "content": [
+              "- [exactly]"
+            ]
           }
         },
         {
@@ -513,7 +623,9 @@
             "content": "à qui dites vous!"
           },
           "back": {
-            "content": ["- [who do you tell!]: when nobody listens/understand"]
+            "content": [
+              "- [who do you tell!]: when nobody listens/understand"
+            ]
           }
         },
         {
@@ -521,7 +633,9 @@
             "content": "non plus"
           },
           "back": {
-            "content": ["- [neither]:"]
+            "content": [
+              "- [neither]:"
+            ]
           }
         },
         {
@@ -529,7 +643,9 @@
             "content": "prenez de quoi boire"
           },
           "back": {
-            "content": ["- [grab something to drink]:"]
+            "content": [
+              "- [grab something to drink]:"
+            ]
           }
         },
         {
@@ -537,7 +653,9 @@
             "content": "détester à mort"
           },
           "back": {
-            "content": ["- [hate til death]:"]
+            "content": [
+              "- [hate til death]:"
+            ]
           }
         },
         {
@@ -545,7 +663,9 @@
             "content": "de un"
           },
           "back": {
-            "content": ["- [first of all]:"]
+            "content": [
+              "- [first of all]:"
+            ]
           }
         },
         {
@@ -553,7 +673,9 @@
             "content": "à peu près"
           },
           "back": {
-            "content": ["- [almost]:"]
+            "content": [
+              "- [almost]:"
+            ]
           }
         },
         {
@@ -561,7 +683,9 @@
             "content": "goulot d'étranglement"
           },
           "back": {
-            "content": ["- [bottle neck]:"]
+            "content": [
+              "- [bottle neck]:"
+            ]
           }
         },
         {
@@ -569,7 +693,9 @@
             "content": "une fois que c'est fait"
           },
           "back": {
-            "content": ["- [once this is done]:"]
+            "content": [
+              "- [once this is done]:"
+            ]
           }
         },
         {
@@ -577,7 +703,9 @@
             "content": "au fur et à mesure"
           },
           "back": {
-            "content": ["- [step-by-step]: petit à petit"]
+            "content": [
+              "- [step-by-step]: petit à petit"
+            ]
           }
         },
         {
@@ -605,7 +733,9 @@
             "content": "rien avoire avec X"
           },
           "back": {
-            "content": ["- [has nothing to do with X]:"]
+            "content": [
+              "- [has nothing to do with X]:"
+            ]
           }
         },
         {
@@ -613,7 +743,9 @@
             "content": "laisser de côté"
           },
           "back": {
-            "content": ["- [ignore]:"]
+            "content": [
+              "- [ignore]:"
+            ]
           }
         },
         {
@@ -621,7 +753,9 @@
             "content": "et ainsi de suite"
           },
           "back": {
-            "content": ["- [and so on]:"]
+            "content": [
+              "- [and so on]:"
+            ]
           }
         },
         {
@@ -629,7 +763,9 @@
             "content": "pleine mer"
           },
           "back": {
-            "content": ["- [open sea]:"]
+            "content": [
+              "- [open sea]:"
+            ]
           }
         },
         {
@@ -648,7 +784,9 @@
             "content": "mine de rien"
           },
           "back": {
-            "content": ["- [casually]:"]
+            "content": [
+              "- [casually]:"
+            ]
           }
         },
         {
@@ -656,7 +794,29 @@
             "content": "tourner vers"
           },
           "back": {
-            "content": ["- [head towards]:"]
+            "content": [
+              "- [head towards]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "entend parler"
+          },
+          "back": {
+            "content": [
+              "- [hear about]:"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "n'arrive pas a lire"
+          },
+          "back": {
+            "content": [
+              "- [can't read]:"
+            ]
           }
         }
       ]
@@ -706,5 +866,18 @@
       "currentCardSide": "front",
       "cards": []
     }
-  ]
+  ],
+  "history": {
+    "actions": [],
+    "levels": [
+      {
+        "lengths": [
+          {
+            "length": 0,
+            "date": "2022-10-05T15:39:49.000Z"
+          }
+        ]
+      }
+    ]
+  }
 }

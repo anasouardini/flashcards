@@ -1,0 +1,98 @@
+{
+    "currentLevel": 1,
+    "levels": [
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 1,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        },
+        {
+            "currentCardIndex": 0,
+            "currentCardSide": "front",
+            "cards": []
+        }
+    ],
+    "history": {
+        "actions": [],
+        "levels": [
+            {
+                "lengths": []
+            },
+            {
+                "lengths": []
+            },
+            {
+                "lengths": []
+            },
+            {
+                "lengths": []
+            },
+            {
+                "lengths": []
+            },
+            {
+                "lengths": []
+            },
+            {
+                "lengths": []
+            },
+            {
+                "lengths": []
+            },
+            {
+                "lengths": []
+            },
+            {
+                "lengths": []
+            },
+            {
+                "lengths": []
+            }
+        ]
+    }
+}
