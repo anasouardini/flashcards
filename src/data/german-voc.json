@@ -1,21 +1,10 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 8,
+      "currentCardSide": "back",
       "cards": [
-        {
-          "front": {
-            "content": "Woche (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Week]: ",
-              "- Other Forms: Wochen (plural)"
-            ]
-          }
-        },
         {
           "front": {
             "content": "Gestern (noun, singular, neutre)"
@@ -2599,6 +2588,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Woche (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Week]: ",
+              "- Other Forms: Wochen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -4748,6 +4748,13 @@
         "type": "add",
         "word": "Waschen",
         "date": "2024-09-28T21:27:00.819Z"
+      },
+      {
+        "type": "move",
+        "word": "Woche",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T00:54:22.416Z"
       }
     ],
     "levels": [
@@ -6016,6 +6023,10 @@
           {
             "length": 203,
             "date": "2024-09-28T21:27:00.819Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-09-29T00:54:22.488Z"
           }
         ]
       },
@@ -6340,6 +6351,10 @@
           {
             "length": 32,
             "date": "2024-09-27T21:21:51.094Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-09-29T00:54:22.488Z"
           }
         ]
       },
