@@ -2681,6 +2681,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Geduldig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Patient]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6457,6 +6468,11 @@
         "type": "add",
         "word": "Helfsbereit",
         "date": "2024-09-29T22:18:57.423Z"
+      },
+      {
+        "type": "add",
+        "word": "Geduldig",
+        "date": "2024-09-29T22:19:52.278Z"
       }
     ],
     "levels": [
@@ -8265,6 +8281,10 @@
           {
             "length": 243,
             "date": "2024-09-29T22:18:57.424Z"
+          },
+          {
+            "length": 244,
+            "date": "2024-09-29T22:19:52.279Z"
           }
         ]
       },
