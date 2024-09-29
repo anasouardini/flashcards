@@ -2714,6 +2714,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Selbstbewusst (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Confident]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6505,6 +6516,11 @@
         "type": "add",
         "word": "Neugierig",
         "date": "2024-09-29T22:21:18.410Z"
+      },
+      {
+        "type": "add",
+        "word": "Selbstbewusst",
+        "date": "2024-09-29T22:22:31.385Z"
       }
     ],
     "levels": [
@@ -8325,6 +8341,10 @@
           {
             "length": 246,
             "date": "2024-09-29T22:21:18.410Z"
+          },
+          {
+            "length": 247,
+            "date": "2024-09-29T22:22:31.386Z"
           }
         ]
       },
