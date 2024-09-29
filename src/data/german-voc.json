@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 113,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -1294,17 +1294,6 @@
         },
         {
           "front": {
-            "content": "Schlüssel (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Key]: ",
-              "- Forms: Schlüssel (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Genau (adj.)"
           },
           "back": {
@@ -1415,17 +1404,6 @@
         },
         {
           "front": {
-            "content": "Bekommen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To get/become]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Nehmen (v.)"
           },
           "back": {
@@ -1464,28 +1442,6 @@
           "back": {
             "content": [
               "- [To stand]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bringen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To bring]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kennen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To know]: ",
               "- Forms: "
             ]
           }
@@ -1536,34 +1492,12 @@
         },
         {
           "front": {
-            "content": "Hören (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To listen to]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Spielen (v.)"
           },
           "back": {
             "content": [
               "- [To play/act]: ",
               "- Forms: Spiele (noun, plural, neuter)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kaufen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To buy]: ",
-              "- Forms: "
             ]
           }
         },
@@ -1613,33 +1547,11 @@
         },
         {
           "front": {
-            "content": "Trinken (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To drink]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Treffen (v.)"
           },
           "back": {
             "content": [
               "- [To hit/meet]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lesen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To read]: ",
               "- Forms: "
             ]
           }
@@ -1794,28 +1706,6 @@
           "back": {
             "content": [
               "- [To decide]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Konzentrieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To concentrate]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Waschen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To wash]: ",
               "- Forms: "
             ]
           }
@@ -2575,6 +2465,116 @@
             "content": [
               "- [Hotel]: ",
               "- Forms: Hotels (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schlüssel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Key]: ",
+              "- Forms: Schlüssel (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bekommen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To get/become]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bringen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To bring]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kennen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To know]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hören (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To listen to]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kaufen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To buy]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Trinken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To drink]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lesen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To read]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Konzentrieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To concentrate]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Waschen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To wash]: ",
+              "- Forms: "
             ]
           }
         }
@@ -4975,6 +4975,76 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-29T05:43:08.028Z"
+      },
+      {
+        "type": "move",
+        "word": "Schlüssel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T15:02:02.815Z"
+      },
+      {
+        "type": "move",
+        "word": "Bekommen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T15:10:58.072Z"
+      },
+      {
+        "type": "move",
+        "word": "Bringen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T15:14:08.937Z"
+      },
+      {
+        "type": "move",
+        "word": "Kennen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T15:14:33.288Z"
+      },
+      {
+        "type": "move",
+        "word": "Hören",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T15:21:34.511Z"
+      },
+      {
+        "type": "move",
+        "word": "Kaufen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T15:23:27.702Z"
+      },
+      {
+        "type": "move",
+        "word": "Trinken",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T15:40:17.330Z"
+      },
+      {
+        "type": "move",
+        "word": "Lesen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T15:41:28.153Z"
+      },
+      {
+        "type": "move",
+        "word": "Konzentrieren",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T16:02:37.774Z"
+      },
+      {
+        "type": "move",
+        "word": "Waschen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T16:02:43.229Z"
       }
     ],
     "levels": [
@@ -6391,6 +6461,46 @@
           {
             "length": 165,
             "date": "2024-09-29T05:43:08.028Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-09-29T15:02:02.884Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-09-29T15:10:58.072Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-09-29T15:14:08.937Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-09-29T15:14:33.288Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-09-29T15:21:34.511Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-09-29T15:23:27.702Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-09-29T15:40:17.330Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-09-29T15:41:28.153Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-09-29T16:02:37.774Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-09-29T16:02:43.229Z"
           }
         ]
       },
@@ -6859,6 +6969,46 @@
           {
             "length": 68,
             "date": "2024-09-29T05:43:08.028Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-09-29T15:02:02.884Z"
+          },
+          {
+            "length": 70,
+            "date": "2024-09-29T15:10:58.072Z"
+          },
+          {
+            "length": 71,
+            "date": "2024-09-29T15:14:08.937Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-09-29T15:14:33.288Z"
+          },
+          {
+            "length": 73,
+            "date": "2024-09-29T15:21:34.511Z"
+          },
+          {
+            "length": 74,
+            "date": "2024-09-29T15:23:27.702Z"
+          },
+          {
+            "length": 75,
+            "date": "2024-09-29T15:40:17.330Z"
+          },
+          {
+            "length": 76,
+            "date": "2024-09-29T15:41:28.153Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-09-29T16:02:37.774Z"
+          },
+          {
+            "length": 78,
+            "date": "2024-09-29T16:02:43.229Z"
           }
         ]
       },
