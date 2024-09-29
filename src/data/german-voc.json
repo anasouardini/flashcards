@@ -1786,6 +1786,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sogar (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Even]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5157,6 +5168,11 @@
         "type": "add",
         "word": "Auch_Wenn",
         "date": "2024-09-29T18:07:43.506Z"
+      },
+      {
+        "type": "add",
+        "word": "Sogar",
+        "date": "2024-09-29T18:08:34.445Z"
       }
     ],
     "levels": [
@@ -6641,6 +6657,10 @@
           {
             "length": 162,
             "date": "2024-09-29T18:07:43.506Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-09-29T18:08:34.446Z"
           }
         ]
       },
