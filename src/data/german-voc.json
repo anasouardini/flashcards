@@ -1963,6 +1963,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schnell (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Fast/Quick]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5414,6 +5425,11 @@
         "type": "add",
         "word": "Stark",
         "date": "2024-09-29T18:46:30.291Z"
+      },
+      {
+        "type": "add",
+        "word": "Schnell",
+        "date": "2024-09-29T18:46:46.709Z"
       }
     ],
     "levels": [
@@ -6962,6 +6978,10 @@
           {
             "length": 178,
             "date": "2024-09-29T18:46:30.292Z"
+          },
+          {
+            "length": 179,
+            "date": "2024-09-29T18:46:46.710Z"
           }
         ]
       },
