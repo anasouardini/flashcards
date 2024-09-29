@@ -1830,6 +1830,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zu_der_Zeit (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [By the time]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5221,6 +5232,11 @@
         "type": "add",
         "word": "Sobald",
         "date": "2024-09-29T18:14:26.971Z"
+      },
+      {
+        "type": "add",
+        "word": "Zu_der_Zeit",
+        "date": "2024-09-29T18:15:40.853Z"
       }
     ],
     "levels": [
@@ -6721,6 +6737,10 @@
           {
             "length": 166,
             "date": "2024-09-29T18:14:26.972Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-09-29T18:15:40.853Z"
           }
         ]
       },
