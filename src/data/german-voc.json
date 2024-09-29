@@ -1742,6 +1742,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Damit (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [So that, So, In order to]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5093,6 +5104,11 @@
         "type": "add",
         "word": "Trotzdem",
         "date": "2024-09-29T18:03:20.447Z"
+      },
+      {
+        "type": "add",
+        "word": "Damit",
+        "date": "2024-09-29T18:04:27.169Z"
       }
     ],
     "levels": [
@@ -6561,6 +6577,10 @@
           {
             "length": 158,
             "date": "2024-09-29T18:03:20.448Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-09-29T18:04:27.169Z"
           }
         ]
       },
