@@ -2703,6 +2703,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Neugierig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Curious]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6489,6 +6500,11 @@
         "type": "add",
         "word": "Zuverlässig",
         "date": "2024-09-29T22:20:59.790Z"
+      },
+      {
+        "type": "add",
+        "word": "Neugierig",
+        "date": "2024-09-29T22:21:18.410Z"
       }
     ],
     "levels": [
@@ -8305,6 +8321,10 @@
           {
             "length": 245,
             "date": "2024-09-29T22:20:59.790Z"
+          },
+          {
+            "length": 246,
+            "date": "2024-09-29T22:21:18.410Z"
           }
         ]
       },
