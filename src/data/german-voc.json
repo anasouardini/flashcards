@@ -2098,6 +2098,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Beschreiben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To describe]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5609,6 +5620,11 @@
         "type": "add",
         "word": "Einladen",
         "date": "2024-09-29T19:20:26.975Z"
+      },
+      {
+        "type": "add",
+        "word": "Beschreiben",
+        "date": "2024-09-29T19:21:07.248Z"
       }
     ],
     "levels": [
@@ -7205,6 +7221,10 @@
           {
             "length": 190,
             "date": "2024-09-29T19:20:26.979Z"
+          },
+          {
+            "length": 191,
+            "date": "2024-09-29T19:21:07.248Z"
           }
         ]
       },
