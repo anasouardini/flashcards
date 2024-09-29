@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 102,
+      "currentCardIndex": 113,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1129,7 +1129,7 @@
         },
         {
           "front": {
-            "content": "Aendessen (noun, singular, neuter)"
+            "content": "Abendessen (noun, singular, neuter)"
           },
           "back": {
             "content": [
@@ -1173,17 +1173,6 @@
         },
         {
           "front": {
-            "content": "Groß (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Large]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Klein (adj.)"
           },
           "back": {
@@ -1217,34 +1206,12 @@
         },
         {
           "front": {
-            "content": "Appetit (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Appetite]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Schon (adv.)"
           },
           "back": {
             "content": [
               "- [Already/Yet]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hotel (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Hotel]: ",
-              "- Forms: Hotels (plural)"
             ]
           }
         },
@@ -2575,6 +2542,39 @@
             "content": [
               "- [Card]: ",
               "- Forms: Karten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Groß (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Large]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Appetit (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Appetite]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hotel (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Hotel]: ",
+              "- Forms: Hotels (plural)"
             ]
           }
         }
@@ -4384,7 +4384,7 @@
       },
       {
         "type": "add",
-        "word": "Aendessen",
+        "word": "Abendessen",
         "date": "2024-09-28T16:31:05.529Z"
       },
       {
@@ -4954,6 +4954,27 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-29T05:31:50.667Z"
+      },
+      {
+        "type": "move",
+        "word": "Groß",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:41:51.828Z"
+      },
+      {
+        "type": "move",
+        "word": "Appetit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:42:34.989Z"
+      },
+      {
+        "type": "move",
+        "word": "Hotel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:43:08.028Z"
       }
     ],
     "levels": [
@@ -6358,6 +6379,18 @@
           {
             "length": 168,
             "date": "2024-09-29T05:31:50.667Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-09-29T05:41:51.828Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-09-29T05:42:34.989Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-09-29T05:43:08.028Z"
           }
         ]
       },
@@ -6814,6 +6847,18 @@
           {
             "length": 65,
             "date": "2024-09-29T05:31:50.667Z"
+          },
+          {
+            "length": 66,
+            "date": "2024-09-29T05:41:51.828Z"
+          },
+          {
+            "length": 67,
+            "date": "2024-09-29T05:42:34.989Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-09-29T05:43:08.028Z"
           }
         ]
       },
