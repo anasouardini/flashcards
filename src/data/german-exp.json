@@ -15,6 +15,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nicht nur... sondern auch..."
+          },
+          "back": {
+            "content": [
+              "- [Not only... but also...]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -75,6 +86,11 @@
         "type": "add",
         "word": "Kein...",
         "date": "2024-09-29T18:44:33.433Z"
+      },
+      {
+        "type": "add",
+        "word": "Nicht",
+        "date": "2024-09-29T18:45:34.796Z"
       }
     ],
     "levels": [
@@ -83,6 +99,10 @@
           {
             "length": 1,
             "date": "2024-09-29T18:44:33.433Z"
+          },
+          {
+            "length": 2,
+            "date": "2024-09-29T18:45:34.797Z"
           }
         ]
       },
