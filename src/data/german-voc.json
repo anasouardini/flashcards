@@ -2780,6 +2780,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Erfolgreich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Successful]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6601,6 +6612,11 @@
         "type": "add",
         "word": "Nett",
         "date": "2024-09-29T22:25:27.989Z"
+      },
+      {
+        "type": "add",
+        "word": "Erfolgreich",
+        "date": "2024-09-29T22:25:56.158Z"
       }
     ],
     "levels": [
@@ -8445,6 +8461,10 @@
           {
             "length": 252,
             "date": "2024-09-29T22:25:27.989Z"
+          },
+          {
+            "length": 253,
+            "date": "2024-09-29T22:25:56.158Z"
           }
         ]
       },
