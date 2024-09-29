@@ -2049,6 +2049,19 @@
           "back": {
             "content": [
               "- [To sit down]: ",
+              "- [To put]: ",
+              "- [To place]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hoffen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To hope]: ",
               "- Forms: "
             ]
           }
@@ -5543,6 +5556,11 @@
         "type": "add",
         "word": "Setzen",
         "date": "2024-09-29T19:17:41.128Z"
+      },
+      {
+        "type": "add",
+        "word": "Hoffen",
+        "date": "2024-09-29T19:18:23.067Z"
       }
     ],
     "levels": [
@@ -7123,6 +7141,10 @@
           {
             "length": 186,
             "date": "2024-09-29T19:17:41.128Z"
+          },
+          {
+            "length": 187,
+            "date": "2024-09-29T19:18:23.067Z"
           }
         ]
       },
