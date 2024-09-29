@@ -1974,6 +1974,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ob (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Whether]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5430,6 +5441,11 @@
         "type": "add",
         "word": "Schnell",
         "date": "2024-09-29T18:46:46.709Z"
+      },
+      {
+        "type": "add",
+        "word": "Ob",
+        "date": "2024-09-29T18:51:30.429Z"
       }
     ],
     "levels": [
@@ -6982,6 +6998,10 @@
           {
             "length": 179,
             "date": "2024-09-29T18:46:46.710Z"
+          },
+          {
+            "length": 180,
+            "date": "2024-09-29T18:51:30.429Z"
           }
         ]
       },
