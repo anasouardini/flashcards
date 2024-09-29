@@ -2758,6 +2758,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sympathisch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Likeable]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6569,6 +6580,11 @@
         "type": "add",
         "word": "Cool",
         "date": "2024-09-29T22:23:25.951Z"
+      },
+      {
+        "type": "add",
+        "word": "Sympathisch",
+        "date": "2024-09-29T22:25:16.652Z"
       }
     ],
     "levels": [
@@ -8405,6 +8421,10 @@
           {
             "length": 250,
             "date": "2024-09-29T22:23:25.951Z"
+          },
+          {
+            "length": 251,
+            "date": "2024-09-29T22:25:16.652Z"
           }
         ]
       },
