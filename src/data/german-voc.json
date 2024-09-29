@@ -2307,6 +2307,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Merken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To notice/realize]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5913,6 +5924,11 @@
         "type": "add",
         "word": "Erinnern",
         "date": "2024-09-29T19:41:00.448Z"
+      },
+      {
+        "type": "add",
+        "word": "Merken",
+        "date": "2024-09-29T19:41:48.688Z"
       }
     ],
     "levels": [
@@ -7585,6 +7601,10 @@
           {
             "length": 209,
             "date": "2024-09-29T19:41:00.449Z"
+          },
+          {
+            "length": 210,
+            "date": "2024-09-29T19:41:48.689Z"
           }
         ]
       },
