@@ -1874,6 +1874,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Immer (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Ever]: Wann immer : When ever",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5285,6 +5296,11 @@
         "type": "add",
         "word": "Bevor",
         "date": "2024-09-29T18:18:47.026Z"
+      },
+      {
+        "type": "add",
+        "word": "Immer",
+        "date": "2024-09-29T18:20:20.867Z"
       }
     ],
     "levels": [
@@ -6801,6 +6817,10 @@
           {
             "length": 170,
             "date": "2024-09-29T18:18:47.027Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-09-29T18:20:20.867Z"
           }
         ]
       },
