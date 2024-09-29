@@ -2880,6 +2880,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Besorgt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Worried]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6746,6 +6757,11 @@
         "type": "add",
         "word": "Überrascht",
         "date": "2024-09-29T22:32:52.140Z"
+      },
+      {
+        "type": "add",
+        "word": "Besorgt",
+        "date": "2024-09-29T22:33:28.684Z"
       }
     ],
     "levels": [
@@ -8626,6 +8642,10 @@
           {
             "length": 261,
             "date": "2024-09-29T22:32:52.140Z"
+          },
+          {
+            "length": 262,
+            "date": "2024-09-29T22:33:28.684Z"
           }
         ]
       },
