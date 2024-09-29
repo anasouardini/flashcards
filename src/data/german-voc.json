@@ -2241,6 +2241,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Tragen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To carry/wear]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5817,6 +5828,11 @@
         "type": "add",
         "word": "Verkaufen",
         "date": "2024-09-29T19:36:16.621Z"
+      },
+      {
+        "type": "add",
+        "word": "Tragen",
+        "date": "2024-09-29T19:38:05.739Z"
       }
     ],
     "levels": [
@@ -7465,6 +7481,10 @@
           {
             "length": 203,
             "date": "2024-09-29T19:36:16.621Z"
+          },
+          {
+            "length": 204,
+            "date": "2024-09-29T19:38:05.740Z"
           }
         ]
       },
