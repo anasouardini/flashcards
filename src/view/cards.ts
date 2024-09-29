@@ -220,7 +220,7 @@ function moveCardToLevel({
   recordHistory({
     type: 'move',
     // @ts-ignore
-    word: targetLevel.cards.at(-1).front.content.trim(),
+    word: targetLevel.cards.at(-1).front.content.trim().split(' ')[0],
     fromLevel: currentLevelKey,
     toLevel: targetLevelIndex,
     date: new Date().toISOString(),
