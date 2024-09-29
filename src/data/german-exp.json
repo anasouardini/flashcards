@@ -1,98 +1,121 @@
 {
-    "currentLevel": 1,
-    "levels": [
+  "currentLevel": 1,
+  "levels": [
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": [
         {
-            "currentCardIndex": 0,
-            "currentCardSide": "front",
-            "cards": []
-        },
-        {
-            "currentCardIndex": 1,
-            "currentCardSide": "front",
-            "cards": []
-        },
-        {
-            "currentCardIndex": 0,
-            "currentCardSide": "front",
-            "cards": []
-        },
-        {
-            "currentCardIndex": 0,
-            "currentCardSide": "front",
-            "cards": []
-        },
-        {
-            "currentCardIndex": 0,
-            "currentCardSide": "front",
-            "cards": []
-        },
-        {
-            "currentCardIndex": 0,
-            "currentCardSide": "front",
-            "cards": []
-        },
-        {
-            "currentCardIndex": 0,
-            "currentCardSide": "front",
-            "cards": []
-        },
-        {
-            "currentCardIndex": 0,
-            "currentCardSide": "front",
-            "cards": []
-        },
-        {
-            "currentCardIndex": 0,
-            "currentCardSide": "front",
-            "cards": []
-        },
-        {
-            "currentCardIndex": 0,
-            "currentCardSide": "front",
-            "cards": []
-        },
-        {
-            "currentCardIndex": 0,
-            "currentCardSide": "front",
-            "cards": []
+          "front": {
+            "content": "Kein... sondern..."
+          },
+          "back": {
+            "content": [
+              "- [Not... but...]: Kein das sondern dass : Not this but that",
+              "- Forms: "
+            ]
+          }
         }
-    ],
-    "history": {
-        "actions": [],
-        "levels": [
-            {
-                "lengths": []
-            },
-            {
-                "lengths": []
-            },
-            {
-                "lengths": []
-            },
-            {
-                "lengths": []
-            },
-            {
-                "lengths": []
-            },
-            {
-                "lengths": []
-            },
-            {
-                "lengths": []
-            },
-            {
-                "lengths": []
-            },
-            {
-                "lengths": []
-            },
-            {
-                "lengths": []
-            },
-            {
-                "lengths": []
-            }
-        ]
+      ]
+    },
+    {
+      "currentCardIndex": 1,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
+      "cards": []
     }
+  ],
+  "history": {
+    "actions": [
+      {
+        "type": "add",
+        "word": "Kein...",
+        "date": "2024-09-29T18:44:33.433Z"
+      }
+    ],
+    "levels": [
+      {
+        "lengths": [
+          {
+            "length": 1,
+            "date": "2024-09-29T18:44:33.433Z"
+          }
+        ]
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      },
+      {
+        "lengths": []
+      }
+    ]
+  }
 }
