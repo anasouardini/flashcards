@@ -672,6 +672,7 @@
           "back": {
             "content": [
               "- [As]: ",
+              "- [Than]: ",
               "- Forms: "
             ]
           }
@@ -1893,6 +1894,17 @@
           "back": {
             "content": [
               "- [That]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weil (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Because]: ",
               "- Forms: "
             ]
           }
@@ -5317,6 +5329,11 @@
         "type": "add",
         "word": "Dass",
         "date": "2024-09-29T18:24:51.915Z"
+      },
+      {
+        "type": "add",
+        "word": "Weil",
+        "date": "2024-09-29T18:26:55.101Z"
       }
     ],
     "levels": [
@@ -6841,6 +6858,10 @@
           {
             "length": 172,
             "date": "2024-09-29T18:24:51.915Z"
+          },
+          {
+            "length": 173,
+            "date": "2024-09-29T18:26:55.101Z"
           }
         ]
       },
