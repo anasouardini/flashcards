@@ -1753,6 +1753,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Obwohl (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Although]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5109,6 +5120,11 @@
         "type": "add",
         "word": "Damit",
         "date": "2024-09-29T18:04:27.169Z"
+      },
+      {
+        "type": "add",
+        "word": "Obwohl",
+        "date": "2024-09-29T18:05:10.883Z"
       }
     ],
     "levels": [
@@ -6581,6 +6597,10 @@
           {
             "length": 159,
             "date": "2024-09-29T18:04:27.169Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-09-29T18:05:10.884Z"
           }
         ]
       },
