@@ -1797,6 +1797,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nur_Wenn (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Only if]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5173,6 +5184,11 @@
         "type": "add",
         "word": "Sogar",
         "date": "2024-09-29T18:08:34.445Z"
+      },
+      {
+        "type": "add",
+        "word": "Nur_Wenn",
+        "date": "2024-09-29T18:09:06.574Z"
       }
     ],
     "levels": [
@@ -6661,6 +6677,10 @@
           {
             "length": 163,
             "date": "2024-09-29T18:08:34.446Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-09-29T18:09:06.575Z"
           }
         ]
       },
