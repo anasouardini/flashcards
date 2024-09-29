@@ -2329,6 +2329,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Erkennen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To recognize/realize]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5945,6 +5956,11 @@
         "type": "add",
         "word": "Lieben",
         "date": "2024-09-29T19:42:24.688Z"
+      },
+      {
+        "type": "add",
+        "word": "Erkennen",
+        "date": "2024-09-29T19:43:43.876Z"
       }
     ],
     "levels": [
@@ -7625,6 +7641,10 @@
           {
             "length": 211,
             "date": "2024-09-29T19:42:24.688Z"
+          },
+          {
+            "length": 212,
+            "date": "2024-09-29T19:43:43.876Z"
           }
         ]
       },
