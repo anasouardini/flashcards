@@ -264,7 +264,7 @@
           },
           "back": {
             "content": [
-              "- [Easy]: Nicht so einfach : Not so easy",
+              "- [Easy] (don't use with physical tasks): Nicht so einfach : Not so easy",
               "- [Simple]: Nicht so einfach : Not so easy",
               "- Forms: "
             ]
@@ -2956,7 +2956,18 @@
           },
           "back": {
             "content": [
-              "- [Difficult]: ",
+              "- [Difficult] (don't use with physical tasks): ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wichtig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Important]: ",
               "- Forms: "
             ]
           }
@@ -6861,6 +6872,11 @@
         "type": "add",
         "word": "Schwierig",
         "date": "2024-09-29T22:38:06.234Z"
+      },
+      {
+        "type": "add",
+        "word": "Wichtig",
+        "date": "2024-09-29T22:43:22.929Z"
       }
     ],
     "levels": [
@@ -8769,6 +8785,10 @@
           {
             "length": 268,
             "date": "2024-09-29T22:38:06.235Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-09-29T22:43:22.930Z"
           }
         ]
       },
