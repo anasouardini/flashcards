@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 80,
+      "currentCardIndex": 102,
       "currentCardSide": "back",
       "cards": [
         {
@@ -887,45 +887,12 @@
         },
         {
           "front": {
-            "content": "Warm (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Worm]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Entschuldigung (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Excuse/Appology]: ",
               "- Forms: Entschuldigungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hunger (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Hunger]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Durst (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Thirst]: ",
-              "- Forms: "
             ]
           }
         },
@@ -948,17 +915,6 @@
             "content": [
               "- [Toilet]: ",
               "- Forms: Klos (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Toilette (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Toilet]: ",
-              "- Forms: Toiletten (plural)"
             ]
           }
         },
@@ -997,34 +953,12 @@
         },
         {
           "front": {
-            "content": "Kosten (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Cost]: ",
-              "- Forms: Kosten (noun, plural, neuter)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Teuer (adj.)"
           },
           "back": {
             "content": [
               "- [Expensive]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Karte (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Card]: ",
-              "- Forms: Karten (plural)"
             ]
           }
         },
@@ -2575,6 +2509,72 @@
             "content": [
               "- [Topic]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Warm (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Warm]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hunger (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Hunger]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Durst (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Thirst]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Toilette (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Toilet]: ",
+              "- Forms: Toiletten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kosten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Cost]: ",
+              "- Forms: Kosten (noun, plural, neuter)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Karte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Card]: ",
+              "- Forms: Karten (plural)"
             ]
           }
         }
@@ -4912,6 +4912,48 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-29T05:23:38.964Z"
+      },
+      {
+        "type": "move",
+        "word": "Warm",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:26:14.243Z"
+      },
+      {
+        "type": "move",
+        "word": "Hunger",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:27:39.203Z"
+      },
+      {
+        "type": "move",
+        "word": "Durst",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:27:48.781Z"
+      },
+      {
+        "type": "move",
+        "word": "Toilette",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:28:30.667Z"
+      },
+      {
+        "type": "move",
+        "word": "Kosten",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:30:46.282Z"
+      },
+      {
+        "type": "move",
+        "word": "Karte",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:31:50.667Z"
       }
     ],
     "levels": [
@@ -6292,6 +6334,30 @@
           {
             "length": 174,
             "date": "2024-09-29T05:23:38.964Z"
+          },
+          {
+            "length": 173,
+            "date": "2024-09-29T05:26:14.243Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-09-29T05:27:39.203Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-09-29T05:27:48.781Z"
+          },
+          {
+            "length": 170,
+            "date": "2024-09-29T05:28:30.667Z"
+          },
+          {
+            "length": 169,
+            "date": "2024-09-29T05:30:46.282Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-09-29T05:31:50.667Z"
           }
         ]
       },
@@ -6724,6 +6790,30 @@
           {
             "length": 59,
             "date": "2024-09-29T05:23:38.964Z"
+          },
+          {
+            "length": 60,
+            "date": "2024-09-29T05:26:14.243Z"
+          },
+          {
+            "length": 61,
+            "date": "2024-09-29T05:27:39.203Z"
+          },
+          {
+            "length": 62,
+            "date": "2024-09-29T05:27:48.781Z"
+          },
+          {
+            "length": 63,
+            "date": "2024-09-29T05:28:30.667Z"
+          },
+          {
+            "length": 64,
+            "date": "2024-09-29T05:30:46.282Z"
+          },
+          {
+            "length": 65,
+            "date": "2024-09-29T05:31:50.667Z"
           }
         ]
       },
