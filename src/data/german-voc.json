@@ -2230,6 +2230,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Verkaufen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To sell]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5801,6 +5812,11 @@
         "type": "add",
         "word": "Bezahlen",
         "date": "2024-09-29T19:35:39.982Z"
+      },
+      {
+        "type": "add",
+        "word": "Verkaufen",
+        "date": "2024-09-29T19:36:16.621Z"
       }
     ],
     "levels": [
@@ -7445,6 +7461,10 @@
           {
             "length": 202,
             "date": "2024-09-29T19:35:39.982Z"
+          },
+          {
+            "length": 203,
+            "date": "2024-09-29T19:36:16.621Z"
           }
         ]
       },
