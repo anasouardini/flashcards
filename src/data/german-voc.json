@@ -1819,6 +1819,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sobald (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [As soon as]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5205,6 +5216,11 @@
         "type": "add",
         "word": "Nachdem",
         "date": "2024-09-29T18:13:14.732Z"
+      },
+      {
+        "type": "add",
+        "word": "Sobald",
+        "date": "2024-09-29T18:14:26.971Z"
       }
     ],
     "levels": [
@@ -6701,6 +6717,10 @@
           {
             "length": 165,
             "date": "2024-09-29T18:13:14.733Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-09-29T18:14:26.972Z"
           }
         ]
       },
