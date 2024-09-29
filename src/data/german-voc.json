@@ -1941,6 +1941,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sondern (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [...But]: Kein das sondern dass : Not this but that",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5382,6 +5393,11 @@
         "type": "add",
         "word": "Noch",
         "date": "2024-09-29T18:39:16.156Z"
+      },
+      {
+        "type": "add",
+        "word": "Sondern",
+        "date": "2024-09-29T18:42:13.074Z"
       }
     ],
     "levels": [
@@ -6922,6 +6938,10 @@
           {
             "length": 176,
             "date": "2024-09-29T18:39:16.157Z"
+          },
+          {
+            "length": 177,
+            "date": "2024-09-29T18:42:13.074Z"
           }
         ]
       },
