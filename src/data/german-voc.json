@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 76,
-      "currentCardSide": "front",
+      "currentCardIndex": 80,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -859,17 +859,6 @@
           "back": {
             "content": [
               "- [Bad]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Thema (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Topic]: ",
               "- Forms: "
             ]
           }
@@ -2574,6 +2563,17 @@
           "back": {
             "content": [
               "- [To write]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Thema (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Topic]: ",
               "- Forms: "
             ]
           }
@@ -4905,6 +4905,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-29T05:21:46.180Z"
+      },
+      {
+        "type": "move",
+        "word": "Thema",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:23:38.964Z"
       }
     ],
     "levels": [
@@ -6281,6 +6288,10 @@
           {
             "length": 175,
             "date": "2024-09-29T05:21:46.180Z"
+          },
+          {
+            "length": 174,
+            "date": "2024-09-29T05:23:38.964Z"
           }
         ]
       },
@@ -6709,6 +6720,10 @@
           {
             "length": 58,
             "date": "2024-09-29T05:21:46.180Z"
+          },
+          {
+            "length": 59,
+            "date": "2024-09-29T05:23:38.964Z"
           }
         ]
       },
