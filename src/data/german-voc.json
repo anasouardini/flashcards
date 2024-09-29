@@ -2131,6 +2131,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Besuchen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To visit/attend]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5657,6 +5668,11 @@
         "type": "add",
         "word": "Ändern",
         "date": "2024-09-29T19:25:23.616Z"
+      },
+      {
+        "type": "add",
+        "word": "Besuchen",
+        "date": "2024-09-29T19:25:59.326Z"
       }
     ],
     "levels": [
@@ -7265,6 +7281,10 @@
           {
             "length": 193,
             "date": "2024-09-29T19:25:23.617Z"
+          },
+          {
+            "length": 194,
+            "date": "2024-09-29T19:25:59.326Z"
           }
         ]
       },
