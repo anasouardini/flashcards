@@ -2932,6 +2932,18 @@
           "back": {
             "content": [
               "- [Light]: ",
+              "- [Easy]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schwer (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Heavy]: ",
               "- Forms: "
             ]
           }
@@ -6826,6 +6838,11 @@
         "type": "add",
         "word": "Leicht",
         "date": "2024-09-29T22:36:12.605Z"
+      },
+      {
+        "type": "add",
+        "word": "Schwer",
+        "date": "2024-09-29T22:36:45.689Z"
       }
     ],
     "levels": [
@@ -8726,6 +8743,10 @@
           {
             "length": 266,
             "date": "2024-09-29T22:36:12.605Z"
+          },
+          {
+            "length": 267,
+            "date": "2024-09-29T22:36:45.690Z"
           }
         ]
       },
