@@ -1775,6 +1775,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Auch_Wenn (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Even if]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5141,6 +5152,11 @@
         "type": "add",
         "word": "Während",
         "date": "2024-09-29T18:05:47.576Z"
+      },
+      {
+        "type": "add",
+        "word": "Auch_Wenn",
+        "date": "2024-09-29T18:07:43.506Z"
       }
     ],
     "levels": [
@@ -6621,6 +6637,10 @@
           {
             "length": 161,
             "date": "2024-09-29T18:05:47.576Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-09-29T18:07:43.506Z"
           }
         ]
       },
