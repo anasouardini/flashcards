@@ -3,7 +3,7 @@
   "levels": [
     {
       "currentCardIndex": 28,
-      "currentCardSide": "front",
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -309,28 +309,6 @@
           "back": {
             "content": [
               "- [in/at/on/for]: Auf Deutsch : In German",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Alt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Old]: Wie alt bist du? : How old are you?",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kommen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Come]: Woher kommst du? : Where do you come from?",
               "- Forms: "
             ]
           }
@@ -2186,7 +2164,7 @@
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 27,
       "currentCardSide": "front",
       "cards": [
         {
@@ -2567,17 +2545,6 @@
         },
         {
           "front": {
-            "content": "Alt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Old]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Können (noun, singular, neuter)"
           },
           "back": {
@@ -2596,6 +2563,28 @@
             "content": [
               "- [Know]: ",
               "- [White] (noun, singular, neuter): ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Alt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Old]: Wie alt bist du? : How old are you?",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kommen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Come]: Woher kommst du? : Where do you come from?",
               "- Forms: "
             ]
           }
@@ -3565,11 +3554,6 @@
         "type": "add",
         "word": "Auf",
         "date": "2024-09-25T21:58:05.090Z"
-      },
-      {
-        "type": "add",
-        "word": "Alt",
-        "date": "2024-09-25T22:01:44.974Z"
       },
       {
         "type": "add",
@@ -4783,6 +4767,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-29T03:10:58.737Z"
+      },
+      {
+        "type": "move",
+        "word": "Alt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T03:20:14.166Z"
+      },
+      {
+        "type": "move",
+        "word": "Kommen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T03:20:35.087Z"
       }
     ],
     "levels": [
@@ -6071,6 +6069,14 @@
           {
             "length": 198,
             "date": "2024-09-29T03:10:58.737Z"
+          },
+          {
+            "length": 197,
+            "date": "2024-09-29T03:20:14.166Z"
+          },
+          {
+            "length": 196,
+            "date": "2024-09-29T03:20:35.088Z"
           }
         ]
       },
@@ -6415,6 +6421,10 @@
           {
             "length": 37,
             "date": "2024-09-29T03:10:58.737Z"
+          },
+          {
+            "length": 38,
+            "date": "2024-09-29T03:20:35.088Z"
           }
         ]
       },
