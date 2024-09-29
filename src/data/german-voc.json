@@ -2604,6 +2604,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Komisch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Strange]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6345,6 +6356,11 @@
         "type": "add",
         "word": "Schwach",
         "date": "2024-09-29T22:12:25.517Z"
+      },
+      {
+        "type": "add",
+        "word": "Komisch",
+        "date": "2024-09-29T22:13:13.379Z"
       }
     ],
     "levels": [
@@ -8125,6 +8141,10 @@
           {
             "length": 236,
             "date": "2024-09-29T22:12:25.517Z"
+          },
+          {
+            "length": 237,
+            "date": "2024-09-29T22:13:13.379Z"
           }
         ]
       },
