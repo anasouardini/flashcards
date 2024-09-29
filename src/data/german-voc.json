@@ -265,6 +265,7 @@
           "back": {
             "content": [
               "- [Easy]: Nicht so einfach : Not so easy",
+              "- [Simple]: Nicht so einfach : Not so easy",
               "- Forms: "
             ]
           }
@@ -2944,6 +2945,18 @@
           "back": {
             "content": [
               "- [Heavy]: ",
+              "- [Difficult]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schwierig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Difficult]: ",
               "- Forms: "
             ]
           }
@@ -6843,6 +6856,11 @@
         "type": "add",
         "word": "Schwer",
         "date": "2024-09-29T22:36:45.689Z"
+      },
+      {
+        "type": "add",
+        "word": "Schwierig",
+        "date": "2024-09-29T22:38:06.234Z"
       }
     ],
     "levels": [
@@ -8747,6 +8765,10 @@
           {
             "length": 267,
             "date": "2024-09-29T22:36:45.690Z"
+          },
+          {
+            "length": 268,
+            "date": "2024-09-29T22:38:06.235Z"
           }
         ]
       },
