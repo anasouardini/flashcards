@@ -2736,6 +2736,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sozial (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Social]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6537,6 +6548,11 @@
         "type": "add",
         "word": "Schüchtern",
         "date": "2024-09-29T22:22:58.027Z"
+      },
+      {
+        "type": "add",
+        "word": "Sozial",
+        "date": "2024-09-29T22:23:17.596Z"
       }
     ],
     "levels": [
@@ -8365,6 +8381,10 @@
           {
             "length": 248,
             "date": "2024-09-29T22:22:58.027Z"
+          },
+          {
+            "length": 249,
+            "date": "2024-09-29T22:23:17.596Z"
           }
         ]
       },
