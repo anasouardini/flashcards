@@ -2913,6 +2913,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zufrieden (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Satisfied]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6794,6 +6805,11 @@
         "type": "add",
         "word": "Enttäuscht",
         "date": "2024-09-29T22:35:00.645Z"
+      },
+      {
+        "type": "add",
+        "word": "Zufrieden",
+        "date": "2024-09-29T22:35:50.240Z"
       }
     ],
     "levels": [
@@ -8686,6 +8702,10 @@
           {
             "length": 264,
             "date": "2024-09-29T22:35:00.646Z"
+          },
+          {
+            "length": 265,
+            "date": "2024-09-29T22:35:50.241Z"
           }
         ]
       },
