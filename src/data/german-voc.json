@@ -2799,6 +2799,18 @@
           "back": {
             "content": [
               "- [Happy]: ",
+              "- [Lucky]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gestresst (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Stressed]: ",
               "- Forms: "
             ]
           }
@@ -6633,6 +6645,11 @@
         "type": "add",
         "word": "Glücklich",
         "date": "2024-09-29T22:26:32.420Z"
+      },
+      {
+        "type": "add",
+        "word": "Gestresst",
+        "date": "2024-09-29T22:27:34.727Z"
       }
     ],
     "levels": [
@@ -8485,6 +8502,10 @@
           {
             "length": 254,
             "date": "2024-09-29T22:26:32.420Z"
+          },
+          {
+            "length": 255,
+            "date": "2024-09-29T22:27:34.728Z"
           }
         ]
       },
