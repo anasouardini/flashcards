@@ -2219,6 +2219,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bezahlen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To pay]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5785,6 +5796,11 @@
         "type": "add",
         "word": "Erwarten",
         "date": "2024-09-29T19:34:17.876Z"
+      },
+      {
+        "type": "add",
+        "word": "Bezahlen",
+        "date": "2024-09-29T19:35:39.982Z"
       }
     ],
     "levels": [
@@ -7425,6 +7441,10 @@
           {
             "length": 201,
             "date": "2024-09-29T19:34:17.876Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-09-29T19:35:39.982Z"
           }
         ]
       },
