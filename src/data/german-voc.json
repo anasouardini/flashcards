@@ -1908,6 +1908,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Entweder (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Either]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5334,6 +5345,11 @@
         "type": "add",
         "word": "Weil",
         "date": "2024-09-29T18:26:55.101Z"
+      },
+      {
+        "type": "add",
+        "word": "Entweder",
+        "date": "2024-09-29T18:33:38.424Z"
       }
     ],
     "levels": [
@@ -6862,6 +6878,10 @@
           {
             "length": 173,
             "date": "2024-09-29T18:26:55.101Z"
+          },
+          {
+            "length": 174,
+            "date": "2024-09-29T18:33:38.425Z"
           }
         ]
       },
