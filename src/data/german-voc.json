@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 8,
-      "currentCardSide": "back",
+      "currentCardIndex": 28,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -99,7 +99,7 @@
           },
           "back": {
             "content": [
-              "- [Way]: ",
+              "- [Way/Path]: ",
               "- Forms: Wege (plural)"
             ]
           }
@@ -172,17 +172,6 @@
         },
         {
           "front": {
-            "content": "Billig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Cheap]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wohnen (v.)"
           },
           "back": {
@@ -210,17 +199,6 @@
           "back": {
             "content": [
               "- [If/When]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Alt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Old]: ",
               "- Forms: "
             ]
           }
@@ -271,35 +249,11 @@
         },
         {
           "front": {
-            "content": "Können (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Ability/Skill] (n.): ",
-              "- [To Know/To be able to] (v.): ",
-              "- Forms: Können (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Auch (adv.)"
           },
           "back": {
             "content": [
               "- [Also]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Weiß (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Know]: ",
-              "- [White] (noun, singular, neuter): ",
               "- Forms: "
             ]
           }
@@ -2599,6 +2553,52 @@
               "- Other Forms: Wochen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Billig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Cheap]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Alt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Old]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Können (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Ability/Skill] (n.): ",
+              "- [To Know/To be able to] (v.): ",
+              "- Forms: Können (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weiß (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Know]: ",
+              "- [White] (noun, singular, neuter): ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4755,6 +4755,34 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-29T00:54:22.416Z"
+      },
+      {
+        "type": "move",
+        "word": "Billig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T03:07:39.133Z"
+      },
+      {
+        "type": "move",
+        "word": "Alt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T03:07:43.905Z"
+      },
+      {
+        "type": "move",
+        "word": "Können",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T03:10:42.809Z"
+      },
+      {
+        "type": "move",
+        "word": "Weiß",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T03:10:58.737Z"
       }
     ],
     "levels": [
@@ -6027,6 +6055,22 @@
           {
             "length": 202,
             "date": "2024-09-29T00:54:22.488Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-09-29T03:07:39.148Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-09-29T03:07:43.905Z"
+          },
+          {
+            "length": 199,
+            "date": "2024-09-29T03:10:42.809Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-09-29T03:10:58.737Z"
           }
         ]
       },
@@ -6355,6 +6399,22 @@
           {
             "length": 33,
             "date": "2024-09-29T00:54:22.488Z"
+          },
+          {
+            "length": 34,
+            "date": "2024-09-29T03:07:39.148Z"
+          },
+          {
+            "length": 35,
+            "date": "2024-09-29T03:07:43.905Z"
+          },
+          {
+            "length": 36,
+            "date": "2024-09-29T03:10:42.809Z"
+          },
+          {
+            "length": 37,
+            "date": "2024-09-29T03:10:58.737Z"
           }
         ]
       },
