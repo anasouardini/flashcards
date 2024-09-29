@@ -2208,6 +2208,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Erwarten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To expect]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5769,6 +5780,11 @@
         "type": "add",
         "word": "Entwickeln",
         "date": "2024-09-29T19:34:00.729Z"
+      },
+      {
+        "type": "add",
+        "word": "Erwarten",
+        "date": "2024-09-29T19:34:17.876Z"
       }
     ],
     "levels": [
@@ -7405,6 +7421,10 @@
           {
             "length": 200,
             "date": "2024-09-29T19:34:00.729Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-09-29T19:34:17.876Z"
           }
         ]
       },
