@@ -1930,6 +1930,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Noch (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Nor]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5366,6 +5377,11 @@
         "type": "add",
         "word": "Weder",
         "date": "2024-09-29T18:39:04.389Z"
+      },
+      {
+        "type": "add",
+        "word": "Noch",
+        "date": "2024-09-29T18:39:16.156Z"
       }
     ],
     "levels": [
@@ -6902,6 +6918,10 @@
           {
             "length": 175,
             "date": "2024-09-29T18:39:04.390Z"
+          },
+          {
+            "length": 176,
+            "date": "2024-09-29T18:39:16.157Z"
           }
         ]
       },
