@@ -6,7 +6,10 @@
   "scripts": {
     "start": "ts-node ./src/index.ts",
     "format": "prettier --write .",
-    "insert": "ts-node ./src/tools/add-word.ts"
+    "insertfrvoc": "ts-node ./src/tools/add-word.ts french-voc",
+    "insertfrexp": "ts-node ./src/tools/add-word.ts french-exp",
+    "insertdevoc": "ts-node ./src/tools/add-word.ts german-voc",
+    "insertdeexp": "ts-node ./src/tools/add-word.ts german-exp"
   },
   "bin": {
     "flashcards": "./dist/index.js"
