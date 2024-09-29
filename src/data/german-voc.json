@@ -2670,6 +2670,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Helfsbereit (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Helpful]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6441,6 +6452,11 @@
         "type": "add",
         "word": "Offen",
         "date": "2024-09-29T22:17:44.497Z"
+      },
+      {
+        "type": "add",
+        "word": "Helfsbereit",
+        "date": "2024-09-29T22:18:57.423Z"
       }
     ],
     "levels": [
@@ -8245,6 +8261,10 @@
           {
             "length": 242,
             "date": "2024-09-29T22:17:44.497Z"
+          },
+          {
+            "length": 243,
+            "date": "2024-09-29T22:18:57.424Z"
           }
         ]
       },
