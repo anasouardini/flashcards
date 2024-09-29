@@ -2924,6 +2924,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Leicht (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Light]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6810,6 +6821,11 @@
         "type": "add",
         "word": "Zufrieden",
         "date": "2024-09-29T22:35:50.240Z"
+      },
+      {
+        "type": "add",
+        "word": "Leicht",
+        "date": "2024-09-29T22:36:12.605Z"
       }
     ],
     "levels": [
@@ -8706,6 +8722,10 @@
           {
             "length": 265,
             "date": "2024-09-29T22:35:50.241Z"
+          },
+          {
+            "length": 266,
+            "date": "2024-09-29T22:36:12.605Z"
           }
         ]
       },
