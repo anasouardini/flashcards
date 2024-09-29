@@ -1885,6 +1885,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Dass (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [That]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5301,6 +5312,11 @@
         "type": "add",
         "word": "Immer",
         "date": "2024-09-29T18:20:20.867Z"
+      },
+      {
+        "type": "add",
+        "word": "Dass",
+        "date": "2024-09-29T18:24:51.915Z"
       }
     ],
     "levels": [
@@ -6821,6 +6837,10 @@
           {
             "length": 171,
             "date": "2024-09-29T18:20:20.867Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-09-29T18:24:51.915Z"
           }
         ]
       },
