@@ -2858,6 +2858,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Aufgeregt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Excited]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6714,6 +6725,11 @@
         "type": "add",
         "word": "Gelangweilt",
         "date": "2024-09-29T22:31:47.423Z"
+      },
+      {
+        "type": "add",
+        "word": "Aufgeregt",
+        "date": "2024-09-29T22:32:21.043Z"
       }
     ],
     "levels": [
@@ -8586,6 +8602,10 @@
           {
             "length": 259,
             "date": "2024-09-29T22:31:47.423Z"
+          },
+          {
+            "length": 260,
+            "date": "2024-09-29T22:32:21.043Z"
           }
         ]
       },
