@@ -1919,6 +1919,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Weder (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Neither]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5350,6 +5361,11 @@
         "type": "add",
         "word": "Entweder",
         "date": "2024-09-29T18:33:38.424Z"
+      },
+      {
+        "type": "add",
+        "word": "Weder",
+        "date": "2024-09-29T18:39:04.389Z"
       }
     ],
     "levels": [
@@ -6882,6 +6898,10 @@
           {
             "length": 174,
             "date": "2024-09-29T18:33:38.425Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-09-29T18:39:04.390Z"
           }
         ]
       },
