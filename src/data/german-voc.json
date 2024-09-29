@@ -3,7 +3,7 @@
   "levels": [
     {
       "currentCardIndex": 76,
-      "currentCardSide": "back",
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -843,17 +843,6 @@
         },
         {
           "front": {
-            "content": "Scheiben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To write]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Lassen (v.)"
           },
           "back": {
@@ -1520,17 +1509,6 @@
             "content": [
               "- [Total]: ",
               "- Forms: Total (adj.), Total (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schreiben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Write]: ",
-              "- Forms: "
             ]
           }
         },
@@ -2585,6 +2563,17 @@
           "back": {
             "content": [
               "- [To talk/speak]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schreiben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To write]: ",
               "- Forms: "
             ]
           }
@@ -4230,11 +4219,6 @@
       },
       {
         "type": "add",
-        "word": "Scheiben",
-        "date": "2024-09-28T01:08:17.604Z"
-      },
-      {
-        "type": "add",
         "word": "Lassen",
         "date": "2024-09-28T01:08:47.402Z"
       },
@@ -4914,6 +4898,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-29T05:15:10.317Z"
+      },
+      {
+        "type": "move",
+        "word": "Schreiben",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:21:46.180Z"
       }
     ],
     "levels": [
@@ -6286,6 +6277,10 @@
           {
             "length": 177,
             "date": "2024-09-29T05:15:10.317Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-09-29T05:21:46.180Z"
           }
         ]
       },
@@ -6710,6 +6705,10 @@
           {
             "length": 57,
             "date": "2024-09-29T05:15:10.317Z"
+          },
+          {
+            "length": 58,
+            "date": "2024-09-29T05:21:46.180Z"
           }
         ]
       },
