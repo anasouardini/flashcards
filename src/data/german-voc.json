@@ -2847,6 +2847,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gelangweilt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Bored]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6698,6 +6709,11 @@
         "type": "add",
         "word": "Nervös",
         "date": "2024-09-29T22:30:43.373Z"
+      },
+      {
+        "type": "add",
+        "word": "Gelangweilt",
+        "date": "2024-09-29T22:31:47.423Z"
       }
     ],
     "levels": [
@@ -8566,6 +8582,10 @@
           {
             "length": 258,
             "date": "2024-09-29T22:30:43.373Z"
+          },
+          {
+            "length": 259,
+            "date": "2024-09-29T22:31:47.423Z"
           }
         ]
       },
