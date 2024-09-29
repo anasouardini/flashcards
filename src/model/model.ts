@@ -107,6 +107,8 @@ export function recordHistory(
   action: ActionAdd | ActionMove | ActionTrash | ActionEdit,
 ) {
   vars.model.history.actions.push(action);
+
+  // update length of all levels
   vars.model.history.levels.forEach((levelHistory, index) => {
     const currentLevelLength = vars.model.levels[index].cards.length;
     const lastLengthInHistory = levelHistory.lengths?.at(-1)?.length ?? 0;
@@ -134,6 +136,7 @@ export function loadList({ item }: { item: string }) {
   try {
     vars.model = JSON.parse(content);
     addNewProperties(vars.model);
+    return vars.model;
   } catch (E) {
     console.log(`data/${item} is not valid`);
   }
