@@ -2891,6 +2891,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Verwirrt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Confused]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6762,6 +6773,11 @@
         "type": "add",
         "word": "Besorgt",
         "date": "2024-09-29T22:33:28.684Z"
+      },
+      {
+        "type": "add",
+        "word": "Verwirrt",
+        "date": "2024-09-29T22:33:54.938Z"
       }
     ],
     "levels": [
@@ -8646,6 +8662,10 @@
           {
             "length": 262,
             "date": "2024-09-29T22:33:28.684Z"
+          },
+          {
+            "length": 263,
+            "date": "2024-09-29T22:33:54.939Z"
           }
         ]
       },
