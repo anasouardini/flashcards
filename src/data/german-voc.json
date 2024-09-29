@@ -1764,6 +1764,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Während (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [While]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5125,6 +5136,11 @@
         "type": "add",
         "word": "Obwohl",
         "date": "2024-09-29T18:05:10.883Z"
+      },
+      {
+        "type": "add",
+        "word": "Während",
+        "date": "2024-09-29T18:05:47.576Z"
       }
     ],
     "levels": [
@@ -6601,6 +6617,10 @@
           {
             "length": 160,
             "date": "2024-09-29T18:05:10.884Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-09-29T18:05:47.576Z"
           }
         ]
       },
