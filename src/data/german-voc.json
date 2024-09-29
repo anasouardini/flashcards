@@ -1841,6 +1841,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Dusche (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Shower]: ",
+              "- Forms: Duschen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -5237,6 +5248,11 @@
         "type": "add",
         "word": "Zu_der_Zeit",
         "date": "2024-09-29T18:15:40.853Z"
+      },
+      {
+        "type": "add",
+        "word": "Dusche",
+        "date": "2024-09-29T18:17:09.845Z"
       }
     ],
     "levels": [
@@ -6741,6 +6757,10 @@
           {
             "length": 167,
             "date": "2024-09-29T18:15:40.853Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-09-29T18:17:09.846Z"
           }
         ]
       },
