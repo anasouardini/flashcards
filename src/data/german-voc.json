@@ -2041,6 +2041,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Setzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To sit down]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5527,6 +5538,11 @@
         "type": "add",
         "word": "Verlieren",
         "date": "2024-09-29T19:16:38.812Z"
+      },
+      {
+        "type": "add",
+        "word": "Setzen",
+        "date": "2024-09-29T19:17:41.128Z"
       }
     ],
     "levels": [
@@ -7103,6 +7119,10 @@
           {
             "length": 185,
             "date": "2024-09-29T19:16:38.813Z"
+          },
+          {
+            "length": 186,
+            "date": "2024-09-29T19:17:41.128Z"
           }
         ]
       },
