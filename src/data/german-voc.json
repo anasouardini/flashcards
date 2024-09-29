@@ -2087,6 +2087,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Einladen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To invite]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5593,6 +5604,11 @@
         "type": "add",
         "word": "Sitzen",
         "date": "2024-09-29T19:19:59.518Z"
+      },
+      {
+        "type": "add",
+        "word": "Einladen",
+        "date": "2024-09-29T19:20:26.975Z"
       }
     ],
     "levels": [
@@ -7185,6 +7201,10 @@
           {
             "length": 189,
             "date": "2024-09-29T19:19:59.518Z"
+          },
+          {
+            "length": 190,
+            "date": "2024-09-29T19:20:26.979Z"
           }
         ]
       },
