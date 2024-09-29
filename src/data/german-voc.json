@@ -2164,6 +2164,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Feiern (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To celebrate/party]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5705,6 +5716,11 @@
         "type": "add",
         "word": "Kochen",
         "date": "2024-09-29T19:29:28.286Z"
+      },
+      {
+        "type": "add",
+        "word": "Feiern",
+        "date": "2024-09-29T19:30:36.913Z"
       }
     ],
     "levels": [
@@ -7325,6 +7341,10 @@
           {
             "length": 196,
             "date": "2024-09-29T19:29:28.286Z"
+          },
+          {
+            "length": 197,
+            "date": "2024-09-29T19:30:36.914Z"
           }
         ]
       },
