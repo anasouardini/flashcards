@@ -1863,6 +1863,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bevor (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Before]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5269,6 +5280,11 @@
         "type": "add",
         "word": "Solange",
         "date": "2024-09-29T18:18:13.789Z"
+      },
+      {
+        "type": "add",
+        "word": "Bevor",
+        "date": "2024-09-29T18:18:47.026Z"
       }
     ],
     "levels": [
@@ -6781,6 +6797,10 @@
           {
             "length": 169,
             "date": "2024-09-29T18:18:13.790Z"
+          },
+          {
+            "length": 170,
+            "date": "2024-09-29T18:18:47.027Z"
           }
         ]
       },
