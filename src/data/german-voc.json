@@ -2725,6 +2725,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schüchtern (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Shy]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6521,6 +6532,11 @@
         "type": "add",
         "word": "Selbstbewusst",
         "date": "2024-09-29T22:22:31.385Z"
+      },
+      {
+        "type": "add",
+        "word": "Schüchtern",
+        "date": "2024-09-29T22:22:58.027Z"
       }
     ],
     "levels": [
@@ -8345,6 +8361,10 @@
           {
             "length": 247,
             "date": "2024-09-29T22:22:31.386Z"
+          },
+          {
+            "length": 248,
+            "date": "2024-09-29T22:22:58.027Z"
           }
         ]
       },
