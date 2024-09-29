@@ -2065,6 +2065,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Vergessen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To forget]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5561,6 +5572,11 @@
         "type": "add",
         "word": "Hoffen",
         "date": "2024-09-29T19:18:23.067Z"
+      },
+      {
+        "type": "add",
+        "word": "Vergessen",
+        "date": "2024-09-29T19:18:54.166Z"
       }
     ],
     "levels": [
@@ -7145,6 +7161,10 @@
           {
             "length": 187,
             "date": "2024-09-29T19:18:23.067Z"
+          },
+          {
+            "length": 188,
+            "date": "2024-09-29T19:18:54.167Z"
           }
         ]
       },
