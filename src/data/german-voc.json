@@ -2648,6 +2648,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Freundlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Friendly]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6409,6 +6420,11 @@
         "type": "add",
         "word": "Ruhig",
         "date": "2024-09-29T22:16:59.837Z"
+      },
+      {
+        "type": "add",
+        "word": "Freundlich",
+        "date": "2024-09-29T22:17:26.544Z"
       }
     ],
     "levels": [
@@ -8205,6 +8221,10 @@
           {
             "length": 240,
             "date": "2024-09-29T22:16:59.838Z"
+          },
+          {
+            "length": 241,
+            "date": "2024-09-29T22:17:26.544Z"
           }
         ]
       },
