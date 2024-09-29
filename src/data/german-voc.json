@@ -2109,6 +2109,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schauen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To watch/look]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5625,6 +5636,11 @@
         "type": "add",
         "word": "Beschreiben",
         "date": "2024-09-29T19:21:07.248Z"
+      },
+      {
+        "type": "add",
+        "word": "Schauen",
+        "date": "2024-09-29T19:24:44.848Z"
       }
     ],
     "levels": [
@@ -7225,6 +7241,10 @@
           {
             "length": 191,
             "date": "2024-09-29T19:21:07.248Z"
+          },
+          {
+            "length": 192,
+            "date": "2024-09-29T19:24:44.848Z"
           }
         ]
       },
