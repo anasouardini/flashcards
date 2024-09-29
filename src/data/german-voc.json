@@ -1731,6 +1731,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Trotzdem (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Yet]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -5077,6 +5088,11 @@
         "type": "add",
         "word": "Aber",
         "date": "2024-09-29T18:02:22.646Z"
+      },
+      {
+        "type": "add",
+        "word": "Trotzdem",
+        "date": "2024-09-29T18:03:20.447Z"
       }
     ],
     "levels": [
@@ -6541,6 +6557,10 @@
           {
             "length": 157,
             "date": "2024-09-29T18:02:22.647Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-09-29T18:03:20.448Z"
           }
         ]
       },
