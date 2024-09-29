@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 28,
+      "currentCardIndex": 76,
       "currentCardSide": "back",
       "cards": [
         {
@@ -315,17 +315,6 @@
         },
         {
           "front": {
-            "content": "Aus (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [From/Of]: Ich komme aus Mrokko : I come from Morocco",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Hauptstadt (noun, singular, feminine)"
           },
           "back": {
@@ -447,45 +436,12 @@
         },
         {
           "front": {
-            "content": "Bruder (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Brother]: ",
-              "- Forms: Brüder (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Krieg (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [War]: ",
               "- Forms: Kriege (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Im (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [In/At]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Leider (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Unfortunately]: ",
-              "- Forms: "
             ]
           }
         },
@@ -513,94 +469,6 @@
         },
         {
           "front": {
-            "content": "Jung (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Young]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Einzel (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Only/Standalone]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Helfe (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Help]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Frau (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Women]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mädchen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Girl]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Leute (noun, plural, -)"
-          },
-          "back": {
-            "content": [
-              "- [People]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Freund (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Friend]: ",
-              "- Forms: Freunde (plural), Freundin (fem.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ab (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [From]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Erste (adj.)"
           },
           "back": {
@@ -617,17 +485,6 @@
           "back": {
             "content": [
               "- [Except]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gegenüber (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Towards/Accross]: ",
               "- Forms: "
             ]
           }
@@ -832,55 +689,11 @@
         },
         {
           "front": {
-            "content": "Migration (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Migration]: ",
-              "- Forms: Migrationen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zeit (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Time]: ",
-              "- Forms: Zeiten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Allein (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Alone]: ",
-              "- Forms: Allein (adj.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sein (v.)"
           },
           "back": {
             "content": [
               "- [To be]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Haben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Have]: ",
               "- Forms: "
             ]
           }
@@ -964,17 +777,6 @@
         },
         {
           "front": {
-            "content": "Finden (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To find]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wissen (v.)"
           },
           "back": {
@@ -1013,17 +815,6 @@
           "back": {
             "content": [
               "- [To think]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sprechen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To talk/speak]: ",
               "- Forms: "
             ]
           }
@@ -2164,8 +1955,8 @@
       ]
     },
     {
-      "currentCardIndex": 27,
-      "currentCardSide": "front",
+      "currentCardIndex": 53,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -2585,6 +2376,215 @@
           "back": {
             "content": [
               "- [Come]: Woher kommst du? : Where do you come from?",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aus (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [From/Of]: Ich komme aus Marokko : I come from Morocco",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bruder (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Brother]: ",
+              "- Forms: Brüder (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Im (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [In/At]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Leider (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Unfortunately]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Jung (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Young]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einzel (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Only/Standalone]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Helfe (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Help]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Frau (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Women]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mädchen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Girl]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Leute (noun, plural, -)"
+          },
+          "back": {
+            "content": [
+              "- [People]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Freund (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Friend]: ",
+              "- Forms: Freunde (plural), Freundin (fem.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ab (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [From]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gegenüber (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Towards/Accross]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Migration (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Migration]: ",
+              "- Forms: Migrationen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Time]: ",
+              "- Forms: Zeiten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Allein (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Alone]: ",
+              "- Forms: Allein (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Have]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Finden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To find]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sprechen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To talk/speak]: ",
               "- Forms: "
             ]
           }
@@ -4781,6 +4781,139 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-29T03:20:35.087Z"
+      },
+      {
+        "type": "move",
+        "word": "Aus",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T03:21:03.255Z"
+      },
+      {
+        "type": "move",
+        "word": "Bruder",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:31:18.859Z"
+      },
+      {
+        "type": "move",
+        "word": "Im",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:31:52.279Z"
+      },
+      {
+        "type": "move",
+        "word": "Leider",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:31:56.871Z"
+      },
+      {
+        "type": "move",
+        "word": "Jung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:34:38.174Z"
+      },
+      {
+        "type": "move",
+        "word": "Einzel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:36:11.270Z"
+      },
+      {
+        "type": "move",
+        "word": "Helfe",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:36:20.838Z"
+      },
+      {
+        "type": "move",
+        "word": "Frau",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:42:23.524Z"
+      },
+      {
+        "type": "move",
+        "word": "Mädchen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:42:57.916Z"
+      },
+      {
+        "type": "move",
+        "word": "Leute",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:44:34.140Z"
+      },
+      {
+        "type": "move",
+        "word": "Freund",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:51:12.291Z"
+      },
+      {
+        "type": "move",
+        "word": "Ab",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:51:17.466Z"
+      },
+      {
+        "type": "move",
+        "word": "Gegenüber",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T04:53:54.962Z"
+      },
+      {
+        "type": "move",
+        "word": "Migration",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:07:08.253Z"
+      },
+      {
+        "type": "move",
+        "word": "Zeit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:07:19.791Z"
+      },
+      {
+        "type": "move",
+        "word": "Allein",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:07:27.343Z"
+      },
+      {
+        "type": "move",
+        "word": "Haben",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:08:24.015Z"
+      },
+      {
+        "type": "move",
+        "word": "Finden",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:12:54.445Z"
+      },
+      {
+        "type": "move",
+        "word": "Sprechen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-29T05:15:10.317Z"
       }
     ],
     "levels": [
@@ -6077,6 +6210,82 @@
           {
             "length": 196,
             "date": "2024-09-29T03:20:35.088Z"
+          },
+          {
+            "length": 195,
+            "date": "2024-09-29T03:21:03.255Z"
+          },
+          {
+            "length": 194,
+            "date": "2024-09-29T04:31:18.881Z"
+          },
+          {
+            "length": 193,
+            "date": "2024-09-29T04:31:52.279Z"
+          },
+          {
+            "length": 192,
+            "date": "2024-09-29T04:31:56.871Z"
+          },
+          {
+            "length": 191,
+            "date": "2024-09-29T04:34:38.174Z"
+          },
+          {
+            "length": 190,
+            "date": "2024-09-29T04:36:11.270Z"
+          },
+          {
+            "length": 189,
+            "date": "2024-09-29T04:36:20.838Z"
+          },
+          {
+            "length": 188,
+            "date": "2024-09-29T04:42:23.524Z"
+          },
+          {
+            "length": 187,
+            "date": "2024-09-29T04:42:57.916Z"
+          },
+          {
+            "length": 186,
+            "date": "2024-09-29T04:44:34.140Z"
+          },
+          {
+            "length": 185,
+            "date": "2024-09-29T04:51:12.291Z"
+          },
+          {
+            "length": 184,
+            "date": "2024-09-29T04:51:17.466Z"
+          },
+          {
+            "length": 183,
+            "date": "2024-09-29T04:53:54.962Z"
+          },
+          {
+            "length": 182,
+            "date": "2024-09-29T05:07:08.264Z"
+          },
+          {
+            "length": 181,
+            "date": "2024-09-29T05:07:19.791Z"
+          },
+          {
+            "length": 180,
+            "date": "2024-09-29T05:07:27.343Z"
+          },
+          {
+            "length": 179,
+            "date": "2024-09-29T05:08:24.015Z"
+          },
+          {
+            "length": 178,
+            "date": "2024-09-29T05:12:54.446Z"
+          },
+          {
+            "length": 177,
+            "date": "2024-09-29T05:15:10.317Z"
           }
         ]
       },
@@ -6425,6 +6634,82 @@
           {
             "length": 38,
             "date": "2024-09-29T03:20:35.088Z"
+          },
+          {
+            "length": 39,
+            "date": "2024-09-29T03:21:03.255Z"
+          },
+          {
+            "length": 40,
+            "date": "2024-09-29T04:31:18.881Z"
+          },
+          {
+            "length": 41,
+            "date": "2024-09-29T04:31:52.279Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-09-29T04:31:56.871Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-09-29T04:34:38.174Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-09-29T04:36:11.270Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-09-29T04:36:20.838Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-09-29T04:42:23.524Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-09-29T04:42:57.916Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-09-29T04:44:34.140Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-09-29T04:51:12.291Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-09-29T04:51:17.466Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-09-29T04:53:54.962Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-09-29T05:07:08.264Z"
+          },
+          {
+            "length": 53,
+            "date": "2024-09-29T05:07:19.791Z"
+          },
+          {
+            "length": 54,
+            "date": "2024-09-29T05:07:27.343Z"
+          },
+          {
+            "length": 55,
+            "date": "2024-09-29T05:08:24.015Z"
+          },
+          {
+            "length": 56,
+            "date": "2024-09-29T05:12:54.446Z"
+          },
+          {
+            "length": 57,
+            "date": "2024-09-29T05:15:10.317Z"
           }
         ]
       },
