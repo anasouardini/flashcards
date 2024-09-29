@@ -2692,6 +2692,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zuverlässig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Reliable]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6473,6 +6484,11 @@
         "type": "add",
         "word": "Geduldig",
         "date": "2024-09-29T22:19:52.278Z"
+      },
+      {
+        "type": "add",
+        "word": "Zuverlässig",
+        "date": "2024-09-29T22:20:59.790Z"
       }
     ],
     "levels": [
@@ -8285,6 +8301,10 @@
           {
             "length": 244,
             "date": "2024-09-29T22:19:52.279Z"
+          },
+          {
+            "length": 245,
+            "date": "2024-09-29T22:20:59.790Z"
           }
         ]
       },
