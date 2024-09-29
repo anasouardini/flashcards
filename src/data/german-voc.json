@@ -2516,6 +2516,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Unterschiedlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Different]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6217,6 +6228,11 @@
         "type": "add",
         "word": "Einzig",
         "date": "2024-09-29T22:06:02.576Z"
+      },
+      {
+        "type": "add",
+        "word": "Unterschiedlich",
+        "date": "2024-09-29T22:07:28.333Z"
       }
     ],
     "levels": [
@@ -7965,6 +7981,10 @@
           {
             "length": 228,
             "date": "2024-09-29T22:06:02.577Z"
+          },
+          {
+            "length": 229,
+            "date": "2024-09-29T22:07:28.333Z"
           }
         ]
       },
