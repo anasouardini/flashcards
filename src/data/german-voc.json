@@ -2814,6 +2814,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Entspannt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Relaxed]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -6650,6 +6661,11 @@
         "type": "add",
         "word": "Gestresst",
         "date": "2024-09-29T22:27:34.727Z"
+      },
+      {
+        "type": "add",
+        "word": "Entspannt",
+        "date": "2024-09-29T22:28:01.214Z"
       }
     ],
     "levels": [
@@ -8506,6 +8522,10 @@
           {
             "length": 255,
             "date": "2024-09-29T22:27:34.728Z"
+          },
+          {
+            "length": 256,
+            "date": "2024-09-29T22:28:01.215Z"
           }
         ]
       },
