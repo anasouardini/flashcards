@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 36,
+      "currentCardIndex": 95,
       "currentCardSide": "front",
       "cards": [
         {
@@ -1043,23 +1043,23 @@
         },
         {
           "front": {
-            "content": "Ausgang (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Exit]: ",
-              "- Forms: Ausgänge (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wiedersehen (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [Good Bye]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ausgang (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Exit]: ",
+              "- Forms: Ausgänge (plural)"
             ]
           }
         },
