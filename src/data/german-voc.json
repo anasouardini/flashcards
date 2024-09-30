@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 26,
-      "currentCardSide": "back",
+      "currentCardIndex": 36,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -294,18 +294,7 @@
         },
         {
           "front": {
-            "content": "Wo (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Where]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wähe (noun, singular, feminine)"
+            "content": "Nähe (noun, singular, feminine)"
           },
           "back": {
             "content": [
@@ -415,22 +404,22 @@
         },
         {
           "front": {
-            "content": "Gestorben (adj.)"
+            "content": "Jüngere (noun, singular, fiminine)"
           },
           "back": {
             "content": [
-              "- [Dead]: ",
+              "- [Junior]: ",
               "- Forms: "
             ]
           }
         },
         {
           "front": {
-            "content": "Jüngere (noun, singular, fiminine)"
+            "content": "Gestorben (adj.)"
           },
           "back": {
             "content": [
-              "- [Junior]: ",
+              "- [Dead]: ",
               "- Forms: "
             ]
           }
