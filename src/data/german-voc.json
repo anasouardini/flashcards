@@ -2843,8 +2843,8 @@
       ]
     },
     {
-      "currentCardIndex": 37,
-      "currentCardSide": "back",
+      "currentCardIndex": 85,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -3042,17 +3042,6 @@
           "back": {
             "content": [
               "- [later/subsequently]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kommen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Come/Arrive]: ",
               "- Forms: "
             ]
           }
@@ -3263,7 +3252,7 @@
           },
           "back": {
             "content": [
-              "- [Come]: Woher kommst du? : Where do you come from?",
+              "- [Come/Arrive]: Woher kommst du? : Where do you come from?",
               "- Forms: "
             ]
           }
@@ -4808,11 +4797,6 @@
       },
       {
         "type": "add",
-        "word": "Kommen",
-        "date": "2024-09-25T22:03:11.439Z"
-      },
-      {
-        "type": "add",
         "word": "Hauptstadt",
         "date": "2024-09-25T22:06:54.502Z"
       },
@@ -6020,13 +6004,6 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-29T03:20:14.166Z"
-      },
-      {
-        "type": "move",
-        "word": "Kommen",
-        "fromLevel": 0,
-        "toLevel": 1,
-        "date": "2024-09-29T03:20:35.087Z"
       },
       {
         "type": "move",
