@@ -2289,17 +2289,6 @@
         },
         {
           "front": {
-            "content": "Helfen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To help]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Erinnern (v.)"
           },
           "back": {
@@ -2349,17 +2338,6 @@
           "back": {
             "content": [
               "- [Far]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lang (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Long]: ",
               "- Forms: "
             ]
           }
@@ -2421,33 +2399,11 @@
         },
         {
           "front": {
-            "content": "Neu (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [New]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Fertig (adj.)"
           },
           "back": {
             "content": [
               "- [Ready]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kalt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Cold]: ",
               "- Forms: "
             ]
           }
@@ -2525,17 +2481,6 @@
           "back": {
             "content": [
               "- [Different]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Voll (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Full]: ",
               "- Forms: "
             ]
           }
@@ -2740,28 +2685,6 @@
         },
         {
           "front": {
-            "content": "Sozial (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Social]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Cool (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Cool]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sympathisch (adj.)"
           },
           "back": {
@@ -2807,17 +2730,6 @@
         },
         {
           "front": {
-            "content": "Gestresst (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Stressed]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Entspannt (adj.)"
           },
           "back": {
@@ -2834,17 +2746,6 @@
           "back": {
             "content": [
               "- [Angry]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nervös (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Nervous]: ",
               "- Forms: "
             ]
           }
@@ -2987,7 +2888,7 @@
     },
     {
       "currentCardIndex": 53,
-      "currentCardSide": "back",
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -3847,6 +3748,105 @@
           "back": {
             "content": [
               "- [To wash]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nervös (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Nervous]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gestresst (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Stressed]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Cool (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Cool]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sozial (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Social]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Voll (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Full]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kalt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Cold]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Neu (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [New]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lang (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Long]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Helfen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To help]: ",
               "- Forms: "
             ]
           }
@@ -6893,6 +6893,69 @@
         "type": "add",
         "word": "Spät",
         "date": "2024-09-29T22:55:41.985Z"
+      },
+      {
+        "type": "move",
+        "word": "Nervös",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T02:27:12.232Z"
+      },
+      {
+        "type": "move",
+        "word": "Gestresst",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T02:27:38.448Z"
+      },
+      {
+        "type": "move",
+        "word": "Cool",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T02:28:27.907Z"
+      },
+      {
+        "type": "move",
+        "word": "Sozial",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T02:28:34.264Z"
+      },
+      {
+        "type": "move",
+        "word": "Voll",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T02:33:28.854Z"
+      },
+      {
+        "type": "move",
+        "word": "Kalt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T02:34:34.391Z"
+      },
+      {
+        "type": "move",
+        "word": "Neu",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T02:34:43.909Z"
+      },
+      {
+        "type": "move",
+        "word": "Lang",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T02:35:39.590Z"
+      },
+      {
+        "type": "move",
+        "word": "Helfen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T02:36:49.454Z"
       }
     ],
     "levels": [
@@ -8809,6 +8872,42 @@
           {
             "length": 270,
             "date": "2024-09-29T22:55:41.986Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-09-30T02:27:12.303Z"
+          },
+          {
+            "length": 268,
+            "date": "2024-09-30T02:27:38.448Z"
+          },
+          {
+            "length": 267,
+            "date": "2024-09-30T02:28:27.907Z"
+          },
+          {
+            "length": 266,
+            "date": "2024-09-30T02:28:34.264Z"
+          },
+          {
+            "length": 265,
+            "date": "2024-09-30T02:33:28.854Z"
+          },
+          {
+            "length": 264,
+            "date": "2024-09-30T02:34:34.391Z"
+          },
+          {
+            "length": 263,
+            "date": "2024-09-30T02:34:43.909Z"
+          },
+          {
+            "length": 262,
+            "date": "2024-09-30T02:35:39.590Z"
+          },
+          {
+            "length": 261,
+            "date": "2024-09-30T02:36:49.454Z"
           }
         ]
       },
@@ -9317,6 +9416,42 @@
           {
             "length": 78,
             "date": "2024-09-29T16:02:43.229Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-09-30T02:27:12.303Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-09-30T02:27:38.448Z"
+          },
+          {
+            "length": 81,
+            "date": "2024-09-30T02:28:27.907Z"
+          },
+          {
+            "length": 82,
+            "date": "2024-09-30T02:28:34.264Z"
+          },
+          {
+            "length": 83,
+            "date": "2024-09-30T02:33:28.854Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-09-30T02:34:34.391Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-09-30T02:34:43.909Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-09-30T02:35:39.590Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-09-30T02:36:49.454Z"
           }
         ]
       },
