@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 165,
-      "currentCardSide": "back",
+      "currentCardIndex": 211,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -1948,17 +1948,6 @@
         },
         {
           "front": {
-            "content": "Beschreiben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To describe]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Schauen (v.)"
           },
           "back": {
@@ -2025,17 +2014,6 @@
         },
         {
           "front": {
-            "content": "Fallen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To fall]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Bauen (v.)"
           },
           "back": {
@@ -2096,28 +2074,6 @@
           "back": {
             "content": [
               "- [To carry/wear]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Planen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To plan]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Danken (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To thank]: ",
               "- Forms: "
             ]
           }
@@ -2278,17 +2234,6 @@
         },
         {
           "front": {
-            "content": "Hart (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Hard]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Weich (adj.)"
           },
           "back": {
@@ -2355,33 +2300,11 @@
         },
         {
           "front": {
-            "content": "Hübsch (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Pretty]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Dünn (adj.)"
           },
           "back": {
             "content": [
               "- [Thin]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Dick (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Fat]: ",
               "- Forms: "
             ]
           }
@@ -3814,6 +3737,83 @@
           "back": {
             "content": [
               "- [That]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beschreiben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To describe]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fallen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To fall]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Planen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To plan]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Danken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To thank]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hart (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Hard]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hübsch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Pretty]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dick (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Fat]: ",
               "- Forms: "
             ]
           }
@@ -6990,6 +6990,55 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-30T21:24:27.804Z"
+      },
+      {
+        "type": "move",
+        "word": "Beschreiben",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T21:49:43.880Z"
+      },
+      {
+        "type": "move",
+        "word": "Fallen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T22:22:04.859Z"
+      },
+      {
+        "type": "move",
+        "word": "Planen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T22:33:20.717Z"
+      },
+      {
+        "type": "move",
+        "word": "Danken",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T22:33:25.301Z"
+      },
+      {
+        "type": "move",
+        "word": "Hart",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T22:41:37.041Z"
+      },
+      {
+        "type": "move",
+        "word": "Hübsch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T22:44:26.644Z"
+      },
+      {
+        "type": "move",
+        "word": "Dick",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T22:44:42.794Z"
       }
     ],
     "levels": [
@@ -8994,6 +9043,34 @@
           {
             "length": 247,
             "date": "2024-09-30T21:24:27.804Z"
+          },
+          {
+            "length": 246,
+            "date": "2024-09-30T21:49:43.880Z"
+          },
+          {
+            "length": 245,
+            "date": "2024-09-30T22:22:04.859Z"
+          },
+          {
+            "length": 244,
+            "date": "2024-09-30T22:33:20.717Z"
+          },
+          {
+            "length": 243,
+            "date": "2024-09-30T22:33:25.301Z"
+          },
+          {
+            "length": 242,
+            "date": "2024-09-30T22:41:37.041Z"
+          },
+          {
+            "length": 241,
+            "date": "2024-09-30T22:44:26.644Z"
+          },
+          {
+            "length": 240,
+            "date": "2024-09-30T22:44:42.794Z"
           }
         ]
       },
@@ -9590,6 +9667,34 @@
           {
             "length": 98,
             "date": "2024-09-30T21:24:27.804Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-09-30T21:49:43.880Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-09-30T22:22:04.859Z"
+          },
+          {
+            "length": 101,
+            "date": "2024-09-30T22:33:20.717Z"
+          },
+          {
+            "length": 102,
+            "date": "2024-09-30T22:33:25.301Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-09-30T22:41:37.041Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-09-30T22:44:26.644Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-09-30T22:44:42.794Z"
           }
         ]
       },
