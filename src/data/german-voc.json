@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 139,
-      "currentCardSide": "front",
+      "currentCardIndex": 165,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -1542,7 +1542,7 @@
           },
           "back": {
             "content": [
-              "- [To introuce/present]: ",
+              "- [To introduce/present]: ",
               "- Forms: "
             ]
           }
@@ -1620,28 +1620,6 @@
           "back": {
             "content": [
               "- [To decide]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Und (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [And]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Aber (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [But]: ",
               "- Forms: "
             ]
           }
@@ -1747,28 +1725,6 @@
         },
         {
           "front": {
-            "content": "Zu_der_Zeit (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [By the time]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Dusche (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Shower]: ",
-              "- Forms: Duschen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Solange (conjunction)"
           },
           "back": {
@@ -1780,33 +1736,11 @@
         },
         {
           "front": {
-            "content": "Bevor (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Before]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Immer (adv.)"
           },
           "back": {
             "content": [
               "- [Ever]: Wann immer : When ever",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Dass (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [That]: ",
               "- Forms: "
             ]
           }
@@ -3814,6 +3748,72 @@
           "back": {
             "content": [
               "- [To ask]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Und (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [And]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aber (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [But]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zu_der_Zeit (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [By the time]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dusche (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Shower]: ",
+              "- Forms: Duschen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bevor (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Before]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dass (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [That]: ",
               "- Forms: "
             ]
           }
@@ -6948,6 +6948,48 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-30T19:43:40.831Z"
+      },
+      {
+        "type": "move",
+        "word": "Und",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T21:06:57.247Z"
+      },
+      {
+        "type": "move",
+        "word": "Aber",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T21:06:59.585Z"
+      },
+      {
+        "type": "move",
+        "word": "Zu_der_Zeit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T21:22:15.357Z"
+      },
+      {
+        "type": "move",
+        "word": "Dusche",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T21:22:22.437Z"
+      },
+      {
+        "type": "move",
+        "word": "Bevor",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T21:22:57.612Z"
+      },
+      {
+        "type": "move",
+        "word": "Dass",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T21:24:27.804Z"
       }
     ],
     "levels": [
@@ -8928,6 +8970,30 @@
           {
             "length": 253,
             "date": "2024-09-30T19:43:40.831Z"
+          },
+          {
+            "length": 252,
+            "date": "2024-09-30T21:06:57.248Z"
+          },
+          {
+            "length": 251,
+            "date": "2024-09-30T21:06:59.585Z"
+          },
+          {
+            "length": 250,
+            "date": "2024-09-30T21:22:15.357Z"
+          },
+          {
+            "length": 249,
+            "date": "2024-09-30T21:22:22.437Z"
+          },
+          {
+            "length": 248,
+            "date": "2024-09-30T21:22:57.612Z"
+          },
+          {
+            "length": 247,
+            "date": "2024-09-30T21:24:27.804Z"
           }
         ]
       },
@@ -9500,6 +9566,30 @@
           {
             "length": 92,
             "date": "2024-09-30T19:43:40.831Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-09-30T21:06:57.248Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-09-30T21:06:59.585Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-09-30T21:22:15.357Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-09-30T21:22:22.437Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-09-30T21:22:57.612Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-09-30T21:24:27.804Z"
           }
         ]
       },
