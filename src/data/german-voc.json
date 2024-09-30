@@ -2843,7 +2843,7 @@
       ]
     },
     {
-      "currentCardIndex": 85,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -3319,17 +3319,6 @@
           "back": {
             "content": [
               "- [Only/Standalone]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Helfe (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Help]: ",
               "- Forms: "
             ]
           }
@@ -4902,11 +4891,6 @@
       },
       {
         "type": "add",
-        "word": "Helfe",
-        "date": "2024-09-26T03:38:12.546Z"
-      },
-      {
-        "type": "add",
         "word": "Frau",
         "date": "2024-09-26T03:41:14.008Z"
       },
@@ -6046,13 +6030,6 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-29T04:36:11.270Z"
-      },
-      {
-        "type": "move",
-        "word": "Helfe",
-        "fromLevel": 0,
-        "toLevel": 1,
-        "date": "2024-09-29T04:36:20.838Z"
       },
       {
         "type": "move",
