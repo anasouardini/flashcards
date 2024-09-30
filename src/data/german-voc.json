@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 211,
+      "currentCardIndex": 228,
       "currentCardSide": "front",
       "cards": [
         {
@@ -2366,28 +2366,6 @@
         },
         {
           "front": {
-            "content": "Freundlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Friendly]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Offen (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Open]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Helfsbereit (adj.)"
           },
           "back": {
@@ -2459,17 +2437,6 @@
           "back": {
             "content": [
               "- [Likeable]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nett (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Nice]: ",
               "- Forms: "
             ]
           }
@@ -3814,6 +3781,39 @@
           "back": {
             "content": [
               "- [Fat]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Freundlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Friendly]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Offen (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Open]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nett (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Nice]: ",
               "- Forms: "
             ]
           }
@@ -7039,6 +7039,27 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-30T22:44:42.794Z"
+      },
+      {
+        "type": "move",
+        "word": "Freundlich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T22:47:35.394Z"
+      },
+      {
+        "type": "move",
+        "word": "Offen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T22:47:40.946Z"
+      },
+      {
+        "type": "move",
+        "word": "Nett",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T22:52:07.913Z"
       }
     ],
     "levels": [
@@ -9071,6 +9092,18 @@
           {
             "length": 240,
             "date": "2024-09-30T22:44:42.794Z"
+          },
+          {
+            "length": 239,
+            "date": "2024-09-30T22:47:35.394Z"
+          },
+          {
+            "length": 238,
+            "date": "2024-09-30T22:47:40.946Z"
+          },
+          {
+            "length": 237,
+            "date": "2024-09-30T22:52:07.913Z"
           }
         ]
       },
@@ -9695,6 +9728,18 @@
           {
             "length": 105,
             "date": "2024-09-30T22:44:42.794Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-09-30T22:47:35.394Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-09-30T22:47:40.946Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-09-30T22:52:07.913Z"
           }
         ]
       },
