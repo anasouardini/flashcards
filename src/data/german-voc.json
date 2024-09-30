@@ -2,31 +2,9 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 26,
+      "currentCardSide": "back",
       "cards": [
-        {
-          "front": {
-            "content": "Gestern (noun, singular, neutre)"
-          },
-          "back": {
-            "content": [
-              "- [Yesterday]: ",
-              "- Other Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Heute (noun, singular, neutre)"
-          },
-          "back": {
-            "content": [
-              "- [Today]: ",
-              "- Other Forms: "
-            ]
-          }
-        },
         {
           "front": {
             "content": "Zug (noun, singular, masculine)"
@@ -35,17 +13,6 @@
             "content": [
               "- [Train]: ",
               "- Other Forms: Züge(plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Abend (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Evening]: ",
-              "- Other Forms: Abende (plural)"
             ]
           }
         },
@@ -3850,6 +3817,39 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gestern (noun, singular, neutre)"
+          },
+          "back": {
+            "content": [
+              "- [Yesterday]: ",
+              "- Other Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Heute (noun, singular, neutre)"
+          },
+          "back": {
+            "content": [
+              "- [Today]: ",
+              "- Other Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Abend (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Evening]: ",
+              "- Other Forms: Abende (plural)"
+            ]
+          }
         }
       ]
     },
@@ -6956,6 +6956,27 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-30T02:36:49.454Z"
+      },
+      {
+        "type": "move",
+        "word": "Gestern",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T16:17:25.945Z"
+      },
+      {
+        "type": "move",
+        "word": "Heute",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T16:17:26.775Z"
+      },
+      {
+        "type": "move",
+        "word": "Abend",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T16:17:37.047Z"
       }
     ],
     "levels": [
@@ -8908,6 +8929,18 @@
           {
             "length": 261,
             "date": "2024-09-30T02:36:49.454Z"
+          },
+          {
+            "length": 260,
+            "date": "2024-09-30T16:17:26.016Z"
+          },
+          {
+            "length": 259,
+            "date": "2024-09-30T16:17:26.775Z"
+          },
+          {
+            "length": 258,
+            "date": "2024-09-30T16:17:37.047Z"
           }
         ]
       },
@@ -9452,6 +9485,18 @@
           {
             "length": 87,
             "date": "2024-09-30T02:36:49.454Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-09-30T16:17:26.016Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-09-30T16:17:26.775Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-09-30T16:17:37.047Z"
           }
         ]
       },
