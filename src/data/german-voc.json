@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 105,
+      "currentCardIndex": 139,
       "currentCardSide": "front",
       "cards": [
         {
@@ -1307,55 +1307,11 @@
         },
         {
           "front": {
-            "content": "Sonne (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Sun]: ",
-              "- Forms: Sonnen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Regnen (v.)"
           },
           "back": {
             "content": [
               "- [To Rain]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Klar (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Clear/OK]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Total (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Total]: ",
-              "- Forms: Total (adj.), Total (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fragen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To ask]: ",
               "- Forms: "
             ]
           }
@@ -3815,6 +3771,50 @@
             "content": [
               "- [Evening]: ",
               "- Other Forms: Abende (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sonne (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Sun]: ",
+              "- Forms: Sonnen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Klar (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Clear/OK]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Total (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Total]: ",
+              "- Forms: Total (adj.), Total (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fragen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To ask]: ",
+              "- Forms: "
             ]
           }
         }
@@ -6920,6 +6920,34 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-30T16:17:37.047Z"
+      },
+      {
+        "type": "move",
+        "word": "Sonne",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T19:43:16.086Z"
+      },
+      {
+        "type": "move",
+        "word": "Klar",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T19:43:30.174Z"
+      },
+      {
+        "type": "move",
+        "word": "Total",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T19:43:33.143Z"
+      },
+      {
+        "type": "move",
+        "word": "Fragen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-09-30T19:43:40.831Z"
       }
     ],
     "levels": [
@@ -8884,6 +8912,22 @@
           {
             "length": 258,
             "date": "2024-09-30T16:17:37.047Z"
+          },
+          {
+            "length": 256,
+            "date": "2024-09-30T19:43:16.159Z"
+          },
+          {
+            "length": 255,
+            "date": "2024-09-30T19:43:30.174Z"
+          },
+          {
+            "length": 254,
+            "date": "2024-09-30T19:43:33.143Z"
+          },
+          {
+            "length": 253,
+            "date": "2024-09-30T19:43:40.831Z"
           }
         ]
       },
@@ -9440,6 +9484,22 @@
           {
             "length": 90,
             "date": "2024-09-30T16:17:37.047Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-09-30T19:43:16.159Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-09-30T19:43:30.174Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-09-30T19:43:33.143Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-09-30T19:43:40.831Z"
           }
         ]
       },
