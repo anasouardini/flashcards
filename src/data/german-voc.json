@@ -2663,6 +2663,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gleich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Equal/Same]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7171,6 +7182,11 @@
         "type": "add",
         "word": "Wunderbar",
         "date": "2024-10-01T02:49:10.374Z"
+      },
+      {
+        "type": "add",
+        "word": "Gleich",
+        "date": "2024-10-01T02:50:19.908Z"
       }
     ],
     "levels": [
@@ -9247,6 +9263,10 @@
           {
             "length": 241,
             "date": "2024-10-01T02:49:10.374Z"
+          },
+          {
+            "length": 242,
+            "date": "2024-10-01T02:50:19.909Z"
           }
         ]
       },
