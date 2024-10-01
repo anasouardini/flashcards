@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 228,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -2565,18 +2565,6 @@
         },
         {
           "front": {
-            "content": "Leicht (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Light]: ",
-              "- [Easy]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Schwer (adj.)"
           },
           "back": {
@@ -2605,17 +2593,6 @@
           "back": {
             "content": [
               "- [Important]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Spät (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Late]: ",
               "- Forms: "
             ]
           }
@@ -3814,6 +3791,29 @@
           "back": {
             "content": [
               "- [Nice]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Leicht (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Light]: ",
+              "- [Easy]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Spät (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Late]: ",
               "- Forms: "
             ]
           }
@@ -7060,6 +7060,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-30T22:52:07.913Z"
+      },
+      {
+        "type": "move",
+        "word": "Leicht",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-01T02:37:07.238Z"
+      },
+      {
+        "type": "move",
+        "word": "Spät",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-01T02:39:58.045Z"
       }
     ],
     "levels": [
@@ -9104,6 +9118,14 @@
           {
             "length": 237,
             "date": "2024-09-30T22:52:07.913Z"
+          },
+          {
+            "length": 236,
+            "date": "2024-10-01T02:37:07.315Z"
+          },
+          {
+            "length": 235,
+            "date": "2024-10-01T02:39:58.045Z"
           }
         ]
       },
@@ -9740,6 +9762,14 @@
           {
             "length": 108,
             "date": "2024-09-30T22:52:07.913Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-10-01T02:37:07.315Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-10-01T02:39:58.045Z"
           }
         ]
       },
