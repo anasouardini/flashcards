@@ -2652,6 +2652,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wunderbar (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Wonderful]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7155,6 +7166,11 @@
         "type": "add",
         "word": "Falsch",
         "date": "2024-10-01T02:48:47.281Z"
+      },
+      {
+        "type": "add",
+        "word": "Wunderbar",
+        "date": "2024-10-01T02:49:10.374Z"
       }
     ],
     "levels": [
@@ -9227,6 +9243,10 @@
           {
             "length": 240,
             "date": "2024-10-01T02:48:47.282Z"
+          },
+          {
+            "length": 241,
+            "date": "2024-10-01T02:49:10.374Z"
           }
         ]
       },
