@@ -2641,6 +2641,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Falsch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [False/Wrong/Incorrect]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7139,6 +7150,11 @@
         "type": "add",
         "word": "Richtig",
         "date": "2024-10-01T02:48:30.042Z"
+      },
+      {
+        "type": "add",
+        "word": "Falsch",
+        "date": "2024-10-01T02:48:47.281Z"
       }
     ],
     "levels": [
@@ -9207,6 +9223,10 @@
           {
             "length": 239,
             "date": "2024-10-01T02:48:30.043Z"
+          },
+          {
+            "length": 240,
+            "date": "2024-10-01T02:48:47.282Z"
           }
         ]
       },
