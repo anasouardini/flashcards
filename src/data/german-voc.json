@@ -2718,6 +2718,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Interessant (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Interesting]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7251,6 +7262,11 @@
         "type": "add",
         "word": "Ähnlich",
         "date": "2024-10-01T02:53:34.519Z"
+      },
+      {
+        "type": "add",
+        "word": "Interessant",
+        "date": "2024-10-01T02:54:18.609Z"
       }
     ],
     "levels": [
@@ -9347,6 +9363,10 @@
           {
             "length": 246,
             "date": "2024-10-01T02:53:34.519Z"
+          },
+          {
+            "length": 247,
+            "date": "2024-10-01T02:54:18.609Z"
           }
         ]
       },
