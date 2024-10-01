@@ -2751,6 +2751,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Spannend (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Exciting]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7299,6 +7310,11 @@
         "type": "add",
         "word": "Toll",
         "date": "2024-10-01T02:55:54.410Z"
+      },
+      {
+        "type": "add",
+        "word": "Spannend",
+        "date": "2024-10-01T02:56:21.114Z"
       }
     ],
     "levels": [
@@ -9407,6 +9423,10 @@
           {
             "length": 249,
             "date": "2024-10-01T02:55:54.410Z"
+          },
+          {
+            "length": 250,
+            "date": "2024-10-01T02:56:21.115Z"
           }
         ]
       },
