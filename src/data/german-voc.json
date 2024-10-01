@@ -2626,6 +2626,18 @@
           "back": {
             "content": [
               "- [For]: ",
+              "- [On behalf of]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Richtig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Right/Correct]: ",
               "- Forms: "
             ]
           }
@@ -7122,6 +7134,11 @@
         "type": "add",
         "word": "Für",
         "date": "2024-10-01T02:47:10.466Z"
+      },
+      {
+        "type": "add",
+        "word": "Richtig",
+        "date": "2024-10-01T02:48:30.042Z"
       }
     ],
     "levels": [
@@ -9186,6 +9203,10 @@
           {
             "length": 238,
             "date": "2024-10-01T02:47:10.466Z"
+          },
+          {
+            "length": 239,
+            "date": "2024-10-01T02:48:30.043Z"
           }
         ]
       },
