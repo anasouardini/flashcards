@@ -2707,6 +2707,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ähnlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Similar]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7235,6 +7246,11 @@
         "type": "add",
         "word": "Speziell1",
         "date": "2024-10-01T02:53:00.268Z"
+      },
+      {
+        "type": "add",
+        "word": "Ähnlich",
+        "date": "2024-10-01T02:53:34.519Z"
       }
     ],
     "levels": [
@@ -9327,6 +9343,10 @@
           {
             "length": 245,
             "date": "2024-10-01T02:53:00.269Z"
+          },
+          {
+            "length": 246,
+            "date": "2024-10-01T02:53:34.519Z"
           }
         ]
       },
