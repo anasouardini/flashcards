@@ -2674,6 +2674,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Perfekt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Perfect]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7187,6 +7198,11 @@
         "type": "add",
         "word": "Gleich",
         "date": "2024-10-01T02:50:19.908Z"
+      },
+      {
+        "type": "add",
+        "word": "Perfekt",
+        "date": "2024-10-01T02:50:38.452Z"
       }
     ],
     "levels": [
@@ -9267,6 +9283,10 @@
           {
             "length": 242,
             "date": "2024-10-01T02:50:19.909Z"
+          },
+          {
+            "length": 243,
+            "date": "2024-10-01T02:50:38.453Z"
           }
         ]
       },
