@@ -2607,6 +2607,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bekannt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Known]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7090,6 +7101,11 @@
         "type": "add",
         "word": "Unwichtig",
         "date": "2024-10-01T02:42:15.983Z"
+      },
+      {
+        "type": "add",
+        "word": "Bekannt",
+        "date": "2024-10-01T02:42:32.032Z"
       }
     ],
     "levels": [
@@ -9146,6 +9162,10 @@
           {
             "length": 236,
             "date": "2024-10-01T02:42:15.983Z"
+          },
+          {
+            "length": 237,
+            "date": "2024-10-01T02:42:32.033Z"
           }
         ]
       },
