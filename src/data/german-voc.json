@@ -2729,6 +2729,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Eigen (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Own]: Meine eigenen : My own",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7267,6 +7278,11 @@
         "type": "add",
         "word": "Interessant",
         "date": "2024-10-01T02:54:18.609Z"
+      },
+      {
+        "type": "add",
+        "word": "Eigen",
+        "date": "2024-10-01T02:55:16.088Z"
       }
     ],
     "levels": [
@@ -9367,6 +9383,10 @@
           {
             "length": 247,
             "date": "2024-10-01T02:54:18.609Z"
+          },
+          {
+            "length": 248,
+            "date": "2024-10-01T02:55:16.089Z"
           }
         ]
       },
