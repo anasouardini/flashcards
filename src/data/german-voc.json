@@ -2696,6 +2696,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Speziell1 (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Specific]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7219,6 +7230,11 @@
         "type": "add",
         "word": "Schlimm",
         "date": "2024-10-01T02:51:03.787Z"
+      },
+      {
+        "type": "add",
+        "word": "Speziell1",
+        "date": "2024-10-01T02:53:00.268Z"
       }
     ],
     "levels": [
@@ -9307,6 +9323,10 @@
           {
             "length": 244,
             "date": "2024-10-01T02:51:03.787Z"
+          },
+          {
+            "length": 245,
+            "date": "2024-10-01T02:53:00.269Z"
           }
         ]
       },
