@@ -2839,6 +2839,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Regelmäßig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Regular]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7427,6 +7438,11 @@
         "type": "add",
         "word": "Jährlich",
         "date": "2024-10-01T03:02:34.715Z"
+      },
+      {
+        "type": "add",
+        "word": "Regelmäßig",
+        "date": "2024-10-01T03:04:09.547Z"
       }
     ],
     "levels": [
@@ -9567,6 +9583,10 @@
           {
             "length": 257,
             "date": "2024-10-01T03:02:34.716Z"
+          },
+          {
+            "length": 258,
+            "date": "2024-10-01T03:04:09.548Z"
           }
         ]
       },
