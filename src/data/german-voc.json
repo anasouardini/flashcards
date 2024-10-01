@@ -2820,11 +2820,22 @@
         },
         {
           "front": {
-            "content": "Montlich (adj.)"
+            "content": "Monatlich (adj.)"
           },
           "back": {
             "content": [
               "- [Monthly]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Jährlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Yearly]: ",
               "- Forms: "
             ]
           }
@@ -7411,6 +7422,11 @@
         "type": "add",
         "word": "Montlich",
         "date": "2024-10-01T03:01:10.005Z"
+      },
+      {
+        "type": "add",
+        "word": "Jährlich",
+        "date": "2024-10-01T03:02:34.715Z"
       }
     ],
     "levels": [
@@ -9547,6 +9563,10 @@
           {
             "length": 256,
             "date": "2024-10-01T03:01:10.006Z"
+          },
+          {
+            "length": 257,
+            "date": "2024-10-01T03:02:34.716Z"
           }
         ]
       },
