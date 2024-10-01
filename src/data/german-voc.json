@@ -2762,6 +2762,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Komplett (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Complete/Full]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7315,6 +7326,11 @@
         "type": "add",
         "word": "Spannend",
         "date": "2024-10-01T02:56:21.114Z"
+      },
+      {
+        "type": "add",
+        "word": "Komplett",
+        "date": "2024-10-01T02:56:54.602Z"
       }
     ],
     "levels": [
@@ -9427,6 +9443,10 @@
           {
             "length": 250,
             "date": "2024-10-01T02:56:21.115Z"
+          },
+          {
+            "length": 251,
+            "date": "2024-10-01T02:56:54.602Z"
           }
         ]
       },
