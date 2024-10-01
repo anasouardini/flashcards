@@ -2596,6 +2596,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Unwichtig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Unimportant]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7074,6 +7085,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-01T02:39:58.045Z"
+      },
+      {
+        "type": "add",
+        "word": "Unwichtig",
+        "date": "2024-10-01T02:42:15.983Z"
       }
     ],
     "levels": [
@@ -9126,6 +9142,10 @@
           {
             "length": 235,
             "date": "2024-10-01T02:39:58.045Z"
+          },
+          {
+            "length": 236,
+            "date": "2024-10-01T02:42:15.983Z"
           }
         ]
       },
