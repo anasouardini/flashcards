@@ -2817,6 +2817,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Montlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Monthly]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -7395,6 +7406,11 @@
         "type": "add",
         "word": "Täglich",
         "date": "2024-10-01T03:00:50.893Z"
+      },
+      {
+        "type": "add",
+        "word": "Montlich",
+        "date": "2024-10-01T03:01:10.005Z"
       }
     ],
     "levels": [
@@ -9527,6 +9543,10 @@
           {
             "length": 255,
             "date": "2024-10-01T03:00:50.893Z"
+          },
+          {
+            "length": 256,
+            "date": "2024-10-01T03:01:10.006Z"
           }
         ]
       },
