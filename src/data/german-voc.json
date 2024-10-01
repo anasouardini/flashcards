@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 181,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -310,17 +310,6 @@
           "back": {
             "content": [
               "- [One and a half]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hier (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Here]: ",
               "- Forms: "
             ]
           }
@@ -2865,54 +2854,9 @@
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 8,
       "currentCardSide": "front",
       "cards": [
-        {
-          "front": {
-            "content": "Gehen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Go]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bitte"
-          },
-          "back": {
-            "content": [
-              "- [Please]: ",
-              "- [You are welcome!] (interjection): ",
-              "- [Forms]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Jahr (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Year]: ",
-              "- Other Forms: Jahre (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Auto (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Car]: ",
-              "- Other Forms: Autos(plural)"
-            ]
-          }
-        },
         {
           "front": {
             "content": "Boot (noun, singular, neuter)"
@@ -2954,17 +2898,6 @@
             "content": [
               "- [Answer]: ",
               "- Forms: Antworten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Normalerweise (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Normally]: ",
-              "- Forms: "
             ]
           }
         },
@@ -4082,6 +4015,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Hier (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Here]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4333,6 +4277,62 @@
           "back": {
             "content": [
               "- [Private]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Go]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bitte"
+          },
+          "back": {
+            "content": [
+              "- [Please]: ",
+              "- [You are welcome!] (interjection): ",
+              "- [Forms]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Jahr (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Year]: ",
+              "- Other Forms: Jahre (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auto (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Car]: ",
+              "- Other Forms: Autos(plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Normalerweise (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Normally]: ",
               "- Forms: "
             ]
           }
@@ -7459,6 +7459,48 @@
         "type": "add",
         "word": "Letzte",
         "date": "2024-10-01T03:05:00.310Z"
+      },
+      {
+        "type": "move",
+        "word": "Gehen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-01T19:21:56.661Z"
+      },
+      {
+        "type": "move",
+        "word": "Bitte",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-01T19:21:59.278Z"
+      },
+      {
+        "type": "move",
+        "word": "Jahr",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-01T19:22:01.294Z"
+      },
+      {
+        "type": "move",
+        "word": "Auto",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-01T19:22:02.726Z"
+      },
+      {
+        "type": "move",
+        "word": "Normalerweise",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-01T19:22:21.630Z"
+      },
+      {
+        "type": "move",
+        "word": "Hier",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-01T19:34:54.821Z"
       }
     ],
     "levels": [
@@ -9607,6 +9649,10 @@
           {
             "length": 259,
             "date": "2024-10-01T03:05:00.311Z"
+          },
+          {
+            "length": 258,
+            "date": "2024-10-01T19:34:54.821Z"
           }
         ]
       },
@@ -10251,6 +10297,30 @@
           {
             "length": 110,
             "date": "2024-10-01T02:39:58.045Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-10-01T19:21:56.662Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-10-01T19:21:59.278Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-10-01T19:22:01.294Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-10-01T19:22:02.726Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-10-01T19:22:21.630Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-10-01T19:34:54.821Z"
           }
         ]
       },
@@ -10347,6 +10417,26 @@
           {
             "length": 23,
             "date": "2024-09-26T20:41:44.440Z"
+          },
+          {
+            "length": 24,
+            "date": "2024-10-01T19:21:56.662Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-10-01T19:21:59.278Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-10-01T19:22:01.294Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-10-01T19:22:02.726Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-10-01T19:22:21.630Z"
           }
         ]
       },
