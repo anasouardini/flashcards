@@ -2,97 +2,9 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 220,
-      "currentCardSide": "back",
+      "currentCardIndex": 19,
+      "currentCardSide": "front",
       "cards": [
-        {
-          "front": {
-            "content": "Zug (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Train]: ",
-              "- Other Forms: Züge(plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schlaf (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Sleep]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bis (preposition)"
-          },
-          "back": {
-            "content": [
-              "- [by/until/to]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Woher (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [From Where]: Woher kommen Sie? : Where are you(formal) from?",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wo (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Where]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Weg (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Way/Path]: ",
-              "- Forms: Wege (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wie (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [How]: ",
-              "- Forms: Wie (preposition)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "So (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [That/As]: Das Problem war nicht so einfach zu lösen : The problem was not that easy to resolve.",
-              "- Forms: "
-            ]
-          }
-        },
         {
           "front": {
             "content": "Fehler (noun, singuler/plural, masculine)"
@@ -106,66 +18,11 @@
         },
         {
           "front": {
-            "content": "Frage (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Question]: ",
-              "- Forms: Frangen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Verstehen (v.)"
           },
           "back": {
             "content": [
               "- [Understand]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gern (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Gladly/With pleasure]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wohnen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Live/Reside]: Ich wohne in Marokko : I live in Morocco",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mensch (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Person]: ",
-              "- Forms: Menschen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wenn (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [If/When]: ",
               "- Forms: "
             ]
           }
@@ -205,45 +62,11 @@
         },
         {
           "front": {
-            "content": "Deshalb (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Therefore/That's why]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Auch (adv.)"
           },
           "back": {
             "content": [
               "- [Also]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Einfach (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Easy] (don't use with physical tasks): Nicht so einfach : Not so easy",
-              "- [Simple]: Nicht so einfach : Not so easy",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lösen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Solve]: ",
               "- Forms: "
             ]
           }
@@ -283,33 +106,11 @@
         },
         {
           "front": {
-            "content": "Hauptstadt (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Capital City]: ",
-              "- Forms: Häuptstadte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Nähe (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Near/Approximity]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Anderthalb (numeral)"
-          },
-          "back": {
-            "content": [
-              "- [One and a half]: ",
               "- Forms: "
             ]
           }
@@ -327,34 +128,12 @@
         },
         {
           "front": {
-            "content": "Wann (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [When]: Seit Wann? : Since when?",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Verheiratet (adj.)"
           },
           "back": {
             "content": [
               "- [Married/Coupled]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tochter (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Daughter]: ",
-              "- Forms: Töchter (plural)"
             ]
           }
         },
@@ -377,17 +156,6 @@
             "content": [
               "- [Sister]: ",
               "- Forms: Schwestern (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Krieg (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [War]: ",
-              "- Forms: Kriege (plural)"
             ]
           }
         },
@@ -432,50 +200,6 @@
             "content": [
               "- [Except]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nach (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [After]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Von (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [From]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Vom (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [From The]: Vom ist 'Von' zuzüglich 'dem' : Vom is 'Von', plus 'dem'",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Arzt (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Doctor]: ",
-              "- Forms: Ärzte (plural)"
             ]
           }
         },
@@ -2633,17 +2357,6 @@
         },
         {
           "front": {
-            "content": "Falsch (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [False/Wrong/Incorrect]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wunderbar (adj.)"
           },
           "back": {
@@ -2660,17 +2373,6 @@
           "back": {
             "content": [
               "- [Equal/Same]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Perfekt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Perfect]: ",
               "- Forms: "
             ]
           }
@@ -2710,17 +2412,6 @@
         },
         {
           "front": {
-            "content": "Interessant (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Interesting]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Eigen (adj.)"
           },
           "back": {
@@ -2748,28 +2439,6 @@
           "back": {
             "content": [
               "- [Exciting]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Komplett (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Complete/Full]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Halb (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Half]: ",
               "- Forms: "
             ]
           }
@@ -4024,6 +3693,337 @@
             "content": [
               "- [Here]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Falsch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [False/Wrong/Incorrect]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Perfekt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Perfect]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Interessant (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Interesting]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Komplett (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Complete/Full]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Halb (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Half]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zug (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Train]: ",
+              "- Other Forms: Züge(plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schlaf (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sleep]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bis (preposition)"
+          },
+          "back": {
+            "content": [
+              "- [by/until/to]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Woher (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [From Where]: Woher kommen Sie? : Where are you(formal) from?",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Where]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weg (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Way/Path]: ",
+              "- Forms: Wege (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [How]: ",
+              "- Forms: Wie (preposition)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "So (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [That/As]: Das Problem war nicht so einfach zu lösen : The problem was not that easy to resolve.",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Frage (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Question]: ",
+              "- Forms: Frangen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gern (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Gladly/With pleasure]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wohnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Live/Reside]: Ich wohne in Marokko : I live in Morocco",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mensch (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Person]: ",
+              "- Forms: Menschen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wenn (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [If/When]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Deshalb (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Therefore/That's why]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einfach (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Easy] (don't use with physical tasks): Nicht so einfach : Not so easy",
+              "- [Simple]: Nicht so einfach : Not so easy",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lösen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Solve]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hauptstadt (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Capital City]: ",
+              "- Forms: Häuptstadte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Anderthalb (numeral)"
+          },
+          "back": {
+            "content": [
+              "- [One and a half]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wann (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [When]: Seit Wann? : Since when?",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tochter (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Daughter]: ",
+              "- Forms: Töchter (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Krieg (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [War]: ",
+              "- Forms: Kriege (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Von (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [From]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nach (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [After]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Vom (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [From The]: Vom ist 'Von' zuzüglich 'dem' : Vom is 'Von', plus 'dem'",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Arzt (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Doctor]: ",
+              "- Forms: Ärzte (plural)"
             ]
           }
         }
@@ -7501,6 +7501,216 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-01T19:34:54.821Z"
+      },
+      {
+        "type": "move",
+        "word": "Falsch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:20:29.562Z"
+      },
+      {
+        "type": "move",
+        "word": "Perfekt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:22:45.570Z"
+      },
+      {
+        "type": "move",
+        "word": "Interessant",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:29:24.835Z"
+      },
+      {
+        "type": "move",
+        "word": "Komplett",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:35:04.748Z"
+      },
+      {
+        "type": "move",
+        "word": "Halb",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:35:29.452Z"
+      },
+      {
+        "type": "move",
+        "word": "Zug",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:40:48.621Z"
+      },
+      {
+        "type": "move",
+        "word": "Schlaf",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:41:05.685Z"
+      },
+      {
+        "type": "move",
+        "word": "Bis",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:41:28.501Z"
+      },
+      {
+        "type": "move",
+        "word": "Woher",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:41:32.637Z"
+      },
+      {
+        "type": "move",
+        "word": "Wo",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:41:36.741Z"
+      },
+      {
+        "type": "move",
+        "word": "Weg",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:41:44.941Z"
+      },
+      {
+        "type": "move",
+        "word": "Wie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:41:48.301Z"
+      },
+      {
+        "type": "move",
+        "word": "So",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:41:53.822Z"
+      },
+      {
+        "type": "move",
+        "word": "Frage",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:42:54.061Z"
+      },
+      {
+        "type": "move",
+        "word": "Gern",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:43:08.973Z"
+      },
+      {
+        "type": "move",
+        "word": "Wohnen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:43:13.742Z"
+      },
+      {
+        "type": "move",
+        "word": "Mensch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:43:18.557Z"
+      },
+      {
+        "type": "move",
+        "word": "Wenn",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:43:23.877Z"
+      },
+      {
+        "type": "move",
+        "word": "Deshalb",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:44:06.692Z"
+      },
+      {
+        "type": "move",
+        "word": "Einfach",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:44:27.894Z"
+      },
+      {
+        "type": "move",
+        "word": "Lösen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:44:33.037Z"
+      },
+      {
+        "type": "move",
+        "word": "Hauptstadt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:47:09.334Z"
+      },
+      {
+        "type": "move",
+        "word": "Anderthalb",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:48:16.702Z"
+      },
+      {
+        "type": "move",
+        "word": "Wann",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:48:40.142Z"
+      },
+      {
+        "type": "move",
+        "word": "Tochter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:48:56.262Z"
+      },
+      {
+        "type": "move",
+        "word": "Krieg",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T15:50:01.679Z"
+      },
+      {
+        "type": "move",
+        "word": "Von",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:02:32.435Z"
+      },
+      {
+        "type": "move",
+        "word": "Nach",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:02:33.955Z"
+      },
+      {
+        "type": "move",
+        "word": "Vom",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:02:36.331Z"
+      },
+      {
+        "type": "move",
+        "word": "Arzt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:02:39.307Z"
       }
     ],
     "levels": [
@@ -9653,6 +9863,126 @@
           {
             "length": 258,
             "date": "2024-10-01T19:34:54.821Z"
+          },
+          {
+            "length": 257,
+            "date": "2024-10-02T15:20:29.635Z"
+          },
+          {
+            "length": 256,
+            "date": "2024-10-02T15:22:45.570Z"
+          },
+          {
+            "length": 255,
+            "date": "2024-10-02T15:29:24.835Z"
+          },
+          {
+            "length": 254,
+            "date": "2024-10-02T15:35:04.748Z"
+          },
+          {
+            "length": 253,
+            "date": "2024-10-02T15:35:29.452Z"
+          },
+          {
+            "length": 252,
+            "date": "2024-10-02T15:40:48.621Z"
+          },
+          {
+            "length": 251,
+            "date": "2024-10-02T15:41:05.685Z"
+          },
+          {
+            "length": 250,
+            "date": "2024-10-02T15:41:28.501Z"
+          },
+          {
+            "length": 249,
+            "date": "2024-10-02T15:41:32.637Z"
+          },
+          {
+            "length": 248,
+            "date": "2024-10-02T15:41:36.741Z"
+          },
+          {
+            "length": 247,
+            "date": "2024-10-02T15:41:44.941Z"
+          },
+          {
+            "length": 246,
+            "date": "2024-10-02T15:41:48.301Z"
+          },
+          {
+            "length": 245,
+            "date": "2024-10-02T15:41:53.822Z"
+          },
+          {
+            "length": 244,
+            "date": "2024-10-02T15:42:54.061Z"
+          },
+          {
+            "length": 243,
+            "date": "2024-10-02T15:43:08.973Z"
+          },
+          {
+            "length": 242,
+            "date": "2024-10-02T15:43:13.742Z"
+          },
+          {
+            "length": 241,
+            "date": "2024-10-02T15:43:18.557Z"
+          },
+          {
+            "length": 240,
+            "date": "2024-10-02T15:43:23.877Z"
+          },
+          {
+            "length": 239,
+            "date": "2024-10-02T15:44:06.692Z"
+          },
+          {
+            "length": 238,
+            "date": "2024-10-02T15:44:27.894Z"
+          },
+          {
+            "length": 237,
+            "date": "2024-10-02T15:44:33.038Z"
+          },
+          {
+            "length": 236,
+            "date": "2024-10-02T15:47:09.334Z"
+          },
+          {
+            "length": 235,
+            "date": "2024-10-02T15:48:16.702Z"
+          },
+          {
+            "length": 234,
+            "date": "2024-10-02T15:48:40.142Z"
+          },
+          {
+            "length": 233,
+            "date": "2024-10-02T15:48:56.262Z"
+          },
+          {
+            "length": 232,
+            "date": "2024-10-02T15:50:01.679Z"
+          },
+          {
+            "length": 231,
+            "date": "2024-10-02T17:02:32.435Z"
+          },
+          {
+            "length": 230,
+            "date": "2024-10-02T17:02:33.955Z"
+          },
+          {
+            "length": 229,
+            "date": "2024-10-02T17:02:36.331Z"
+          },
+          {
+            "length": 228,
+            "date": "2024-10-02T17:02:39.307Z"
           }
         ]
       },
@@ -10321,6 +10651,126 @@
           {
             "length": 106,
             "date": "2024-10-01T19:34:54.821Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-10-02T15:20:29.635Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-10-02T15:22:45.570Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-10-02T15:29:24.835Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-10-02T15:35:04.748Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-10-02T15:35:29.452Z"
+          },
+          {
+            "length": 112,
+            "date": "2024-10-02T15:40:48.621Z"
+          },
+          {
+            "length": 113,
+            "date": "2024-10-02T15:41:05.685Z"
+          },
+          {
+            "length": 114,
+            "date": "2024-10-02T15:41:28.501Z"
+          },
+          {
+            "length": 115,
+            "date": "2024-10-02T15:41:32.637Z"
+          },
+          {
+            "length": 116,
+            "date": "2024-10-02T15:41:36.741Z"
+          },
+          {
+            "length": 117,
+            "date": "2024-10-02T15:41:44.941Z"
+          },
+          {
+            "length": 118,
+            "date": "2024-10-02T15:41:48.301Z"
+          },
+          {
+            "length": 119,
+            "date": "2024-10-02T15:41:53.822Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-10-02T15:42:54.061Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-10-02T15:43:08.974Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-10-02T15:43:13.742Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-10-02T15:43:18.557Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-10-02T15:43:23.877Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-10-02T15:44:06.692Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-10-02T15:44:27.894Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-10-02T15:44:33.038Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-10-02T15:47:09.334Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-10-02T15:48:16.702Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-10-02T15:48:40.142Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-10-02T15:48:56.262Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-10-02T15:50:01.679Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-10-02T17:02:32.435Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-10-02T17:02:33.955Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-10-02T17:02:36.331Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-10-02T17:02:39.307Z"
           }
         ]
       },
