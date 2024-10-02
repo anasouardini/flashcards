@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 19,
-      "currentCardSide": "front",
+      "currentCardIndex": 31,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -249,34 +249,12 @@
         },
         {
           "front": {
-            "content": "Sehen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [See]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Dort (adv.)"
           },
           "back": {
             "content": [
               "- [There]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Studieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Study]: ",
-              "- Forms: Studieren (noun, singular, neuter)"
             ]
           }
         },
@@ -310,17 +288,6 @@
             "content": [
               "- [Succeed]: ",
               "- Forms: Gelingen (noun, singular, neuter)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Firma (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Company]: ",
-              "- Forms: Firmen (plural)"
             ]
           }
         },
@@ -360,17 +327,6 @@
         },
         {
           "front": {
-            "content": "Sein (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To be]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Werden (v.)"
           },
           "back": {
@@ -382,44 +338,11 @@
         },
         {
           "front": {
-            "content": "Machen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To do/make]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sagen (v.)"
           },
           "back": {
             "content": [
               "- [To say]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Geben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To give]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wollen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To want]: ",
               "- Forms: "
             ]
           }
@@ -4024,6 +3947,83 @@
             "content": [
               "- [Doctor]: ",
               "- Forms: Ärzte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [See]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Studieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Study]: ",
+              "- Forms: Studieren (noun, singular, neuter)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Firma (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Company]: ",
+              "- Forms: Firmen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sein (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To be]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Machen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To do/make]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Geben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To give]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wollen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To want]: ",
+              "- Forms: "
             ]
           }
         }
@@ -7711,6 +7711,55 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-02T17:02:39.307Z"
+      },
+      {
+        "type": "move",
+        "word": "Sehen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:08:32.340Z"
+      },
+      {
+        "type": "move",
+        "word": "Studieren",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:08:47.164Z"
+      },
+      {
+        "type": "move",
+        "word": "Firma",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:11:15.253Z"
+      },
+      {
+        "type": "move",
+        "word": "Sein",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:13:34.365Z"
+      },
+      {
+        "type": "move",
+        "word": "Machen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:15:31.421Z"
+      },
+      {
+        "type": "move",
+        "word": "Geben",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:17:09.126Z"
+      },
+      {
+        "type": "move",
+        "word": "Wollen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:17:14.526Z"
       }
     ],
     "levels": [
@@ -9983,6 +10032,34 @@
           {
             "length": 228,
             "date": "2024-10-02T17:02:39.307Z"
+          },
+          {
+            "length": 227,
+            "date": "2024-10-02T17:08:32.340Z"
+          },
+          {
+            "length": 226,
+            "date": "2024-10-02T17:08:47.164Z"
+          },
+          {
+            "length": 225,
+            "date": "2024-10-02T17:11:15.253Z"
+          },
+          {
+            "length": 224,
+            "date": "2024-10-02T17:13:34.365Z"
+          },
+          {
+            "length": 223,
+            "date": "2024-10-02T17:15:31.421Z"
+          },
+          {
+            "length": 222,
+            "date": "2024-10-02T17:17:09.126Z"
+          },
+          {
+            "length": 221,
+            "date": "2024-10-02T17:17:14.526Z"
           }
         ]
       },
@@ -10771,6 +10848,34 @@
           {
             "length": 136,
             "date": "2024-10-02T17:02:39.307Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-10-02T17:08:32.340Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-10-02T17:08:47.164Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-10-02T17:11:15.253Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-10-02T17:13:34.365Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-10-02T17:15:31.421Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-10-02T17:17:09.126Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-02T17:17:14.526Z"
           }
         ]
       },
