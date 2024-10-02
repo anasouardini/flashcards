@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 119,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -1452,17 +1452,6 @@
         },
         {
           "front": {
-            "content": "Einladen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To invite]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Schauen (v.)"
           },
           "back": {
@@ -1501,17 +1490,6 @@
           "back": {
             "content": [
               "- [To use]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kochen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To cook]: ",
               "- Forms: "
             ]
           }
@@ -1672,22 +1650,22 @@
         },
         {
           "front": {
-            "content": "Tief (adj.)"
+            "content": "Kurz (adj.)"
           },
           "back": {
             "content": [
-              "- [Low]: ",
+              "- [Short]: ",
               "- Forms: "
             ]
           }
         },
         {
           "front": {
-            "content": "Kurz (adj.)"
+            "content": "Tief (adj.)"
           },
           "back": {
             "content": [
-              "- [Short]: ",
+              "- [Low]: ",
               "- Forms: "
             ]
           }
@@ -1732,17 +1710,6 @@
           "back": {
             "content": [
               "- [Free]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kaputt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Broken]: ",
               "- Forms: "
             ]
           }
@@ -2318,17 +2285,6 @@
           "back": {
             "content": [
               "- [Last]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Besser (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Better]: ",
               "- Forms: "
             ]
           }
@@ -4034,6 +3990,50 @@
           "back": {
             "content": [
               "- [To explain]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einladen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To invite]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kochen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To cook]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kaputt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Broken]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Besser (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Better]: ",
               "- Forms: "
             ]
           }
@@ -7867,6 +7867,34 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-02T18:43:04.793Z"
+      },
+      {
+        "type": "move",
+        "word": "Einladen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T19:18:34.058Z"
+      },
+      {
+        "type": "move",
+        "word": "Kochen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T19:24:02.762Z"
+      },
+      {
+        "type": "move",
+        "word": "Kaputt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T19:50:26.994Z"
+      },
+      {
+        "type": "move",
+        "word": "Besser",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T21:26:30.294Z"
       }
     ],
     "levels": [
@@ -10215,6 +10243,22 @@
           {
             "length": 211,
             "date": "2024-10-02T18:43:04.793Z"
+          },
+          {
+            "length": 210,
+            "date": "2024-10-02T19:18:34.058Z"
+          },
+          {
+            "length": 209,
+            "date": "2024-10-02T19:24:02.762Z"
+          },
+          {
+            "length": 208,
+            "date": "2024-10-02T19:50:26.994Z"
+          },
+          {
+            "length": 207,
+            "date": "2024-10-02T21:26:30.294Z"
           }
         ]
       },
@@ -11083,6 +11127,22 @@
           {
             "length": 154,
             "date": "2024-10-02T18:43:04.793Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-10-02T19:18:34.058Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-10-02T19:24:02.762Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-10-02T19:50:26.994Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-10-02T21:26:30.294Z"
           }
         ]
       },
