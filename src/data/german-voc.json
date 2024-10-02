@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 31,
-      "currentCardSide": "back",
+      "currentCardIndex": 92,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -404,28 +404,6 @@
         },
         {
           "front": {
-            "content": "Denken (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To think]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tun (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To do]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Fahren (v.)"
           },
           "back": {
@@ -470,45 +448,12 @@
         },
         {
           "front": {
-            "content": "Müde (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Tired]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Entschuldigung (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Excuse/Appology]: ",
               "- Forms: Entschuldigungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Satt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Full]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Klo (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Toilet]: ",
-              "- Forms: Klos (plural)"
             ]
           }
         },
@@ -547,17 +492,6 @@
         },
         {
           "front": {
-            "content": "Teuer (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Expensive]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Bar (noun, singular, neuter)"
           },
           "back": {
@@ -574,28 +508,6 @@
           "back": {
             "content": [
               "- [Only]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Links (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Left]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Rechts (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Right (direction)]: ",
               "- Forms: "
             ]
           }
@@ -657,17 +569,6 @@
         },
         {
           "front": {
-            "content": "Aufzug (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Elevator]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Eingang (noun, singular, masculine)"
           },
           "back": {
@@ -684,6 +585,17 @@
           "back": {
             "content": [
               "- [Good Bye]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aufzug (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Elevator]: ",
               "- Forms: "
             ]
           }
@@ -762,17 +674,6 @@
             "content": [
               "- [Breakfast]: ",
               "- Forms: Frühstücken (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Klein (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Small]: ",
-              "- Forms: "
             ]
           }
         },
@@ -970,17 +871,6 @@
           "back": {
             "content": [
               "- [To show]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Arbeiten (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To work]: ",
               "- Forms: "
             ]
           }
@@ -2457,7 +2347,7 @@
       ]
     },
     {
-      "currentCardIndex": 8,
+      "currentCardIndex": 146,
       "currentCardSide": "front",
       "cards": [
         {
@@ -2545,17 +2435,6 @@
             "content": [
               "- [Training]: ",
               "- Forms: Ausbildungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Welt (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [World]: ",
-              "- Other Forms: Welten (plural)"
             ]
           }
         },
@@ -4037,11 +3916,132 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Denken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To think]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tun (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To do]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Müde (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Tired]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Satt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Full]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Klo (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Toilet]: ",
+              "- Forms: Klos (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Welt (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [World]: ",
+              "- Other Forms: Welten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Teuer (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Expensive]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Links (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Left]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Rechts (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Right (direction)]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Klein (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Small]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Arbeiten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To work]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 25,
       "currentCardSide": "front",
       "cards": [
         {
@@ -7776,6 +7776,90 @@
         "type": "add",
         "word": "Besser",
         "date": "2024-10-02T17:20:25.080Z"
+      },
+      {
+        "type": "move",
+        "word": "Denken",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:27:59.088Z"
+      },
+      {
+        "type": "move",
+        "word": "Tun",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:28:01.704Z"
+      },
+      {
+        "type": "move",
+        "word": "Müde",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:31:44.176Z"
+      },
+      {
+        "type": "move",
+        "word": "Satt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:33:41.864Z"
+      },
+      {
+        "type": "move",
+        "word": "Klo",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:33:46.105Z"
+      },
+      {
+        "type": "move",
+        "word": "Welt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-02T17:37:43.465Z"
+      },
+      {
+        "type": "move",
+        "word": "Welt",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-10-02T17:37:49.400Z"
+      },
+      {
+        "type": "move",
+        "word": "Teuer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:38:02.777Z"
+      },
+      {
+        "type": "move",
+        "word": "Links",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:39:45.114Z"
+      },
+      {
+        "type": "move",
+        "word": "Rechts",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:39:59.946Z"
+      },
+      {
+        "type": "move",
+        "word": "Klein",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T17:59:24.201Z"
+      },
+      {
+        "type": "move",
+        "word": "Arbeiten",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T18:19:04.734Z"
       }
     ],
     "levels": [
@@ -10080,6 +10164,46 @@
           {
             "length": 222,
             "date": "2024-10-02T17:20:25.080Z"
+          },
+          {
+            "length": 221,
+            "date": "2024-10-02T17:27:59.088Z"
+          },
+          {
+            "length": 220,
+            "date": "2024-10-02T17:28:01.704Z"
+          },
+          {
+            "length": 219,
+            "date": "2024-10-02T17:31:44.176Z"
+          },
+          {
+            "length": 218,
+            "date": "2024-10-02T17:33:41.864Z"
+          },
+          {
+            "length": 217,
+            "date": "2024-10-02T17:33:46.105Z"
+          },
+          {
+            "length": 216,
+            "date": "2024-10-02T17:38:02.777Z"
+          },
+          {
+            "length": 215,
+            "date": "2024-10-02T17:39:45.114Z"
+          },
+          {
+            "length": 214,
+            "date": "2024-10-02T17:39:59.946Z"
+          },
+          {
+            "length": 213,
+            "date": "2024-10-02T17:59:24.201Z"
+          },
+          {
+            "length": 212,
+            "date": "2024-10-02T18:19:04.734Z"
           }
         ]
       },
@@ -10896,6 +11020,54 @@
           {
             "length": 143,
             "date": "2024-10-02T17:17:14.526Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-10-02T17:27:59.088Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-10-02T17:28:01.704Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-10-02T17:31:44.176Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-10-02T17:33:41.864Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-10-02T17:33:46.105Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-10-02T17:37:43.465Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-10-02T17:37:49.400Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-10-02T17:38:02.777Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-10-02T17:39:45.114Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-10-02T17:39:59.946Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-10-02T17:59:24.201Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-10-02T18:19:04.735Z"
           }
         ]
       },
@@ -11012,6 +11184,14 @@
           {
             "length": 28,
             "date": "2024-10-01T19:22:21.630Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-10-02T17:37:43.465Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-10-02T17:37:49.400Z"
           }
         ]
       },
