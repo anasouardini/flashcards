@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 92,
+      "currentCardIndex": 119,
       "currentCardSide": "front",
       "cards": [
         {
@@ -1124,17 +1124,6 @@
           "back": {
             "content": [
               "- [To search/look/seek/find]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Erklären (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To explain]: ",
               "- Forms: "
             ]
           }
@@ -4034,6 +4023,17 @@
           "back": {
             "content": [
               "- [To work]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Erklären (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To explain]: ",
               "- Forms: "
             ]
           }
@@ -7860,6 +7860,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-02T18:19:04.734Z"
+      },
+      {
+        "type": "move",
+        "word": "Erklären",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-02T18:43:04.793Z"
       }
     ],
     "levels": [
@@ -10204,6 +10211,10 @@
           {
             "length": 212,
             "date": "2024-10-02T18:19:04.734Z"
+          },
+          {
+            "length": 211,
+            "date": "2024-10-02T18:43:04.793Z"
           }
         ]
       },
@@ -11068,6 +11079,10 @@
           {
             "length": 153,
             "date": "2024-10-02T18:19:04.735Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-10-02T18:43:04.793Z"
           }
         ]
       },
