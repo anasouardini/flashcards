@@ -668,23 +668,23 @@
         },
         {
           "front": {
-            "content": "Frühstück (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Breakfast]: ",
-              "- Forms: Frühstücken (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Lecker (adj.)"
           },
           "back": {
             "content": [
               "- [Tasty]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Frühstück (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Breakfast]: ",
+              "- Forms: Frühstücken (v.)"
             ]
           }
         },
@@ -844,22 +844,22 @@
         },
         {
           "front": {
-            "content": "Regnen (v.)"
+            "content": "Nehmen (v.)"
           },
           "back": {
             "content": [
-              "- [To Rain]: ",
+              "- [To take]: ",
               "- Forms: "
             ]
           }
         },
         {
           "front": {
-            "content": "Nehmen (v.)"
+            "content": "Regnen (v.)"
           },
           "back": {
             "content": [
-              "- [To take]: ",
+              "- [To Rain]: ",
               "- Forms: "
             ]
           }
@@ -1639,17 +1639,6 @@
         },
         {
           "front": {
-            "content": "Hoch (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [High]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Kurz (adj.)"
           },
           "back": {
@@ -1666,28 +1655,6 @@
           "back": {
             "content": [
               "- [Low]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Breit (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Wide]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schmal (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Narrow]: ",
               "- Forms: "
             ]
           }
@@ -1754,28 +1721,6 @@
           "back": {
             "content": [
               "- [Different]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Leer (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Empty]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hässlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Ugly]: ",
               "- Forms: "
             ]
           }
@@ -1908,17 +1853,6 @@
           "back": {
             "content": [
               "- [Shy]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sympathisch (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Likeable]: ",
               "- Forms: "
             ]
           }
@@ -2059,6 +1993,17 @@
         },
         {
           "front": {
+            "content": "Unwichtig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Unimportant]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
             "content": "Schwierig (adj.)"
           },
           "back": {
@@ -2075,17 +2020,6 @@
           "back": {
             "content": [
               "- [Important]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Unwichtig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Unimportant]: ",
               "- Forms: "
             ]
           }
@@ -2120,17 +2054,6 @@
           "back": {
             "content": [
               "- [Right/Correct]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wunderbar (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Wonderful]: ",
               "- Forms: "
             ]
           }
@@ -2230,50 +2153,6 @@
           "back": {
             "content": [
               "- [Early]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Täglich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Daily]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Monatlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Monthly]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Jährlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Yearly]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Regelmäßig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Regular]: ",
               "- Forms: "
             ]
           }
@@ -4034,6 +3913,127 @@
           "back": {
             "content": [
               "- [Better]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Breit (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Wide]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schmal (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Narrow]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hoch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [High]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hässlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Ugly]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Leer (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Empty]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sympathisch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Likeable]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wunderbar (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Wonderful]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Täglich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Daily]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Monatlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Monthly]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Jährlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Yearly]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Regelmäßig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Regular]: ",
               "- Forms: "
             ]
           }
@@ -7895,6 +7895,83 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-02T21:26:30.294Z"
+      },
+      {
+        "type": "move",
+        "word": "Breit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-03T21:09:30.525Z"
+      },
+      {
+        "type": "move",
+        "word": "Schmal",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-03T21:09:33.765Z"
+      },
+      {
+        "type": "move",
+        "word": "Hoch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-03T21:09:36.949Z"
+      },
+      {
+        "type": "move",
+        "word": "Hässlich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-03T21:14:32.661Z"
+      },
+      {
+        "type": "move",
+        "word": "Leer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-03T21:17:05.563Z"
+      },
+      {
+        "type": "move",
+        "word": "Sympathisch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-03T21:57:39.611Z"
+      },
+      {
+        "type": "move",
+        "word": "Wunderbar",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-03T22:17:31.841Z"
+      },
+      {
+        "type": "move",
+        "word": "Täglich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-03T22:30:25.063Z"
+      },
+      {
+        "type": "move",
+        "word": "Monatlich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-03T22:30:26.606Z"
+      },
+      {
+        "type": "move",
+        "word": "Jährlich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-03T22:30:31.622Z"
+      },
+      {
+        "type": "move",
+        "word": "Regelmäßig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-03T22:30:38.663Z"
       }
     ],
     "levels": [
@@ -10259,6 +10336,50 @@
           {
             "length": 207,
             "date": "2024-10-02T21:26:30.294Z"
+          },
+          {
+            "length": 206,
+            "date": "2024-10-03T21:09:30.671Z"
+          },
+          {
+            "length": 205,
+            "date": "2024-10-03T21:09:33.765Z"
+          },
+          {
+            "length": 204,
+            "date": "2024-10-03T21:09:36.950Z"
+          },
+          {
+            "length": 203,
+            "date": "2024-10-03T21:14:32.661Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-10-03T21:17:05.563Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-10-03T21:57:39.612Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-10-03T22:17:31.841Z"
+          },
+          {
+            "length": 199,
+            "date": "2024-10-03T22:30:25.063Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-10-03T22:30:26.606Z"
+          },
+          {
+            "length": 197,
+            "date": "2024-10-03T22:30:31.622Z"
+          },
+          {
+            "length": 196,
+            "date": "2024-10-03T22:30:38.663Z"
           }
         ]
       },
@@ -11143,6 +11264,50 @@
           {
             "length": 158,
             "date": "2024-10-02T21:26:30.294Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-10-03T21:09:30.671Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-10-03T21:09:33.765Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-10-03T21:09:36.950Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-10-03T21:14:32.661Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-10-03T21:17:05.563Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-10-03T21:57:39.612Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-10-03T22:17:31.841Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-10-03T22:30:25.063Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-10-03T22:30:26.606Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-10-03T22:30:31.622Z"
+          },
+          {
+            "length": 169,
+            "date": "2024-10-03T22:30:38.663Z"
           }
         ]
       },
