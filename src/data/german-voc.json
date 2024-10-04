@@ -1,5 +1,5 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -2167,87 +2167,77 @@
               "- Forms: "
             ]
           }
-        }
-      ]
-    },
-    {
-      "currentCardIndex": 146,
-      "currentCardSide": "front",
-      "cards": [
+        },
         {
           "front": {
-            "content": "Boot (noun, singular, neuter)"
+            "content": "Zeit (noun, singular, feminine)"
           },
           "back": {
             "content": [
-              "- [Boat]: ",
-              "- Other Forms: Boote(plural)"
+              "- [Time]: ",
+              "- Forms: Zeiten (plural)"
             ]
           }
         },
         {
           "front": {
-            "content": "Hausaufgabe (noun, singular, feminine)"
+            "content": "Waschen (v.)"
           },
           "back": {
             "content": [
-              "- [Homework]: ",
-              "- Forms: Hausaufgaben (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Typisch (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Typical]: ",
-              "- Forms: Typisch (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Antwort (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Answer]: ",
-              "- Forms: Antworten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kind (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Child]: ",
-              "- Forms: Kinder (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kostenlos (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Free]: ",
+              "- [To wash]: ",
               "- Forms: "
             ]
           }
         },
         {
           "front": {
-            "content": "Bildung (noun, singular, feminine)"
+            "content": "Aber (conjunction)"
           },
           "back": {
             "content": [
-              "- [Education]: ",
-              "- Forms: Bildungen (plural)"
+              "- [But]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Halb (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Half]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sein (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To be]: ",
+              "- Forms: "
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "currentCardIndex": 0,
+      "currentCardSide": "back",
+      "cards": [
+        {
+          "front": {
+            "content": "Können (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Ability/Skill] (n.): ",
+              "- [To Know/To be able to] (v.): ",
+              "- Forms: Können (v.)"
             ]
           }
         },
@@ -2298,171 +2288,6 @@
         },
         {
           "front": {
-            "content": "Später (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [later/subsequently]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nicht/Kein (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Not]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tisch (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Table]: ",
-              "- Forms: Tische (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Öffentlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Public]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Familie (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Family]: ",
-              "- Forms: Familien (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Eltern (noun, plural, ?)"
-          },
-          "back": {
-            "content": [
-              "- [Parents]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Rot (adj)"
-          },
-          "back": {
-            "content": [
-              "- [Red]: ",
-              "- Other Forms: Rot (noun, singular, neuter)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bild (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Image/Picture/View]: ",
-              "- Forms: Bilder (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Buch (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Book]: ",
-              "- Forms: Bücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Alle (pronoun/quantifier)"
-          },
-          "back": {
-            "content": [
-              "- [All/Everybody]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zum (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [To The]: Zum ist 'Zu' zuzüglich 'dem' : Zum is 'Zu', plus 'dem'",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zur (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [To The]: Zur ist 'Zu' zuzüglich 'der' : Zur is 'Zu', plus 'der'",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zusammen (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Together]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lernen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Learn]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Woche (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Week]: ",
-              "- Other Forms: Wochen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Billig (adj.)"
           },
           "back": {
@@ -2474,57 +2299,12 @@
         },
         {
           "front": {
-            "content": "Können (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Ability/Skill] (n.): ",
-              "- [To Know/To be able to] (v.): ",
-              "- Forms: Können (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Weiß (v.)"
           },
           "back": {
             "content": [
               "- [Know]: ",
               "- [White] (noun, singular, neuter): ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Alt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Old]: Wie alt bist du? : How old are you?",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kommen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Come/Arrive]: Woher kommst du? : Where do you come from?",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Aus (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [From/Of]: Ich komme aus Marokko : I come from Morocco",
               "- Forms: "
             ]
           }
@@ -2553,66 +2333,11 @@
         },
         {
           "front": {
-            "content": "Leider (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Unfortunately]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Jung (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Young]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Einzel (adj.)"
           },
           "back": {
             "content": [
               "- [Only/Standalone]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Frau (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Women]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mädchen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Girl]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Leute (noun, plural, -)"
-          },
-          "back": {
-            "content": [
-              "- [People]: ",
               "- Forms: "
             ]
           }
@@ -2652,56 +2377,12 @@
         },
         {
           "front": {
-            "content": "Migration (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Migration]: ",
-              "- Forms: Migrationen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zeit (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Time]: ",
-              "- Forms: Zeiten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Allein (adv.)"
           },
           "back": {
             "content": [
               "- [Alone]: ",
               "- Forms: Allein (adj.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Haben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Have]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Finden (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To find]: ",
-              "- Forms: "
             ]
           }
         },
@@ -2751,17 +2432,6 @@
         },
         {
           "front": {
-            "content": "Hunger (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Hunger]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Durst (noun, singular, masculine)"
           },
           "back": {
@@ -2773,122 +2443,12 @@
         },
         {
           "front": {
-            "content": "Toilette (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Toilet]: ",
-              "- Forms: Toiletten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kosten (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Cost]: ",
-              "- Forms: Kosten (noun, plural, neuter)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Karte (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Card]: ",
-              "- Forms: Karten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Groß (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Large]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Appetit (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Appetite]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hotel (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Hotel]: ",
-              "- Forms: Hotels (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Schlüssel (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Key]: ",
               "- Forms: Schlüssel (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bekommen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To get/become]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bringen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To bring]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kennen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To know]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hören (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To listen to]: ",
-              "- Forms: "
             ]
           }
         },
@@ -2938,55 +2498,11 @@
         },
         {
           "front": {
-            "content": "Waschen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To wash]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nervös (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Nervous]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gestresst (adj.)"
           },
           "back": {
             "content": [
               "- [Stressed]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Cool (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Cool]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sozial (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Social]: ",
               "- Forms: "
             ]
           }
@@ -3004,56 +2520,12 @@
         },
         {
           "front": {
-            "content": "Kalt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Cold]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Neu (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [New]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Lang (adj.)"
           },
           "back": {
             "content": [
               "- [Long]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Helfen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To help]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gestern (noun, singular, neutre)"
-          },
-          "back": {
-            "content": [
-              "- [Yesterday]: ",
-              "- Other Forms: "
             ]
           }
         },
@@ -3103,17 +2575,6 @@
         },
         {
           "front": {
-            "content": "Total (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Total]: ",
-              "- Forms: Total (adj.), Total (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Fragen (v.)"
           },
           "back": {
@@ -3125,66 +2586,11 @@
         },
         {
           "front": {
-            "content": "Und (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [And]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Aber (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [But]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zu_der_Zeit (conjunction)"
           },
           "back": {
             "content": [
               "- [By the time]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Dusche (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Shower]: ",
-              "- Forms: Duschen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bevor (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Before]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Dass (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [That]: ",
               "- Forms: "
             ]
           }
@@ -3207,17 +2613,6 @@
           "back": {
             "content": [
               "- [To fall]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Planen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To plan]: ",
               "- Forms: "
             ]
           }
@@ -3329,61 +2724,6 @@
           "back": {
             "content": [
               "- [Here]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Falsch (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [False/Wrong/Incorrect]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Perfekt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Perfect]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Interessant (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Interesting]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Komplett (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Complete/Full]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Halb (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Half]: ",
               "- Forms: "
             ]
           }
@@ -3677,34 +3017,12 @@
         },
         {
           "front": {
-            "content": "Studieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Study]: ",
-              "- Forms: Studieren (noun, singular, neuter)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Firma (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Company]: ",
               "- Forms: Firmen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sein (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To be]: ",
-              "- Forms: "
             ]
           }
         },
@@ -4037,11 +3355,22 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bildung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Education]: ",
+              "- Forms: Bildungen (plural)"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 25,
+      "currentCardIndex": 48,
       "currentCardSide": "front",
       "cards": [
         {
@@ -4345,6 +3674,677 @@
             "content": [
               "- [Normally]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Boot (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Boat]: ",
+              "- Other Forms: Boote(plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hausaufgabe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Homework]: ",
+              "- Forms: Hausaufgaben (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Typisch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Typical]: ",
+              "- Forms: Typisch (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Antwort (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Answer]: ",
+              "- Forms: Antworten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kind (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Child]: ",
+              "- Forms: Kinder (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kostenlos (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Free]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Später (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [later/subsequently]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nicht/Kein (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Not]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tisch (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Table]: ",
+              "- Forms: Tische (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Öffentlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Public]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Familie (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Family]: ",
+              "- Forms: Familien (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Eltern (noun, plural, ?)"
+          },
+          "back": {
+            "content": [
+              "- [Parents]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Rot (adj)"
+          },
+          "back": {
+            "content": [
+              "- [Red]: ",
+              "- Other Forms: Rot (noun, singular, neuter)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bild (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Image/Picture/View]: ",
+              "- Forms: Bilder (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Buch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Book]: ",
+              "- Forms: Bücher (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Alle (pronoun/quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [All/Everybody]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zum (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [To The]: Zum ist 'Zu' zuzüglich 'dem' : Zum is 'Zu', plus 'dem'",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zur (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [To The]: Zur ist 'Zu' zuzüglich 'der' : Zur is 'Zu', plus 'der'",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zusammen (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Together]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lernen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Learn]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Woche (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Week]: ",
+              "- Other Forms: Wochen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Alt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Old]: Wie alt bist du? : How old are you?",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kommen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Come/Arrive]: Woher kommst du? : Where do you come from?",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aus (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [From/Of]: Ich komme aus Marokko : I come from Morocco",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Leider (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Unfortunately]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Jung (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Young]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Frau (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Women]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mädchen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Girl]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Leute (noun, plural, -)"
+          },
+          "back": {
+            "content": [
+              "- [People]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Migration (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Migration]: ",
+              "- Forms: Migrationen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Have]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Finden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To find]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Toilette (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Toilet]: ",
+              "- Forms: Toiletten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hunger (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Hunger]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kosten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Cost]: ",
+              "- Forms: Kosten (noun, plural, neuter)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Karte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Card]: ",
+              "- Forms: Karten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Groß (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Large]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Appetit (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Appetite]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hotel (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Hotel]: ",
+              "- Forms: Hotels (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bekommen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To get/become]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bringen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To bring]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kennen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To know]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hören (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To listen to]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nervös (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Nervous]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Cool (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Cool]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sozial (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Social]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kalt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Cold]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Neu (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [New]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Helfen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To help]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gestern (noun, singular, neutre)"
+          },
+          "back": {
+            "content": [
+              "- [Yesterday]: ",
+              "- Other Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Total (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Total]: ",
+              "- Forms: Total (adj.), Total (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Und (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [And]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dusche (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Shower]: ",
+              "- Forms: Duschen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bevor (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Before]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dass (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [That]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Planen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To plan]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Falsch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [False/Wrong/Incorrect]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Perfekt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Perfect]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Interessant (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Interesting]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Komplett (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Complete/Full]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Studieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Study]: ",
+              "- Forms: Studieren (noun, singular, neuter)"
             ]
           }
         }
@@ -7972,6 +7972,482 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-03T22:30:38.663Z"
+      },
+      {
+        "type": "move",
+        "word": "Zeit",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-10-03T22:35:53.198Z"
+      },
+      {
+        "type": "move",
+        "word": "Waschen",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-10-03T22:38:01.915Z"
+      },
+      {
+        "type": "move",
+        "word": "Aber",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-10-03T22:39:07.557Z"
+      },
+      {
+        "type": "move",
+        "word": "Halb",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-10-03T22:40:44.517Z"
+      },
+      {
+        "type": "move",
+        "word": "Sein",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-10-03T22:43:14.397Z"
+      },
+      {
+        "type": "move",
+        "word": "Boot",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:55:01.441Z"
+      },
+      {
+        "type": "move",
+        "word": "Hausaufgabe",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:55:02.321Z"
+      },
+      {
+        "type": "move",
+        "word": "Typisch",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:55:03.687Z"
+      },
+      {
+        "type": "move",
+        "word": "Antwort",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:55:27.216Z"
+      },
+      {
+        "type": "move",
+        "word": "Kind",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:55:30.528Z"
+      },
+      {
+        "type": "move",
+        "word": "Kostenlos",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:55:32.320Z"
+      },
+      {
+        "type": "move",
+        "word": "Später",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:55:53.800Z"
+      },
+      {
+        "type": "move",
+        "word": "Nicht/Kein",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:55:56.192Z"
+      },
+      {
+        "type": "move",
+        "word": "Tisch",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:00.144Z"
+      },
+      {
+        "type": "move",
+        "word": "Öffentlich",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:05.464Z"
+      },
+      {
+        "type": "move",
+        "word": "Familie",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:07.096Z"
+      },
+      {
+        "type": "move",
+        "word": "Eltern",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:11.576Z"
+      },
+      {
+        "type": "move",
+        "word": "Rot",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:15.304Z"
+      },
+      {
+        "type": "move",
+        "word": "Bild",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:19.064Z"
+      },
+      {
+        "type": "move",
+        "word": "Buch",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:22.856Z"
+      },
+      {
+        "type": "move",
+        "word": "Alle",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:25.960Z"
+      },
+      {
+        "type": "move",
+        "word": "Zum",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:30.856Z"
+      },
+      {
+        "type": "move",
+        "word": "Zur",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:31.352Z"
+      },
+      {
+        "type": "move",
+        "word": "Zusammen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:32.496Z"
+      },
+      {
+        "type": "move",
+        "word": "Lernen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:36.880Z"
+      },
+      {
+        "type": "move",
+        "word": "Woche",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:39.734Z"
+      },
+      {
+        "type": "move",
+        "word": "Können",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:56:47.016Z"
+      },
+      {
+        "type": "move",
+        "word": "Können",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-10-04T19:56:52.888Z"
+      },
+      {
+        "type": "move",
+        "word": "Alt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:57:35.712Z"
+      },
+      {
+        "type": "move",
+        "word": "Kommen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:57:40.864Z"
+      },
+      {
+        "type": "move",
+        "word": "Aus",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:57:44.488Z"
+      },
+      {
+        "type": "move",
+        "word": "Leider",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:57:53.864Z"
+      },
+      {
+        "type": "move",
+        "word": "Jung",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:57:55.584Z"
+      },
+      {
+        "type": "move",
+        "word": "Frau",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:58:03.295Z"
+      },
+      {
+        "type": "move",
+        "word": "Mädchen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:58:06.216Z"
+      },
+      {
+        "type": "move",
+        "word": "Leute",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:58:08.432Z"
+      },
+      {
+        "type": "move",
+        "word": "Migration",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:58:31.383Z"
+      },
+      {
+        "type": "move",
+        "word": "Haben",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:58:36.591Z"
+      },
+      {
+        "type": "move",
+        "word": "Finden",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:58:38.655Z"
+      },
+      {
+        "type": "move",
+        "word": "Toilette",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:05.207Z"
+      },
+      {
+        "type": "move",
+        "word": "Hunger",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:07.216Z"
+      },
+      {
+        "type": "move",
+        "word": "Kosten",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:14.279Z"
+      },
+      {
+        "type": "move",
+        "word": "Karte",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:17.120Z"
+      },
+      {
+        "type": "move",
+        "word": "Groß",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:19.591Z"
+      },
+      {
+        "type": "move",
+        "word": "Appetit",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:24.239Z"
+      },
+      {
+        "type": "move",
+        "word": "Hotel",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:25.718Z"
+      },
+      {
+        "type": "move",
+        "word": "Bekommen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:29.751Z"
+      },
+      {
+        "type": "move",
+        "word": "Bringen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:31.631Z"
+      },
+      {
+        "type": "move",
+        "word": "Kennen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:34.415Z"
+      },
+      {
+        "type": "move",
+        "word": "Hören",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:38.715Z"
+      },
+      {
+        "type": "move",
+        "word": "Nervös",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T19:59:58.879Z"
+      },
+      {
+        "type": "move",
+        "word": "Cool",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:18:06.987Z"
+      },
+      {
+        "type": "move",
+        "word": "Sozial",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:18:09.403Z"
+      },
+      {
+        "type": "move",
+        "word": "Kalt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:18:19.067Z"
+      },
+      {
+        "type": "move",
+        "word": "Neu",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:18:21.410Z"
+      },
+      {
+        "type": "move",
+        "word": "Helfen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:18:30.515Z"
+      },
+      {
+        "type": "move",
+        "word": "Gestern",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:18:34.723Z"
+      },
+      {
+        "type": "move",
+        "word": "Total",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:18:46.907Z"
+      },
+      {
+        "type": "move",
+        "word": "Und",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:18:51.763Z"
+      },
+      {
+        "type": "move",
+        "word": "Dusche",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:19:03.307Z"
+      },
+      {
+        "type": "move",
+        "word": "Bevor",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:19:10.171Z"
+      },
+      {
+        "type": "move",
+        "word": "Dass",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:19:12.587Z"
+      },
+      {
+        "type": "move",
+        "word": "Planen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:19:22.106Z"
+      },
+      {
+        "type": "move",
+        "word": "Falsch",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:20:02.891Z"
+      },
+      {
+        "type": "move",
+        "word": "Perfekt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:20:04.787Z"
+      },
+      {
+        "type": "move",
+        "word": "Interessant",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:20:07.779Z"
+      },
+      {
+        "type": "move",
+        "word": "Komplett",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:20:10.467Z"
+      },
+      {
+        "type": "move",
+        "word": "Studieren",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-04T20:22:33.970Z"
       }
     ],
     "levels": [
@@ -10380,6 +10856,26 @@
           {
             "length": 196,
             "date": "2024-10-03T22:30:38.663Z"
+          },
+          {
+            "length": 197,
+            "date": "2024-10-03T22:35:53.198Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-10-03T22:38:01.915Z"
+          },
+          {
+            "length": 199,
+            "date": "2024-10-03T22:39:07.557Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-10-03T22:40:44.517Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-10-03T22:43:14.397Z"
           }
         ]
       },
@@ -11308,6 +11804,278 @@
           {
             "length": 169,
             "date": "2024-10-03T22:30:38.663Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-10-03T22:35:53.198Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-10-03T22:38:01.915Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-10-03T22:39:07.557Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-10-03T22:40:44.517Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-10-03T22:43:14.397Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-10-04T19:55:01.442Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-10-04T19:55:02.321Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-10-04T19:55:03.687Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-10-04T19:55:27.216Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-10-04T19:55:30.528Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-10-04T19:55:32.320Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-10-04T19:55:53.800Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-10-04T19:55:56.192Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-10-04T19:56:00.144Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-10-04T19:56:05.464Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-10-04T19:56:07.096Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-10-04T19:56:11.576Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-10-04T19:56:15.304Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-10-04T19:56:19.064Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-10-04T19:56:22.856Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-10-04T19:56:25.960Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-10-04T19:56:30.856Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-10-04T19:56:31.352Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-10-04T19:56:32.496Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-10-04T19:56:36.880Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-04T19:56:39.734Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-10-04T19:56:47.016Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-04T19:56:52.888Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-10-04T19:57:35.712Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-10-04T19:57:40.864Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-10-04T19:57:44.488Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-10-04T19:57:53.864Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-10-04T19:57:55.584Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-10-04T19:58:03.295Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-10-04T19:58:06.216Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-10-04T19:58:08.432Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-10-04T19:58:31.383Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-10-04T19:58:36.591Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-10-04T19:58:38.656Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-10-04T19:59:05.207Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-10-04T19:59:07.216Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-10-04T19:59:14.279Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-10-04T19:59:17.120Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-10-04T19:59:19.591Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-10-04T19:59:24.239Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-10-04T19:59:25.718Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-10-04T19:59:29.751Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-10-04T19:59:31.631Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-10-04T19:59:34.415Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-10-04T19:59:38.715Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-10-04T19:59:58.879Z"
+          },
+          {
+            "length": 119,
+            "date": "2024-10-04T20:18:06.987Z"
+          },
+          {
+            "length": 118,
+            "date": "2024-10-04T20:18:09.403Z"
+          },
+          {
+            "length": 117,
+            "date": "2024-10-04T20:18:19.067Z"
+          },
+          {
+            "length": 116,
+            "date": "2024-10-04T20:18:21.410Z"
+          },
+          {
+            "length": 115,
+            "date": "2024-10-04T20:18:30.515Z"
+          },
+          {
+            "length": 114,
+            "date": "2024-10-04T20:18:34.723Z"
+          },
+          {
+            "length": 113,
+            "date": "2024-10-04T20:18:46.907Z"
+          },
+          {
+            "length": 112,
+            "date": "2024-10-04T20:18:51.763Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-10-04T20:19:03.307Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-10-04T20:19:10.171Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-10-04T20:19:12.587Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-10-04T20:19:22.106Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-10-04T20:20:02.891Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-10-04T20:20:04.787Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-10-04T20:20:07.779Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-10-04T20:20:10.467Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-10-04T20:22:33.970Z"
           }
         ]
       },
@@ -11432,6 +12200,258 @@
           {
             "length": 28,
             "date": "2024-10-02T17:37:49.400Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-10-04T19:55:01.442Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-10-04T19:55:02.321Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-10-04T19:55:03.687Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-10-04T19:55:27.216Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-10-04T19:55:30.528Z"
+          },
+          {
+            "length": 34,
+            "date": "2024-10-04T19:55:32.320Z"
+          },
+          {
+            "length": 35,
+            "date": "2024-10-04T19:55:53.800Z"
+          },
+          {
+            "length": 36,
+            "date": "2024-10-04T19:55:56.192Z"
+          },
+          {
+            "length": 37,
+            "date": "2024-10-04T19:56:00.144Z"
+          },
+          {
+            "length": 38,
+            "date": "2024-10-04T19:56:05.464Z"
+          },
+          {
+            "length": 39,
+            "date": "2024-10-04T19:56:07.096Z"
+          },
+          {
+            "length": 40,
+            "date": "2024-10-04T19:56:11.576Z"
+          },
+          {
+            "length": 41,
+            "date": "2024-10-04T19:56:15.304Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-10-04T19:56:19.064Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-10-04T19:56:22.856Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-10-04T19:56:25.960Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-10-04T19:56:30.856Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-10-04T19:56:31.352Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-10-04T19:56:32.496Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-10-04T19:56:36.880Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-10-04T19:56:39.734Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-10-04T19:56:47.016Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-10-04T19:56:52.888Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-10-04T19:57:35.712Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-10-04T19:57:40.864Z"
+          },
+          {
+            "length": 52,
+            "date": "2024-10-04T19:57:44.488Z"
+          },
+          {
+            "length": 53,
+            "date": "2024-10-04T19:57:53.864Z"
+          },
+          {
+            "length": 54,
+            "date": "2024-10-04T19:57:55.584Z"
+          },
+          {
+            "length": 55,
+            "date": "2024-10-04T19:58:03.295Z"
+          },
+          {
+            "length": 56,
+            "date": "2024-10-04T19:58:06.216Z"
+          },
+          {
+            "length": 57,
+            "date": "2024-10-04T19:58:08.432Z"
+          },
+          {
+            "length": 58,
+            "date": "2024-10-04T19:58:31.383Z"
+          },
+          {
+            "length": 59,
+            "date": "2024-10-04T19:58:36.591Z"
+          },
+          {
+            "length": 60,
+            "date": "2024-10-04T19:58:38.656Z"
+          },
+          {
+            "length": 61,
+            "date": "2024-10-04T19:59:05.207Z"
+          },
+          {
+            "length": 62,
+            "date": "2024-10-04T19:59:07.216Z"
+          },
+          {
+            "length": 63,
+            "date": "2024-10-04T19:59:14.279Z"
+          },
+          {
+            "length": 64,
+            "date": "2024-10-04T19:59:17.120Z"
+          },
+          {
+            "length": 65,
+            "date": "2024-10-04T19:59:19.591Z"
+          },
+          {
+            "length": 66,
+            "date": "2024-10-04T19:59:24.239Z"
+          },
+          {
+            "length": 67,
+            "date": "2024-10-04T19:59:25.718Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-10-04T19:59:29.751Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-10-04T19:59:31.631Z"
+          },
+          {
+            "length": 70,
+            "date": "2024-10-04T19:59:34.415Z"
+          },
+          {
+            "length": 71,
+            "date": "2024-10-04T19:59:38.715Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-10-04T19:59:58.879Z"
+          },
+          {
+            "length": 73,
+            "date": "2024-10-04T20:18:06.987Z"
+          },
+          {
+            "length": 74,
+            "date": "2024-10-04T20:18:09.403Z"
+          },
+          {
+            "length": 75,
+            "date": "2024-10-04T20:18:19.067Z"
+          },
+          {
+            "length": 76,
+            "date": "2024-10-04T20:18:21.410Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-10-04T20:18:30.515Z"
+          },
+          {
+            "length": 78,
+            "date": "2024-10-04T20:18:34.723Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-10-04T20:18:46.907Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-10-04T20:18:51.763Z"
+          },
+          {
+            "length": 81,
+            "date": "2024-10-04T20:19:03.307Z"
+          },
+          {
+            "length": 82,
+            "date": "2024-10-04T20:19:10.171Z"
+          },
+          {
+            "length": 83,
+            "date": "2024-10-04T20:19:12.587Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-10-04T20:19:22.106Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-10-04T20:20:02.891Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-10-04T20:20:04.787Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-10-04T20:20:07.779Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-10-04T20:20:10.467Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-10-04T20:22:33.970Z"
           }
         ]
       },
