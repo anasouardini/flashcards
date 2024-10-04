@@ -1,9 +1,9 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 104,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -265,17 +265,6 @@
           "back": {
             "content": [
               "- [None/Nothing/Void]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hobbymäßig (noun, singular, ?)"
-          },
-          "back": {
-            "content": [
-              "- [Hobby]: ",
               "- Forms: "
             ]
           }
@@ -3364,6 +3353,17 @@
             "content": [
               "- [Education]: ",
               "- Forms: Bildungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hobbymäßig (noun, singular, ?)"
+          },
+          "back": {
+            "content": [
+              "- [Hobby]: ",
+              "- Forms: "
             ]
           }
         }
@@ -8448,6 +8448,13 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-04T20:22:33.970Z"
+      },
+      {
+        "type": "move",
+        "word": "Hobbymäßig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-04T20:30:26.921Z"
       }
     ],
     "levels": [
@@ -10876,6 +10883,10 @@
           {
             "length": 201,
             "date": "2024-10-03T22:43:14.397Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-10-04T20:30:26.921Z"
           }
         ]
       },
@@ -12076,6 +12087,10 @@
           {
             "length": 103,
             "date": "2024-10-04T20:22:33.970Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-10-04T20:30:26.921Z"
           }
         ]
       },
