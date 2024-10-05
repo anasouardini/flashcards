@@ -2177,6 +2177,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Viele (quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [Many]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -8476,6 +8487,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-05T02:48:02.379Z"
+      },
+      {
+        "type": "add",
+        "word": "Viele",
+        "date": "2024-10-05T05:38:07.082Z"
       }
     ],
     "levels": [
@@ -10920,6 +10936,10 @@
           {
             "length": 197,
             "date": "2024-10-05T02:48:02.379Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-10-05T05:38:07.154Z"
           }
         ]
       },
