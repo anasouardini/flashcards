@@ -2277,6 +2277,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Landschaft (noun, singular, neutre)"
+          },
+          "back": {
+            "content": [
+              "- [Landscape]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -8622,6 +8633,11 @@
         "type": "add",
         "word": "Oft",
         "date": "2024-10-05T19:56:10.830Z"
+      },
+      {
+        "type": "add",
+        "word": "Landschaft",
+        "date": "2024-10-05T19:59:47.095Z"
       }
     ],
     "levels": [
@@ -11102,6 +11118,10 @@
           {
             "length": 206,
             "date": "2024-10-05T19:56:10.831Z"
+          },
+          {
+            "length": 207,
+            "date": "2024-10-05T19:59:47.095Z"
           }
         ]
       },
