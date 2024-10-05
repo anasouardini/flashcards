@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 183,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2136,17 +2136,6 @@
         },
         {
           "front": {
-            "content": "Zeit (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Time]: ",
-              "- Forms: Zeiten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Waschen (v.)"
           },
           "back": {
@@ -3364,6 +3353,17 @@
               "- [For]: ",
               "- [On behalf of]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Time]: ",
+              "- Forms: Zeiten (plural)"
             ]
           }
         }
@@ -8469,6 +8469,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-05T02:10:32.312Z"
+      },
+      {
+        "type": "move",
+        "word": "Zeit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-05T02:48:02.379Z"
       }
     ],
     "levels": [
@@ -10909,6 +10916,10 @@
           {
             "length": 198,
             "date": "2024-10-05T02:10:32.312Z"
+          },
+          {
+            "length": 197,
+            "date": "2024-10-05T02:48:02.379Z"
           }
         ]
       },
@@ -12121,6 +12132,10 @@
           {
             "length": 106,
             "date": "2024-10-05T02:10:32.312Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-10-05T02:48:02.379Z"
           }
         ]
       },
