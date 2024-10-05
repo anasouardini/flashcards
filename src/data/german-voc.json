@@ -1289,6 +1289,7 @@
           "back": {
             "content": [
               "- [Nor]: ",
+              "- [Still] (adv.): ",
               "- Forms: "
             ]
           }
@@ -2229,6 +2230,17 @@
           "back": {
             "content": [
               "- [Money]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sehr (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Very]: ",
               "- Forms: "
             ]
           }
@@ -3639,6 +3651,7 @@
           "back": {
             "content": [
               "- [Morning]: ",
+              "- [Tomorrow] (adv.): ",
               "- Other Forms: Morgen (plural)"
             ]
           }
@@ -8556,6 +8569,11 @@
         "type": "add",
         "word": "Geld",
         "date": "2024-10-05T05:42:47.093Z"
+      },
+      {
+        "type": "add",
+        "word": "Sehr",
+        "date": "2024-10-05T19:14:59.290Z"
       }
     ],
     "levels": [
@@ -11020,6 +11038,10 @@
           {
             "length": 202,
             "date": "2024-10-05T05:42:47.093Z"
+          },
+          {
+            "length": 203,
+            "date": "2024-10-05T19:14:59.364Z"
           }
         ]
       },
