@@ -2255,6 +2255,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Tür (noun, singular, neutre)"
+          },
+          "back": {
+            "content": [
+              "- [Door]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -8590,6 +8601,11 @@
         "type": "add",
         "word": "Tanzen",
         "date": "2024-10-05T19:22:02.814Z"
+      },
+      {
+        "type": "add",
+        "word": "Tür",
+        "date": "2024-10-05T19:46:22.013Z"
       }
     ],
     "levels": [
@@ -11062,6 +11078,10 @@
           {
             "length": 204,
             "date": "2024-10-05T19:22:02.815Z"
+          },
+          {
+            "length": 205,
+            "date": "2024-10-05T19:46:22.013Z"
           }
         ]
       },
