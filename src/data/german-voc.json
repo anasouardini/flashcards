@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 104,
+      "currentCardIndex": 183,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1408,17 +1408,6 @@
         },
         {
           "front": {
-            "content": "Hoffen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To hope]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Vergessen (v.)"
           },
           "back": {
@@ -2020,18 +2009,6 @@
           "back": {
             "content": [
               "- [Known]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Für (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [For]: ",
-              "- [On behalf of]: ",
               "- Forms: "
             ]
           }
@@ -3363,6 +3340,29 @@
           "back": {
             "content": [
               "- [Hobby]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hoffen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To hope]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Für (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [For]: ",
+              "- [On behalf of]: ",
               "- Forms: "
             ]
           }
@@ -8455,6 +8455,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-04T20:30:26.921Z"
+      },
+      {
+        "type": "move",
+        "word": "Hoffen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-05T01:25:54.588Z"
+      },
+      {
+        "type": "move",
+        "word": "Für",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-05T02:10:32.312Z"
       }
     ],
     "levels": [
@@ -10887,6 +10901,14 @@
           {
             "length": 200,
             "date": "2024-10-04T20:30:26.921Z"
+          },
+          {
+            "length": 199,
+            "date": "2024-10-05T01:25:54.610Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-10-05T02:10:32.312Z"
           }
         ]
       },
@@ -12091,6 +12113,14 @@
           {
             "length": 104,
             "date": "2024-10-04T20:30:26.921Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-10-05T01:25:54.610Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-10-05T02:10:32.312Z"
           }
         ]
       },
