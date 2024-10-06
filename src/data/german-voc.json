@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 26,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -122,17 +122,6 @@
           "back": {
             "content": [
               "- [Since]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Verheiratet (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Married/Coupled]: ",
               "- Forms: "
             ]
           }
@@ -3521,6 +3510,17 @@
             "content": [
               "- [Time]: ",
               "- Forms: Zeiten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Verheiratet (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Married/Coupled]: ",
+              "- Forms: "
             ]
           }
         }
@@ -8705,6 +8705,13 @@
         "type": "add",
         "word": "Übrigens",
         "date": "2024-10-06T03:50:29.747Z"
+      },
+      {
+        "type": "move",
+        "word": "Verheiratet",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T07:40:20.243Z"
       }
     ],
     "levels": [
@@ -11205,6 +11212,10 @@
           {
             "length": 211,
             "date": "2024-10-06T03:50:29.748Z"
+          },
+          {
+            "length": 210,
+            "date": "2024-10-06T07:40:20.408Z"
           }
         ]
       },
@@ -12421,6 +12432,10 @@
           {
             "length": 107,
             "date": "2024-10-05T02:48:02.379Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-10-06T07:40:20.408Z"
           }
         ]
       },
