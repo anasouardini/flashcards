@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 26,
-      "currentCardSide": "back",
+      "currentCardIndex": 165,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -602,50 +602,6 @@
         },
         {
           "front": {
-            "content": "Essen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Food]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Abendessen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Dinner]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mittag (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Mid-day/Noon]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mittagessen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Lunch]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Lecker (adj.)"
           },
           "back": {
@@ -888,28 +844,6 @@
         },
         {
           "front": {
-            "content": "Gucken (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To look/watch]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Stellen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To put/place]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Spielen (v.)"
           },
           "back": {
@@ -1064,44 +998,11 @@
         },
         {
           "front": {
-            "content": "Versuchen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To try]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Laufen (v.)"
           },
           "back": {
             "content": [
               "- [To run/walk/work]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gewinnen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To win/gain/obtain]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Suchen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To search/look/seek/find]: ",
               "- Forms: "
             ]
           }
@@ -1196,17 +1097,6 @@
         },
         {
           "front": {
-            "content": "Nachdem (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [After]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sobald (conjunction)"
           },
           "back": {
@@ -1234,17 +1124,6 @@
           "back": {
             "content": [
               "- [Ever]: Wann immer : When ever",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Weil (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Because]: ",
               "- Forms: "
             ]
           }
@@ -1290,17 +1169,6 @@
           "back": {
             "content": [
               "- [...But]: Kein das sondern dass : Not this but that",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Stark (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Strong]: ",
               "- Forms: "
             ]
           }
@@ -1414,17 +1282,6 @@
           "back": {
             "content": [
               "- [To sit]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schauen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To watch/look]: ",
               "- Forms: "
             ]
           }
@@ -1618,33 +1475,11 @@
         },
         {
           "front": {
-            "content": "Tief (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Low]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Fertig (adj.)"
           },
           "back": {
             "content": [
               "- [Ready]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Frei (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Free]: ",
               "- Forms: "
             ]
           }
@@ -1689,17 +1524,6 @@
           "back": {
             "content": [
               "- [Different]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Dünn (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Thin]: ",
               "- Forms: "
             ]
           }
@@ -1788,17 +1612,6 @@
           "back": {
             "content": [
               "- [Reliable]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Neugierig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Curious]: ",
               "- Forms: "
             ]
           }
@@ -1961,33 +1774,11 @@
         },
         {
           "front": {
-            "content": "Unwichtig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Unimportant]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Schwierig (adj.)"
           },
           "back": {
             "content": [
               "- [Difficult] (don't use with physical tasks): ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wichtig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Important]: ",
               "- Forms: "
             ]
           }
@@ -3699,6 +3490,215 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Essen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Food]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Abendessen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Dinner]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mittag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Mid-day/Noon]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mittagessen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Lunch]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gucken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To look/watch]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stellen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To put/place]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Versuchen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To try]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gewinnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To win/gain/obtain]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Suchen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To search/look/seek/find]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nachdem (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [After]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weil (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Because]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stark (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Strong]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schauen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To watch/look]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tief (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Low]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Frei (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Free]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dünn (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Thin]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Neugierig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Curious]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Unwichtig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Unimportant]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wichtig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Important]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -4305,6 +4305,7 @@
           "back": {
             "content": [
               "- [Women]: ",
+              "- [Ms.]: ",
               "- Forms: "
             ]
           }
@@ -8968,6 +8969,139 @@
         "type": "add",
         "word": "Herr",
         "date": "2024-10-06T20:48:50.218Z"
+      },
+      {
+        "type": "move",
+        "word": "Essen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:23:26.012Z"
+      },
+      {
+        "type": "move",
+        "word": "Abendessen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:23:26.859Z"
+      },
+      {
+        "type": "move",
+        "word": "Mittag",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:23:28.339Z"
+      },
+      {
+        "type": "move",
+        "word": "Mittagessen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:23:28.891Z"
+      },
+      {
+        "type": "move",
+        "word": "Gucken",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:28:48.195Z"
+      },
+      {
+        "type": "move",
+        "word": "Stellen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:28:54.002Z"
+      },
+      {
+        "type": "move",
+        "word": "Versuchen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:34:12.433Z"
+      },
+      {
+        "type": "move",
+        "word": "Gewinnen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:34:22.273Z"
+      },
+      {
+        "type": "move",
+        "word": "Suchen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:34:24.601Z"
+      },
+      {
+        "type": "move",
+        "word": "Nachdem",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:40:39.968Z"
+      },
+      {
+        "type": "move",
+        "word": "Weil",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:41:20.992Z"
+      },
+      {
+        "type": "move",
+        "word": "Stark",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:42:25.992Z"
+      },
+      {
+        "type": "move",
+        "word": "Schauen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T21:53:41.252Z"
+      },
+      {
+        "type": "move",
+        "word": "Tief",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:00:20.332Z"
+      },
+      {
+        "type": "move",
+        "word": "Frei",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:01:32.395Z"
+      },
+      {
+        "type": "move",
+        "word": "Dünn",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:03:25.683Z"
+      },
+      {
+        "type": "move",
+        "word": "Neugierig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:11:03.073Z"
+      },
+      {
+        "type": "move",
+        "word": "Unwichtig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:21:27.663Z"
+      },
+      {
+        "type": "move",
+        "word": "Wichtig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:21:37.935Z"
       }
     ],
     "levels": [
@@ -11536,6 +11670,82 @@
           {
             "length": 226,
             "date": "2024-10-06T20:48:50.218Z"
+          },
+          {
+            "length": 225,
+            "date": "2024-10-06T21:23:26.013Z"
+          },
+          {
+            "length": 224,
+            "date": "2024-10-06T21:23:26.859Z"
+          },
+          {
+            "length": 223,
+            "date": "2024-10-06T21:23:28.339Z"
+          },
+          {
+            "length": 222,
+            "date": "2024-10-06T21:23:28.891Z"
+          },
+          {
+            "length": 221,
+            "date": "2024-10-06T21:28:48.195Z"
+          },
+          {
+            "length": 220,
+            "date": "2024-10-06T21:28:54.003Z"
+          },
+          {
+            "length": 219,
+            "date": "2024-10-06T21:34:12.433Z"
+          },
+          {
+            "length": 218,
+            "date": "2024-10-06T21:34:22.273Z"
+          },
+          {
+            "length": 217,
+            "date": "2024-10-06T21:34:24.601Z"
+          },
+          {
+            "length": 216,
+            "date": "2024-10-06T21:40:39.968Z"
+          },
+          {
+            "length": 215,
+            "date": "2024-10-06T21:41:20.992Z"
+          },
+          {
+            "length": 214,
+            "date": "2024-10-06T21:42:25.992Z"
+          },
+          {
+            "length": 213,
+            "date": "2024-10-06T21:53:41.252Z"
+          },
+          {
+            "length": 212,
+            "date": "2024-10-06T22:00:20.332Z"
+          },
+          {
+            "length": 211,
+            "date": "2024-10-06T22:01:32.395Z"
+          },
+          {
+            "length": 210,
+            "date": "2024-10-06T22:03:25.683Z"
+          },
+          {
+            "length": 209,
+            "date": "2024-10-06T22:11:03.073Z"
+          },
+          {
+            "length": 208,
+            "date": "2024-10-06T22:21:27.663Z"
+          },
+          {
+            "length": 207,
+            "date": "2024-10-06T22:21:37.935Z"
           }
         ]
       },
@@ -12756,6 +12966,82 @@
           {
             "length": 108,
             "date": "2024-10-06T07:40:20.408Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-10-06T21:23:26.013Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-10-06T21:23:26.859Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-10-06T21:23:28.339Z"
+          },
+          {
+            "length": 112,
+            "date": "2024-10-06T21:23:28.891Z"
+          },
+          {
+            "length": 113,
+            "date": "2024-10-06T21:28:48.195Z"
+          },
+          {
+            "length": 114,
+            "date": "2024-10-06T21:28:54.003Z"
+          },
+          {
+            "length": 115,
+            "date": "2024-10-06T21:34:12.433Z"
+          },
+          {
+            "length": 116,
+            "date": "2024-10-06T21:34:22.273Z"
+          },
+          {
+            "length": 117,
+            "date": "2024-10-06T21:34:24.601Z"
+          },
+          {
+            "length": 118,
+            "date": "2024-10-06T21:40:39.968Z"
+          },
+          {
+            "length": 119,
+            "date": "2024-10-06T21:41:20.992Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-10-06T21:42:25.992Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-10-06T21:53:41.252Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-10-06T22:00:20.332Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-10-06T22:01:32.395Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-10-06T22:03:25.683Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-10-06T22:11:03.073Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-10-06T22:21:27.663Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-10-06T22:21:37.935Z"
           }
         ]
       },
