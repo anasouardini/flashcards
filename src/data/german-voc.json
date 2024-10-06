@@ -2399,6 +2399,17 @@
               "- Forms: Dienstage (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Mittwoch (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- []: ",
+              "- Forms: Mittwoche (plural)"
+            ]
+          }
         }
       ]
     },
@@ -8824,6 +8835,11 @@
         "type": "add",
         "word": "Dienstag",
         "date": "2024-10-06T18:55:24.149Z"
+      },
+      {
+        "type": "add",
+        "word": "Mittwoch",
+        "date": "2024-10-06T18:56:11.724Z"
       }
     ],
     "levels": [
@@ -11356,6 +11372,10 @@
           {
             "length": 217,
             "date": "2024-10-06T18:55:24.149Z"
+          },
+          {
+            "length": 218,
+            "date": "2024-10-06T18:56:11.725Z"
           }
         ]
       },
