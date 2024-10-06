@@ -2322,6 +2322,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Lied (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Song]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -8712,6 +8723,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-06T07:40:20.243Z"
+      },
+      {
+        "type": "add",
+        "word": "Lied",
+        "date": "2024-10-06T18:22:30.583Z"
       }
     ],
     "levels": [
@@ -11216,6 +11232,10 @@
           {
             "length": 210,
             "date": "2024-10-06T07:40:20.408Z"
+          },
+          {
+            "length": 211,
+            "date": "2024-10-06T18:22:30.703Z"
           }
         ]
       },
