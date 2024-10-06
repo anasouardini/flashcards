@@ -2333,6 +2333,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Präsentieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Present]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -8728,6 +8739,11 @@
         "type": "add",
         "word": "Lied",
         "date": "2024-10-06T18:22:30.583Z"
+      },
+      {
+        "type": "add",
+        "word": "Präsentieren",
+        "date": "2024-10-06T18:41:36.252Z"
       }
     ],
     "levels": [
@@ -11236,6 +11252,10 @@
           {
             "length": 211,
             "date": "2024-10-06T18:22:30.703Z"
+          },
+          {
+            "length": 212,
+            "date": "2024-10-06T18:41:36.252Z"
           }
         ]
       },
