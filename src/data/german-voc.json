@@ -2258,7 +2258,7 @@
         },
         {
           "front": {
-            "content": "Tür (noun, singular, neutre)"
+            "content": "Tür (noun, singular, feminine)"
           },
           "back": {
             "content": [
@@ -2280,11 +2280,22 @@
         },
         {
           "front": {
-            "content": "Landschaft (noun, singular, neutre)"
+            "content": "Landschaft (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Landscape]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Um_zu (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [In order to]: ",
               "- Forms: "
             ]
           }
@@ -8638,6 +8649,11 @@
         "type": "add",
         "word": "Landschaft",
         "date": "2024-10-05T19:59:47.095Z"
+      },
+      {
+        "type": "add",
+        "word": "Um_zu",
+        "date": "2024-10-06T01:10:21.769Z"
       }
     ],
     "levels": [
@@ -11122,6 +11138,10 @@
           {
             "length": 207,
             "date": "2024-10-05T19:59:47.095Z"
+          },
+          {
+            "length": 208,
+            "date": "2024-10-06T01:10:21.831Z"
           }
         ]
       },
