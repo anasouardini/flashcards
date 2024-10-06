@@ -2388,6 +2388,17 @@
               "- Forms: Montage (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Dienstag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- []: ",
+              "- Forms: Dienstage (plural)"
+            ]
+          }
         }
       ]
     },
@@ -8808,6 +8819,11 @@
         "type": "add",
         "word": "Montag",
         "date": "2024-10-06T18:54:27.120Z"
+      },
+      {
+        "type": "add",
+        "word": "Dienstag",
+        "date": "2024-10-06T18:55:24.149Z"
       }
     ],
     "levels": [
@@ -11336,6 +11352,10 @@
           {
             "length": 216,
             "date": "2024-10-06T18:54:27.121Z"
+          },
+          {
+            "length": 217,
+            "date": "2024-10-06T18:55:24.149Z"
           }
         ]
       },
