@@ -1,8 +1,8 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
-      "currentCardIndex": 197,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -2182,12 +2182,12 @@
         },
         {
           "front": {
-            "content": "Wlche (ponoun)"
+            "content": "Welche (ponoun)"
           },
           "back": {
             "content": [
               "- [Which]: ",
-              "- Forms: Gundlangen (plural)"
+              "- Forms: "
             ]
           }
         },
@@ -2217,7 +2217,7 @@
     },
     {
       "currentCardIndex": 0,
-      "currentCardSide": "back",
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -8957,7 +8957,7 @@
       },
       {
         "type": "add",
-        "word": "Wlche",
+        "word": "Welche",
         "date": "2024-10-06T19:32:28.063Z"
       },
       {
