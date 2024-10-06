@@ -2454,6 +2454,17 @@
               "- Forms: Sonntage (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Grundlage (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- []: ",
+              "- Forms: Gundlangen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -8904,6 +8915,11 @@
         "type": "add",
         "word": "Sonntag",
         "date": "2024-10-06T18:59:49.879Z"
+      },
+      {
+        "type": "add",
+        "word": "Grundlage",
+        "date": "2024-10-06T19:13:02.916Z"
       }
     ],
     "levels": [
@@ -11456,6 +11472,10 @@
           {
             "length": 222,
             "date": "2024-10-06T18:59:49.879Z"
+          },
+          {
+            "length": 223,
+            "date": "2024-10-06T19:13:02.916Z"
           }
         ]
       },
