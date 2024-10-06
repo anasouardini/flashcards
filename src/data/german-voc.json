@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 174,
-      "currentCardSide": "back",
+      "currentCardIndex": 197,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -1950,17 +1950,6 @@
         },
         {
           "front": {
-            "content": "Geld (noun)"
-          },
-          "back": {
-            "content": [
-              "- [Money]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sehr (adv.)"
           },
           "back": {
@@ -2066,17 +2055,6 @@
           "back": {
             "content": [
               "- [Song]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Präsentieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Present]: ",
               "- Forms: "
             ]
           }
@@ -3696,6 +3674,28 @@
           "back": {
             "content": [
               "- [To be]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Geld (noun)"
+          },
+          "back": {
+            "content": [
+              "- [Money]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Präsentieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Present]: ",
               "- Forms: "
             ]
           }
@@ -9137,6 +9137,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-06T22:31:15.870Z"
+      },
+      {
+        "type": "move",
+        "word": "Geld",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:38:09.645Z"
+      },
+      {
+        "type": "move",
+        "word": "Präsentieren",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:51:48.819Z"
       }
     ],
     "levels": [
@@ -11801,6 +11815,14 @@
           {
             "length": 202,
             "date": "2024-10-06T22:31:15.870Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-10-06T22:38:09.645Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-10-06T22:51:48.819Z"
           }
         ]
       },
@@ -13117,6 +13139,14 @@
           {
             "length": 132,
             "date": "2024-10-06T22:31:15.870Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-10-06T22:38:09.645Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-10-06T22:51:48.819Z"
           }
         ]
       },
