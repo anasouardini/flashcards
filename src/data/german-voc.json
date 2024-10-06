@@ -2310,6 +2310,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nachricht (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Message]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2878,6 +2889,7 @@
           "back": {
             "content": [
               "- [Way/Path]: ",
+              "- [Away] (adv.): ",
               "- Forms: Wege (plural)"
             ]
           }
@@ -3662,6 +3674,7 @@
           "back": {
             "content": [
               "- [To]: ",
+              "- [Too] (adv.): ",
               "- Forms: "
             ]
           }
@@ -8670,6 +8683,11 @@
         "type": "add",
         "word": "Heiraten",
         "date": "2024-10-06T01:12:38.897Z"
+      },
+      {
+        "type": "add",
+        "word": "Nachricht",
+        "date": "2024-10-06T01:36:21.941Z"
       }
     ],
     "levels": [
@@ -11162,6 +11180,10 @@
           {
             "length": 209,
             "date": "2024-10-06T01:12:38.898Z"
+          },
+          {
+            "length": 210,
+            "date": "2024-10-06T01:36:21.941Z"
           }
         ]
       },
