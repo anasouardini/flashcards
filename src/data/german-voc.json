@@ -2377,6 +2377,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Montag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- []: ",
+              "- Forms: Montage (plural)"
+            ]
+          }
         }
       ]
     },
@@ -8792,6 +8803,11 @@
         "type": "add",
         "word": "Markieren",
         "date": "2024-10-06T18:47:16.942Z"
+      },
+      {
+        "type": "add",
+        "word": "Montag",
+        "date": "2024-10-06T18:54:27.120Z"
       }
     ],
     "levels": [
@@ -11316,6 +11332,10 @@
           {
             "length": 215,
             "date": "2024-10-06T18:47:16.942Z"
+          },
+          {
+            "length": 216,
+            "date": "2024-10-06T18:54:27.121Z"
           }
         ]
       },
