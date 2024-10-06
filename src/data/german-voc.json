@@ -2421,6 +2421,17 @@
               "- Forms: Donnerstage (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Freitag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- []: ",
+              "- Forms: Freitage (plural)"
+            ]
+          }
         }
       ]
     },
@@ -8856,6 +8867,11 @@
         "type": "add",
         "word": "Donnerstag",
         "date": "2024-10-06T18:56:46.024Z"
+      },
+      {
+        "type": "add",
+        "word": "Freitag",
+        "date": "2024-10-06T18:57:50.585Z"
       }
     ],
     "levels": [
@@ -11396,6 +11412,10 @@
           {
             "length": 219,
             "date": "2024-10-06T18:56:46.024Z"
+          },
+          {
+            "length": 220,
+            "date": "2024-10-06T18:57:50.585Z"
           }
         ]
       },
