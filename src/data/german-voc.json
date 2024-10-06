@@ -2487,6 +2487,17 @@
               "- Forms: Aufgaben (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Herr (noun)"
+          },
+          "back": {
+            "content": [
+              "- [Mr.]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -8952,6 +8963,11 @@
         "type": "add",
         "word": "Aufgabe",
         "date": "2024-10-06T19:45:25.724Z"
+      },
+      {
+        "type": "add",
+        "word": "Herr",
+        "date": "2024-10-06T20:48:50.218Z"
       }
     ],
     "levels": [
@@ -11516,6 +11532,10 @@
           {
             "length": 225,
             "date": "2024-10-06T19:45:25.724Z"
+          },
+          {
+            "length": 226,
+            "date": "2024-10-06T20:48:50.218Z"
           }
         ]
       },
