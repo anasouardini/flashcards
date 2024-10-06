@@ -2344,6 +2344,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ergänzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Complete]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -8744,6 +8755,11 @@
         "type": "add",
         "word": "Präsentieren",
         "date": "2024-10-06T18:41:36.252Z"
+      },
+      {
+        "type": "add",
+        "word": "Ergänzen",
+        "date": "2024-10-06T18:46:15.696Z"
       }
     ],
     "levels": [
@@ -11256,6 +11272,10 @@
           {
             "length": 212,
             "date": "2024-10-06T18:41:36.252Z"
+          },
+          {
+            "length": 213,
+            "date": "2024-10-06T18:46:15.697Z"
           }
         ]
       },
