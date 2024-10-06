@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 165,
-      "currentCardSide": "front",
+      "currentCardIndex": 174,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -1829,7 +1829,7 @@
         },
         {
           "front": {
-            "content": "Speziell1 (adj.)"
+            "content": "Speziell (adj.)"
           },
           "back": {
             "content": [
@@ -1895,66 +1895,11 @@
         },
         {
           "front": {
-            "content": "Früh (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Early]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Letzte (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Last]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Waschen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To wash]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Aber (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [But]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Halb (adj.)"
           },
           "back": {
             "content": [
               "- [Half]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sein (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To be]: ",
               "- Forms: "
             ]
           }
@@ -3696,6 +3641,61 @@
           "back": {
             "content": [
               "- [Important]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Früh (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Early]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Letzte (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Last]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Waschen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To wash]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aber (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [But]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sein (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To be]: ",
               "- Forms: "
             ]
           }
@@ -7734,7 +7734,7 @@
       },
       {
         "type": "add",
-        "word": "Speziell1",
+        "word": "Speziell",
         "date": "2024-10-01T02:53:00.268Z"
       },
       {
@@ -9102,6 +9102,41 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-06T22:21:37.935Z"
+      },
+      {
+        "type": "move",
+        "word": "Früh",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:29:49.286Z"
+      },
+      {
+        "type": "move",
+        "word": "Letzte",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:30:09.014Z"
+      },
+      {
+        "type": "move",
+        "word": "Waschen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:30:12.542Z"
+      },
+      {
+        "type": "move",
+        "word": "Aber",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:30:15.678Z"
+      },
+      {
+        "type": "move",
+        "word": "Sein",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-06T22:31:15.870Z"
       }
     ],
     "levels": [
@@ -11746,6 +11781,26 @@
           {
             "length": 207,
             "date": "2024-10-06T22:21:37.935Z"
+          },
+          {
+            "length": 206,
+            "date": "2024-10-06T22:29:49.287Z"
+          },
+          {
+            "length": 205,
+            "date": "2024-10-06T22:30:09.014Z"
+          },
+          {
+            "length": 204,
+            "date": "2024-10-06T22:30:12.542Z"
+          },
+          {
+            "length": 203,
+            "date": "2024-10-06T22:30:15.679Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-10-06T22:31:15.870Z"
           }
         ]
       },
@@ -13042,6 +13097,26 @@
           {
             "length": 127,
             "date": "2024-10-06T22:21:37.935Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-10-06T22:29:49.287Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-10-06T22:30:09.014Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-10-06T22:30:12.542Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-10-06T22:30:15.679Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-10-06T22:31:15.870Z"
           }
         ]
       },
