@@ -2443,6 +2443,17 @@
               "- Forms: Samstage (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sonntag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- []: ",
+              "- Forms: Sonntage (plural)"
+            ]
+          }
         }
       ]
     },
@@ -8888,6 +8899,11 @@
         "type": "add",
         "word": "Samstag",
         "date": "2024-10-06T18:58:20.911Z"
+      },
+      {
+        "type": "add",
+        "word": "Sonntag",
+        "date": "2024-10-06T18:59:49.879Z"
       }
     ],
     "levels": [
@@ -11436,6 +11452,10 @@
           {
             "length": 221,
             "date": "2024-10-06T18:58:20.912Z"
+          },
+          {
+            "length": 222,
+            "date": "2024-10-06T18:59:49.879Z"
           }
         ]
       },
