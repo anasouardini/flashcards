@@ -2465,6 +2465,17 @@
               "- Forms: Gundlangen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wlche (ponoun)"
+          },
+          "back": {
+            "content": [
+              "- [Which]: ",
+              "- Forms: Gundlangen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -8920,6 +8931,11 @@
         "type": "add",
         "word": "Grundlage",
         "date": "2024-10-06T19:13:02.916Z"
+      },
+      {
+        "type": "add",
+        "word": "Wlche",
+        "date": "2024-10-06T19:32:28.063Z"
       }
     ],
     "levels": [
@@ -11476,6 +11492,10 @@
           {
             "length": 223,
             "date": "2024-10-06T19:13:02.916Z"
+          },
+          {
+            "length": 224,
+            "date": "2024-10-06T19:32:28.063Z"
           }
         ]
       },
