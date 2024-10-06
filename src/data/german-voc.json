@@ -2432,6 +2432,17 @@
               "- Forms: Freitage (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Samstag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- []: ",
+              "- Forms: Samstage (plural)"
+            ]
+          }
         }
       ]
     },
@@ -8872,6 +8883,11 @@
         "type": "add",
         "word": "Freitag",
         "date": "2024-10-06T18:57:50.585Z"
+      },
+      {
+        "type": "add",
+        "word": "Samstag",
+        "date": "2024-10-06T18:58:20.911Z"
       }
     ],
     "levels": [
@@ -11416,6 +11432,10 @@
           {
             "length": 220,
             "date": "2024-10-06T18:57:50.585Z"
+          },
+          {
+            "length": 221,
+            "date": "2024-10-06T18:58:20.912Z"
           }
         ]
       },
