@@ -2410,6 +2410,17 @@
               "- Forms: Mittwoche (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Donnerstag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- []: ",
+              "- Forms: Donnerstage (plural)"
+            ]
+          }
         }
       ]
     },
@@ -8840,6 +8851,11 @@
         "type": "add",
         "word": "Mittwoch",
         "date": "2024-10-06T18:56:11.724Z"
+      },
+      {
+        "type": "add",
+        "word": "Donnerstag",
+        "date": "2024-10-06T18:56:46.024Z"
       }
     ],
     "levels": [
@@ -11376,6 +11392,10 @@
           {
             "length": 218,
             "date": "2024-10-06T18:56:11.725Z"
+          },
+          {
+            "length": 219,
+            "date": "2024-10-06T18:56:46.024Z"
           }
         ]
       },
