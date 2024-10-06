@@ -2384,7 +2384,7 @@
           },
           "back": {
             "content": [
-              "- []: ",
+              "- [Monday]: ",
               "- Forms: Montage (plural)"
             ]
           }
@@ -2395,7 +2395,7 @@
           },
           "back": {
             "content": [
-              "- []: ",
+              "- [Thusday]: ",
               "- Forms: Dienstage (plural)"
             ]
           }
@@ -2406,7 +2406,7 @@
           },
           "back": {
             "content": [
-              "- []: ",
+              "- [Wednesday]: ",
               "- Forms: Mittwoche (plural)"
             ]
           }
@@ -2417,7 +2417,7 @@
           },
           "back": {
             "content": [
-              "- []: ",
+              "- [Thursday]: ",
               "- Forms: Donnerstage (plural)"
             ]
           }
@@ -2428,7 +2428,7 @@
           },
           "back": {
             "content": [
-              "- []: ",
+              "- [Friday]: ",
               "- Forms: Freitage (plural)"
             ]
           }
@@ -2439,7 +2439,7 @@
           },
           "back": {
             "content": [
-              "- []: ",
+              "- [Saturday]: ",
               "- Forms: Samstage (plural)"
             ]
           }
@@ -2450,7 +2450,7 @@
           },
           "back": {
             "content": [
-              "- []: ",
+              "- [Sunday]: ",
               "- Forms: Sonntage (plural)"
             ]
           }
@@ -2461,7 +2461,7 @@
           },
           "back": {
             "content": [
-              "- []: ",
+              "- [Basic]: ",
               "- Forms: Gundlangen (plural)"
             ]
           }
@@ -2474,6 +2474,17 @@
             "content": [
               "- [Which]: ",
               "- Forms: Gundlangen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aufgabe (ponoun)"
+          },
+          "back": {
+            "content": [
+              "- [Task]: ",
+              "- Forms: Aufgaben (plural)"
             ]
           }
         }
@@ -8936,6 +8947,11 @@
         "type": "add",
         "word": "Wlche",
         "date": "2024-10-06T19:32:28.063Z"
+      },
+      {
+        "type": "add",
+        "word": "Aufgabe",
+        "date": "2024-10-06T19:45:25.724Z"
       }
     ],
     "levels": [
@@ -11496,6 +11512,10 @@
           {
             "length": 224,
             "date": "2024-10-06T19:32:28.063Z"
+          },
+          {
+            "length": 225,
+            "date": "2024-10-06T19:45:25.724Z"
           }
         ]
       },
