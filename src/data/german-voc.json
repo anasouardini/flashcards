@@ -2318,6 +2318,18 @@
           "back": {
             "content": [
               "- [Message]: ",
+              "- [News/Information]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Übrigens (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [BTW]: ",
               "- Forms: "
             ]
           }
@@ -8688,6 +8700,11 @@
         "type": "add",
         "word": "Nachricht",
         "date": "2024-10-06T01:36:21.941Z"
+      },
+      {
+        "type": "add",
+        "word": "Übrigens",
+        "date": "2024-10-06T03:50:29.747Z"
       }
     ],
     "levels": [
@@ -11184,6 +11201,10 @@
           {
             "length": 210,
             "date": "2024-10-06T01:36:21.941Z"
+          },
+          {
+            "length": 211,
+            "date": "2024-10-06T03:50:29.748Z"
           }
         ]
       },
