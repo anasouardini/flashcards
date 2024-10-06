@@ -2366,6 +2366,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Markieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To mark]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -8776,6 +8787,11 @@
         "type": "add",
         "word": "Creuzen",
         "date": "2024-10-06T18:46:31.380Z"
+      },
+      {
+        "type": "add",
+        "word": "Markieren",
+        "date": "2024-10-06T18:47:16.942Z"
       }
     ],
     "levels": [
@@ -11296,6 +11312,10 @@
           {
             "length": 214,
             "date": "2024-10-06T18:46:31.380Z"
+          },
+          {
+            "length": 215,
+            "date": "2024-10-06T18:47:16.942Z"
           }
         ]
       },
