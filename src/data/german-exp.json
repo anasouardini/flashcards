@@ -1,5 +1,5 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -35,6 +35,16 @@
             "content": [
               "- [Whether or not]: Ich weiß nicht, ob er Amerikaner ist oder nicht : IDK whether he's american or not",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie heißen Sie?"
+          },
+          "back": {
+            "content": [
+              "- [What is your name?]: "
             ]
           }
         }
@@ -107,6 +117,11 @@
         "type": "add",
         "word": "Ob",
         "date": "2024-09-29T18:50:33.506Z"
+      },
+      {
+        "type": "add",
+        "word": "Wie",
+        "date": "2024-10-07T09:11:30.375Z"
       }
     ],
     "levels": [
@@ -123,6 +138,10 @@
           {
             "length": 3,
             "date": "2024-09-29T18:50:33.506Z"
+          },
+          {
+            "length": 4,
+            "date": "2024-10-07T09:11:30.443Z"
           }
         ]
       },
