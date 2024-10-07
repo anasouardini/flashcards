@@ -2284,6 +2284,16 @@
               "- [First name]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Üben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Exercice/Practice]: "
+            ]
+          }
         }
       ]
     },
@@ -9340,6 +9350,11 @@
         "type": "add",
         "word": "Vorname",
         "date": "2024-10-07T09:38:45.690Z"
+      },
+      {
+        "type": "add",
+        "word": "Üben",
+        "date": "2024-10-07T09:39:54.879Z"
       }
     ],
     "levels": [
@@ -12040,6 +12055,10 @@
           {
             "length": 207,
             "date": "2024-10-07T09:38:45.691Z"
+          },
+          {
+            "length": 208,
+            "date": "2024-10-07T09:39:54.880Z"
           }
         ]
       },
