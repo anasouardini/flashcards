@@ -2238,7 +2238,7 @@
       ]
     },
     {
-      "currentCardIndex": 86,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -3192,7 +3192,7 @@
         },
         {
           "front": {
-            "content": "Täglich (adj.)"
+            "content": "Täglich (adv.)"
           },
           "back": {
             "content": [
@@ -3203,7 +3203,7 @@
         },
         {
           "front": {
-            "content": "Monatlich (adj.)"
+            "content": "Monatlich (adv.)"
           },
           "back": {
             "content": [
@@ -3214,7 +3214,7 @@
         },
         {
           "front": {
-            "content": "Jährlich (adj.)"
+            "content": "Jährlich (adv.)"
           },
           "back": {
             "content": [
@@ -3230,6 +3230,7 @@
           "back": {
             "content": [
               "- [Regular]: ",
+              "- [Regularly] (adv.): ",
               "- Forms: "
             ]
           }
@@ -3242,17 +3243,6 @@
             "content": [
               "- [Education]: ",
               "- Forms: Bildungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hobbymäßig (noun, singular, ?)"
-          },
-          "back": {
-            "content": [
-              "- [Hobby]: ",
-              "- Forms: "
             ]
           }
         },
@@ -3374,17 +3364,6 @@
           "back": {
             "content": [
               "- [To try]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gewinnen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To win/gain/obtain]: ",
               "- Forms: "
             ]
           }
@@ -4690,6 +4669,28 @@
           "back": {
             "content": [
               "- [Solve]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hobbymäßig (noun, singular, ?)"
+          },
+          "back": {
+            "content": [
+              "- [Hobby]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gewinnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To win/gain/obtain]: ",
               "- Forms: "
             ]
           }
@@ -9250,6 +9251,20 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-07T02:45:30.936Z"
+      },
+      {
+        "type": "move",
+        "word": "Hobbymäßig",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:52:31.543Z"
+      },
+      {
+        "type": "move",
+        "word": "Gewinnen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:54:10.783Z"
       }
     ],
     "levels": [
@@ -13302,6 +13317,14 @@
           {
             "length": 122,
             "date": "2024-10-07T02:45:30.936Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-10-07T02:52:31.544Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-10-07T02:54:10.783Z"
           }
         ]
       },
@@ -13722,6 +13745,14 @@
           {
             "length": 100,
             "date": "2024-10-07T02:45:30.936Z"
+          },
+          {
+            "length": 101,
+            "date": "2024-10-07T02:52:31.544Z"
+          },
+          {
+            "length": 102,
+            "date": "2024-10-07T02:54:10.783Z"
           }
         ]
       },
