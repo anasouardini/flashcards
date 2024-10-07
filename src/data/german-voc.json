@@ -2254,6 +2254,16 @@
               "- [To Note/Write down]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gespräch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Discussion/Chat/conversation]: "
+            ]
+          }
         }
       ]
     },
@@ -9295,6 +9305,11 @@
         "type": "add",
         "word": "Notieren",
         "date": "2024-10-07T09:17:10.100Z"
+      },
+      {
+        "type": "add",
+        "word": "Gespräch",
+        "date": "2024-10-07T09:23:39.111Z"
       }
     ],
     "levels": [
@@ -11983,6 +11998,10 @@
           {
             "length": 204,
             "date": "2024-10-07T09:17:10.101Z"
+          },
+          {
+            "length": 205,
+            "date": "2024-10-07T09:23:39.112Z"
           }
         ]
       },
