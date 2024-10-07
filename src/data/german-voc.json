@@ -2244,6 +2244,16 @@
               "- [To Draw]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Notieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Note/Write down]: "
+            ]
+          }
         }
       ]
     },
@@ -9280,6 +9290,11 @@
         "type": "add",
         "word": "Zeichnen",
         "date": "2024-10-07T09:16:28.216Z"
+      },
+      {
+        "type": "add",
+        "word": "Notieren",
+        "date": "2024-10-07T09:17:10.100Z"
       }
     ],
     "levels": [
@@ -11964,6 +11979,10 @@
           {
             "length": 203,
             "date": "2024-10-07T09:16:28.217Z"
+          },
+          {
+            "length": 204,
+            "date": "2024-10-07T09:17:10.101Z"
           }
         ]
       },
