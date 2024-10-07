@@ -2212,6 +2212,17 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Weißen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To know]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
@@ -2255,12 +2266,11 @@
         },
         {
           "front": {
-            "content": "Weiß (v.)"
+            "content": "Weiß (noun, singular, neuter)"
           },
           "back": {
             "content": [
-              "- [Know]: ",
-              "- [White] (noun, singular, neuter): ",
+              "- [White]: ",
               "- Forms: "
             ]
           }
@@ -9172,6 +9182,11 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-07T02:28:16.300Z"
+      },
+      {
+        "type": "add",
+        "word": "Weißen",
+        "date": "2024-10-07T02:31:39.785Z"
       }
     ],
     "levels": [
@@ -11844,6 +11859,10 @@
           {
             "length": 200,
             "date": "2024-10-06T22:51:48.819Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-10-07T02:31:39.785Z"
           }
         ]
       },
