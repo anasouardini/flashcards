@@ -2216,8 +2216,8 @@
       ]
     },
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 3,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -2228,40 +2228,6 @@
               "- [Ability/Skill] (n.): ",
               "- [To Know/To be able to] (v.): ",
               "- Forms: Können (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ausbildung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Training]: ",
-              "- Forms: Ausbildungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Leben (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Life] (noun): ",
-              "- [To Live] (v.): ",
-              "- Other Forms: Leben (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Flugzeug (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Airplane]: ",
-              "- Other Forms: Flugzeuge(plural)"
             ]
           }
         },
@@ -4681,6 +4647,40 @@
             "content": [
               "- [Study]: ",
               "- Forms: Studieren (noun, singular, neuter)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ausbildung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Training]: ",
+              "- Forms: Ausbildungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Leben (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Life] (noun): ",
+              "- [To Live] (v.): ",
+              "- Other Forms: Leben (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Flugzeug (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Airplane]: ",
+              "- Other Forms: Flugzeuge(plural)"
             ]
           }
         }
@@ -9151,6 +9151,27 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-06T22:51:48.819Z"
+      },
+      {
+        "type": "move",
+        "word": "Ausbildung",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:27:41.069Z"
+      },
+      {
+        "type": "move",
+        "word": "Leben",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:28:00.204Z"
+      },
+      {
+        "type": "move",
+        "word": "Flugzeug",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:28:16.300Z"
       }
     ],
     "levels": [
@@ -13147,6 +13168,18 @@
           {
             "length": 134,
             "date": "2024-10-06T22:51:48.819Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-10-07T02:27:41.145Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-10-07T02:28:00.204Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-10-07T02:28:16.300Z"
           }
         ]
       },
@@ -13523,6 +13556,18 @@
           {
             "length": 89,
             "date": "2024-10-04T20:22:33.970Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-10-07T02:27:41.145Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-10-07T02:28:00.204Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-10-07T02:28:16.300Z"
           }
         ]
       },
