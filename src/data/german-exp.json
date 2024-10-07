@@ -47,6 +47,16 @@
               "- [What is your name?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wer bist du?"
+          },
+          "back": {
+            "content": [
+              "- [Who are you?]: "
+            ]
+          }
         }
       ]
     },
@@ -122,6 +132,11 @@
         "type": "add",
         "word": "Wie",
         "date": "2024-10-07T09:11:30.375Z"
+      },
+      {
+        "type": "add",
+        "word": "Wer",
+        "date": "2024-10-07T09:14:26.146Z"
       }
     ],
     "levels": [
@@ -142,6 +157,10 @@
           {
             "length": 4,
             "date": "2024-10-07T09:11:30.443Z"
+          },
+          {
+            "length": 5,
+            "date": "2024-10-07T09:14:26.146Z"
           }
         ]
       },
