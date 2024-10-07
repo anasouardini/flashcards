@@ -57,6 +57,16 @@
               "- [Who are you?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Woher kommst du?"
+          },
+          "back": {
+            "content": [
+              "- [Where do you come from?]: "
+            ]
+          }
         }
       ]
     },
@@ -137,6 +147,11 @@
         "type": "add",
         "word": "Wer",
         "date": "2024-10-07T09:14:26.146Z"
+      },
+      {
+        "type": "add",
+        "word": "Woher",
+        "date": "2024-10-07T09:20:20.298Z"
       }
     ],
     "levels": [
@@ -161,6 +176,10 @@
           {
             "length": 5,
             "date": "2024-10-07T09:14:26.146Z"
+          },
+          {
+            "length": 6,
+            "date": "2024-10-07T09:20:20.298Z"
           }
         ]
       },
