@@ -2274,6 +2274,16 @@
               "- [Further on]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Vorname (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [First name]: "
+            ]
+          }
         }
       ]
     },
@@ -9325,6 +9335,11 @@
         "type": "add",
         "word": "Weiter",
         "date": "2024-10-07T09:25:12.593Z"
+      },
+      {
+        "type": "add",
+        "word": "Vorname",
+        "date": "2024-10-07T09:38:45.690Z"
       }
     ],
     "levels": [
@@ -12021,6 +12036,10 @@
           {
             "length": 206,
             "date": "2024-10-07T09:25:12.594Z"
+          },
+          {
+            "length": 207,
+            "date": "2024-10-07T09:38:45.691Z"
           }
         ]
       },
