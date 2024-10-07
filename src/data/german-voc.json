@@ -2223,12 +2223,23 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gegenüber (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Towards/Accross]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 3,
-      "currentCardSide": "back",
+      "currentCardIndex": 86,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2332,28 +2343,6 @@
         },
         {
           "front": {
-            "content": "Gegenüber (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Towards/Accross]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Allein (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Alone]: ",
-              "- Forms: Allein (adj.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sprechen (v.)"
           },
           "back": {
@@ -2381,17 +2370,6 @@
           "back": {
             "content": [
               "- [Topic]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Warm (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Warm]: ",
               "- Forms: "
             ]
           }
@@ -2519,28 +2497,6 @@
         },
         {
           "front": {
-            "content": "Sonne (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Sun]: ",
-              "- Forms: Sonnen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Klar (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Clear/OK]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Fragen (v.)"
           },
           "back": {
@@ -2568,17 +2524,6 @@
           "back": {
             "content": [
               "- [To describe]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fallen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To fall]: ",
               "- Forms: "
             ]
           }
@@ -2623,17 +2568,6 @@
           "back": {
             "content": [
               "- [Fat]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Freundlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Friendly]: ",
               "- Forms: "
             ]
           }
@@ -2845,29 +2779,6 @@
           "back": {
             "content": [
               "- [Therefore/That's why]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Einfach (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Easy] (don't use with physical tasks): Nicht so einfach : Not so easy",
-              "- [Simple]: Nicht so einfach : Not so easy",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lösen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Solve]: ",
               "- Forms: "
             ]
           }
@@ -4691,6 +4602,95 @@
             "content": [
               "- [Airplane]: ",
               "- Other Forms: Flugzeuge(plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Allein (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Alone]: ",
+              "- Forms: Allein (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Warm (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Warm]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sonne (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Sun]: ",
+              "- Forms: Sonnen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Klar (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Clear/OK]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fallen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To fall]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Freundlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Friendly]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einfach (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Easy] (don't use with physical tasks): Nicht so einfach : Not so easy",
+              "- [Simple]: Nicht so einfach : Not so easy",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lösen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Solve]: ",
+              "- Forms: "
             ]
           }
         }
@@ -9187,6 +9187,69 @@
         "type": "add",
         "word": "Weißen",
         "date": "2024-10-07T02:31:39.785Z"
+      },
+      {
+        "type": "move",
+        "word": "Gegenüber",
+        "fromLevel": 1,
+        "toLevel": 0,
+        "date": "2024-10-07T02:35:51.451Z"
+      },
+      {
+        "type": "move",
+        "word": "Allein",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:36:37.394Z"
+      },
+      {
+        "type": "move",
+        "word": "Warm",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:36:51.386Z"
+      },
+      {
+        "type": "move",
+        "word": "Sonne",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:37:31.169Z"
+      },
+      {
+        "type": "move",
+        "word": "Klar",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:37:33.388Z"
+      },
+      {
+        "type": "move",
+        "word": "Fallen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:37:54.058Z"
+      },
+      {
+        "type": "move",
+        "word": "Freundlich",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:38:20.418Z"
+      },
+      {
+        "type": "move",
+        "word": "Einfach",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:45:27.929Z"
+      },
+      {
+        "type": "move",
+        "word": "Lösen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-07T02:45:30.936Z"
       }
     ],
     "levels": [
@@ -11863,6 +11926,10 @@
           {
             "length": 201,
             "date": "2024-10-07T02:31:39.785Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-10-07T02:35:51.452Z"
           }
         ]
       },
@@ -13199,6 +13266,42 @@
           {
             "length": 131,
             "date": "2024-10-07T02:28:16.300Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-10-07T02:35:51.452Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-10-07T02:36:37.394Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-10-07T02:36:51.386Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-10-07T02:37:31.169Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-10-07T02:37:33.388Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-10-07T02:37:54.058Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-10-07T02:38:20.418Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-10-07T02:45:27.929Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-10-07T02:45:30.936Z"
           }
         ]
       },
@@ -13587,6 +13690,38 @@
           {
             "length": 92,
             "date": "2024-10-07T02:28:16.300Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-10-07T02:36:37.394Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-10-07T02:36:51.386Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-10-07T02:37:31.169Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-10-07T02:37:33.388Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-10-07T02:37:54.058Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-10-07T02:38:20.418Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-10-07T02:45:27.929Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-10-07T02:45:30.936Z"
           }
         ]
       },
