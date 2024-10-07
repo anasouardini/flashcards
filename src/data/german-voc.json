@@ -2264,6 +2264,16 @@
               "- [Discussion/Chat/conversation]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Weiter (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Further on]: "
+            ]
+          }
         }
       ]
     },
@@ -9310,6 +9320,11 @@
         "type": "add",
         "word": "Gespräch",
         "date": "2024-10-07T09:23:39.111Z"
+      },
+      {
+        "type": "add",
+        "word": "Weiter",
+        "date": "2024-10-07T09:25:12.593Z"
       }
     ],
     "levels": [
@@ -12002,6 +12017,10 @@
           {
             "length": 205,
             "date": "2024-10-07T09:23:39.112Z"
+          },
+          {
+            "length": 206,
+            "date": "2024-10-07T09:25:12.594Z"
           }
         ]
       },
