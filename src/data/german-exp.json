@@ -117,6 +117,16 @@
               "- [How are you(f/inf) doing?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nich so gut"
+          },
+          "back": {
+            "content": [
+              "- [Not so good]: "
+            ]
+          }
         }
       ]
     },
@@ -227,6 +237,11 @@
         "type": "add",
         "word": "Wie",
         "date": "2024-10-08T02:32:28.135Z"
+      },
+      {
+        "type": "add",
+        "word": "Nich",
+        "date": "2024-10-08T02:35:13.846Z"
       }
     ],
     "levels": [
@@ -275,6 +290,10 @@
           {
             "length": 11,
             "date": "2024-10-08T02:32:28.135Z"
+          },
+          {
+            "length": 12,
+            "date": "2024-10-08T02:35:13.847Z"
           }
         ]
       },
