@@ -2664,6 +2664,17 @@
               "- Forms: Studenten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Journalist (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Journalist]: ",
+              "- Forms: Journalistin (feminine), Journalist-en/-innen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9901,6 +9912,11 @@
         "type": "add",
         "word": "Student",
         "date": "2024-10-08T06:02:58.861Z"
+      },
+      {
+        "type": "add",
+        "word": "Journalist",
+        "date": "2024-10-08T06:04:41.624Z"
       }
     ],
     "levels": [
@@ -12745,6 +12761,10 @@
           {
             "length": 243,
             "date": "2024-10-08T06:02:58.862Z"
+          },
+          {
+            "length": 244,
+            "date": "2024-10-08T06:04:41.624Z"
           }
         ]
       },
