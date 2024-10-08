@@ -2686,6 +2686,16 @@
               "- Forms: Friseurin (feminine), Friseure (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bei (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [With/at/for]: Ich arbeite bei Google."
+            ]
+          }
         }
       ]
     },
@@ -9933,6 +9943,11 @@
         "type": "add",
         "word": "Friseur",
         "date": "2024-10-08T06:06:55.255Z"
+      },
+      {
+        "type": "add",
+        "word": "Bei",
+        "date": "2024-10-08T06:09:58.711Z"
       }
     ],
     "levels": [
@@ -12785,6 +12800,10 @@
           {
             "length": 245,
             "date": "2024-10-08T06:06:55.255Z"
+          },
+          {
+            "length": 246,
+            "date": "2024-10-08T06:09:58.711Z"
           }
         ]
       },
