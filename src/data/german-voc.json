@@ -2911,6 +2911,16 @@
               "- [Internship]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ansehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Look at]: "
+            ]
+          }
         }
       ]
     },
@@ -10263,6 +10273,11 @@
         "type": "add",
         "word": "Praktikum",
         "date": "2024-10-08T17:21:06.001Z"
+      },
+      {
+        "type": "add",
+        "word": "Ansehen",
+        "date": "2024-10-08T17:26:15.816Z"
       }
     ],
     "levels": [
@@ -13199,6 +13214,10 @@
           {
             "length": 266,
             "date": "2024-10-08T17:21:06.002Z"
+          },
+          {
+            "length": 267,
+            "date": "2024-10-08T17:26:15.816Z"
           }
         ]
       },
