@@ -2609,6 +2609,16 @@
               "- Forms: Zahlen (noun, plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wortbildung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Word formation]: "
+            ]
+          }
         }
       ]
     },
@@ -9821,6 +9831,11 @@
         "type": "add",
         "word": "Zahlen",
         "date": "2024-10-08T05:36:54.181Z"
+      },
+      {
+        "type": "add",
+        "word": "Wortbildung",
+        "date": "2024-10-08T05:38:14.783Z"
       }
     ],
     "levels": [
@@ -12645,6 +12660,10 @@
           {
             "length": 238,
             "date": "2024-10-08T05:36:54.181Z"
+          },
+          {
+            "length": 239,
+            "date": "2024-10-08T05:38:14.784Z"
           }
         ]
       },
