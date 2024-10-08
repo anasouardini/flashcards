@@ -2492,6 +2492,17 @@
               "- Forms: Aussagen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Herkunft (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Origin]: ",
+              "- Forms: Herkünfte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9649,6 +9660,11 @@
         "type": "add",
         "word": "Aussage",
         "date": "2024-10-08T03:05:00.150Z"
+      },
+      {
+        "type": "add",
+        "word": "Herkunft",
+        "date": "2024-10-08T05:09:10.970Z"
       }
     ],
     "levels": [
@@ -12429,6 +12445,10 @@
           {
             "length": 227,
             "date": "2024-10-08T03:05:00.150Z"
+          },
+          {
+            "length": 228,
+            "date": "2024-10-08T05:09:11.043Z"
           }
         ]
       },
