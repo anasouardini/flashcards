@@ -2985,6 +2985,17 @@
               "- [Then]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Tabelle (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Table]: ",
+              "- Forms: Tabellen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10372,6 +10383,11 @@
         "type": "add",
         "word": "Dann",
         "date": "2024-10-08T17:55:00.492Z"
+      },
+      {
+        "type": "add",
+        "word": "Tabelle",
+        "date": "2024-10-08T17:56:08.807Z"
       }
     ],
     "levels": [
@@ -13336,6 +13352,10 @@
           {
             "length": 273,
             "date": "2024-10-08T17:55:00.493Z"
+          },
+          {
+            "length": 274,
+            "date": "2024-10-08T17:56:08.808Z"
           }
         ]
       },
