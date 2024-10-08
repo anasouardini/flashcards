@@ -2799,7 +2799,20 @@
           "back": {
             "content": [
               "- [Joint]: ",
+              "- [Common]: ",
+              "- [Jointly] (adv.): ",
+              "- [In Common] (adv.): ",
               "- Forms: Gemeinsam (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fehlend (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Missing]: "
             ]
           }
         }
@@ -10104,6 +10117,11 @@
         "type": "add",
         "word": "Gemeinsam",
         "date": "2024-10-08T10:35:19.720Z"
+      },
+      {
+        "type": "add",
+        "word": "Fehlend",
+        "date": "2024-10-08T10:46:35.762Z"
       }
     ],
     "levels": [
@@ -13000,6 +13018,10 @@
           {
             "length": 256,
             "date": "2024-10-08T10:35:19.720Z"
+          },
+          {
+            "length": 257,
+            "date": "2024-10-08T10:46:35.762Z"
           }
         ]
       },
