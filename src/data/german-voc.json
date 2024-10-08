@@ -3103,6 +3103,17 @@
               "- Forms: Notizen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sprache (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Language]: ",
+              "- Forms: Sprachen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10545,6 +10556,11 @@
         "type": "add",
         "word": "Notiz",
         "date": "2024-10-08T18:33:09.434Z"
+      },
+      {
+        "type": "add",
+        "word": "Sprache",
+        "date": "2024-10-08T18:36:38.015Z"
       }
     ],
     "levels": [
@@ -13553,6 +13569,10 @@
           {
             "length": 284,
             "date": "2024-10-08T18:33:09.434Z"
+          },
+          {
+            "length": 285,
+            "date": "2024-10-08T18:36:38.016Z"
           }
         ]
       },
