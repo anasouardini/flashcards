@@ -127,6 +127,16 @@
               "- [Not so good]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nach dem Befindin fragen."
+          },
+          "back": {
+            "content": [
+              "- [Asking about the health/condition.]: "
+            ]
+          }
         }
       ]
     },
@@ -242,6 +252,11 @@
         "type": "add",
         "word": "Nich",
         "date": "2024-10-08T02:35:13.846Z"
+      },
+      {
+        "type": "add",
+        "word": "Nach",
+        "date": "2024-10-08T02:46:13.850Z"
       }
     ],
     "levels": [
@@ -294,6 +309,10 @@
           {
             "length": 12,
             "date": "2024-10-08T02:35:13.847Z"
+          },
+          {
+            "length": 13,
+            "date": "2024-10-08T02:46:13.850Z"
           }
         ]
       },
