@@ -3171,12 +3171,22 @@
         },
         {
           "front": {
-            "content": "Sätz (noun, singular, masculine)"
+            "content": "Satz (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Sentence]: ",
               "- Forms: Sätze (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Arbeitslos (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Jobless]: "
             ]
           }
         }
@@ -10656,6 +10666,11 @@
         "type": "add",
         "word": "Sätz",
         "date": "2024-10-08T19:15:04.243Z"
+      },
+      {
+        "type": "add",
+        "word": "Arbeitslos",
+        "date": "2024-10-08T19:16:10.341Z"
       }
     ],
     "levels": [
@@ -13692,6 +13707,10 @@
           {
             "length": 291,
             "date": "2024-10-08T19:15:04.243Z"
+          },
+          {
+            "length": 292,
+            "date": "2024-10-08T19:16:10.342Z"
           }
         ]
       },
