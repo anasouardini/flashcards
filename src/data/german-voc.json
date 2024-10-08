@@ -2675,6 +2675,17 @@
               "- Forms: Journalistin (feminine), Journalist-en/-innen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Friseur (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Hairdresser]: ",
+              "- Forms: Friseurin (feminine), Friseure (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9917,6 +9928,11 @@
         "type": "add",
         "word": "Journalist",
         "date": "2024-10-08T06:04:41.624Z"
+      },
+      {
+        "type": "add",
+        "word": "Friseur",
+        "date": "2024-10-08T06:06:55.255Z"
       }
     ],
     "levels": [
@@ -12765,6 +12781,10 @@
           {
             "length": 244,
             "date": "2024-10-08T06:04:41.624Z"
+          },
+          {
+            "length": 245,
+            "date": "2024-10-08T06:06:55.255Z"
           }
         ]
       },
