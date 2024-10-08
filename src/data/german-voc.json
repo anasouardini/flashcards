@@ -2996,6 +2996,16 @@
               "- Forms: Tabellen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ah! (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [Oh!]: "
+            ]
+          }
         }
       ]
     },
@@ -10388,6 +10398,11 @@
         "type": "add",
         "word": "Tabelle",
         "date": "2024-10-08T17:56:08.807Z"
+      },
+      {
+        "type": "add",
+        "word": "Ah!",
+        "date": "2024-10-08T18:05:34.725Z"
       }
     ],
     "levels": [
@@ -13356,6 +13371,10 @@
           {
             "length": 274,
             "date": "2024-10-08T17:56:08.808Z"
+          },
+          {
+            "length": 275,
+            "date": "2024-10-08T18:05:34.726Z"
           }
         ]
       },
