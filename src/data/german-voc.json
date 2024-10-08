@@ -2791,6 +2791,17 @@
               "- Forms: Personen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gemeinsam (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Joint]: ",
+              "- Forms: Gemeinsam (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -10088,6 +10099,11 @@
         "type": "add",
         "word": "Person",
         "date": "2024-10-08T10:32:10.078Z"
+      },
+      {
+        "type": "add",
+        "word": "Gemeinsam",
+        "date": "2024-10-08T10:35:19.720Z"
       }
     ],
     "levels": [
@@ -12980,6 +12996,10 @@
           {
             "length": 255,
             "date": "2024-10-08T10:32:10.078Z"
+          },
+          {
+            "length": 256,
+            "date": "2024-10-08T10:35:19.720Z"
           }
         ]
       },
