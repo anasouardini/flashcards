@@ -2941,6 +2941,16 @@
               "- [Section]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kenntnisse (noun, plural, -)"
+          },
+          "back": {
+            "content": [
+              "- [Knowledge]: "
+            ]
+          }
         }
       ]
     },
@@ -10308,6 +10318,11 @@
         "type": "add",
         "word": "Ausschnitt",
         "date": "2024-10-08T17:33:49.120Z"
+      },
+      {
+        "type": "add",
+        "word": "Kenntnisse",
+        "date": "2024-10-08T17:35:50.498Z"
       }
     ],
     "levels": [
@@ -13256,6 +13271,10 @@
           {
             "length": 269,
             "date": "2024-10-08T17:33:49.121Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-08T17:35:50.499Z"
           }
         ]
       },
