@@ -2870,6 +2870,16 @@
               "- Forms: Geber (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Vor (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [With/before]: "
+            ]
+          }
         }
       ]
     },
@@ -10202,6 +10212,11 @@
         "type": "add",
         "word": "Geber",
         "date": "2024-10-08T17:02:54.805Z"
+      },
+      {
+        "type": "add",
+        "word": "Vor",
+        "date": "2024-10-08T17:07:05.088Z"
       }
     ],
     "levels": [
@@ -13122,6 +13137,10 @@
           {
             "length": 262,
             "date": "2024-10-08T17:02:54.806Z"
+          },
+          {
+            "length": 263,
+            "date": "2024-10-08T17:07:05.089Z"
           }
         ]
       },
