@@ -2348,6 +2348,16 @@
               "- Forms: Partnerin (feminine), Partners (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zuordnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Assign/match]: "
+            ]
+          }
         }
       ]
     },
@@ -9434,6 +9444,11 @@
         "type": "add",
         "word": "Partner",
         "date": "2024-10-08T02:23:52.757Z"
+      },
+      {
+        "type": "add",
+        "word": "Zuordnen",
+        "date": "2024-10-08T02:27:18.104Z"
       }
     ],
     "levels": [
@@ -12158,6 +12173,10 @@
           {
             "length": 213,
             "date": "2024-10-08T02:23:52.758Z"
+          },
+          {
+            "length": 214,
+            "date": "2024-10-08T02:27:18.105Z"
           }
         ]
       },
