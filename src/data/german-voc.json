@@ -2951,6 +2951,16 @@
               "- [Knowledge]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sprachkenntnisse (noun, plural, -)"
+          },
+          "back": {
+            "content": [
+              "- [Language skill/knowledge]: "
+            ]
+          }
         }
       ]
     },
@@ -10323,6 +10333,11 @@
         "type": "add",
         "word": "Kenntnisse",
         "date": "2024-10-08T17:35:50.498Z"
+      },
+      {
+        "type": "add",
+        "word": "Sprachkenntnisse",
+        "date": "2024-10-08T17:36:37.223Z"
       }
     ],
     "levels": [
@@ -13275,6 +13290,10 @@
           {
             "length": 270,
             "date": "2024-10-08T17:35:50.499Z"
+          },
+          {
+            "length": 271,
+            "date": "2024-10-08T17:36:37.224Z"
           }
         ]
       },
