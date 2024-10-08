@@ -2513,6 +2513,17 @@
               "- [Other/Another]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Beruf (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Profession]: ",
+              "- Forms: Berufe (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9680,6 +9691,11 @@
         "type": "add",
         "word": "Andere",
         "date": "2024-10-08T05:10:28.170Z"
+      },
+      {
+        "type": "add",
+        "word": "Beruf",
+        "date": "2024-10-08T05:21:27.343Z"
       }
     ],
     "levels": [
@@ -12468,6 +12484,10 @@
           {
             "length": 229,
             "date": "2024-10-08T05:10:28.170Z"
+          },
+          {
+            "length": 230,
+            "date": "2024-10-08T05:21:27.343Z"
           }
         ]
       },
