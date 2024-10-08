@@ -157,6 +157,16 @@
               "- [What do you mean?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ich arbeite als Journalist."
+          },
+          "back": {
+            "content": [
+              "- [I work as a journalist.]: "
+            ]
+          }
         }
       ]
     },
@@ -287,6 +297,11 @@
         "type": "add",
         "word": "Was",
         "date": "2024-10-08T05:55:41.706Z"
+      },
+      {
+        "type": "add",
+        "word": "Ich",
+        "date": "2024-10-08T06:08:02.712Z"
       }
     ],
     "levels": [
@@ -351,6 +366,10 @@
           {
             "length": 15,
             "date": "2024-10-08T05:55:41.707Z"
+          },
+          {
+            "length": 16,
+            "date": "2024-10-08T06:08:02.713Z"
           }
         ]
       },
