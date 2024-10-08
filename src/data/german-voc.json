@@ -3189,6 +3189,17 @@
               "- [Jobless]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Verkäufer (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Seller]: ",
+              "- Forms: Verkäuferin (feminine)"
+            ]
+          }
         }
       ]
     },
@@ -10671,6 +10682,11 @@
         "type": "add",
         "word": "Arbeitslos",
         "date": "2024-10-08T19:16:10.341Z"
+      },
+      {
+        "type": "add",
+        "word": "Verkäufer",
+        "date": "2024-10-08T19:17:49.077Z"
       }
     ],
     "levels": [
@@ -13711,6 +13727,10 @@
           {
             "length": 292,
             "date": "2024-10-08T19:16:10.342Z"
+          },
+          {
+            "length": 293,
+            "date": "2024-10-08T19:17:49.078Z"
           }
         ]
       },
