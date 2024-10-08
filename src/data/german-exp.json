@@ -137,6 +137,16 @@
               "- [Asking about the health/condition.]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wie bette?"
+          },
+          "back": {
+            "content": [
+              "- [Can you repeate, please?]: "
+            ]
+          }
         }
       ]
     },
@@ -257,6 +267,11 @@
         "type": "add",
         "word": "Nach",
         "date": "2024-10-08T02:46:13.850Z"
+      },
+      {
+        "type": "add",
+        "word": "Wie",
+        "date": "2024-10-08T02:48:41.795Z"
       }
     ],
     "levels": [
@@ -313,6 +328,10 @@
           {
             "length": 13,
             "date": "2024-10-08T02:46:13.850Z"
+          },
+          {
+            "length": 14,
+            "date": "2024-10-08T02:48:41.795Z"
           }
         ]
       },
