@@ -167,6 +167,16 @@
               "- [I work as a journalist.]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Was machen Sie?"
+          },
+          "back": {
+            "content": [
+              "- [What do you do?]: "
+            ]
+          }
         }
       ]
     },
@@ -302,6 +312,11 @@
         "type": "add",
         "word": "Ich",
         "date": "2024-10-08T06:08:02.712Z"
+      },
+      {
+        "type": "add",
+        "word": "Was",
+        "date": "2024-10-08T06:11:32.661Z"
       }
     ],
     "levels": [
@@ -370,6 +385,10 @@
           {
             "length": 16,
             "date": "2024-10-08T06:08:02.713Z"
+          },
+          {
+            "length": 17,
+            "date": "2024-10-08T06:11:32.661Z"
           }
         ]
       },
