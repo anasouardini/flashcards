@@ -3200,6 +3200,16 @@
               "- Forms: Verkäuferin (feminine)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Fremd (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Foreign]: "
+            ]
+          }
         }
       ]
     },
@@ -10687,6 +10697,11 @@
         "type": "add",
         "word": "Verkäufer",
         "date": "2024-10-08T19:17:49.077Z"
+      },
+      {
+        "type": "add",
+        "word": "Fremd",
+        "date": "2024-10-08T19:18:50.483Z"
       }
     ],
     "levels": [
@@ -13731,6 +13746,10 @@
           {
             "length": 293,
             "date": "2024-10-08T19:17:49.078Z"
+          },
+          {
+            "length": 294,
+            "date": "2024-10-08T19:18:50.484Z"
           }
         ]
       },
