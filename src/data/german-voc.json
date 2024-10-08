@@ -2815,6 +2815,17 @@
               "- [Missing]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Fehlen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Lack/Absence]: ",
+              "- Forms: Fehlen (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -10122,6 +10133,11 @@
         "type": "add",
         "word": "Fehlend",
         "date": "2024-10-08T10:46:35.762Z"
+      },
+      {
+        "type": "add",
+        "word": "Fehlen",
+        "date": "2024-10-08T10:47:52.751Z"
       }
     ],
     "levels": [
@@ -13022,6 +13038,10 @@
           {
             "length": 257,
             "date": "2024-10-08T10:46:35.762Z"
+          },
+          {
+            "length": 258,
+            "date": "2024-10-08T10:47:52.751Z"
           }
         ]
       },
