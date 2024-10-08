@@ -2358,6 +2358,16 @@
               "- [Assign/match]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ordnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Order (1st, 2nd, etc)]: "
+            ]
+          }
         }
       ]
     },
@@ -9449,6 +9459,11 @@
         "type": "add",
         "word": "Zuordnen",
         "date": "2024-10-08T02:27:18.104Z"
+      },
+      {
+        "type": "add",
+        "word": "Ordnen",
+        "date": "2024-10-08T02:27:45.142Z"
       }
     ],
     "levels": [
@@ -12177,6 +12192,10 @@
           {
             "length": 214,
             "date": "2024-10-08T02:27:18.105Z"
+          },
+          {
+            "length": 215,
+            "date": "2024-10-08T02:27:45.143Z"
           }
         ]
       },
