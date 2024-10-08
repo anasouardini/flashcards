@@ -2305,6 +2305,16 @@
               "- Forms: Bekannte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Persönlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Personal]: "
+            ]
+          }
         }
       ]
     },
@@ -9371,6 +9381,11 @@
         "type": "add",
         "word": "Bekannte",
         "date": "2024-10-08T02:15:20.696Z"
+      },
+      {
+        "type": "add",
+        "word": "Persönlich",
+        "date": "2024-10-08T02:16:21.988Z"
       }
     ],
     "levels": [
@@ -12079,6 +12094,10 @@
           {
             "length": 209,
             "date": "2024-10-08T02:15:20.766Z"
+          },
+          {
+            "length": 210,
+            "date": "2024-10-08T02:16:21.988Z"
           }
         ]
       },
