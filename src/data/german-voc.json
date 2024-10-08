@@ -2968,8 +2968,21 @@
           },
           "back": {
             "content": [
-              "- [But/Yet]: ",
+              "- [But]: ",
+              "- [Yet]: ",
+              "- [Nevertheless] (adv.): ",
+              "- [Yes, I do!] (interjection): ",
               "- Forms: doch (adv.), doch (interjection)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dann (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Then]: "
             ]
           }
         }
@@ -10354,6 +10367,11 @@
         "type": "add",
         "word": "Doch",
         "date": "2024-10-08T17:48:01.066Z"
+      },
+      {
+        "type": "add",
+        "word": "Dann",
+        "date": "2024-10-08T17:55:00.492Z"
       }
     ],
     "levels": [
@@ -13314,6 +13332,10 @@
           {
             "length": 272,
             "date": "2024-10-08T17:48:01.066Z"
+          },
+          {
+            "length": 273,
+            "date": "2024-10-08T17:55:00.493Z"
           }
         ]
       },
