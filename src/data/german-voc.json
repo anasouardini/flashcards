@@ -3071,6 +3071,16 @@
               "- Forms: Enkel (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zettel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Note/Piece of paper]: "
+            ]
+          }
         }
       ]
     },
@@ -10498,6 +10508,11 @@
         "type": "add",
         "word": "Enkel",
         "date": "2024-10-08T18:24:40.786Z"
+      },
+      {
+        "type": "add",
+        "word": "Zettel",
+        "date": "2024-10-08T18:27:03.639Z"
       }
     ],
     "levels": [
@@ -13494,6 +13509,10 @@
           {
             "length": 281,
             "date": "2024-10-08T18:24:40.786Z"
+          },
+          {
+            "length": 282,
+            "date": "2024-10-08T18:27:03.639Z"
           }
         ]
       },
