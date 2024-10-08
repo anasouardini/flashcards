@@ -2534,6 +2534,17 @@
               "- [Internet]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Visitenkarte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Business Card]: ",
+              "- Forms: Visitenkarten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9711,6 +9722,11 @@
         "type": "add",
         "word": "Internet",
         "date": "2024-10-08T05:25:11.029Z"
+      },
+      {
+        "type": "add",
+        "word": "Visitenkarte",
+        "date": "2024-10-08T05:26:11.616Z"
       }
     ],
     "levels": [
@@ -12507,6 +12523,10 @@
           {
             "length": 231,
             "date": "2024-10-08T05:25:11.029Z"
+          },
+          {
+            "length": 232,
+            "date": "2024-10-08T05:26:11.617Z"
           }
         ]
       },
