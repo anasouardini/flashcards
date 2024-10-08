@@ -2379,6 +2379,16 @@
               "- [Once/One day]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sehr (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Very/Really/Much]: "
+            ]
+          }
         }
       ]
     },
@@ -9480,6 +9490,11 @@
         "type": "add",
         "word": "Einmal",
         "date": "2024-10-08T02:30:02.996Z"
+      },
+      {
+        "type": "add",
+        "word": "Sehr",
+        "date": "2024-10-08T02:33:32.617Z"
       }
     ],
     "levels": [
@@ -12216,6 +12231,10 @@
           {
             "length": 216,
             "date": "2024-10-08T02:30:02.996Z"
+          },
+          {
+            "length": 217,
+            "date": "2024-10-08T02:33:32.617Z"
           }
         ]
       },
