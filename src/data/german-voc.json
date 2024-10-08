@@ -1158,6 +1158,7 @@
             "content": [
               "- [Nor]: ",
               "- [Still] (adv.): ",
+              "- [Further/More] (adv.): ",
               "- Forms: "
             ]
           }
@@ -2366,6 +2367,16 @@
           "back": {
             "content": [
               "- [Order (1st, 2nd, etc)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einmal (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Once/One day]: "
             ]
           }
         }
@@ -9464,6 +9475,11 @@
         "type": "add",
         "word": "Ordnen",
         "date": "2024-10-08T02:27:45.142Z"
+      },
+      {
+        "type": "add",
+        "word": "Einmal",
+        "date": "2024-10-08T02:30:02.996Z"
       }
     ],
     "levels": [
@@ -12196,6 +12212,10 @@
           {
             "length": 215,
             "date": "2024-10-08T02:27:45.143Z"
+          },
+          {
+            "length": 216,
+            "date": "2024-10-08T02:30:02.996Z"
           }
         ]
       },
