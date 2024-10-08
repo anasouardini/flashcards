@@ -2931,6 +2931,16 @@
               "- [Grandpa]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ausschnitt (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Section]: "
+            ]
+          }
         }
       ]
     },
@@ -10293,6 +10303,11 @@
         "type": "add",
         "word": "Opa",
         "date": "2024-10-08T17:30:33.698Z"
+      },
+      {
+        "type": "add",
+        "word": "Ausschnitt",
+        "date": "2024-10-08T17:33:49.120Z"
       }
     ],
     "levels": [
@@ -13237,6 +13252,10 @@
           {
             "length": 268,
             "date": "2024-10-08T17:30:33.699Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-10-08T17:33:49.121Z"
           }
         ]
       },
