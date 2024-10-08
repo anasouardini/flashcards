@@ -2598,6 +2598,17 @@
               "- Forms: Zahlen (plural), Zahlen (v.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zahlen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Pay]: ",
+              "- Forms: Zahlen (noun, plural)"
+            ]
+          }
         }
       ]
     },
@@ -9805,6 +9816,11 @@
         "type": "add",
         "word": "Zahl",
         "date": "2024-10-08T05:35:20.093Z"
+      },
+      {
+        "type": "add",
+        "word": "Zahlen",
+        "date": "2024-10-08T05:36:54.181Z"
       }
     ],
     "levels": [
@@ -12625,6 +12641,10 @@
           {
             "length": 237,
             "date": "2024-10-08T05:35:20.093Z"
+          },
+          {
+            "length": 238,
+            "date": "2024-10-08T05:36:54.181Z"
           }
         ]
       },
