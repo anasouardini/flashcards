@@ -364,7 +364,8 @@
           },
           "back": {
             "content": [
-              "- [To believe]: ",
+              "- [To Believe]: ",
+              "- [To Think]: ",
               "- Forms: "
             ]
           }
@@ -2628,6 +2629,17 @@
             "content": [
               "- [Specialist]: ",
               "- Forms: Spezialisten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schauspieler (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Actor]: ",
+              "- Forms: Schauspieler (plural)"
             ]
           }
         }
@@ -9852,6 +9864,11 @@
         "type": "add",
         "word": "Spezialist",
         "date": "2024-10-08T05:39:11.891Z"
+      },
+      {
+        "type": "add",
+        "word": "Schauspieler",
+        "date": "2024-10-08T06:01:03.063Z"
       }
     ],
     "levels": [
@@ -12684,6 +12701,10 @@
           {
             "length": 240,
             "date": "2024-10-08T05:39:11.892Z"
+          },
+          {
+            "length": 241,
+            "date": "2024-10-08T06:01:03.064Z"
           }
         ]
       },
