@@ -2481,6 +2481,17 @@
               "- Forms: Stunden (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Aussage (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Statement]: ",
+              "- Forms: Aussagen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9633,6 +9644,11 @@
         "type": "add",
         "word": "Stunde",
         "date": "2024-10-08T03:02:03.973Z"
+      },
+      {
+        "type": "add",
+        "word": "Aussage",
+        "date": "2024-10-08T03:05:00.150Z"
       }
     ],
     "levels": [
@@ -12409,6 +12425,10 @@
           {
             "length": 226,
             "date": "2024-10-08T03:02:03.974Z"
+          },
+          {
+            "length": 227,
+            "date": "2024-10-08T03:05:00.150Z"
           }
         ]
       },
