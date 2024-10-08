@@ -2545,6 +2545,16 @@
               "- Forms: Visitenkarten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Steckbrief (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Profile/Description]: "
+            ]
+          }
         }
       ]
     },
@@ -9727,6 +9737,11 @@
         "type": "add",
         "word": "Visitenkarte",
         "date": "2024-10-08T05:26:11.616Z"
+      },
+      {
+        "type": "add",
+        "word": "Steckbrief",
+        "date": "2024-10-08T05:27:31.667Z"
       }
     ],
     "levels": [
@@ -12527,6 +12542,10 @@
           {
             "length": 232,
             "date": "2024-10-08T05:26:11.617Z"
+          },
+          {
+            "length": 233,
+            "date": "2024-10-08T05:27:31.667Z"
           }
         ]
       },
