@@ -2759,6 +2759,16 @@
               "- [Divorced]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Single (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Single]: "
+            ]
+          }
         }
       ]
     },
@@ -10041,6 +10051,11 @@
         "type": "add",
         "word": "Geschieden",
         "date": "2024-10-08T06:43:08.344Z"
+      },
+      {
+        "type": "add",
+        "word": "Single",
+        "date": "2024-10-08T06:46:27.280Z"
       }
     ],
     "levels": [
@@ -12921,6 +12936,10 @@
           {
             "length": 252,
             "date": "2024-10-08T06:43:08.345Z"
+          },
+          {
+            "length": 253,
+            "date": "2024-10-08T06:46:27.280Z"
           }
         ]
       },
