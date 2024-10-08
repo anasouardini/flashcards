@@ -2780,6 +2780,17 @@
               "- Forms: Interviews (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Person (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Person]: ",
+              "- Forms: Personen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10072,6 +10083,11 @@
         "type": "add",
         "word": "Interview",
         "date": "2024-10-08T10:31:45.837Z"
+      },
+      {
+        "type": "add",
+        "word": "Person",
+        "date": "2024-10-08T10:32:10.078Z"
       }
     ],
     "levels": [
@@ -12960,6 +12976,10 @@
           {
             "length": 254,
             "date": "2024-10-08T10:31:45.838Z"
+          },
+          {
+            "length": 255,
+            "date": "2024-10-08T10:32:10.078Z"
           }
         ]
       },
