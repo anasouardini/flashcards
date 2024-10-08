@@ -3014,7 +3014,18 @@
           "back": {
             "content": [
               "- [Now]: ",
+              "- [Present] (noun): ",
               "- Forms: Jetzt (noun)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Oma (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Grandma]: "
             ]
           }
         }
@@ -10419,6 +10430,11 @@
         "type": "add",
         "word": "Jetzt",
         "date": "2024-10-08T18:06:22.550Z"
+      },
+      {
+        "type": "add",
+        "word": "Oma",
+        "date": "2024-10-08T18:09:36.120Z"
       }
     ],
     "levels": [
@@ -13395,6 +13411,10 @@
           {
             "length": 276,
             "date": "2024-10-08T18:06:22.550Z"
+          },
+          {
+            "length": 277,
+            "date": "2024-10-08T18:09:36.120Z"
           }
         ]
       },
