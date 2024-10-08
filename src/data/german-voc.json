@@ -3136,6 +3136,17 @@
               "- Forms: Auflösungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bisschen (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Little]: ",
+              "- Forms: Bisschen (noun)"
+            ]
+          }
         }
       ]
     },
@@ -10593,6 +10604,11 @@
         "type": "add",
         "word": "Auflösung",
         "date": "2024-10-08T18:42:39.222Z"
+      },
+      {
+        "type": "add",
+        "word": "Bisschen",
+        "date": "2024-10-08T18:45:54.450Z"
       }
     ],
     "levels": [
@@ -13613,6 +13629,10 @@
           {
             "length": 287,
             "date": "2024-10-08T18:42:39.223Z"
+          },
+          {
+            "length": 288,
+            "date": "2024-10-08T18:45:54.450Z"
           }
         ]
       },
