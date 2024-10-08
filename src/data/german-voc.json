@@ -2619,6 +2619,17 @@
               "- [Word formation]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Spezialist (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Specialist]: ",
+              "- Forms: Spezialisten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9836,6 +9847,11 @@
         "type": "add",
         "word": "Wortbildung",
         "date": "2024-10-08T05:38:14.783Z"
+      },
+      {
+        "type": "add",
+        "word": "Spezialist",
+        "date": "2024-10-08T05:39:11.891Z"
       }
     ],
     "levels": [
@@ -12664,6 +12680,10 @@
           {
             "length": 239,
             "date": "2024-10-08T05:38:14.784Z"
+          },
+          {
+            "length": 240,
+            "date": "2024-10-08T05:39:11.892Z"
           }
         ]
       },
