@@ -2696,6 +2696,17 @@
               "- [With/at/for]: Ich arbeite bei Google."
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Plakat (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Poster]: ",
+              "- Forms: Plakate (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9948,6 +9959,11 @@
         "type": "add",
         "word": "Bei",
         "date": "2024-10-08T06:09:58.711Z"
+      },
+      {
+        "type": "add",
+        "word": "Plakat",
+        "date": "2024-10-08T06:24:27.624Z"
       }
     ],
     "levels": [
@@ -12804,6 +12820,10 @@
           {
             "length": 246,
             "date": "2024-10-08T06:09:58.711Z"
+          },
+          {
+            "length": 247,
+            "date": "2024-10-08T06:24:27.625Z"
           }
         ]
       },
