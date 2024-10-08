@@ -2653,6 +2653,17 @@
               "- Forms: Schauspieler (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Student (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Student]: ",
+              "- Forms: Studenten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9885,6 +9896,11 @@
         "type": "add",
         "word": "Ingenieur",
         "date": "2024-10-08T06:02:38.503Z"
+      },
+      {
+        "type": "add",
+        "word": "Student",
+        "date": "2024-10-08T06:02:58.861Z"
       }
     ],
     "levels": [
@@ -12725,6 +12741,10 @@
           {
             "length": 242,
             "date": "2024-10-08T06:02:38.503Z"
+          },
+          {
+            "length": 243,
+            "date": "2024-10-08T06:02:58.862Z"
           }
         ]
       },
