@@ -2470,6 +2470,17 @@
               "- [End/Bottom/Exit]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Stunde (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Hour/Time/Lesson]: ",
+              "- Forms: Stunden (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9617,6 +9628,11 @@
         "type": "add",
         "word": "Ende",
         "date": "2024-10-08T03:00:37.189Z"
+      },
+      {
+        "type": "add",
+        "word": "Stunde",
+        "date": "2024-10-08T03:02:03.973Z"
       }
     ],
     "levels": [
@@ -12389,6 +12405,10 @@
           {
             "length": 225,
             "date": "2024-10-08T03:00:37.189Z"
+          },
+          {
+            "length": 226,
+            "date": "2024-10-08T03:02:03.974Z"
           }
         ]
       },
