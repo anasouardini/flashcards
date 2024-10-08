@@ -2450,6 +2450,16 @@
               "- [Say Goodbye]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Verabschieden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Adobt/send]: "
+            ]
+          }
         }
       ]
     },
@@ -9587,6 +9597,11 @@
         "type": "add",
         "word": "Sich",
         "date": "2024-10-08T02:59:19.966Z"
+      },
+      {
+        "type": "add",
+        "word": "Verabschieden",
+        "date": "2024-10-08T02:59:39.419Z"
       }
     ],
     "levels": [
@@ -12351,6 +12366,10 @@
           {
             "length": 223,
             "date": "2024-10-08T02:59:19.966Z"
+          },
+          {
+            "length": 224,
+            "date": "2024-10-08T02:59:39.419Z"
           }
         ]
       },
