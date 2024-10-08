@@ -2921,6 +2921,16 @@
               "- [Look at]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Opa (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Grandpa]: "
+            ]
+          }
         }
       ]
     },
@@ -10278,6 +10288,11 @@
         "type": "add",
         "word": "Ansehen",
         "date": "2024-10-08T17:26:15.816Z"
+      },
+      {
+        "type": "add",
+        "word": "Opa",
+        "date": "2024-10-08T17:30:33.698Z"
       }
     ],
     "levels": [
@@ -13218,6 +13233,10 @@
           {
             "length": 267,
             "date": "2024-10-08T17:26:15.816Z"
+          },
+          {
+            "length": 268,
+            "date": "2024-10-08T17:30:33.699Z"
           }
         ]
       },
