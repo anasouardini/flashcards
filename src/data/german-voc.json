@@ -2642,6 +2642,17 @@
               "- Forms: Schauspieler (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ingenieur (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Actor]: ",
+              "- Forms: Schauspieler (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9869,6 +9880,11 @@
         "type": "add",
         "word": "Schauspieler",
         "date": "2024-10-08T06:01:03.063Z"
+      },
+      {
+        "type": "add",
+        "word": "Ingenieur",
+        "date": "2024-10-08T06:02:38.503Z"
       }
     ],
     "levels": [
@@ -12705,6 +12721,10 @@
           {
             "length": 241,
             "date": "2024-10-08T06:01:03.064Z"
+          },
+          {
+            "length": 242,
+            "date": "2024-10-08T06:02:38.503Z"
           }
         ]
       },
