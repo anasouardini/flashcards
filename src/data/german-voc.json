@@ -3049,6 +3049,17 @@
               "- Forms: Familienmitglieder (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sogn (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Son]: ",
+              "- Forms: Söhne (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10466,6 +10477,11 @@
         "type": "add",
         "word": "Familienmitglied",
         "date": "2024-10-08T18:21:29.710Z"
+      },
+      {
+        "type": "add",
+        "word": "Sogn",
+        "date": "2024-10-08T18:23:01.838Z"
       }
     ],
     "levels": [
@@ -13454,6 +13470,10 @@
           {
             "length": 279,
             "date": "2024-10-08T18:21:29.710Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-08T18:23:01.839Z"
           }
         ]
       },
