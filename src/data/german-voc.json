@@ -2419,6 +2419,17 @@
               "- [Dictate]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wendung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [To Turn]: ",
+              "- Forms: Wendungen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9541,6 +9552,11 @@
         "type": "add",
         "word": "Diktieren",
         "date": "2024-10-08T02:51:20.568Z"
+      },
+      {
+        "type": "add",
+        "word": "Wendung",
+        "date": "2024-10-08T02:55:11.077Z"
       }
     ],
     "levels": [
@@ -12293,6 +12309,10 @@
           {
             "length": 220,
             "date": "2024-10-08T02:51:20.568Z"
+          },
+          {
+            "length": 221,
+            "date": "2024-10-08T02:55:11.077Z"
           }
         ]
       },
