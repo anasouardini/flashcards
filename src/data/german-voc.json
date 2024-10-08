@@ -2315,6 +2315,17 @@
               "- [Personal]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Persönlichkeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Personality]: ",
+              "- Forms: Persönlichkeiten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9386,6 +9397,11 @@
         "type": "add",
         "word": "Persönlich",
         "date": "2024-10-08T02:16:21.988Z"
+      },
+      {
+        "type": "add",
+        "word": "Persönlichkeit",
+        "date": "2024-10-08T02:17:29.251Z"
       }
     ],
     "levels": [
@@ -12098,6 +12114,10 @@
           {
             "length": 210,
             "date": "2024-10-08T02:16:21.988Z"
+          },
+          {
+            "length": 211,
+            "date": "2024-10-08T02:17:29.251Z"
           }
         ]
       },
