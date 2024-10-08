@@ -3168,6 +3168,17 @@
               "- [To Correct]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sätz (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sentence]: ",
+              "- Forms: Sätze (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10640,6 +10651,11 @@
         "type": "add",
         "word": "Korrigieren",
         "date": "2024-10-08T19:13:12.187Z"
+      },
+      {
+        "type": "add",
+        "word": "Sätz",
+        "date": "2024-10-08T19:15:04.243Z"
       }
     ],
     "levels": [
@@ -13672,6 +13688,10 @@
           {
             "length": 290,
             "date": "2024-10-08T19:13:12.188Z"
+          },
+          {
+            "length": 291,
+            "date": "2024-10-08T19:15:04.243Z"
           }
         ]
       },
