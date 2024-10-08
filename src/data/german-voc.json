@@ -2728,6 +2728,17 @@
               "- [Professional/Professionally]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Job (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Job]: ",
+              "- Forms: Jobs (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9995,6 +10006,11 @@
         "type": "add",
         "word": "Beruflich",
         "date": "2024-10-08T06:31:57.136Z"
+      },
+      {
+        "type": "add",
+        "word": "Job",
+        "date": "2024-10-08T06:37:04.500Z"
       }
     ],
     "levels": [
@@ -12863,6 +12879,10 @@
           {
             "length": 249,
             "date": "2024-10-08T06:31:57.136Z"
+          },
+          {
+            "length": 250,
+            "date": "2024-10-08T06:37:04.500Z"
           }
         ]
       },
