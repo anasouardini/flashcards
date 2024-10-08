@@ -2826,6 +2826,17 @@
               "- Forms: Fehlen (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Alter (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Age]: ",
+              "- Forms: Alter (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10138,6 +10149,11 @@
         "type": "add",
         "word": "Fehlen",
         "date": "2024-10-08T10:47:52.751Z"
+      },
+      {
+        "type": "add",
+        "word": "Alter",
+        "date": "2024-10-08T16:58:09.621Z"
       }
     ],
     "levels": [
@@ -13042,6 +13058,10 @@
           {
             "length": 258,
             "date": "2024-10-08T10:47:52.751Z"
+          },
+          {
+            "length": 259,
+            "date": "2024-10-08T16:58:09.622Z"
           }
         ]
       },
