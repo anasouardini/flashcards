@@ -3158,6 +3158,16 @@
               "- Forms: Muttern (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Korrigieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Correct]: "
+            ]
+          }
         }
       ]
     },
@@ -10625,6 +10635,11 @@
         "type": "add",
         "word": "Mutter",
         "date": "2024-10-08T19:06:46.406Z"
+      },
+      {
+        "type": "add",
+        "word": "Korrigieren",
+        "date": "2024-10-08T19:13:12.187Z"
       }
     ],
     "levels": [
@@ -13653,6 +13668,10 @@
           {
             "length": 289,
             "date": "2024-10-08T19:06:46.406Z"
+          },
+          {
+            "length": 290,
+            "date": "2024-10-08T19:13:12.188Z"
           }
         ]
       },
