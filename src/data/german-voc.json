@@ -2326,6 +2326,17 @@
               "- Forms: Persönlichkeiten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Seite (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Page]: ",
+              "- Forms: Seiten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9402,6 +9413,11 @@
         "type": "add",
         "word": "Persönlichkeit",
         "date": "2024-10-08T02:17:29.251Z"
+      },
+      {
+        "type": "add",
+        "word": "Seite",
+        "date": "2024-10-08T02:21:27.198Z"
       }
     ],
     "levels": [
@@ -12118,6 +12134,10 @@
           {
             "length": 211,
             "date": "2024-10-08T02:17:29.251Z"
+          },
+          {
+            "length": 212,
+            "date": "2024-10-08T02:21:27.198Z"
           }
         ]
       },
