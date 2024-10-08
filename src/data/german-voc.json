@@ -3028,6 +3028,16 @@
               "- [Grandma]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Vater (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Father]: "
+            ]
+          }
         }
       ]
     },
@@ -10435,6 +10445,11 @@
         "type": "add",
         "word": "Oma",
         "date": "2024-10-08T18:09:36.120Z"
+      },
+      {
+        "type": "add",
+        "word": "Vater",
+        "date": "2024-10-08T18:10:12.091Z"
       }
     ],
     "levels": [
@@ -13415,6 +13430,10 @@
           {
             "length": 277,
             "date": "2024-10-08T18:09:36.120Z"
+          },
+          {
+            "length": 278,
+            "date": "2024-10-08T18:10:12.092Z"
           }
         ]
       },
