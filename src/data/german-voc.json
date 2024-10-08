@@ -2566,6 +2566,16 @@
               "- Forms: Briefe (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Über (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [For/on/about/by]: "
+            ]
+          }
         }
       ]
     },
@@ -9758,6 +9768,11 @@
         "type": "add",
         "word": "Brief",
         "date": "2024-10-08T05:28:45.986Z"
+      },
+      {
+        "type": "add",
+        "word": "Über",
+        "date": "2024-10-08T05:30:34.615Z"
       }
     ],
     "levels": [
@@ -12566,6 +12581,10 @@
           {
             "length": 234,
             "date": "2024-10-08T05:28:45.986Z"
+          },
+          {
+            "length": 235,
+            "date": "2024-10-08T05:30:34.616Z"
           }
         ]
       },
