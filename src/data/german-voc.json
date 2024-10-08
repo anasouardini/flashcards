@@ -2503,6 +2503,16 @@
               "- Forms: Herkünfte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Andere (pron., quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [Other/Another]: "
+            ]
+          }
         }
       ]
     },
@@ -9665,6 +9675,11 @@
         "type": "add",
         "word": "Herkunft",
         "date": "2024-10-08T05:09:10.970Z"
+      },
+      {
+        "type": "add",
+        "word": "Andere",
+        "date": "2024-10-08T05:10:28.170Z"
       }
     ],
     "levels": [
@@ -12449,6 +12464,10 @@
           {
             "length": 228,
             "date": "2024-10-08T05:09:11.043Z"
+          },
+          {
+            "length": 229,
+            "date": "2024-10-08T05:10:28.170Z"
           }
         ]
       },
