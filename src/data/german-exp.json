@@ -197,6 +197,16 @@
               "- [Once more]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ich bin 25 Jahre Alt"
+          },
+          "back": {
+            "content": [
+              "- [I'm 25 years old]: "
+            ]
+          }
         }
       ]
     },
@@ -347,6 +357,11 @@
         "type": "add",
         "word": "Noch",
         "date": "2024-10-08T10:40:22.368Z"
+      },
+      {
+        "type": "add",
+        "word": "Ich",
+        "date": "2024-10-08T17:04:21.713Z"
       }
     ],
     "levels": [
@@ -427,6 +442,10 @@
           {
             "length": 19,
             "date": "2024-10-08T10:40:22.369Z"
+          },
+          {
+            "length": 20,
+            "date": "2024-10-08T17:04:21.713Z"
           }
         ]
       },
