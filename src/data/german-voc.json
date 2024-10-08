@@ -2661,7 +2661,7 @@
           "back": {
             "content": [
               "- [Student]: ",
-              "- Forms: Studenten (plural)"
+              "- Forms: Studenten (plural), Studentin (feminine)"
             ]
           }
         },
@@ -2716,6 +2716,16 @@
             "content": [
               "- [Dictionary]: ",
               "- Forms: Wörterbücher (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beruflich (adj/adv)"
+          },
+          "back": {
+            "content": [
+              "- [Professional/Professionally]: "
             ]
           }
         }
@@ -3363,7 +3373,7 @@
           "back": {
             "content": [
               "- [Doctor]: ",
-              "- Forms: Ärzte (plural)"
+              "- Forms: Ärzte (plural), Ärztin (feminine)"
             ]
           }
         },
@@ -9980,6 +9990,11 @@
         "type": "add",
         "word": "Wörterbuch",
         "date": "2024-10-08T06:26:07.862Z"
+      },
+      {
+        "type": "add",
+        "word": "Beruflich",
+        "date": "2024-10-08T06:31:57.136Z"
       }
     ],
     "levels": [
@@ -12844,6 +12859,10 @@
           {
             "length": 248,
             "date": "2024-10-08T06:26:07.862Z"
+          },
+          {
+            "length": 249,
+            "date": "2024-10-08T06:31:57.136Z"
           }
         ]
       },
