@@ -3114,6 +3114,17 @@
               "- Forms: Sprachen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gebiet (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Area/Field]: ",
+              "- Forms: Gebieten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10561,6 +10572,11 @@
         "type": "add",
         "word": "Sprache",
         "date": "2024-10-08T18:36:38.015Z"
+      },
+      {
+        "type": "add",
+        "word": "Gebiet",
+        "date": "2024-10-08T18:40:42.618Z"
       }
     ],
     "levels": [
@@ -13573,6 +13589,10 @@
           {
             "length": 285,
             "date": "2024-10-08T18:36:38.016Z"
+          },
+          {
+            "length": 286,
+            "date": "2024-10-08T18:40:42.619Z"
           }
         ]
       },
