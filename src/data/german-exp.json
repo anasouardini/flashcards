@@ -147,6 +147,16 @@
               "- [Can you repeate, please?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Was meinen sie?"
+          },
+          "back": {
+            "content": [
+              "- [What do you mean?]: "
+            ]
+          }
         }
       ]
     },
@@ -272,6 +282,11 @@
         "type": "add",
         "word": "Wie",
         "date": "2024-10-08T02:48:41.795Z"
+      },
+      {
+        "type": "add",
+        "word": "Was",
+        "date": "2024-10-08T05:55:41.706Z"
       }
     ],
     "levels": [
@@ -332,6 +347,10 @@
           {
             "length": 14,
             "date": "2024-10-08T02:48:41.795Z"
+          },
+          {
+            "length": 15,
+            "date": "2024-10-08T05:55:41.707Z"
           }
         ]
       },
