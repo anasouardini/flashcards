@@ -2890,6 +2890,17 @@
               "- [Oneself]: Einen Text über sich selbst : A text about yourself"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schüler (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Student]: ",
+              "- Forms: Schüler (plural), schülerin (feminine)"
+            ]
+          }
         }
       ]
     },
@@ -10232,6 +10243,11 @@
         "type": "add",
         "word": "Selbst[sich-]",
         "date": "2024-10-08T17:16:08.570Z"
+      },
+      {
+        "type": "add",
+        "word": "Schüler",
+        "date": "2024-10-08T17:19:43.086Z"
       }
     ],
     "levels": [
@@ -13160,6 +13176,10 @@
           {
             "length": 264,
             "date": "2024-10-08T17:16:08.571Z"
+          },
+          {
+            "length": 265,
+            "date": "2024-10-08T17:19:43.086Z"
           }
         ]
       },
