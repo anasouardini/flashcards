@@ -2409,6 +2409,16 @@
               "- [To Spell]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Diktieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Dictate]: "
+            ]
+          }
         }
       ]
     },
@@ -9526,6 +9536,11 @@
         "type": "add",
         "word": "Buchstabiere",
         "date": "2024-10-08T02:50:11.153Z"
+      },
+      {
+        "type": "add",
+        "word": "Diktieren",
+        "date": "2024-10-08T02:51:20.568Z"
       }
     ],
     "levels": [
@@ -12274,6 +12289,10 @@
           {
             "length": 219,
             "date": "2024-10-08T02:50:11.153Z"
+          },
+          {
+            "length": 220,
+            "date": "2024-10-08T02:51:20.568Z"
           }
         ]
       },
