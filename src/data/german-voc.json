@@ -2337,6 +2337,17 @@
               "- Forms: Seiten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Partner (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Partner]: ",
+              "- Forms: Partnerin (feminine), Partners (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9418,6 +9429,11 @@
         "type": "add",
         "word": "Seite",
         "date": "2024-10-08T02:21:27.198Z"
+      },
+      {
+        "type": "add",
+        "word": "Partner",
+        "date": "2024-10-08T02:23:52.757Z"
       }
     ],
     "levels": [
@@ -12138,6 +12154,10 @@
           {
             "length": 212,
             "date": "2024-10-08T02:21:27.198Z"
+          },
+          {
+            "length": 213,
+            "date": "2024-10-08T02:23:52.758Z"
           }
         ]
       },
