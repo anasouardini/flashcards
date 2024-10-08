@@ -2901,6 +2901,16 @@
               "- Forms: Schüler (plural), schülerin (feminine)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Praktikum (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Internship]: "
+            ]
+          }
         }
       ]
     },
@@ -10248,6 +10258,11 @@
         "type": "add",
         "word": "Schüler",
         "date": "2024-10-08T17:19:43.086Z"
+      },
+      {
+        "type": "add",
+        "word": "Praktikum",
+        "date": "2024-10-08T17:21:06.001Z"
       }
     ],
     "levels": [
@@ -13180,6 +13195,10 @@
           {
             "length": 265,
             "date": "2024-10-08T17:19:43.086Z"
+          },
+          {
+            "length": 266,
+            "date": "2024-10-08T17:21:06.002Z"
           }
         ]
       },
