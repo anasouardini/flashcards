@@ -3060,6 +3060,17 @@
               "- Forms: Söhne (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Enkel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Grandcild]: ",
+              "- Forms: Enkel (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10482,6 +10493,11 @@
         "type": "add",
         "word": "Sogn",
         "date": "2024-10-08T18:23:01.838Z"
+      },
+      {
+        "type": "add",
+        "word": "Enkel",
+        "date": "2024-10-08T18:24:40.786Z"
       }
     ],
     "levels": [
@@ -13474,6 +13490,10 @@
           {
             "length": 280,
             "date": "2024-10-08T18:23:01.839Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-08T18:24:40.786Z"
           }
         ]
       },
