@@ -2707,6 +2707,17 @@
               "- Forms: Plakate (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wörterbuch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Dictionary]: ",
+              "- Forms: Wörterbücher (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9964,6 +9975,11 @@
         "type": "add",
         "word": "Plakat",
         "date": "2024-10-08T06:24:27.624Z"
+      },
+      {
+        "type": "add",
+        "word": "Wörterbuch",
+        "date": "2024-10-08T06:26:07.862Z"
       }
     ],
     "levels": [
@@ -12824,6 +12840,10 @@
           {
             "length": 247,
             "date": "2024-10-08T06:24:27.625Z"
+          },
+          {
+            "length": 248,
+            "date": "2024-10-08T06:26:07.862Z"
           }
         ]
       },
