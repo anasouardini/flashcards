@@ -3125,6 +3125,17 @@
               "- Forms: Gebieten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Auflösung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Solution]: ",
+              "- Forms: Auflösungen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10577,6 +10588,11 @@
         "type": "add",
         "word": "Gebiet",
         "date": "2024-10-08T18:40:42.618Z"
+      },
+      {
+        "type": "add",
+        "word": "Auflösung",
+        "date": "2024-10-08T18:42:39.222Z"
       }
     ],
     "levels": [
@@ -13593,6 +13609,10 @@
           {
             "length": 286,
             "date": "2024-10-08T18:40:42.619Z"
+          },
+          {
+            "length": 287,
+            "date": "2024-10-08T18:42:39.223Z"
           }
         ]
       },
