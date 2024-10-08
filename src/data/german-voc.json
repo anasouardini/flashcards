@@ -2961,6 +2961,17 @@
               "- [Language skill/knowledge]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Doch (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [But/Yet]: ",
+              "- Forms: doch (adv.), doch (interjection)"
+            ]
+          }
         }
       ]
     },
@@ -10338,6 +10349,11 @@
         "type": "add",
         "word": "Sprachkenntnisse",
         "date": "2024-10-08T17:36:37.223Z"
+      },
+      {
+        "type": "add",
+        "word": "Doch",
+        "date": "2024-10-08T17:48:01.066Z"
       }
     ],
     "levels": [
@@ -13294,6 +13310,10 @@
           {
             "length": 271,
             "date": "2024-10-08T17:36:37.224Z"
+          },
+          {
+            "length": 272,
+            "date": "2024-10-08T17:48:01.066Z"
           }
         ]
       },
