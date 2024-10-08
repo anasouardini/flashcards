@@ -2769,6 +2769,17 @@
               "- [Single]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Interview (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Interview]: ",
+              "- Forms: Interviews (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10056,6 +10067,11 @@
         "type": "add",
         "word": "Single",
         "date": "2024-10-08T06:46:27.280Z"
+      },
+      {
+        "type": "add",
+        "word": "Interview",
+        "date": "2024-10-08T10:31:45.837Z"
       }
     ],
     "levels": [
@@ -12940,6 +12956,10 @@
           {
             "length": 253,
             "date": "2024-10-08T06:46:27.280Z"
+          },
+          {
+            "length": 254,
+            "date": "2024-10-08T10:31:45.838Z"
           }
         ]
       },
