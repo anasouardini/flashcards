@@ -2555,6 +2555,17 @@
               "- [Profile/Description]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Brief (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Letter (message)]: ",
+              "- Forms: Briefe (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9742,6 +9753,11 @@
         "type": "add",
         "word": "Steckbrief",
         "date": "2024-10-08T05:27:31.667Z"
+      },
+      {
+        "type": "add",
+        "word": "Brief",
+        "date": "2024-10-08T05:28:45.986Z"
       }
     ],
     "levels": [
@@ -12546,6 +12562,10 @@
           {
             "length": 233,
             "date": "2024-10-08T05:27:31.667Z"
+          },
+          {
+            "length": 234,
+            "date": "2024-10-08T05:28:45.986Z"
           }
         ]
       },
