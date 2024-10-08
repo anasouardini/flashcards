@@ -2399,6 +2399,16 @@
               "- [Health/Condition]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Buchstabiere (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Spell]: "
+            ]
+          }
         }
       ]
     },
@@ -9511,6 +9521,11 @@
         "type": "add",
         "word": "Befindin",
         "date": "2024-10-08T02:45:27.171Z"
+      },
+      {
+        "type": "add",
+        "word": "Buchstabiere",
+        "date": "2024-10-08T02:50:11.153Z"
       }
     ],
     "levels": [
@@ -12255,6 +12270,10 @@
           {
             "length": 218,
             "date": "2024-10-08T02:45:27.172Z"
+          },
+          {
+            "length": 219,
+            "date": "2024-10-08T02:50:11.153Z"
           }
         ]
       },
