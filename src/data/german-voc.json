@@ -2587,6 +2587,17 @@
               "- Forms: Familienstände (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zahl (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Figure/number/digit]: ",
+              "- Forms: Zahlen (plural), Zahlen (v.)"
+            ]
+          }
         }
       ]
     },
@@ -9789,6 +9800,11 @@
         "type": "add",
         "word": "Familienstand",
         "date": "2024-10-08T05:33:46.232Z"
+      },
+      {
+        "type": "add",
+        "word": "Zahl",
+        "date": "2024-10-08T05:35:20.093Z"
       }
     ],
     "levels": [
@@ -12605,6 +12621,10 @@
           {
             "length": 236,
             "date": "2024-10-08T05:33:46.232Z"
+          },
+          {
+            "length": 237,
+            "date": "2024-10-08T05:35:20.093Z"
           }
         ]
       },
