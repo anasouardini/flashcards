@@ -2880,6 +2880,16 @@
               "- [With/before]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Selbst[sich-] (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Oneself]: Einen Text über sich selbst : A text about yourself"
+            ]
+          }
         }
       ]
     },
@@ -10217,6 +10227,11 @@
         "type": "add",
         "word": "Vor",
         "date": "2024-10-08T17:07:05.088Z"
+      },
+      {
+        "type": "add",
+        "word": "Selbst[sich-]",
+        "date": "2024-10-08T17:16:08.570Z"
       }
     ],
     "levels": [
@@ -13141,6 +13156,10 @@
           {
             "length": 263,
             "date": "2024-10-08T17:07:05.089Z"
+          },
+          {
+            "length": 264,
+            "date": "2024-10-08T17:16:08.571Z"
           }
         ]
       },
