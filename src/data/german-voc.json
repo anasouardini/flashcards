@@ -3038,6 +3038,17 @@
               "- [Father]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Familienmitglied (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Familiy member]: ",
+              "- Forms: Familienmitglieder (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10450,6 +10461,11 @@
         "type": "add",
         "word": "Vater",
         "date": "2024-10-08T18:10:12.091Z"
+      },
+      {
+        "type": "add",
+        "word": "Familienmitglied",
+        "date": "2024-10-08T18:21:29.710Z"
       }
     ],
     "levels": [
@@ -13434,6 +13450,10 @@
           {
             "length": 278,
             "date": "2024-10-08T18:10:12.092Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-08T18:21:29.710Z"
           }
         ]
       },
