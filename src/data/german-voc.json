@@ -2389,6 +2389,16 @@
               "- [Very/Really/Much]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Befindin (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Health/Condition]: "
+            ]
+          }
         }
       ]
     },
@@ -3011,6 +3021,7 @@
           "back": {
             "content": [
               "- [After]: ",
+              "- [About]: ",
               "- Forms: "
             ]
           }
@@ -9495,6 +9506,11 @@
         "type": "add",
         "word": "Sehr",
         "date": "2024-10-08T02:33:32.617Z"
+      },
+      {
+        "type": "add",
+        "word": "Befindin",
+        "date": "2024-10-08T02:45:27.171Z"
       }
     ],
     "levels": [
@@ -12235,6 +12251,10 @@
           {
             "length": 217,
             "date": "2024-10-08T02:33:32.617Z"
+          },
+          {
+            "length": 218,
+            "date": "2024-10-08T02:45:27.172Z"
           }
         ]
       },
