@@ -3092,6 +3092,17 @@
               "- Forms: Kollegen (plural), Kollegin (feminine)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Notiz (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Note]: ",
+              "- Forms: Notizen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10529,6 +10540,11 @@
         "type": "add",
         "word": "Kollege",
         "date": "2024-10-08T18:29:55.844Z"
+      },
+      {
+        "type": "add",
+        "word": "Notiz",
+        "date": "2024-10-08T18:33:09.434Z"
       }
     ],
     "levels": [
@@ -13533,6 +13549,10 @@
           {
             "length": 283,
             "date": "2024-10-08T18:29:55.845Z"
+          },
+          {
+            "length": 284,
+            "date": "2024-10-08T18:33:09.434Z"
           }
         ]
       },
