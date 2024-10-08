@@ -2859,6 +2859,17 @@
               "- Forms: Arbitgeber (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Geber (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Giver/Donor]: ",
+              "- Forms: Geber (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10186,6 +10197,11 @@
         "type": "add",
         "word": "Arbitgeber",
         "date": "2024-10-08T17:01:37.751Z"
+      },
+      {
+        "type": "add",
+        "word": "Geber",
+        "date": "2024-10-08T17:02:54.805Z"
       }
     ],
     "levels": [
@@ -13102,6 +13118,10 @@
           {
             "length": 261,
             "date": "2024-10-08T17:01:37.752Z"
+          },
+          {
+            "length": 262,
+            "date": "2024-10-08T17:02:54.806Z"
           }
         ]
       },
