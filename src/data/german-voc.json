@@ -2837,6 +2837,17 @@
               "- Forms: Alter (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wohnort (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Residence]: ",
+              "- Forms: Wohnorte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10154,6 +10165,11 @@
         "type": "add",
         "word": "Alter",
         "date": "2024-10-08T16:58:09.621Z"
+      },
+      {
+        "type": "add",
+        "word": "Wohnort",
+        "date": "2024-10-08T16:59:02.367Z"
       }
     ],
     "levels": [
@@ -13062,6 +13078,10 @@
           {
             "length": 259,
             "date": "2024-10-08T16:58:09.622Z"
+          },
+          {
+            "length": 260,
+            "date": "2024-10-08T16:59:02.368Z"
           }
         ]
       },
