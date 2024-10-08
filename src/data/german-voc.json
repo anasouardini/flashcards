@@ -3147,6 +3147,17 @@
               "- Forms: Bisschen (noun)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Mutter (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Mother]: ",
+              "- Forms: Muttern (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10609,6 +10620,11 @@
         "type": "add",
         "word": "Bisschen",
         "date": "2024-10-08T18:45:54.450Z"
+      },
+      {
+        "type": "add",
+        "word": "Mutter",
+        "date": "2024-10-08T19:06:46.406Z"
       }
     ],
     "levels": [
@@ -13633,6 +13649,10 @@
           {
             "length": 288,
             "date": "2024-10-08T18:45:54.450Z"
+          },
+          {
+            "length": 289,
+            "date": "2024-10-08T19:06:46.406Z"
           }
         ]
       },
