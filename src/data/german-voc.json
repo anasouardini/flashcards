@@ -2524,6 +2524,16 @@
               "- Forms: Berufe (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Internet (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Internet]: "
+            ]
+          }
         }
       ]
     },
@@ -9696,6 +9706,11 @@
         "type": "add",
         "word": "Beruf",
         "date": "2024-10-08T05:21:27.343Z"
+      },
+      {
+        "type": "add",
+        "word": "Internet",
+        "date": "2024-10-08T05:25:11.029Z"
       }
     ],
     "levels": [
@@ -12488,6 +12503,10 @@
           {
             "length": 230,
             "date": "2024-10-08T05:21:27.343Z"
+          },
+          {
+            "length": 231,
+            "date": "2024-10-08T05:25:11.029Z"
           }
         ]
       },
