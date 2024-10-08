@@ -177,6 +177,16 @@
               "- [What do you do?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Was sind Sie von Beruf?"
+          },
+          "back": {
+            "content": [
+              "- [What are you by profession? (What is your profession)]: "
+            ]
+          }
         }
       ]
     },
@@ -317,6 +327,11 @@
         "type": "add",
         "word": "Was",
         "date": "2024-10-08T06:11:32.661Z"
+      },
+      {
+        "type": "add",
+        "word": "Was",
+        "date": "2024-10-08T06:20:38.599Z"
       }
     ],
     "levels": [
@@ -389,6 +404,10 @@
           {
             "length": 17,
             "date": "2024-10-08T06:11:32.661Z"
+          },
+          {
+            "length": 18,
+            "date": "2024-10-08T06:20:38.599Z"
           }
         ]
       },
