@@ -107,6 +107,16 @@
               "- [Who is that?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wie geht es dir? Wie geht es Ihnen?"
+          },
+          "back": {
+            "content": [
+              "- [How are you(f/inf) doing?]: "
+            ]
+          }
         }
       ]
     },
@@ -212,6 +222,11 @@
         "type": "add",
         "word": "Wer",
         "date": "2024-10-07T19:12:58.693Z"
+      },
+      {
+        "type": "add",
+        "word": "Wie",
+        "date": "2024-10-08T02:32:28.135Z"
       }
     ],
     "levels": [
@@ -256,6 +271,10 @@
           {
             "length": 10,
             "date": "2024-10-07T19:12:58.762Z"
+          },
+          {
+            "length": 11,
+            "date": "2024-10-08T02:32:28.135Z"
           }
         ]
       },
