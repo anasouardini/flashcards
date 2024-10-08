@@ -2576,6 +2576,17 @@
               "- [For/on/about/by]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Familienstand (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Marital status]: ",
+              "- Forms: Familienstände (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9773,6 +9784,11 @@
         "type": "add",
         "word": "Über",
         "date": "2024-10-08T05:30:34.615Z"
+      },
+      {
+        "type": "add",
+        "word": "Familienstand",
+        "date": "2024-10-08T05:33:46.232Z"
       }
     ],
     "levels": [
@@ -12585,6 +12601,10 @@
           {
             "length": 235,
             "date": "2024-10-08T05:30:34.616Z"
+          },
+          {
+            "length": 236,
+            "date": "2024-10-08T05:33:46.232Z"
           }
         ]
       },
