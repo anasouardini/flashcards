@@ -2749,6 +2749,16 @@
               "- [In pairs]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Geschieden (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Divorced]: "
+            ]
+          }
         }
       ]
     },
@@ -10026,6 +10036,11 @@
         "type": "add",
         "word": "Zu",
         "date": "2024-10-08T06:40:15.046Z"
+      },
+      {
+        "type": "add",
+        "word": "Geschieden",
+        "date": "2024-10-08T06:43:08.344Z"
       }
     ],
     "levels": [
@@ -12902,6 +12917,10 @@
           {
             "length": 251,
             "date": "2024-10-08T06:40:15.046Z"
+          },
+          {
+            "length": 252,
+            "date": "2024-10-08T06:43:08.345Z"
           }
         ]
       },
