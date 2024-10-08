@@ -3081,6 +3081,17 @@
               "- [Note/Piece of paper]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kollege (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Colleague]: ",
+              "- Forms: Kollegen (plural), Kollegin (feminine)"
+            ]
+          }
         }
       ]
     },
@@ -10513,6 +10524,11 @@
         "type": "add",
         "word": "Zettel",
         "date": "2024-10-08T18:27:03.639Z"
+      },
+      {
+        "type": "add",
+        "word": "Kollege",
+        "date": "2024-10-08T18:29:55.844Z"
       }
     ],
     "levels": [
@@ -13513,6 +13529,10 @@
           {
             "length": 282,
             "date": "2024-10-08T18:27:03.639Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-10-08T18:29:55.845Z"
           }
         ]
       },
