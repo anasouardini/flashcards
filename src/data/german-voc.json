@@ -3210,6 +3210,17 @@
               "- [Foreign]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Mitglied (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Member]: ",
+              "- Forms: Mitglieder (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10702,6 +10713,11 @@
         "type": "add",
         "word": "Fremd",
         "date": "2024-10-08T19:18:50.483Z"
+      },
+      {
+        "type": "add",
+        "word": "Mitglied",
+        "date": "2024-10-08T19:21:31.077Z"
       }
     ],
     "levels": [
@@ -13750,6 +13766,10 @@
           {
             "length": 294,
             "date": "2024-10-08T19:18:50.484Z"
+          },
+          {
+            "length": 295,
+            "date": "2024-10-08T19:21:31.078Z"
           }
         ]
       },
