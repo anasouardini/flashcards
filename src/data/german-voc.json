@@ -2430,6 +2430,16 @@
               "- Forms: Wendungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Am (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [On]: "
+            ]
+          }
         }
       ]
     },
@@ -9557,6 +9567,11 @@
         "type": "add",
         "word": "Wendung",
         "date": "2024-10-08T02:55:11.077Z"
+      },
+      {
+        "type": "add",
+        "word": "Am",
+        "date": "2024-10-08T02:58:23.498Z"
       }
     ],
     "levels": [
@@ -12313,6 +12328,10 @@
           {
             "length": 221,
             "date": "2024-10-08T02:55:11.077Z"
+          },
+          {
+            "length": 222,
+            "date": "2024-10-08T02:58:23.498Z"
           }
         ]
       },
