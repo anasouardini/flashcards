@@ -2294,6 +2294,17 @@
               "- [Exercice/Practice]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bekannte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Friend]: ",
+              "- Forms: Bekannte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -9355,6 +9366,11 @@
         "type": "add",
         "word": "Üben",
         "date": "2024-10-07T09:39:54.879Z"
+      },
+      {
+        "type": "add",
+        "word": "Bekannte",
+        "date": "2024-10-08T02:15:20.696Z"
       }
     ],
     "levels": [
@@ -12059,6 +12075,10 @@
           {
             "length": 208,
             "date": "2024-10-07T09:39:54.880Z"
+          },
+          {
+            "length": 209,
+            "date": "2024-10-08T02:15:20.766Z"
           }
         ]
       },
