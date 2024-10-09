@@ -3323,6 +3323,16 @@
               "- [Currently]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "-sprachigen (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [-speaking]: Deutschsprachigen : German-speaking"
+            ]
+          }
         }
       ]
     },
@@ -10870,6 +10880,11 @@
         "type": "add",
         "word": "Zurzeit",
         "date": "2024-10-09T03:26:08.282Z"
+      },
+      {
+        "type": "add",
+        "word": "-sprachigen",
+        "date": "2024-10-09T03:28:34.613Z"
       }
     ],
     "levels": [
@@ -13962,6 +13977,10 @@
           {
             "length": 305,
             "date": "2024-10-09T03:26:08.283Z"
+          },
+          {
+            "length": 306,
+            "date": "2024-10-09T03:28:34.614Z"
           }
         ]
       },
