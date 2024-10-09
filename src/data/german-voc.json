@@ -3446,7 +3446,19 @@
           "back": {
             "content": [
               "- [Offering]: ",
+              "- [To Offer] (v.): ",
               "- Forms: Anbieten (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Prise (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Price]: ",
+              "- Forms: Prisen (plural), Prisen (v.)"
             ]
           }
         }
@@ -11056,6 +11068,11 @@
         "type": "add",
         "word": "Anbieten",
         "date": "2024-10-09T17:44:43.463Z"
+      },
+      {
+        "type": "add",
+        "word": "Prise",
+        "date": "2024-10-09T17:47:49.858Z"
       }
     ],
     "levels": [
@@ -14196,6 +14213,10 @@
           {
             "length": 317,
             "date": "2024-10-09T17:44:43.532Z"
+          },
+          {
+            "length": 318,
+            "date": "2024-10-09T17:47:49.858Z"
           }
         ]
       },
