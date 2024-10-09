@@ -3697,6 +3697,16 @@
               "- Forms: Puzzles (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Übersetzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Translate]: "
+            ]
+          }
         }
       ]
     },
@@ -11419,6 +11429,11 @@
         "type": "add",
         "word": "Puzzle",
         "date": "2024-10-09T20:35:22.493Z"
+      },
+      {
+        "type": "add",
+        "word": "Übersetzen",
+        "date": "2024-10-09T20:47:19.828Z"
       }
     ],
     "levels": [
@@ -14651,6 +14666,10 @@
           {
             "length": 340,
             "date": "2024-10-09T20:35:22.493Z"
+          },
+          {
+            "length": 341,
+            "date": "2024-10-09T20:47:19.828Z"
           }
         ]
       },
