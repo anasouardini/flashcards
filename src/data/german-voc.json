@@ -3303,6 +3303,16 @@
               "- Forms: Moderatorin (feminine), Moderatoren (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sänger (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Singer]: "
+            ]
+          }
         }
       ]
     },
@@ -10840,6 +10850,11 @@
         "type": "add",
         "word": "Moderator",
         "date": "2024-10-09T03:19:47.453Z"
+      },
+      {
+        "type": "add",
+        "word": "Sänger",
+        "date": "2024-10-09T03:23:07.771Z"
       }
     ],
     "levels": [
@@ -13924,6 +13939,10 @@
           {
             "length": 303,
             "date": "2024-10-09T03:19:47.453Z"
+          },
+          {
+            "length": 304,
+            "date": "2024-10-09T03:23:07.771Z"
           }
         ]
       },
