@@ -3707,6 +3707,16 @@
               "- [Translate]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Muttersprache (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Mother tongue]: "
+            ]
+          }
         }
       ]
     },
@@ -11434,6 +11444,11 @@
         "type": "add",
         "word": "Übersetzen",
         "date": "2024-10-09T20:47:19.828Z"
+      },
+      {
+        "type": "add",
+        "word": "Muttersprache",
+        "date": "2024-10-09T20:49:14.719Z"
       }
     ],
     "levels": [
@@ -14670,6 +14685,10 @@
           {
             "length": 341,
             "date": "2024-10-09T20:47:19.828Z"
+          },
+          {
+            "length": 342,
+            "date": "2024-10-09T20:49:14.720Z"
           }
         ]
       },
