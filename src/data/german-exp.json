@@ -247,6 +247,16 @@
               "- [But that is expensive.]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Finden Sie?"
+          },
+          "back": {
+            "content": [
+              "- [Do you think so?]: "
+            ]
+          }
         }
       ]
     },
@@ -422,6 +432,11 @@
         "type": "add",
         "word": "Das",
         "date": "2024-10-09T19:19:08.603Z"
+      },
+      {
+        "type": "add",
+        "word": "Finden",
+        "date": "2024-10-09T19:42:37.109Z"
       }
     ],
     "levels": [
@@ -522,6 +537,10 @@
           {
             "length": 24,
             "date": "2024-10-09T19:19:08.605Z"
+          },
+          {
+            "length": 25,
+            "date": "2024-10-09T19:42:37.110Z"
           }
         ]
       },
