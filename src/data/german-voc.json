@@ -3654,6 +3654,17 @@
               "- [Carpet/Rug]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Vergleich (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Comparison]: ",
+              "- Forms: Vergleiche (plural), Vergleichen (v.)"
+            ]
+          }
         }
       ]
     },
@@ -11356,6 +11367,11 @@
         "type": "add",
         "word": "Teppich",
         "date": "2024-10-09T19:55:38.428Z"
+      },
+      {
+        "type": "add",
+        "word": "Vergleich",
+        "date": "2024-10-09T19:57:59.431Z"
       }
     ],
     "levels": [
@@ -14572,6 +14588,10 @@
           {
             "length": 336,
             "date": "2024-10-09T19:55:38.428Z"
+          },
+          {
+            "length": 337,
+            "date": "2024-10-09T19:57:59.432Z"
           }
         ]
       },
