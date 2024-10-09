@@ -3492,7 +3492,18 @@
           "back": {
             "content": [
               "- [Assessment]: ",
+              "- [To Evaluate] (v.): ",
               "- Forms: Bewerten (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Möbel (noun, plural, -)"
+          },
+          "back": {
+            "content": [
+              "- [Furniture]: "
             ]
           }
         }
@@ -11122,6 +11133,11 @@
         "type": "add",
         "word": "Bewerten",
         "date": "2024-10-09T17:59:06.440Z"
+      },
+      {
+        "type": "add",
+        "word": "Möbel",
+        "date": "2024-10-09T19:00:55.595Z"
       }
     ],
     "levels": [
@@ -14278,6 +14294,10 @@
           {
             "length": 321,
             "date": "2024-10-09T17:59:06.440Z"
+          },
+          {
+            "length": 322,
+            "date": "2024-10-09T19:00:55.595Z"
           }
         ]
       },
