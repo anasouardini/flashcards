@@ -3251,6 +3251,16 @@
               "- [See you again]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Stammbaum (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Family Tree]: "
+            ]
+          }
         }
       ]
     },
@@ -10763,6 +10773,11 @@
         "type": "add",
         "word": "Auf_Wiederschauenn",
         "date": "2024-10-09T02:59:54.362Z"
+      },
+      {
+        "type": "add",
+        "word": "Stammbaum",
+        "date": "2024-10-09T03:08:42.797Z"
       }
     ],
     "levels": [
@@ -13827,6 +13842,10 @@
           {
             "length": 298,
             "date": "2024-10-09T02:59:54.363Z"
+          },
+          {
+            "length": 299,
+            "date": "2024-10-09T03:08:42.798Z"
           }
         ]
       },
