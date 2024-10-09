@@ -3633,6 +3633,17 @@
               "- [Couch/Sofa]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schrank (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Closet]: ",
+              "- Forms: Schränke (plural)"
+            ]
+          }
         }
       ]
     },
@@ -11325,6 +11336,11 @@
         "type": "add",
         "word": "Couch",
         "date": "2024-10-09T19:53:57.182Z"
+      },
+      {
+        "type": "add",
+        "word": "Schrank",
+        "date": "2024-10-09T19:54:50.741Z"
       }
     ],
     "levels": [
@@ -14533,6 +14549,10 @@
           {
             "length": 334,
             "date": "2024-10-09T19:53:57.183Z"
+          },
+          {
+            "length": 335,
+            "date": "2024-10-09T19:54:50.742Z"
           }
         ]
       },
