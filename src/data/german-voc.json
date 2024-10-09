@@ -3480,7 +3480,19 @@
           "back": {
             "content": [
               "- [Something]: ",
+              "- [Somewhat] (adv.): ",
               "- Forms: Etwas (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bewerten (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Assessment]: ",
+              "- Forms: Bewerten (v.)"
             ]
           }
         }
@@ -11105,6 +11117,11 @@
         "type": "add",
         "word": "Etwas",
         "date": "2024-10-09T17:57:02.440Z"
+      },
+      {
+        "type": "add",
+        "word": "Bewerten",
+        "date": "2024-10-09T17:59:06.440Z"
       }
     ],
     "levels": [
@@ -14257,6 +14274,10 @@
           {
             "length": 320,
             "date": "2024-10-09T17:57:02.441Z"
+          },
+          {
+            "length": 321,
+            "date": "2024-10-09T17:59:06.440Z"
           }
         ]
       },
