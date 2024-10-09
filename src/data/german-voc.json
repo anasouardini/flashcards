@@ -3461,6 +3461,17 @@
               "- Forms: Prisen (plural), Prisen (v.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Prisen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Praise/Celebrate]: ",
+              "- Forms: Prisen (v.)"
+            ]
+          }
         }
       ]
     },
@@ -11073,6 +11084,11 @@
         "type": "add",
         "word": "Prise",
         "date": "2024-10-09T17:47:49.858Z"
+      },
+      {
+        "type": "add",
+        "word": "Prisen",
+        "date": "2024-10-09T17:48:13.643Z"
       }
     ],
     "levels": [
@@ -14217,6 +14233,10 @@
           {
             "length": 318,
             "date": "2024-10-09T17:47:49.858Z"
+          },
+          {
+            "length": 319,
+            "date": "2024-10-09T17:48:13.644Z"
           }
         ]
       },
