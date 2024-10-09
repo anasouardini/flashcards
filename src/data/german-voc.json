@@ -3570,6 +3570,17 @@
               "- Forms: Sessel (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Lampe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Lamp/Light]: ",
+              "- Forms: Lampen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -11232,6 +11243,11 @@
         "type": "add",
         "word": "Sessel",
         "date": "2024-10-09T19:14:19.603Z"
+      },
+      {
+        "type": "add",
+        "word": "Lampe",
+        "date": "2024-10-09T19:15:13.024Z"
       }
     ],
     "levels": [
@@ -14416,6 +14432,10 @@
           {
             "length": 328,
             "date": "2024-10-09T19:14:19.603Z"
+          },
+          {
+            "length": 329,
+            "date": "2024-10-09T19:15:13.024Z"
           }
         ]
       },
