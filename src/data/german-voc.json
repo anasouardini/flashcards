@@ -3516,6 +3516,17 @@
               "- [Photo]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wort (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Word]: ",
+              "- Forms: Wörter (plural)"
+            ]
+          }
         }
       ]
     },
@@ -11153,6 +11164,11 @@
         "type": "add",
         "word": "Foto",
         "date": "2024-10-09T19:04:32.272Z"
+      },
+      {
+        "type": "add",
+        "word": "Wort",
+        "date": "2024-10-09T19:06:02.914Z"
       }
     ],
     "levels": [
@@ -14317,6 +14333,10 @@
           {
             "length": 323,
             "date": "2024-10-09T19:04:32.272Z"
+          },
+          {
+            "length": 324,
+            "date": "2024-10-09T19:06:02.914Z"
           }
         ]
       },
