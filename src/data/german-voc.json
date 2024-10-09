@@ -3506,6 +3506,16 @@
               "- [Furniture]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Foto (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Photo]: "
+            ]
+          }
         }
       ]
     },
@@ -11138,6 +11148,11 @@
         "type": "add",
         "word": "Möbel",
         "date": "2024-10-09T19:00:55.595Z"
+      },
+      {
+        "type": "add",
+        "word": "Foto",
+        "date": "2024-10-09T19:04:32.272Z"
       }
     ],
     "levels": [
@@ -14298,6 +14313,10 @@
           {
             "length": 322,
             "date": "2024-10-09T19:00:55.595Z"
+          },
+          {
+            "length": 323,
+            "date": "2024-10-09T19:04:32.272Z"
           }
         ]
       },
