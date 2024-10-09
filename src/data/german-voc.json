@@ -3221,6 +3221,16 @@
               "- Forms: Mitglieder (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Grüen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Greet]: "
+            ]
+          }
         }
       ]
     },
@@ -10718,6 +10728,11 @@
         "type": "add",
         "word": "Mitglied",
         "date": "2024-10-08T19:21:31.077Z"
+      },
+      {
+        "type": "add",
+        "word": "Grüen",
+        "date": "2024-10-09T02:56:50.220Z"
       }
     ],
     "levels": [
@@ -13770,6 +13785,10 @@
           {
             "length": 295,
             "date": "2024-10-08T19:21:31.078Z"
+          },
+          {
+            "length": 296,
+            "date": "2024-10-09T02:56:50.278Z"
           }
         ]
       },
