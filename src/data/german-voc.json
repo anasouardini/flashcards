@@ -3278,7 +3278,18 @@
           },
           "back": {
             "content": [
-              "- [To Give Birth]: "
+              "- [To Give Birth]: ",
+              "- Forms: Geboren (pp.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mehr (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [More/Further]: "
             ]
           }
         }
@@ -10808,6 +10819,11 @@
         "type": "add",
         "word": "Gebären",
         "date": "2024-10-09T03:12:56.650Z"
+      },
+      {
+        "type": "add",
+        "word": "Mehr",
+        "date": "2024-10-09T03:17:31.290Z"
       }
     ],
     "levels": [
@@ -13884,6 +13900,10 @@
           {
             "length": 301,
             "date": "2024-10-09T03:12:56.650Z"
+          },
+          {
+            "length": 302,
+            "date": "2024-10-09T03:17:31.291Z"
           }
         ]
       },
