@@ -3612,6 +3612,17 @@
               "- [Special offer]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wirklich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Real]: ",
+              "- Forms: Wirklich (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -11294,6 +11305,11 @@
         "type": "add",
         "word": "Sonderangebot",
         "date": "2024-10-09T19:47:29.617Z"
+      },
+      {
+        "type": "add",
+        "word": "Wirklich",
+        "date": "2024-10-09T19:49:04.258Z"
       }
     ],
     "levels": [
@@ -14494,6 +14510,10 @@
           {
             "length": 332,
             "date": "2024-10-09T19:47:29.618Z"
+          },
+          {
+            "length": 333,
+            "date": "2024-10-09T19:49:04.259Z"
           }
         ]
       },
