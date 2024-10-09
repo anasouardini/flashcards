@@ -3344,6 +3344,17 @@
               "- Forms: Länder (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ergebnis (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Result]: ",
+              "- Forms: Ergebnisse (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10901,6 +10912,11 @@
         "type": "add",
         "word": "Land",
         "date": "2024-10-09T03:31:31.049Z"
+      },
+      {
+        "type": "add",
+        "word": "Ergebnis",
+        "date": "2024-10-09T03:35:51.328Z"
       }
     ],
     "levels": [
@@ -14001,6 +14017,10 @@
           {
             "length": 307,
             "date": "2024-10-09T03:31:31.050Z"
+          },
+          {
+            "length": 308,
+            "date": "2024-10-09T03:35:51.328Z"
           }
         ]
       },
