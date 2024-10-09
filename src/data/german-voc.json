@@ -3376,6 +3376,16 @@
               "- Forms: Lektionen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Passenden (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Suitable]: "
+            ]
+          }
         }
       ]
     },
@@ -10948,6 +10958,11 @@
         "type": "add",
         "word": "Lektion",
         "date": "2024-10-09T08:22:24.311Z"
+      },
+      {
+        "type": "add",
+        "word": "Passenden",
+        "date": "2024-10-09T08:43:37.378Z"
       }
     ],
     "levels": [
@@ -14060,6 +14075,10 @@
           {
             "length": 310,
             "date": "2024-10-09T08:22:24.311Z"
+          },
+          {
+            "length": 311,
+            "date": "2024-10-09T08:43:37.378Z"
           }
         ]
       },
