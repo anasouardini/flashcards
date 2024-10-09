@@ -3241,6 +3241,16 @@
               "- [God]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Auf_Wiederschauenn (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [See you again]: "
+            ]
+          }
         }
       ]
     },
@@ -10748,6 +10758,11 @@
         "type": "add",
         "word": "Gott",
         "date": "2024-10-09T02:57:27.798Z"
+      },
+      {
+        "type": "add",
+        "word": "Auf_Wiederschauenn",
+        "date": "2024-10-09T02:59:54.362Z"
       }
     ],
     "levels": [
@@ -13808,6 +13823,10 @@
           {
             "length": 297,
             "date": "2024-10-09T02:57:27.799Z"
+          },
+          {
+            "length": 298,
+            "date": "2024-10-09T02:59:54.363Z"
           }
         ]
       },
