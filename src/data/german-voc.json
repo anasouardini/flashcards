@@ -3472,6 +3472,17 @@
               "- Forms: Prisen (v.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Etwas (pronoun)"
+          },
+          "back": {
+            "content": [
+              "- [Something]: ",
+              "- Forms: Etwas (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -11089,6 +11100,11 @@
         "type": "add",
         "word": "Prisen",
         "date": "2024-10-09T17:48:13.643Z"
+      },
+      {
+        "type": "add",
+        "word": "Etwas",
+        "date": "2024-10-09T17:57:02.440Z"
       }
     ],
     "levels": [
@@ -14237,6 +14253,10 @@
           {
             "length": 319,
             "date": "2024-10-09T17:48:13.644Z"
+          },
+          {
+            "length": 320,
+            "date": "2024-10-09T17:57:02.441Z"
           }
         ]
       },
