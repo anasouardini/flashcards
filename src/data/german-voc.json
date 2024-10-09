@@ -3623,6 +3623,16 @@
               "- Forms: Wirklich (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Couch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Couch/Sofa]: "
+            ]
+          }
         }
       ]
     },
@@ -11310,6 +11320,11 @@
         "type": "add",
         "word": "Wirklich",
         "date": "2024-10-09T19:49:04.258Z"
+      },
+      {
+        "type": "add",
+        "word": "Couch",
+        "date": "2024-10-09T19:53:57.182Z"
       }
     ],
     "levels": [
@@ -14514,6 +14529,10 @@
           {
             "length": 333,
             "date": "2024-10-09T19:49:04.259Z"
+          },
+          {
+            "length": 334,
+            "date": "2024-10-09T19:53:57.183Z"
           }
         ]
       },
