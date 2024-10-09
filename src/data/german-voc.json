@@ -3397,6 +3397,16 @@
               "- Forms: Buchstaben (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nachname (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Last name/surname]: "
+            ]
+          }
         }
       ]
     },
@@ -10979,6 +10989,11 @@
         "type": "add",
         "word": "Buchstabe",
         "date": "2024-10-09T08:44:46.478Z"
+      },
+      {
+        "type": "add",
+        "word": "Nachname",
+        "date": "2024-10-09T08:45:55.435Z"
       }
     ],
     "levels": [
@@ -14099,6 +14114,10 @@
           {
             "length": 312,
             "date": "2024-10-09T08:44:46.478Z"
+          },
+          {
+            "length": 313,
+            "date": "2024-10-09T08:45:55.436Z"
           }
         ]
       },
