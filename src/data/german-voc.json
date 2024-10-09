@@ -3333,6 +3333,17 @@
               "- [-speaking]: Deutschsprachigen : German-speaking"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Land (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Country]: ",
+              "- Forms: Länder (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10885,6 +10896,11 @@
         "type": "add",
         "word": "-sprachigen",
         "date": "2024-10-09T03:28:34.613Z"
+      },
+      {
+        "type": "add",
+        "word": "Land",
+        "date": "2024-10-09T03:31:31.049Z"
       }
     ],
     "levels": [
@@ -13981,6 +13997,10 @@
           {
             "length": 306,
             "date": "2024-10-09T03:28:34.614Z"
+          },
+          {
+            "length": 307,
+            "date": "2024-10-09T03:31:31.050Z"
           }
         ]
       },
