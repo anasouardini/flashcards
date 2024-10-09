@@ -3591,6 +3591,17 @@
               "- [To Fit/Suit/Match]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Günstig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Cheap]: ",
+              "- Forms: Günstig (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -11263,6 +11274,11 @@
         "type": "add",
         "word": "Passen",
         "date": "2024-10-09T19:20:54.532Z"
+      },
+      {
+        "type": "add",
+        "word": "Günstig",
+        "date": "2024-10-09T19:45:15.105Z"
       }
     ],
     "levels": [
@@ -14455,6 +14471,10 @@
           {
             "length": 330,
             "date": "2024-10-09T19:20:54.532Z"
+          },
+          {
+            "length": 331,
+            "date": "2024-10-09T19:45:15.106Z"
           }
         ]
       },
