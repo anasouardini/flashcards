@@ -3438,6 +3438,17 @@
               "- [Consultation]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Anbieten (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Offering]: ",
+              "- Forms: Anbieten (v.)"
+            ]
+          }
         }
       ]
     },
@@ -11040,6 +11051,11 @@
         "type": "add",
         "word": "Beratungsgespräch",
         "date": "2024-10-09T08:52:28.683Z"
+      },
+      {
+        "type": "add",
+        "word": "Anbieten",
+        "date": "2024-10-09T17:44:43.463Z"
       }
     ],
     "levels": [
@@ -14176,6 +14192,10 @@
           {
             "length": 316,
             "date": "2024-10-09T08:52:28.683Z"
+          },
+          {
+            "length": 317,
+            "date": "2024-10-09T17:44:43.532Z"
           }
         ]
       },
