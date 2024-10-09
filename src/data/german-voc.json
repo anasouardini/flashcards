@@ -3417,6 +3417,17 @@
               "- [First name]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Beratung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Consultation]: ",
+              "- Forms: Beratungen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -11009,6 +11020,11 @@
         "type": "add",
         "word": "Vorname",
         "date": "2024-10-09T08:46:48.765Z"
+      },
+      {
+        "type": "add",
+        "word": "Beratung",
+        "date": "2024-10-09T08:52:08.173Z"
       }
     ],
     "levels": [
@@ -14137,6 +14153,10 @@
           {
             "length": 314,
             "date": "2024-10-09T08:46:48.765Z"
+          },
+          {
+            "length": 315,
+            "date": "2024-10-09T08:52:08.173Z"
           }
         ]
       },
