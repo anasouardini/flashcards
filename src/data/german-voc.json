@@ -3559,6 +3559,17 @@
               "- Forms: Praktisch (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sessel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Arm chair]: ",
+              "- Forms: Sessel (plural)"
+            ]
+          }
         }
       ]
     },
@@ -11216,6 +11227,11 @@
         "type": "add",
         "word": "Praktisch",
         "date": "2024-10-09T19:12:17.977Z"
+      },
+      {
+        "type": "add",
+        "word": "Sessel",
+        "date": "2024-10-09T19:14:19.603Z"
       }
     ],
     "levels": [
@@ -14396,6 +14412,10 @@
           {
             "length": 327,
             "date": "2024-10-09T19:12:17.978Z"
+          },
+          {
+            "length": 328,
+            "date": "2024-10-09T19:14:19.603Z"
           }
         ]
       },
