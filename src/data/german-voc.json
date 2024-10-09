@@ -3602,6 +3602,16 @@
               "- Forms: Günstig (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sonderangebot (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Special offer]: "
+            ]
+          }
         }
       ]
     },
@@ -11279,6 +11289,11 @@
         "type": "add",
         "word": "Günstig",
         "date": "2024-10-09T19:45:15.105Z"
+      },
+      {
+        "type": "add",
+        "word": "Sonderangebot",
+        "date": "2024-10-09T19:47:29.617Z"
       }
     ],
     "levels": [
@@ -14475,6 +14490,10 @@
           {
             "length": 331,
             "date": "2024-10-09T19:45:15.106Z"
+          },
+          {
+            "length": 332,
+            "date": "2024-10-09T19:47:29.618Z"
           }
         ]
       },
