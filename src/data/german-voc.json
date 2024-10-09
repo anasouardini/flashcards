@@ -3292,6 +3292,17 @@
               "- [More/Further]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Moderator (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Moderator]: ",
+              "- Forms: Moderatorin (feminine), Moderatoren (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10824,6 +10835,11 @@
         "type": "add",
         "word": "Mehr",
         "date": "2024-10-09T03:17:31.290Z"
+      },
+      {
+        "type": "add",
+        "word": "Moderator",
+        "date": "2024-10-09T03:19:47.453Z"
       }
     ],
     "levels": [
@@ -13904,6 +13920,10 @@
           {
             "length": 302,
             "date": "2024-10-09T03:17:31.291Z"
+          },
+          {
+            "length": 303,
+            "date": "2024-10-09T03:19:47.453Z"
           }
         ]
       },
