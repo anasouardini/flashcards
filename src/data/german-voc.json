@@ -3231,6 +3231,16 @@
               "- [To Greet]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gott (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [God]: "
+            ]
+          }
         }
       ]
     },
@@ -10733,6 +10743,11 @@
         "type": "add",
         "word": "Grüen",
         "date": "2024-10-09T02:56:50.220Z"
+      },
+      {
+        "type": "add",
+        "word": "Gott",
+        "date": "2024-10-09T02:57:27.798Z"
       }
     ],
     "levels": [
@@ -13789,6 +13804,10 @@
           {
             "length": 296,
             "date": "2024-10-09T02:56:50.278Z"
+          },
+          {
+            "length": 297,
+            "date": "2024-10-09T02:57:27.799Z"
           }
         ]
       },
