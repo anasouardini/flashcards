@@ -3548,6 +3548,17 @@
               "- [Modern]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Praktisch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Practical]: ",
+              "- Forms: Praktisch (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -11200,6 +11211,11 @@
         "type": "add",
         "word": "Modern",
         "date": "2024-10-09T19:11:12.319Z"
+      },
+      {
+        "type": "add",
+        "word": "Praktisch",
+        "date": "2024-10-09T19:12:17.977Z"
       }
     ],
     "levels": [
@@ -14376,6 +14392,10 @@
           {
             "length": 326,
             "date": "2024-10-09T19:11:12.320Z"
+          },
+          {
+            "length": 327,
+            "date": "2024-10-09T19:12:17.978Z"
           }
         ]
       },
