@@ -3407,6 +3407,16 @@
               "- [Last name/surname]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Vorname (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [First name]: "
+            ]
+          }
         }
       ]
     },
@@ -10994,6 +11004,11 @@
         "type": "add",
         "word": "Nachname",
         "date": "2024-10-09T08:45:55.435Z"
+      },
+      {
+        "type": "add",
+        "word": "Vorname",
+        "date": "2024-10-09T08:46:48.765Z"
       }
     ],
     "levels": [
@@ -14118,6 +14133,10 @@
           {
             "length": 313,
             "date": "2024-10-09T08:45:55.436Z"
+          },
+          {
+            "length": 314,
+            "date": "2024-10-09T08:46:48.765Z"
           }
         ]
       },
