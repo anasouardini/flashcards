@@ -217,6 +217,16 @@
               "- [How many?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Prise nennen"
+          },
+          "back": {
+            "content": [
+              "- [Name price]: "
+            ]
+          }
         }
       ]
     },
@@ -377,6 +387,11 @@
         "type": "add",
         "word": "Wie",
         "date": "2024-10-08T19:06:03.716Z"
+      },
+      {
+        "type": "add",
+        "word": "Prise",
+        "date": "2024-10-09T17:49:43.061Z"
       }
     ],
     "levels": [
@@ -465,6 +480,10 @@
           {
             "length": 21,
             "date": "2024-10-08T19:06:03.717Z"
+          },
+          {
+            "length": 22,
+            "date": "2024-10-09T17:49:43.061Z"
           }
         ]
       },
