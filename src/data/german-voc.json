@@ -3581,6 +3581,16 @@
               "- Forms: Lampen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Passen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Fit/Suit/Match]: "
+            ]
+          }
         }
       ]
     },
@@ -11248,6 +11258,11 @@
         "type": "add",
         "word": "Lampe",
         "date": "2024-10-09T19:15:13.024Z"
+      },
+      {
+        "type": "add",
+        "word": "Passen",
+        "date": "2024-10-09T19:20:54.532Z"
       }
     ],
     "levels": [
@@ -14436,6 +14451,10 @@
           {
             "length": 329,
             "date": "2024-10-09T19:15:13.024Z"
+          },
+          {
+            "length": 330,
+            "date": "2024-10-09T19:20:54.532Z"
           }
         ]
       },
