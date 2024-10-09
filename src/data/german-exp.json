@@ -237,6 +237,16 @@
               "- [How much does the table cost?]: \"denn\" adds a bit of informality and politeness"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Das ist aber teuer."
+          },
+          "back": {
+            "content": [
+              "- [But that is expensive.]: "
+            ]
+          }
         }
       ]
     },
@@ -407,6 +417,11 @@
         "type": "add",
         "word": "Wie",
         "date": "2024-10-09T17:55:55.977Z"
+      },
+      {
+        "type": "add",
+        "word": "Das",
+        "date": "2024-10-09T19:19:08.603Z"
       }
     ],
     "levels": [
@@ -503,6 +518,10 @@
           {
             "length": 23,
             "date": "2024-10-09T17:55:55.978Z"
+          },
+          {
+            "length": 24,
+            "date": "2024-10-09T19:19:08.605Z"
           }
         ]
       },
