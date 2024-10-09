@@ -3665,6 +3665,17 @@
               "- Forms: Vergleiche (plural), Vergleichen (v.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Vergleichen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Compaire]: ",
+              "- Forms: Vergleich(e) (noun)"
+            ]
+          }
         }
       ]
     },
@@ -11372,6 +11383,11 @@
         "type": "add",
         "word": "Vergleich",
         "date": "2024-10-09T19:57:59.431Z"
+      },
+      {
+        "type": "add",
+        "word": "Vergleichen",
+        "date": "2024-10-09T19:58:34.286Z"
       }
     ],
     "levels": [
@@ -14592,6 +14608,10 @@
           {
             "length": 337,
             "date": "2024-10-09T19:57:59.432Z"
+          },
+          {
+            "length": 338,
+            "date": "2024-10-09T19:58:34.286Z"
           }
         ]
       },
