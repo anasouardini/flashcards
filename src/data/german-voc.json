@@ -3365,6 +3365,17 @@
               "- [To Remember]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Lektion (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Lesson]: ",
+              "- Forms: Lektionen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10932,6 +10943,11 @@
         "type": "add",
         "word": "Sich_erinnern",
         "date": "2024-10-09T08:19:50.509Z"
+      },
+      {
+        "type": "add",
+        "word": "Lektion",
+        "date": "2024-10-09T08:22:24.311Z"
       }
     ],
     "levels": [
@@ -14040,6 +14056,10 @@
           {
             "length": 309,
             "date": "2024-10-09T08:19:50.531Z"
+          },
+          {
+            "length": 310,
+            "date": "2024-10-09T08:22:24.311Z"
           }
         ]
       },
