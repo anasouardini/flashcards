@@ -3527,6 +3527,17 @@
               "- Forms: Wörter (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bett (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Bed]: ",
+              "- Forms: Betten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -11169,6 +11180,11 @@
         "type": "add",
         "word": "Wort",
         "date": "2024-10-09T19:06:02.914Z"
+      },
+      {
+        "type": "add",
+        "word": "Bett",
+        "date": "2024-10-09T19:10:41.375Z"
       }
     ],
     "levels": [
@@ -14337,6 +14353,10 @@
           {
             "length": 324,
             "date": "2024-10-09T19:06:02.914Z"
+          },
+          {
+            "length": 325,
+            "date": "2024-10-09T19:10:41.376Z"
           }
         ]
       },
