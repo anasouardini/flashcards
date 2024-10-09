@@ -3644,6 +3644,16 @@
               "- Forms: Schränke (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Teppich (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Carpet/Rug]: "
+            ]
+          }
         }
       ]
     },
@@ -11341,6 +11351,11 @@
         "type": "add",
         "word": "Schrank",
         "date": "2024-10-09T19:54:50.741Z"
+      },
+      {
+        "type": "add",
+        "word": "Teppich",
+        "date": "2024-10-09T19:55:38.428Z"
       }
     ],
     "levels": [
@@ -14553,6 +14568,10 @@
           {
             "length": 335,
             "date": "2024-10-09T19:54:50.742Z"
+          },
+          {
+            "length": 336,
+            "date": "2024-10-09T19:55:38.428Z"
           }
         ]
       },
