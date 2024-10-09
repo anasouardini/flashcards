@@ -1415,7 +1415,7 @@
           },
           "back": {
             "content": [
-              "- [To remember]: ",
+              "- [To remind]: ",
               "- Forms: "
             ]
           }
@@ -3353,6 +3353,16 @@
             "content": [
               "- [Result]: ",
               "- Forms: Ergebnisse (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sich_erinnern (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Remember]: "
             ]
           }
         }
@@ -10917,6 +10927,11 @@
         "type": "add",
         "word": "Ergebnis",
         "date": "2024-10-09T03:35:51.328Z"
+      },
+      {
+        "type": "add",
+        "word": "Sich_erinnern",
+        "date": "2024-10-09T08:19:50.509Z"
       }
     ],
     "levels": [
@@ -14021,6 +14036,10 @@
           {
             "length": 308,
             "date": "2024-10-09T03:35:51.328Z"
+          },
+          {
+            "length": 309,
+            "date": "2024-10-09T08:19:50.531Z"
           }
         ]
       },
