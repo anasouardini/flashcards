@@ -3453,12 +3453,12 @@
         },
         {
           "front": {
-            "content": "Prise (noun, singular, masculine)"
+            "content": "Preis (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Price]: ",
-              "- Forms: Prisen (plural), Prisen (v.)"
+              "- Forms: Preise (plural), Prisen (v.)"
             ]
           }
         },
@@ -3684,6 +3684,17 @@
           "back": {
             "content": [
               "- [To Note]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Puzzle (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Puzzle]: ",
+              "- Forms: Puzzles (plural)"
             ]
           }
         }
@@ -11403,6 +11414,11 @@
         "type": "add",
         "word": "Notieren",
         "date": "2024-10-09T19:59:34.092Z"
+      },
+      {
+        "type": "add",
+        "word": "Puzzle",
+        "date": "2024-10-09T20:35:22.493Z"
       }
     ],
     "levels": [
@@ -14631,6 +14647,10 @@
           {
             "length": 339,
             "date": "2024-10-09T19:59:34.093Z"
+          },
+          {
+            "length": 340,
+            "date": "2024-10-09T20:35:22.493Z"
           }
         ]
       },
