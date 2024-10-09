@@ -257,6 +257,16 @@
               "- [Do you think so?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Das finde ich auch."
+          },
+          "back": {
+            "content": [
+              "- [I agree / I think the same.]: "
+            ]
+          }
         }
       ]
     },
@@ -437,6 +447,11 @@
         "type": "add",
         "word": "Finden",
         "date": "2024-10-09T19:42:37.109Z"
+      },
+      {
+        "type": "add",
+        "word": "Das",
+        "date": "2024-10-09T20:54:13.309Z"
       }
     ],
     "levels": [
@@ -541,6 +556,10 @@
           {
             "length": 25,
             "date": "2024-10-09T19:42:37.110Z"
+          },
+          {
+            "length": 26,
+            "date": "2024-10-09T20:54:13.310Z"
           }
         ]
       },
