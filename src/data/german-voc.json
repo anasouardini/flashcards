@@ -3428,6 +3428,16 @@
               "- Forms: Beratungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Beratungsgespräch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Consultation]: "
+            ]
+          }
         }
       ]
     },
@@ -11025,6 +11035,11 @@
         "type": "add",
         "word": "Beratung",
         "date": "2024-10-09T08:52:08.173Z"
+      },
+      {
+        "type": "add",
+        "word": "Beratungsgespräch",
+        "date": "2024-10-09T08:52:28.683Z"
       }
     ],
     "levels": [
@@ -14157,6 +14172,10 @@
           {
             "length": 315,
             "date": "2024-10-09T08:52:08.173Z"
+          },
+          {
+            "length": 316,
+            "date": "2024-10-09T08:52:28.683Z"
           }
         ]
       },
