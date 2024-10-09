@@ -3676,6 +3676,16 @@
               "- Forms: Vergleich(e) (noun)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Notieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Note]: "
+            ]
+          }
         }
       ]
     },
@@ -11388,6 +11398,11 @@
         "type": "add",
         "word": "Vergleichen",
         "date": "2024-10-09T19:58:34.286Z"
+      },
+      {
+        "type": "add",
+        "word": "Notieren",
+        "date": "2024-10-09T19:59:34.092Z"
       }
     ],
     "levels": [
@@ -14612,6 +14627,10 @@
           {
             "length": 338,
             "date": "2024-10-09T19:58:34.286Z"
+          },
+          {
+            "length": 339,
+            "date": "2024-10-09T19:59:34.093Z"
           }
         ]
       },
