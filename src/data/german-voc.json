@@ -3386,6 +3386,17 @@
               "- [Suitable]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Buchstabe (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Letter]: ",
+              "- Forms: Buchstaben (plural)"
+            ]
+          }
         }
       ]
     },
@@ -10963,6 +10974,11 @@
         "type": "add",
         "word": "Passenden",
         "date": "2024-10-09T08:43:37.378Z"
+      },
+      {
+        "type": "add",
+        "word": "Buchstabe",
+        "date": "2024-10-09T08:44:46.478Z"
       }
     ],
     "levels": [
@@ -14079,6 +14095,10 @@
           {
             "length": 311,
             "date": "2024-10-09T08:43:37.378Z"
+          },
+          {
+            "length": 312,
+            "date": "2024-10-09T08:44:46.478Z"
           }
         ]
       },
