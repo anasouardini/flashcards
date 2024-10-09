@@ -227,6 +227,16 @@
               "- [Name price]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wie viel kostet denn der Tisch?"
+          },
+          "back": {
+            "content": [
+              "- [How much does the table cost?]: \"denn\" adds a bit of informality and politeness"
+            ]
+          }
         }
       ]
     },
@@ -392,6 +402,11 @@
         "type": "add",
         "word": "Prise",
         "date": "2024-10-09T17:49:43.061Z"
+      },
+      {
+        "type": "add",
+        "word": "Wie",
+        "date": "2024-10-09T17:55:55.977Z"
       }
     ],
     "levels": [
@@ -484,6 +499,10 @@
           {
             "length": 22,
             "date": "2024-10-09T17:49:43.061Z"
+          },
+          {
+            "length": 23,
+            "date": "2024-10-09T17:55:55.978Z"
           }
         ]
       },
