@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 267,
+      "currentCardIndex": 270,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2920,7 +2920,7 @@
         },
         {
           "front": {
-            "content": "Grüen (v.)"
+            "content": "Grüßen (v.)"
           },
           "back": {
             "content": [
