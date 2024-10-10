@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 270,
+      "currentCardIndex": 276,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2991,17 +2991,6 @@
         },
         {
           "front": {
-            "content": "Moderator (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Moderator]: ",
-              "- Forms: Moderatorin (feminine), Moderatoren (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sänger (noun, singular, masculine)"
           },
           "back": {
@@ -5079,6 +5068,17 @@
           "back": {
             "content": [
               "- [Father]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Moderator (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Moderator]: ",
+              "- Forms: Moderatorin (feminine), Moderatoren (plural)"
             ]
           }
         }
@@ -11695,6 +11695,13 @@
         "type": "add",
         "word": "Baum",
         "date": "2024-10-10T21:38:02.537Z"
+      },
+      {
+        "type": "move",
+        "word": "Moderator",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T21:44:38.237Z"
       }
     ],
     "levels": [
@@ -15059,6 +15066,10 @@
           {
             "length": 318,
             "date": "2024-10-10T21:38:02.537Z"
+          },
+          {
+            "length": 317,
+            "date": "2024-10-10T21:44:38.237Z"
           }
         ]
       },
@@ -16547,6 +16558,10 @@
           {
             "length": 147,
             "date": "2024-10-10T20:56:59.267Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-10-10T21:44:38.237Z"
           }
         ]
       },
