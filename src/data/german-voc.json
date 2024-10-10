@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 229,
-      "currentCardSide": "front",
+      "currentCardIndex": 231,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -2522,38 +2522,6 @@
         },
         {
           "front": {
-            "content": "Single (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Single]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Interview (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Interview]: ",
-              "- Forms: Interviews (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Person (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Person]: ",
-              "- Forms: Personen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gemeinsam (adj.)"
           },
           "back": {
@@ -5058,6 +5026,38 @@
             "content": [
               "- [Job]: ",
               "- Forms: Jobs (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Single (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Single]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Interview (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Interview]: ",
+              "- Forms: Interviews (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Person (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Person]: ",
+              "- Forms: Personen (plural)"
             ]
           }
         }
@@ -11622,6 +11622,27 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-10T07:03:40.239Z"
+      },
+      {
+        "type": "move",
+        "word": "Single",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T07:10:09.735Z"
+      },
+      {
+        "type": "move",
+        "word": "Interview",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T07:10:45.751Z"
+      },
+      {
+        "type": "move",
+        "word": "Person",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T07:11:05.191Z"
       }
     ],
     "levels": [
@@ -14954,6 +14975,18 @@
           {
             "length": 322,
             "date": "2024-10-10T07:03:40.239Z"
+          },
+          {
+            "length": 321,
+            "date": "2024-10-10T07:10:09.737Z"
+          },
+          {
+            "length": 320,
+            "date": "2024-10-10T07:10:45.751Z"
+          },
+          {
+            "length": 319,
+            "date": "2024-10-10T07:11:05.191Z"
           }
         ]
       },
@@ -16418,6 +16451,18 @@
           {
             "length": 141,
             "date": "2024-10-10T07:03:40.239Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-10-10T07:10:09.737Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-10T07:10:45.751Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-10-10T07:11:05.191Z"
           }
         ]
       },
