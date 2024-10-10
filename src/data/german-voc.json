@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 200,
+      "currentCardIndex": 222,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2207,7 +2207,7 @@
         },
         {
           "front": {
-            "content": "Befindin (noun, singular, neuter)"
+            "content": "Befinden (noun, singular, neuter)"
           },
           "back": {
             "content": [
@@ -2337,16 +2337,6 @@
             "content": [
               "- [Profession]: ",
               "- Forms: Berufe (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Internet (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Internet]: "
             ]
           }
         },
@@ -5048,6 +5038,16 @@
             "content": [
               "- [Often]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Internet (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Internet]: "
             ]
           }
         }
@@ -10858,6 +10858,11 @@
       },
       {
         "type": "add",
+        "word": "Sich verabschieden",
+        "date": "2024-10-08T02:59:39.419Z"
+      },
+      {
+        "type": "add",
         "word": "Ende",
         "date": "2024-10-08T03:00:37.189Z"
       },
@@ -11562,6 +11567,13 @@
         "type": "add",
         "word": "Sorte",
         "date": "2024-10-10T04:30:59.537Z"
+      },
+      {
+        "type": "move",
+        "word": "Internet",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T05:25:53.700Z"
       }
     ],
     "levels": [
@@ -14870,6 +14882,10 @@
           {
             "length": 327,
             "date": "2024-10-10T04:30:59.538Z"
+          },
+          {
+            "length": 325,
+            "date": "2024-10-10T05:25:53.700Z"
           }
         ]
       },
@@ -16314,6 +16330,10 @@
           {
             "length": 136,
             "date": "2024-10-10T03:24:01.617Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-10-10T05:25:53.700Z"
           }
         ]
       },
