@@ -1,9 +1,9 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
       "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -3365,7 +3365,7 @@
       ]
     },
     {
-      "currentCardIndex": 125,
+      "currentCardIndex": 14,
       "currentCardSide": "back",
       "cards": [
         {
@@ -3393,44 +3393,11 @@
         },
         {
           "front": {
-            "content": "Billig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Cheap]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Weiß (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [White]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bruder (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Brother]: ",
-              "- Forms: Brüder (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Im (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [In/At]: ",
               "- Forms: "
             ]
           }
@@ -3470,77 +3437,11 @@
         },
         {
           "front": {
-            "content": "Sprechen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To talk/speak]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schreiben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To write]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Thema (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Topic]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Durst (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Thirst]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schlüssel (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Key]: ",
-              "- Forms: Schlüssel (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kaufen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To buy]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Trinken (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To drink]: ",
               "- Forms: "
             ]
           }
@@ -3558,189 +3459,12 @@
         },
         {
           "front": {
-            "content": "Konzentrieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To concentrate]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gestresst (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Stressed]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Voll (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Full]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lang (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Long]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Heute (noun, singular, neutre)"
-          },
-          "back": {
-            "content": [
-              "- [Today]: ",
-              "- Other Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Abend (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Evening]: ",
               "- Other Forms: Abende (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fragen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To ask]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zu_der_Zeit (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [By the time]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Beschreiben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To describe]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Danken (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To thank]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hart (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Hard]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hübsch (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Pretty]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Dick (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Fat]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Offen (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Open]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nett (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Nice]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Leicht (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Light]: ",
-              "- [Easy]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Spät (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Late]: ",
-              "- Forms: "
             ]
           }
         },
@@ -3768,17 +3492,6 @@
         },
         {
           "front": {
-            "content": "Schlaf (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Sleep]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Bis (preposition)"
           },
           "back": {
@@ -3795,17 +3508,6 @@
           "back": {
             "content": [
               "- [From Where]: Woher kommen Sie? : Where are you(formal) from?",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wo (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Where]: ",
               "- Forms: "
             ]
           }
@@ -5085,7 +4787,7 @@
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 115,
       "currentCardSide": "front",
       "cards": [
         {
@@ -6207,6 +5909,304 @@
           "back": {
             "content": [
               "- [To win/gain/obtain]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Billig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Cheap]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bruder (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Brother]: ",
+              "- Forms: Brüder (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Im (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [In/At]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sprechen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To talk/speak]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schreiben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To write]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Thema (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Topic]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schlüssel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Key]: ",
+              "- Forms: Schlüssel (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kaufen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To buy]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Trinken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To drink]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Konzentrieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To concentrate]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gestresst (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Stressed]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Voll (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Full]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lang (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Long]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Heute (noun, singular, neutre)"
+          },
+          "back": {
+            "content": [
+              "- [Today]: ",
+              "- Other Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fragen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To ask]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zu_der_Zeit (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [By the time]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beschreiben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To describe]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Danken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To thank]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hart (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Hard]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hübsch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Pretty]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dick (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Fat]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Offen (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Open]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nett (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Nice]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Leicht (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Light]: ",
+              "- [Easy]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Spät (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Late]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schlaf (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sleep]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Where]: ",
               "- Forms: "
             ]
           }
@@ -11758,6 +11758,195 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-10T22:31:20.625Z"
+      },
+      {
+        "type": "move",
+        "word": "Billig",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:34:25.936Z"
+      },
+      {
+        "type": "move",
+        "word": "Bruder",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:35:23.968Z"
+      },
+      {
+        "type": "move",
+        "word": "Im",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:35:27.344Z"
+      },
+      {
+        "type": "move",
+        "word": "Sprechen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:36:49.336Z"
+      },
+      {
+        "type": "move",
+        "word": "Schreiben",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:36:52.376Z"
+      },
+      {
+        "type": "move",
+        "word": "Thema",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:36:54.687Z"
+      },
+      {
+        "type": "move",
+        "word": "Schlüssel",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:37:11.143Z"
+      },
+      {
+        "type": "move",
+        "word": "Kaufen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:37:14.431Z"
+      },
+      {
+        "type": "move",
+        "word": "Trinken",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:37:16.911Z"
+      },
+      {
+        "type": "move",
+        "word": "Konzentrieren",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:37:34.519Z"
+      },
+      {
+        "type": "move",
+        "word": "Gestresst",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:37:38.799Z"
+      },
+      {
+        "type": "move",
+        "word": "Voll",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:37:42.607Z"
+      },
+      {
+        "type": "move",
+        "word": "Lang",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:37:44.799Z"
+      },
+      {
+        "type": "move",
+        "word": "Heute",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:37:47.559Z"
+      },
+      {
+        "type": "move",
+        "word": "Fragen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:38:27.447Z"
+      },
+      {
+        "type": "move",
+        "word": "Zu_der_Zeit",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:38:33.631Z"
+      },
+      {
+        "type": "move",
+        "word": "Beschreiben",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:38:43.951Z"
+      },
+      {
+        "type": "move",
+        "word": "Danken",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:38:46.407Z"
+      },
+      {
+        "type": "move",
+        "word": "Hart",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:38:49.711Z"
+      },
+      {
+        "type": "move",
+        "word": "Hübsch",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:39:06.703Z"
+      },
+      {
+        "type": "move",
+        "word": "Dick",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:39:09.132Z"
+      },
+      {
+        "type": "move",
+        "word": "Offen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:39:13.062Z"
+      },
+      {
+        "type": "move",
+        "word": "Nett",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:39:22.054Z"
+      },
+      {
+        "type": "move",
+        "word": "Leicht",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:39:28.431Z"
+      },
+      {
+        "type": "move",
+        "word": "Spät",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:39:32.095Z"
+      },
+      {
+        "type": "move",
+        "word": "Schlaf",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:39:52.303Z"
+      },
+      {
+        "type": "move",
+        "word": "Wo",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-10T22:40:52.671Z"
       }
     ],
     "levels": [
@@ -16682,6 +16871,114 @@
           {
             "length": 156,
             "date": "2024-10-10T22:31:20.625Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-10-10T22:34:25.936Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-10-10T22:35:23.968Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-10-10T22:35:27.344Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-10-10T22:36:49.336Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-10-10T22:36:52.376Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-10-10T22:36:54.687Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-10-10T22:37:11.143Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-10-10T22:37:14.431Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-10-10T22:37:16.911Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-10-10T22:37:34.519Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-10-10T22:37:38.799Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-10-10T22:37:42.607Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-10T22:37:44.799Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-10-10T22:37:47.559Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-10-10T22:38:27.447Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-10-10T22:38:33.631Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-10-10T22:38:43.951Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-10-10T22:38:46.407Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-10-10T22:38:49.711Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-10-10T22:39:06.703Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-10-10T22:39:09.132Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-10-10T22:39:13.062Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-10-10T22:39:22.054Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-10-10T22:39:28.431Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-10-10T22:39:32.095Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-10-10T22:39:52.303Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-10-10T22:40:52.671Z"
           }
         ]
       },
@@ -17110,6 +17407,114 @@
           {
             "length": 102,
             "date": "2024-10-07T02:54:10.783Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-10-10T22:34:25.936Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-10-10T22:35:23.968Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-10-10T22:35:27.344Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-10-10T22:36:49.336Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-10-10T22:36:52.376Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-10-10T22:36:54.687Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-10-10T22:37:11.143Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-10-10T22:37:14.431Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-10-10T22:37:16.911Z"
+          },
+          {
+            "length": 112,
+            "date": "2024-10-10T22:37:34.519Z"
+          },
+          {
+            "length": 113,
+            "date": "2024-10-10T22:37:38.799Z"
+          },
+          {
+            "length": 114,
+            "date": "2024-10-10T22:37:42.607Z"
+          },
+          {
+            "length": 115,
+            "date": "2024-10-10T22:37:44.799Z"
+          },
+          {
+            "length": 116,
+            "date": "2024-10-10T22:37:47.559Z"
+          },
+          {
+            "length": 117,
+            "date": "2024-10-10T22:38:27.447Z"
+          },
+          {
+            "length": 118,
+            "date": "2024-10-10T22:38:33.631Z"
+          },
+          {
+            "length": 119,
+            "date": "2024-10-10T22:38:43.951Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-10-10T22:38:46.407Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-10-10T22:38:49.711Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-10-10T22:39:06.703Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-10-10T22:39:09.132Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-10-10T22:39:13.062Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-10-10T22:39:22.054Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-10-10T22:39:28.431Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-10-10T22:39:32.095Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-10-10T22:39:52.303Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-10-10T22:40:52.671Z"
           }
         ]
       },
