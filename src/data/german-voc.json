@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 276,
+      "currentCardIndex": 287,
       "currentCardSide": "back",
       "cards": [
         {
@@ -3011,11 +3011,12 @@
         },
         {
           "front": {
-            "content": "-sprachigen (adj.)"
+            "content": "-sprachig (adj.)"
           },
           "back": {
             "content": [
-              "- [-speaking]: Deutschsprachigen : German-speaking"
+              "- [-speaking]: Deutschsprachig : German-speaking",
+              "- Forms: -sprachigen (plural)"
             ]
           }
         },
@@ -3038,27 +3039,6 @@
             "content": [
               "- [Result]: ",
               "- Forms: Ergebnisse (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sich_erinnern (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Remember]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lektion (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Lesson]: ",
-              "- Forms: Lektionen (plural)"
             ]
           }
         },
@@ -5079,6 +5059,27 @@
             "content": [
               "- [Moderator]: ",
               "- Forms: Moderatorin (feminine), Moderatoren (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sich_erinnern (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Remember]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lektion (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Lesson]: ",
+              "- Forms: Lektionen (plural)"
             ]
           }
         }
@@ -11702,6 +11703,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-10T21:44:38.237Z"
+      },
+      {
+        "type": "move",
+        "word": "Sich_erinnern",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T21:55:13.970Z"
+      },
+      {
+        "type": "move",
+        "word": "Lektion",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T21:55:29.217Z"
       }
     ],
     "levels": [
@@ -15070,6 +15085,14 @@
           {
             "length": 317,
             "date": "2024-10-10T21:44:38.237Z"
+          },
+          {
+            "length": 316,
+            "date": "2024-10-10T21:55:13.970Z"
+          },
+          {
+            "length": 315,
+            "date": "2024-10-10T21:55:29.217Z"
           }
         ]
       },
@@ -16562,6 +16585,14 @@
           {
             "length": 148,
             "date": "2024-10-10T21:44:38.237Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-10-10T21:55:13.970Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-10-10T21:55:29.217Z"
           }
         ]
       },
