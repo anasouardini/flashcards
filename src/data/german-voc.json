@@ -2000,7 +2000,7 @@
           },
           "back": {
             "content": [
-              "- [Basic]: ",
+              "- [Basis/Base]: ",
               "- Forms: Gundlangen (plural)"
             ]
           }
@@ -3538,6 +3538,16 @@
           "back": {
             "content": [
               "- [Mother tongue]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sorte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Sort/Type/Kind]: "
             ]
           }
         }
@@ -11561,6 +11571,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-10T03:24:01.617Z"
+      },
+      {
+        "type": "add",
+        "word": "Sorte",
+        "date": "2024-10-10T04:30:59.537Z"
       }
     ],
     "levels": [
@@ -14865,6 +14880,10 @@
           {
             "length": 326,
             "date": "2024-10-10T03:24:01.617Z"
+          },
+          {
+            "length": 327,
+            "date": "2024-10-10T04:30:59.538Z"
           }
         ]
       },
