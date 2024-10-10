@@ -3444,6 +3444,17 @@
               "- [Ops!]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Baum (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Tree]: ",
+              "- Forms: Bäume (plural)"
+            ]
+          }
         }
       ]
     },
@@ -11679,6 +11690,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-10T20:56:59.267Z"
+      },
+      {
+        "type": "add",
+        "word": "Baum",
+        "date": "2024-10-10T21:38:02.537Z"
       }
     ],
     "levels": [
@@ -15039,6 +15055,10 @@
           {
             "length": 317,
             "date": "2024-10-10T20:56:59.267Z"
+          },
+          {
+            "length": 318,
+            "date": "2024-10-10T21:38:02.537Z"
           }
         ]
       },
