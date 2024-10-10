@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 105,
-      "currentCardSide": "back",
+      "currentCardIndex": 142,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -1202,17 +1202,6 @@
         },
         {
           "front": {
-            "content": "Vergessen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To forget]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sitzen (v.)"
           },
           "back": {
@@ -1224,33 +1213,11 @@
         },
         {
           "front": {
-            "content": "Ändern (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Change]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Besuchen (v.)"
           },
           "back": {
             "content": [
               "- [To visit/attend]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nutzen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To use]: ",
               "- Forms: "
             ]
           }
@@ -1367,17 +1334,6 @@
         },
         {
           "front": {
-            "content": "Lieben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To love]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Erkennen (v.)"
           },
           "back": {
@@ -1394,17 +1350,6 @@
           "back": {
             "content": [
               "- [Far]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kurz (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Short]: ",
               "- Forms: "
             ]
           }
@@ -1581,18 +1526,6 @@
           "back": {
             "content": [
               "- [Successful]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Glücklich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Happy]: ",
-              "- [Lucky]: ",
               "- Forms: "
             ]
           }
@@ -5046,6 +4979,73 @@
           "back": {
             "content": [
               "- [Ever]: Wann immer : When ever",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Vergessen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To forget]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ändern (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Change]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nutzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To use]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lieben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To love]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kurz (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Short]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Glücklich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Happy]: ",
+              "- [Lucky]: ",
               "- Forms: "
             ]
           }
@@ -11491,6 +11491,48 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-09T22:53:11.597Z"
+      },
+      {
+        "type": "move",
+        "word": "Vergessen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T02:17:06.258Z"
+      },
+      {
+        "type": "move",
+        "word": "Ändern",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T02:17:17.417Z"
+      },
+      {
+        "type": "move",
+        "word": "Nutzen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T02:17:40.056Z"
+      },
+      {
+        "type": "move",
+        "word": "Lieben",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T02:23:22.510Z"
+      },
+      {
+        "type": "move",
+        "word": "Kurz",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T02:24:04.213Z"
+      },
+      {
+        "type": "move",
+        "word": "Glücklich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T02:36:25.841Z"
       }
     ],
     "levels": [
@@ -14755,6 +14797,30 @@
           {
             "length": 336,
             "date": "2024-10-09T22:53:11.597Z"
+          },
+          {
+            "length": 335,
+            "date": "2024-10-10T02:17:06.275Z"
+          },
+          {
+            "length": 334,
+            "date": "2024-10-10T02:17:17.417Z"
+          },
+          {
+            "length": 333,
+            "date": "2024-10-10T02:17:40.056Z"
+          },
+          {
+            "length": 332,
+            "date": "2024-10-10T02:23:22.510Z"
+          },
+          {
+            "length": 331,
+            "date": "2024-10-10T02:24:04.213Z"
+          },
+          {
+            "length": 330,
+            "date": "2024-10-10T02:36:25.912Z"
           }
         ]
       },
@@ -16159,6 +16225,30 @@
           {
             "length": 126,
             "date": "2024-10-09T22:53:11.597Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-10-10T02:17:06.275Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-10-10T02:17:17.417Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-10-10T02:17:40.056Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-10-10T02:23:22.510Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-10-10T02:24:04.213Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-10-10T02:36:25.912Z"
           }
         ]
       },
