@@ -3531,6 +3531,17 @@
               "- [Sort/Type/Kind]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Spieler (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Player]: ",
+              "- Forms: Spieler (plural)"
+            ]
+          }
         }
       ]
     },
@@ -11574,6 +11585,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-10T05:25:53.700Z"
+      },
+      {
+        "type": "add",
+        "word": "Spieler",
+        "date": "2024-10-10T06:47:29.073Z"
       }
     ],
     "levels": [
@@ -14886,6 +14902,10 @@
           {
             "length": 325,
             "date": "2024-10-10T05:25:53.700Z"
+          },
+          {
+            "length": 326,
+            "date": "2024-10-10T06:47:29.073Z"
           }
         ]
       },
