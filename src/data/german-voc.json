@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 247,
+      "currentCardIndex": 267,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2705,11 +2705,11 @@
         },
         {
           "front": {
-            "content": "Ah! (interjection)"
+            "content": "Oh! (interjection)"
           },
           "back": {
             "content": [
-              "- [Oh!]: "
+              "- [Ah!]: "
             ]
           }
         },
@@ -2732,16 +2732,6 @@
           "back": {
             "content": [
               "- [Grandma]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Vater (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Father]: "
             ]
           }
         },
@@ -5068,6 +5058,16 @@
             "content": [
               "- [Giver/Donor]: ",
               "- Forms: Geber (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Vater (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Father]: "
             ]
           }
         }
@@ -11672,6 +11672,13 @@
         "type": "add",
         "word": "Hoppla!",
         "date": "2024-10-10T20:53:53.421Z"
+      },
+      {
+        "type": "move",
+        "word": "Vater",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T20:56:59.267Z"
       }
     ],
     "levels": [
@@ -15028,6 +15035,10 @@
           {
             "length": 318,
             "date": "2024-10-10T20:53:53.421Z"
+          },
+          {
+            "length": 317,
+            "date": "2024-10-10T20:56:59.267Z"
           }
         ]
       },
@@ -16512,6 +16523,10 @@
           {
             "length": 146,
             "date": "2024-10-10T20:30:43.494Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-10-10T20:56:59.267Z"
           }
         ]
       },
