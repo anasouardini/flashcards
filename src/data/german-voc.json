@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 188,
+      "currentCardIndex": 200,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1786,17 +1786,6 @@
         },
         {
           "front": {
-            "content": "Sehr (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Very]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Tanzen (adv.)"
           },
           "back": {
@@ -2086,7 +2075,8 @@
           },
           "back": {
             "content": [
-              "- [Discussion/Chat/conversation]: "
+              "- [Discussion/Chat/conversation]: ",
+              "- Forms: Gespräche (plural)"
             ]
           }
         },
@@ -2137,7 +2127,8 @@
           },
           "back": {
             "content": [
-              "- [Personal]: "
+              "- [Personal]: ",
+              "- Forms: Persönlich (adv.)"
             ]
           }
         },
@@ -10829,11 +10820,6 @@
         "type": "add",
         "word": "Einmal",
         "date": "2024-10-08T02:30:02.996Z"
-      },
-      {
-        "type": "add",
-        "word": "Sehr",
-        "date": "2024-10-08T02:33:32.617Z"
       },
       {
         "type": "add",
