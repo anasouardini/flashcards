@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 287,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -3123,18 +3123,17 @@
           "back": {
             "content": [
               "- [Price]: ",
-              "- Forms: Preise (plural), Prisen (v.)"
+              "- Forms: Preise (plural)"
             ]
           }
         },
         {
           "front": {
-            "content": "Prisen (v.)"
+            "content": "Preisen (v.)"
           },
           "back": {
             "content": [
-              "- [To Praise/Celebrate]: ",
-              "- Forms: Prisen (v.)"
+              "- [To Praise/Celebrate]: "
             ]
           }
         },
@@ -3174,16 +3173,6 @@
         },
         {
           "front": {
-            "content": "Foto (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Photo]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wort (noun, singular, neuter)"
           },
           "back": {
@@ -3206,44 +3195,12 @@
         },
         {
           "front": {
-            "content": "Modern (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Modern]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Praktisch (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Practical]: ",
-              "- Forms: Praktisch (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sessel (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Arm chair]: ",
               "- Forms: Sessel (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lampe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Lamp/Light]: ",
-              "- Forms: Lampen (plural)"
             ]
           }
         },
@@ -3286,16 +3243,6 @@
             "content": [
               "- [Real]: ",
               "- Forms: Wirklich (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Couch (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Couch/Sofa]: "
             ]
           }
         },
@@ -3380,16 +3327,6 @@
           "back": {
             "content": [
               "- [Mother tongue]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sorte (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Sort/Type/Kind]: "
             ]
           }
         },
@@ -5080,6 +5017,68 @@
             "content": [
               "- [Lesson]: ",
               "- Forms: Lektionen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Foto (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Photo]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Modern (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Modern]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Praktisch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Practical]: ",
+              "- Forms: Praktisch (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lampe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Lamp/Light]: ",
+              "- Forms: Lampen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Couch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Couch/Sofa]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sorte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Sort/Type/Kind]: "
             ]
           }
         }
@@ -11717,6 +11716,48 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-10T21:55:29.217Z"
+      },
+      {
+        "type": "move",
+        "word": "Foto",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T22:14:24.926Z"
+      },
+      {
+        "type": "move",
+        "word": "Modern",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T22:17:06.716Z"
+      },
+      {
+        "type": "move",
+        "word": "Praktisch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T22:17:22.812Z"
+      },
+      {
+        "type": "move",
+        "word": "Lampe",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T22:18:48.740Z"
+      },
+      {
+        "type": "move",
+        "word": "Couch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T22:23:49.473Z"
+      },
+      {
+        "type": "move",
+        "word": "Sorte",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T22:31:20.625Z"
       }
     ],
     "levels": [
@@ -15093,6 +15134,30 @@
           {
             "length": 315,
             "date": "2024-10-10T21:55:29.217Z"
+          },
+          {
+            "length": 314,
+            "date": "2024-10-10T22:14:24.926Z"
+          },
+          {
+            "length": 313,
+            "date": "2024-10-10T22:17:06.716Z"
+          },
+          {
+            "length": 312,
+            "date": "2024-10-10T22:17:22.812Z"
+          },
+          {
+            "length": 311,
+            "date": "2024-10-10T22:18:48.740Z"
+          },
+          {
+            "length": 310,
+            "date": "2024-10-10T22:23:49.473Z"
+          },
+          {
+            "length": 309,
+            "date": "2024-10-10T22:31:20.625Z"
           }
         ]
       },
@@ -16593,6 +16658,30 @@
           {
             "length": 150,
             "date": "2024-10-10T21:55:29.217Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-10-10T22:14:24.926Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-10-10T22:17:06.716Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-10-10T22:17:22.812Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-10-10T22:18:48.740Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-10-10T22:23:49.473Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-10-10T22:31:20.625Z"
           }
         ]
       },
