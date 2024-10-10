@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 234,
+      "currentCardIndex": 247,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2579,28 +2579,6 @@
         },
         {
           "front": {
-            "content": "Arbitgeber (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Employer]: ",
-              "- Forms: Arbitgeber (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Geber (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Giver/Donor]: ",
-              "- Forms: Geber (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Vor (prep.)"
           },
           "back": {
@@ -5058,6 +5036,28 @@
             "content": [
               "- [Person]: ",
               "- Forms: Personen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Arbitgeber (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Employer]: ",
+              "- Forms: Arbitgeber (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Geber (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Giver/Donor]: ",
+              "- Forms: Geber (plural)"
             ]
           }
         }
@@ -11643,6 +11643,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-10T07:11:05.191Z"
+      },
+      {
+        "type": "move",
+        "word": "Arbitgeber",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T20:30:36.248Z"
+      },
+      {
+        "type": "move",
+        "word": "Geber",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T20:30:43.494Z"
       }
     ],
     "levels": [
@@ -14987,6 +15001,14 @@
           {
             "length": 319,
             "date": "2024-10-10T07:11:05.191Z"
+          },
+          {
+            "length": 318,
+            "date": "2024-10-10T20:30:36.316Z"
+          },
+          {
+            "length": 317,
+            "date": "2024-10-10T20:30:43.494Z"
           }
         ]
       },
@@ -16463,6 +16485,14 @@
           {
             "length": 144,
             "date": "2024-10-10T07:11:05.191Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-10-10T20:30:36.316Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-10-10T20:30:43.494Z"
           }
         ]
       },
