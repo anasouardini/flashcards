@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 222,
-      "currentCardSide": "back",
+      "currentCardIndex": 229,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2449,39 +2449,6 @@
         },
         {
           "front": {
-            "content": "Ingenieur (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Actor]: ",
-              "- Forms: Schauspieler (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Student (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Student]: ",
-              "- Forms: Studenten (plural), Studentin (feminine)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Journalist (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Journalist]: ",
-              "- Forms: Journalistin (feminine), Journalist-en/-innen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Friseur (noun, singular, masculine)"
           },
           "back": {
@@ -2530,17 +2497,6 @@
           "back": {
             "content": [
               "- [Professional/Professionally]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Job (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Job]: ",
-              "- Forms: Jobs (plural)"
             ]
           }
         },
@@ -5059,6 +5015,49 @@
           "back": {
             "content": [
               "- [Internet]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ingenieur (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Engineer]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Student (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Student]: ",
+              "- Forms: Studenten (plural), Studentin (feminine)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Journalist (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Journalist]: ",
+              "- Forms: Journalistin (feminine), Journalist-en/-innen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Job (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Job]: ",
+              "- Forms: Jobs (plural)"
             ]
           }
         }
@@ -11491,6 +11490,11 @@
         "date": "2024-10-09T22:42:42.380Z"
       },
       {
+        "type": "add",
+        "word": "Zu zweit",
+        "date": "2024-10-09T22:42:42.380Z"
+      },
+      {
         "type": "move",
         "word": "Passieren",
         "fromLevel": 0,
@@ -11590,6 +11594,34 @@
         "type": "add",
         "word": "Spieler",
         "date": "2024-10-10T06:47:29.073Z"
+      },
+      {
+        "type": "move",
+        "word": "Ingenieur",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T07:03:20.785Z"
+      },
+      {
+        "type": "move",
+        "word": "Student",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T07:03:22.169Z"
+      },
+      {
+        "type": "move",
+        "word": "Journalist",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T07:03:23.264Z"
+      },
+      {
+        "type": "move",
+        "word": "Job",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T07:03:40.239Z"
       }
     ],
     "levels": [
@@ -14906,6 +14938,22 @@
           {
             "length": 326,
             "date": "2024-10-10T06:47:29.073Z"
+          },
+          {
+            "length": 325,
+            "date": "2024-10-10T07:03:20.787Z"
+          },
+          {
+            "length": 324,
+            "date": "2024-10-10T07:03:22.169Z"
+          },
+          {
+            "length": 323,
+            "date": "2024-10-10T07:03:23.264Z"
+          },
+          {
+            "length": 322,
+            "date": "2024-10-10T07:03:40.239Z"
           }
         ]
       },
@@ -16354,6 +16402,22 @@
           {
             "length": 137,
             "date": "2024-10-10T05:25:53.700Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-10-10T07:03:20.787Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-10-10T07:03:22.169Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-10-10T07:03:23.264Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-10-10T07:03:40.239Z"
           }
         ]
       },
