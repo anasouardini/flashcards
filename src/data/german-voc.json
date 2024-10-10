@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 142,
-      "currentCardSide": "front",
+      "currentCardIndex": 180,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -1665,33 +1665,11 @@
         },
         {
           "front": {
-            "content": "Richtig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Right/Correct]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gleich (adj.)"
           },
           "back": {
             "content": [
               "- [Equal/Same]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schlimm (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Bad]: ",
               "- Forms: "
             ]
           }
@@ -1758,17 +1736,6 @@
           "back": {
             "content": [
               "- [Possible]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Halb (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Half]: ",
               "- Forms: "
             ]
           }
@@ -1846,17 +1813,6 @@
           "back": {
             "content": [
               "- [Door]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Oft (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Often]: ",
               "- Forms: "
             ]
           }
@@ -2099,7 +2055,7 @@
           },
           "back": {
             "content": [
-              "- [Towards/Accross]: ",
+              "- [Towards/Across]: ",
               "- Forms: "
             ]
           }
@@ -5046,6 +5002,50 @@
             "content": [
               "- [Happy]: ",
               "- [Lucky]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Richtig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Right/Correct]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schlimm (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Bad]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Halb (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Half]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Oft (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Often]: ",
               "- Forms: "
             ]
           }
@@ -11533,6 +11533,34 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-10T02:36:25.841Z"
+      },
+      {
+        "type": "move",
+        "word": "Richtig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T03:07:53.686Z"
+      },
+      {
+        "type": "move",
+        "word": "Schlimm",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T03:08:42.317Z"
+      },
+      {
+        "type": "move",
+        "word": "Halb",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T03:19:19.465Z"
+      },
+      {
+        "type": "move",
+        "word": "Oft",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-10T03:24:01.617Z"
       }
     ],
     "levels": [
@@ -14821,6 +14849,22 @@
           {
             "length": 330,
             "date": "2024-10-10T02:36:25.912Z"
+          },
+          {
+            "length": 329,
+            "date": "2024-10-10T03:07:53.687Z"
+          },
+          {
+            "length": 328,
+            "date": "2024-10-10T03:08:42.317Z"
+          },
+          {
+            "length": 327,
+            "date": "2024-10-10T03:19:19.465Z"
+          },
+          {
+            "length": 326,
+            "date": "2024-10-10T03:24:01.617Z"
           }
         ]
       },
@@ -16249,6 +16293,22 @@
           {
             "length": 132,
             "date": "2024-10-10T02:36:25.912Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-10-10T03:07:53.687Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-10-10T03:08:42.317Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-10-10T03:19:19.465Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-10-10T03:24:01.617Z"
           }
         ]
       },
