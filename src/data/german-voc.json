@@ -1,9 +1,9 @@
 {
-  "currentLevel": 2,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 105,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -603,39 +603,6 @@
         },
         {
           "front": {
-            "content": "Lecker (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Tasty]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Frühstück (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Breakfast]: ",
-              "- Forms: Frühstücken (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Prost (interjetion)"
-          },
-          "back": {
-            "content": [
-              "- [Cheers]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Schon (adv.)"
           },
           "back": {
@@ -729,17 +696,6 @@
           "back": {
             "content": [
               "- [Exact/Precise]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Stimmt (adj./interjection)"
-          },
-          "back": {
-            "content": [
-              "- [True]: ",
               "- Forms: "
             ]
           }
@@ -851,17 +807,6 @@
             "content": [
               "- [To play/act]: ",
               "- Forms: Spiele (noun, plural, neuter)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Passieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To happen]: ",
-              "- Forms: "
             ]
           }
         },
@@ -1114,17 +1059,6 @@
           "back": {
             "content": [
               "- [As long as]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Immer (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Ever]: Wann immer : When ever",
               "- Forms: "
             ]
           }
@@ -3721,8 +3655,8 @@
       ]
     },
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 125,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -5046,6 +4980,72 @@
           "back": {
             "content": [
               "- [Present]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lecker (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Tasty]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Frühstück (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Breakfast]: ",
+              "- Forms: Frühstücken (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Prost (interjetion)"
+          },
+          "back": {
+            "content": [
+              "- [Cheers]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stimmt (adj./interjection)"
+          },
+          "back": {
+            "content": [
+              "- [True]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Passieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To happen]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Immer (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Ever]: Wann immer : When ever",
               "- Forms: "
             ]
           }
@@ -11449,6 +11449,48 @@
         "type": "add",
         "word": "Muttersprache",
         "date": "2024-10-09T20:49:14.719Z"
+      },
+      {
+        "type": "move",
+        "word": "Lecker",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-09T22:40:58.877Z"
+      },
+      {
+        "type": "move",
+        "word": "Frühstück",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-09T22:41:00.243Z"
+      },
+      {
+        "type": "move",
+        "word": "Prost",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-09T22:41:02.532Z"
+      },
+      {
+        "type": "move",
+        "word": "Stimmt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-09T22:42:42.380Z"
+      },
+      {
+        "type": "move",
+        "word": "Passieren",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-09T22:45:32.971Z"
+      },
+      {
+        "type": "move",
+        "word": "Immer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-09T22:53:11.597Z"
       }
     ],
     "levels": [
@@ -14689,6 +14731,30 @@
           {
             "length": 342,
             "date": "2024-10-09T20:49:14.720Z"
+          },
+          {
+            "length": 341,
+            "date": "2024-10-09T22:40:58.949Z"
+          },
+          {
+            "length": 340,
+            "date": "2024-10-09T22:41:00.243Z"
+          },
+          {
+            "length": 339,
+            "date": "2024-10-09T22:41:02.532Z"
+          },
+          {
+            "length": 338,
+            "date": "2024-10-09T22:42:42.380Z"
+          },
+          {
+            "length": 337,
+            "date": "2024-10-09T22:45:32.971Z"
+          },
+          {
+            "length": 336,
+            "date": "2024-10-09T22:53:11.597Z"
           }
         ]
       },
@@ -16069,6 +16135,30 @@
           {
             "length": 120,
             "date": "2024-10-07T02:54:10.783Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-10-09T22:40:58.949Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-10-09T22:41:00.243Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-10-09T22:41:02.532Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-10-09T22:42:42.380Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-10-09T22:45:32.971Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-10-09T22:53:11.597Z"
           }
         ]
       },
