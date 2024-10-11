@@ -1094,6 +1094,7 @@
               "- [Nor]: ",
               "- [Still] (adv.): ",
               "- [Further/More] (adv.): ",
+              "- [only] (adv.): ",
               "- Forms: "
             ]
           }
@@ -3456,7 +3457,19 @@
           "back": {
             "content": [
               "- [Feel]: ",
+              "- [Like]: ",
+              "- [Fall down]: ",
               "- Forms: Gefällt (pp)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Genauso (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Equally/Just the same]: "
             ]
           }
         }
@@ -12365,6 +12378,11 @@
         "type": "add",
         "word": "Fällen",
         "date": "2024-10-11T21:14:05.217Z"
+      },
+      {
+        "type": "add",
+        "word": "Genauso",
+        "date": "2024-10-11T22:30:31.410Z"
       }
     ],
     "levels": [
@@ -15801,6 +15819,10 @@
           {
             "length": 318,
             "date": "2024-10-11T21:14:05.218Z"
+          },
+          {
+            "length": 319,
+            "date": "2024-10-11T22:30:31.410Z"
           }
         ]
       },
