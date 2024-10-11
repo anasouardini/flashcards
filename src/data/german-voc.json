@@ -3505,6 +3505,16 @@
               "- Forms: Zeitungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Damals (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Then]: "
+            ]
+          }
         }
       ]
     },
@@ -12432,6 +12442,11 @@
         "type": "add",
         "word": "Zeitung",
         "date": "2024-10-11T22:44:48.331Z"
+      },
+      {
+        "type": "add",
+        "word": "Damals",
+        "date": "2024-10-11T22:56:37.784Z"
       }
     ],
     "levels": [
@@ -15884,6 +15899,10 @@
           {
             "length": 322,
             "date": "2024-10-11T22:44:48.331Z"
+          },
+          {
+            "length": 323,
+            "date": "2024-10-11T22:56:37.785Z"
           }
         ]
       },
