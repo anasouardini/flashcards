@@ -3393,6 +3393,17 @@
               "- [Glasses]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Flasche (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Bottle/Flask]: ",
+              "- Forms: Flaschen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -12268,6 +12279,11 @@
         "type": "add",
         "word": "Brille",
         "date": "2024-10-11T06:36:30.147Z"
+      },
+      {
+        "type": "add",
+        "word": "Flasche",
+        "date": "2024-10-11T06:37:23.342Z"
       }
     ],
     "levels": [
@@ -15680,6 +15696,10 @@
           {
             "length": 312,
             "date": "2024-10-11T06:36:30.147Z"
+          },
+          {
+            "length": 313,
+            "date": "2024-10-11T06:37:23.342Z"
           }
         ]
       },
