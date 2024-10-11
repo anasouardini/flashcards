@@ -284,7 +284,19 @@
           },
           "back": {
             "content": [
-              "- [That doesn't exist]: "
+              "- [That doesn't exist]: ",
+              "- [That's Unbeleivable]: ",
+              "- [That can't be]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Das hätte ich nicht gedacht"
+          },
+          "back": {
+            "content": [
+              "- [I would not have thought that]: "
             ]
           }
         }
@@ -482,6 +494,11 @@
         "type": "add",
         "word": "Das",
         "date": "2024-10-11T22:21:40.281Z"
+      },
+      {
+        "type": "add",
+        "word": "Das",
+        "date": "2024-10-11T22:52:25.448Z"
       }
     ],
     "levels": [
@@ -598,6 +615,10 @@
           {
             "length": 28,
             "date": "2024-10-11T22:21:40.281Z"
+          },
+          {
+            "length": 29,
+            "date": "2024-10-11T22:52:25.448Z"
           }
         ]
       },
