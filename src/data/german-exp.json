@@ -299,6 +299,16 @@
               "- [I would not have thought that]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Erzähl mal"
+          },
+          "back": {
+            "content": [
+              "- [Tell me]: "
+            ]
+          }
         }
       ]
     },
@@ -499,6 +509,11 @@
         "type": "add",
         "word": "Das",
         "date": "2024-10-11T22:52:25.448Z"
+      },
+      {
+        "type": "add",
+        "word": "Erzähl",
+        "date": "2024-10-11T23:04:24.179Z"
       }
     ],
     "levels": [
@@ -619,6 +634,10 @@
           {
             "length": 29,
             "date": "2024-10-11T22:52:25.448Z"
+          },
+          {
+            "length": 30,
+            "date": "2024-10-11T23:04:24.180Z"
           }
         ]
       },
