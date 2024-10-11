@@ -267,6 +267,16 @@
               "- [I agree / I think the same.]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Lang nicht gesehn"
+          },
+          "back": {
+            "content": [
+              "- [Long time no see!]: "
+            ]
+          }
         }
       ]
     },
@@ -452,6 +462,11 @@
         "type": "add",
         "word": "Das",
         "date": "2024-10-09T20:54:13.309Z"
+      },
+      {
+        "type": "add",
+        "word": "Lang",
+        "date": "2024-10-11T20:37:34.046Z"
       }
     ],
     "levels": [
@@ -560,6 +575,10 @@
           {
             "length": 26,
             "date": "2024-10-09T20:54:13.310Z"
+          },
+          {
+            "length": 27,
+            "date": "2024-10-11T20:37:34.118Z"
           }
         ]
       },
