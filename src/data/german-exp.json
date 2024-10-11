@@ -277,6 +277,16 @@
               "- [Long time no see!]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Das doch gibt's nicht"
+          },
+          "back": {
+            "content": [
+              "- [That doesn't exist]: "
+            ]
+          }
         }
       ]
     },
@@ -467,6 +477,11 @@
         "type": "add",
         "word": "Lang",
         "date": "2024-10-11T20:37:34.046Z"
+      },
+      {
+        "type": "add",
+        "word": "Das",
+        "date": "2024-10-11T22:21:40.281Z"
       }
     ],
     "levels": [
@@ -579,6 +594,10 @@
           {
             "length": 27,
             "date": "2024-10-11T20:37:34.118Z"
+          },
+          {
+            "length": 28,
+            "date": "2024-10-11T22:21:40.281Z"
           }
         ]
       },
