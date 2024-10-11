@@ -3444,7 +3444,19 @@
           },
           "back": {
             "content": [
-              "- [Tell me]: "
+              "- [Tell me]: ",
+              "- [Say]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fällen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Feel]: ",
+              "- Forms: Gefällt (pp)"
             ]
           }
         }
@@ -12348,6 +12360,11 @@
         "type": "add",
         "word": "Sag_mal",
         "date": "2024-10-11T21:01:09.099Z"
+      },
+      {
+        "type": "add",
+        "word": "Fällen",
+        "date": "2024-10-11T21:14:05.217Z"
       }
     ],
     "levels": [
@@ -15780,6 +15797,10 @@
           {
             "length": 317,
             "date": "2024-10-11T21:01:09.099Z"
+          },
+          {
+            "length": 318,
+            "date": "2024-10-11T21:14:05.218Z"
           }
         ]
       },
