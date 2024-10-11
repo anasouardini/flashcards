@@ -3490,7 +3490,19 @@
           },
           "back": {
             "content": [
-              "- [Real/Actual]: "
+              "- [Real/Actual]: ",
+              "- [Really/Actually] (adv.): "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeitung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Newspaper]: ",
+              "- Forms: Zeitungen (plural)"
             ]
           }
         }
@@ -12415,6 +12427,11 @@
         "type": "add",
         "word": "Eigentlich",
         "date": "2024-10-11T22:40:42.145Z"
+      },
+      {
+        "type": "add",
+        "word": "Zeitung",
+        "date": "2024-10-11T22:44:48.331Z"
       }
     ],
     "levels": [
@@ -15863,6 +15880,10 @@
           {
             "length": 321,
             "date": "2024-10-11T22:40:42.145Z"
+          },
+          {
+            "length": 322,
+            "date": "2024-10-11T22:44:48.331Z"
           }
         ]
       },
