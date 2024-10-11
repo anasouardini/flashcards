@@ -3404,6 +3404,17 @@
               "- Forms: Flaschen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Feuerzeug (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Lighter]: ",
+              "- Forms: Feuerzeuge (plural)"
+            ]
+          }
         }
       ]
     },
@@ -12284,6 +12295,11 @@
         "type": "add",
         "word": "Flasche",
         "date": "2024-10-11T06:37:23.342Z"
+      },
+      {
+        "type": "add",
+        "word": "Feuerzeug",
+        "date": "2024-10-11T06:38:48.473Z"
       }
     ],
     "levels": [
@@ -15700,6 +15716,10 @@
           {
             "length": 313,
             "date": "2024-10-11T06:37:23.342Z"
+          },
+          {
+            "length": 314,
+            "date": "2024-10-11T06:38:48.473Z"
           }
         ]
       },
