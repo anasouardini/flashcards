@@ -1,5 +1,5 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 2,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -3365,7 +3365,7 @@
       ]
     },
     {
-      "currentCardIndex": 78,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -4368,12 +4368,23 @@
               "- [Sort/Type/Kind]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gestern (noun, singular, neutre)"
+          },
+          "back": {
+            "content": [
+              "- [Yesterday]: ",
+              "- Other Forms: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 115,
-      "currentCardSide": "front",
+      "currentCardIndex": 0,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -5218,17 +5229,6 @@
             "content": [
               "- [To help]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gestern (noun, singular, neutre)"
-          },
-          "back": {
-            "content": [
-              "- [Yesterday]: ",
-              "- Other Forms: "
             ]
           }
         },
@@ -12214,6 +12214,13 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-10T22:59:22.623Z"
+      },
+      {
+        "type": "move",
+        "word": "Gestern",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-10-11T04:18:10.887Z"
       }
     ],
     "levels": [
@@ -17398,6 +17405,10 @@
           {
             "length": 91,
             "date": "2024-10-10T22:59:22.623Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-10-11T04:18:10.948Z"
           }
         ]
       },
@@ -18086,6 +18097,10 @@
           {
             "length": 167,
             "date": "2024-10-10T22:59:22.623Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-10-11T04:18:10.948Z"
           }
         ]
       },
