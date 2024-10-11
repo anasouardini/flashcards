@@ -3425,6 +3425,16 @@
               "- [Draw]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Alles (quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [All]: "
+            ]
+          }
         }
       ]
     },
@@ -4927,8 +4937,9 @@
           },
           "back": {
             "content": [
-              "- [All/Everybody]: ",
-              "- Forms: "
+              "- [All]: ",
+              "- [Everybody]: ",
+              "- [every]: "
             ]
           }
         },
@@ -12315,6 +12326,11 @@
         "type": "add",
         "word": "Zeichnen",
         "date": "2024-10-11T06:42:51.229Z"
+      },
+      {
+        "type": "add",
+        "word": "Alles",
+        "date": "2024-10-11T20:44:14.109Z"
       }
     ],
     "levels": [
@@ -15739,6 +15755,10 @@
           {
             "length": 315,
             "date": "2024-10-11T06:42:51.229Z"
+          },
+          {
+            "length": 316,
+            "date": "2024-10-11T20:44:14.109Z"
           }
         ]
       },
