@@ -3361,6 +3361,17 @@
               "- Forms: Bäume (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Stift (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Pen]: ",
+              "- Forms: Stifte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -12221,6 +12232,11 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-10-11T04:18:10.887Z"
+      },
+      {
+        "type": "add",
+        "word": "Stift",
+        "date": "2024-10-11T06:34:44.410Z"
       }
     ],
     "levels": [
@@ -15621,6 +15637,10 @@
           {
             "length": 309,
             "date": "2024-10-10T22:31:20.625Z"
+          },
+          {
+            "length": 310,
+            "date": "2024-10-11T06:34:44.475Z"
           }
         ]
       },
