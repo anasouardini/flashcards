@@ -3479,7 +3479,18 @@
           },
           "back": {
             "content": [
-              "- [Early]: "
+              "- [Early]: ",
+              "- [Earlier] (adj, comparative): "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Eigentlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Real/Actual]: "
             ]
           }
         }
@@ -12399,6 +12410,11 @@
         "type": "add",
         "word": "Früher",
         "date": "2024-10-11T22:36:33.864Z"
+      },
+      {
+        "type": "add",
+        "word": "Eigentlich",
+        "date": "2024-10-11T22:40:42.145Z"
       }
     ],
     "levels": [
@@ -15843,6 +15859,10 @@
           {
             "length": 320,
             "date": "2024-10-11T22:36:33.865Z"
+          },
+          {
+            "length": 321,
+            "date": "2024-10-11T22:40:42.145Z"
           }
         ]
       },
