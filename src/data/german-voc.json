@@ -3432,7 +3432,19 @@
           },
           "back": {
             "content": [
-              "- [All]: "
+              "- [All]: ",
+              "- [everything]: ",
+              "- [anything]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sag_mal (v.) (informal)"
+          },
+          "back": {
+            "content": [
+              "- [Tell me]: "
             ]
           }
         }
@@ -12331,6 +12343,11 @@
         "type": "add",
         "word": "Alles",
         "date": "2024-10-11T20:44:14.109Z"
+      },
+      {
+        "type": "add",
+        "word": "Sag_mal",
+        "date": "2024-10-11T21:01:09.099Z"
       }
     ],
     "levels": [
@@ -15759,6 +15776,10 @@
           {
             "length": 316,
             "date": "2024-10-11T20:44:14.109Z"
+          },
+          {
+            "length": 317,
+            "date": "2024-10-11T21:01:09.099Z"
           }
         ]
       },
