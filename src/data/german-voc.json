@@ -3383,6 +3383,16 @@
               "- Forms: Bleistifte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Brille (noun, plural, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Glasses]: "
+            ]
+          }
         }
       ]
     },
@@ -12253,6 +12263,11 @@
         "type": "add",
         "word": "Bleistift",
         "date": "2024-10-11T06:35:40.771Z"
+      },
+      {
+        "type": "add",
+        "word": "Brille",
+        "date": "2024-10-11T06:36:30.147Z"
       }
     ],
     "levels": [
@@ -15661,6 +15676,10 @@
           {
             "length": 311,
             "date": "2024-10-11T06:35:40.771Z"
+          },
+          {
+            "length": 312,
+            "date": "2024-10-11T06:36:30.147Z"
           }
         ]
       },
