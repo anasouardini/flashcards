@@ -3472,6 +3472,16 @@
               "- [Equally/Just the same]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Früher (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Early]: "
+            ]
+          }
         }
       ]
     },
@@ -5980,7 +5990,8 @@
           },
           "back": {
             "content": [
-              "- [See]: ",
+              "- [Look]: ",
+              "- [Appear]: er sieht noch genauso aus wie früher : He still looks/appears exactly like earlier",
               "- Forms: "
             ]
           }
@@ -12383,6 +12394,11 @@
         "type": "add",
         "word": "Genauso",
         "date": "2024-10-11T22:30:31.410Z"
+      },
+      {
+        "type": "add",
+        "word": "Früher",
+        "date": "2024-10-11T22:36:33.864Z"
       }
     ],
     "levels": [
@@ -15823,6 +15839,10 @@
           {
             "length": 319,
             "date": "2024-10-11T22:30:31.410Z"
+          },
+          {
+            "length": 320,
+            "date": "2024-10-11T22:36:33.865Z"
           }
         ]
       },
