@@ -3372,6 +3372,17 @@
               "- Forms: Stifte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bleistift (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Pencil]: ",
+              "- Forms: Bleistifte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -12237,6 +12248,11 @@
         "type": "add",
         "word": "Stift",
         "date": "2024-10-11T06:34:44.410Z"
+      },
+      {
+        "type": "add",
+        "word": "Bleistift",
+        "date": "2024-10-11T06:35:40.771Z"
       }
     ],
     "levels": [
@@ -15641,6 +15657,10 @@
           {
             "length": 310,
             "date": "2024-10-11T06:34:44.475Z"
+          },
+          {
+            "length": 311,
+            "date": "2024-10-11T06:35:40.771Z"
           }
         ]
       },
