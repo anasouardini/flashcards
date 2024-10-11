@@ -309,6 +309,16 @@
               "- [Tell me]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Denn so"
+          },
+          "back": {
+            "content": [
+              "- [(appended to questions to make them casual)]: "
+            ]
+          }
         }
       ]
     },
@@ -514,6 +524,11 @@
         "type": "add",
         "word": "Erzähl",
         "date": "2024-10-11T23:04:24.179Z"
+      },
+      {
+        "type": "add",
+        "word": "Denn",
+        "date": "2024-10-11T23:09:55.349Z"
       }
     ],
     "levels": [
@@ -638,6 +653,10 @@
           {
             "length": 30,
             "date": "2024-10-11T23:04:24.180Z"
+          },
+          {
+            "length": 31,
+            "date": "2024-10-11T23:09:55.350Z"
           }
         ]
       },
