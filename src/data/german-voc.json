@@ -3618,6 +3618,17 @@
               "- Forms: Verändert (adj.), Verändert (pp.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Haar (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Hair]: ",
+              "- Forms: Haare (plural)"
+            ]
+          }
         }
       ]
     },
@@ -12595,6 +12606,11 @@
         "type": "add",
         "word": "Verändern",
         "date": "2024-10-12T05:29:31.321Z"
+      },
+      {
+        "type": "add",
+        "word": "Haar",
+        "date": "2024-10-12T05:35:09.123Z"
       }
     ],
     "levels": [
@@ -16087,6 +16103,10 @@
           {
             "length": 332,
             "date": "2024-10-12T05:29:31.321Z"
+          },
+          {
+            "length": 333,
+            "date": "2024-10-12T05:35:09.124Z"
           }
         ]
       },
