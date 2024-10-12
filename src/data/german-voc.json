@@ -3533,7 +3533,21 @@
           "back": {
             "content": [
               "- [Determination]: ",
+              "- [To specify/Determine] (v.): ",
+              "- [Specic/Determined] (adj.): ",
+              "- [Specifically/Particularly] (adv.): ",
               "- Forms: Bestimmt (adj.), Bestimmen (v.), Bestimmt (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mal (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Time]: ",
+              "- Forms: -mal (suffix), Mal (adv.), Mal (prep.)"
             ]
           }
         }
@@ -12478,6 +12492,11 @@
         "type": "add",
         "word": "Bestimmen",
         "date": "2024-10-12T04:56:47.339Z"
+      },
+      {
+        "type": "add",
+        "word": "Mal",
+        "date": "2024-10-12T05:01:23.510Z"
       }
     ],
     "levels": [
@@ -15942,6 +15961,10 @@
           {
             "length": 325,
             "date": "2024-10-12T04:56:47.340Z"
+          },
+          {
+            "length": 326,
+            "date": "2024-10-12T05:01:23.510Z"
           }
         ]
       },
