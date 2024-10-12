@@ -2824,16 +2824,6 @@
         },
         {
           "front": {
-            "content": "Am (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [On]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gebären (v.)"
           },
           "back": {
@@ -3516,6 +3506,16 @@
         {
           "front": {
             "content": "Jederzeit (pronoun/quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [Any]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Am (pronoun/quantifier)"
           },
           "back": {
             "content": [
@@ -11571,11 +11571,6 @@
       },
       {
         "type": "add",
-        "word": "Am",
-        "date": "2024-10-09T03:10:34.033Z"
-      },
-      {
-        "type": "add",
         "word": "Gebären",
         "date": "2024-10-09T03:12:56.650Z"
       },
@@ -12762,6 +12757,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-12T22:25:19.784Z"
+      },
+      {
+        "type": "add",
+        "word": "Am",
+        "date": "2024-10-12T22:27:12.035Z"
       }
     ],
     "levels": [
