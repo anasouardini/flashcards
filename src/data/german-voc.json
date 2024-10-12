@@ -3525,6 +3525,17 @@
               "- [Ago]: Lange her : Long ago"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bestimmen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Determination]: ",
+              "- Forms: Bestimmt (adj.), Bestimmen (v.), Bestimmt (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -12462,6 +12473,11 @@
         "type": "add",
         "word": "Her",
         "date": "2024-10-11T23:00:10.576Z"
+      },
+      {
+        "type": "add",
+        "word": "Bestimmen",
+        "date": "2024-10-12T04:56:47.339Z"
       }
     ],
     "levels": [
@@ -15922,6 +15938,10 @@
           {
             "length": 324,
             "date": "2024-10-11T23:00:10.576Z"
+          },
+          {
+            "length": 325,
+            "date": "2024-10-12T04:56:47.340Z"
           }
         ]
       },
