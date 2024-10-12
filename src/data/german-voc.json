@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 258,
+      "currentCardIndex": 292,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2876,17 +2876,6 @@
         },
         {
           "front": {
-            "content": "Land (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Country]: ",
-              "- Forms: Länder (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Ergebnis (noun, singular, neuter)"
           },
           "back": {
@@ -2914,26 +2903,6 @@
             "content": [
               "- [Letter]: ",
               "- Forms: Buchstaben (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nachname (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Last name/surname]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Vorname (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [First name]: "
             ]
           }
         },
@@ -3027,28 +2996,6 @@
         },
         {
           "front": {
-            "content": "Wort (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Word]: ",
-              "- Forms: Wörter (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bett (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Bed]: ",
-              "- Forms: Betten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sessel (noun, singular, masculine)"
           },
           "back": {
@@ -3076,16 +3023,6 @@
             "content": [
               "- [Cheap]: ",
               "- Forms: Günstig (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sonderangebot (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Special offer]: "
             ]
           }
         },
@@ -3155,32 +3092,11 @@
         },
         {
           "front": {
-            "content": "Puzzle (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Puzzle]: ",
-              "- Forms: Puzzles (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Übersetzen (v.)"
           },
           "back": {
             "content": [
               "- [Translate]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Muttersprache (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Mother tongue]: "
             ]
           }
         },
@@ -3512,21 +3428,11 @@
               "- [Any]: "
             ]
           }
-        },
-        {
-          "front": {
-            "content": "Am (pronoun/quantifier)"
-          },
-          "back": {
-            "content": [
-              "- [Any]: "
-            ]
-          }
         }
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 106,
       "currentCardSide": "front",
       "cards": [
         {
@@ -4656,6 +4562,90 @@
           "back": {
             "content": [
               "- [See you again]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Land (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Country]: ",
+              "- Forms: Länder (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Vorname (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [First name]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nachname (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Last name/surname]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wort (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Word]: ",
+              "- Forms: Wörter (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bett (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Bed]: ",
+              "- Forms: Betten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sonderangebot (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Special offer]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Puzzle (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Puzzle]: ",
+              "- Forms: Puzzles (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Muttersprache (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Mother tongue]: "
             ]
           }
         }
@@ -12759,9 +12749,60 @@
         "date": "2024-10-12T22:25:19.784Z"
       },
       {
-        "type": "add",
-        "word": "Am",
-        "date": "2024-10-12T22:27:12.035Z"
+        "type": "move",
+        "word": "Land",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:32:39.854Z"
+      },
+      {
+        "type": "move",
+        "word": "Vorname",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:36:10.422Z"
+      },
+      {
+        "type": "move",
+        "word": "Nachname",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:36:12.397Z"
+      },
+      {
+        "type": "move",
+        "word": "Wort",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:42:17.108Z"
+      },
+      {
+        "type": "move",
+        "word": "Bett",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:42:18.324Z"
+      },
+      {
+        "type": "move",
+        "word": "Sonderangebot",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:45:22.332Z"
+      },
+      {
+        "type": "move",
+        "word": "Puzzle",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:50:44.985Z"
+      },
+      {
+        "type": "move",
+        "word": "Muttersprache",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:52:22.242Z"
       }
     ],
     "levels": [
@@ -16322,6 +16363,38 @@
           {
             "length": 323,
             "date": "2024-10-12T22:25:19.784Z"
+          },
+          {
+            "length": 321,
+            "date": "2024-10-12T22:32:39.854Z"
+          },
+          {
+            "length": 320,
+            "date": "2024-10-12T22:36:10.422Z"
+          },
+          {
+            "length": 319,
+            "date": "2024-10-12T22:36:12.397Z"
+          },
+          {
+            "length": 318,
+            "date": "2024-10-12T22:42:17.108Z"
+          },
+          {
+            "length": 317,
+            "date": "2024-10-12T22:42:18.324Z"
+          },
+          {
+            "length": 316,
+            "date": "2024-10-12T22:45:22.332Z"
+          },
+          {
+            "length": 315,
+            "date": "2024-10-12T22:50:44.985Z"
+          },
+          {
+            "length": 314,
+            "date": "2024-10-12T22:52:22.242Z"
           }
         ]
       },
@@ -18170,6 +18243,38 @@
           {
             "length": 103,
             "date": "2024-10-12T22:25:19.784Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-10-12T22:32:39.854Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-10-12T22:36:10.422Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-10-12T22:36:12.397Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-10-12T22:42:17.108Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-10-12T22:42:18.324Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-10-12T22:45:22.332Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-10-12T22:50:44.985Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-10-12T22:52:22.242Z"
           }
         ]
       },
