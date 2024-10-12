@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 198,
+      "currentCardIndex": 212,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2187,7 +2187,7 @@
           },
           "back": {
             "content": [
-              "- [To Turn]: ",
+              "- [Turn]: ",
               "- Forms: Wendungen (plural)"
             ]
           }
@@ -2283,17 +2283,6 @@
             "content": [
               "- [Profession]: ",
               "- Forms: Berufe (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Visitenkarte (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Business Card]: ",
-              "- Forms: Visitenkarten (plural)"
             ]
           }
         },
@@ -4655,6 +4644,17 @@
             "content": [
               "- [Sunday]: ",
               "- Forms: Sonntage (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Visitenkarte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Business Card]: ",
+              "- Forms: Visitenkarten (plural)"
             ]
           }
         }
@@ -12705,6 +12705,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-12T20:40:02.120Z"
+      },
+      {
+        "type": "move",
+        "word": "Visitenkarte",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T21:39:05.645Z"
       }
     ],
     "levels": [
@@ -16233,6 +16240,10 @@
           {
             "length": 331,
             "date": "2024-10-12T20:40:02.120Z"
+          },
+          {
+            "length": 330,
+            "date": "2024-10-12T21:39:05.645Z"
           }
         ]
       },
@@ -18049,6 +18060,10 @@
           {
             "length": 95,
             "date": "2024-10-12T20:40:02.120Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-10-12T21:39:05.645Z"
           }
         ]
       },
