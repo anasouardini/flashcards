@@ -3596,6 +3596,17 @@
               "- [Order/Tidyness]: Ist alles in Ordnung? : Is everything in order?"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Vorbereitet (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Prepared]: ",
+              "- Forms: Vorbereitet (adv.), Vorbereiten (v.)"
+            ]
+          }
         }
       ]
     },
@@ -12563,6 +12574,11 @@
         "type": "add",
         "word": "Ordnung",
         "date": "2024-10-12T05:17:39.954Z"
+      },
+      {
+        "type": "add",
+        "word": "Vorbereitet",
+        "date": "2024-10-12T05:21:16.172Z"
       }
     ],
     "levels": [
@@ -16047,6 +16063,10 @@
           {
             "length": 330,
             "date": "2024-10-12T05:17:39.955Z"
+          },
+          {
+            "length": 331,
+            "date": "2024-10-12T05:21:16.172Z"
           }
         ]
       },
