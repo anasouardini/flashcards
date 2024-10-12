@@ -3547,7 +3547,20 @@
           "back": {
             "content": [
               "- [Time]: ",
+              "- [Times] (prep.): 3 mal 3 = 9 : 3 times 3 = 9",
+              "- [Times] (suffix): hundertmal : hundred times",
+              "- [From time to time] (adv.):",
               "- Forms: -mal (suffix), Mal (adv.), Mal (prep.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Naja (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [Oh well]: "
             ]
           }
         }
@@ -12497,6 +12510,11 @@
         "type": "add",
         "word": "Mal",
         "date": "2024-10-12T05:01:23.510Z"
+      },
+      {
+        "type": "add",
+        "word": "Naja",
+        "date": "2024-10-12T05:07:52.214Z"
       }
     ],
     "levels": [
@@ -15965,6 +15983,10 @@
           {
             "length": 326,
             "date": "2024-10-12T05:01:23.510Z"
+          },
+          {
+            "length": 327,
+            "date": "2024-10-12T05:07:52.214Z"
           }
         ]
       },
