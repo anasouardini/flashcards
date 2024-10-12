@@ -3563,6 +3563,16 @@
               "- [Oh well]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Normal (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Normal/Standard]: "
+            ]
+          }
         }
       ]
     },
@@ -12515,6 +12525,11 @@
         "type": "add",
         "word": "Naja",
         "date": "2024-10-12T05:07:52.214Z"
+      },
+      {
+        "type": "add",
+        "word": "Normal",
+        "date": "2024-10-12T05:10:44.211Z"
       }
     ],
     "levels": [
@@ -15987,6 +16002,10 @@
           {
             "length": 327,
             "date": "2024-10-12T05:07:52.214Z"
+          },
+          {
+            "length": 328,
+            "date": "2024-10-12T05:10:44.211Z"
           }
         ]
       },
