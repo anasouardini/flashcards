@@ -1,5 +1,5 @@
 {
-  "currentLevel": 2,
+  "currentLevel": 1,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -4597,26 +4597,6 @@
         },
         {
           "front": {
-            "content": "Foto (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Photo]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Modern (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Modern]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Praktisch (adj.)"
           },
           "back": {
@@ -6499,6 +6479,26 @@
           "back": {
             "content": [
               "- [Single]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Modern (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Modern]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Foto (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Photo]: "
             ]
           }
         }
@@ -12641,6 +12641,20 @@
         "type": "add",
         "word": "Paar",
         "date": "2024-10-12T09:35:01.339Z"
+      },
+      {
+        "type": "move",
+        "word": "Modern",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-12T19:22:56.408Z"
+      },
+      {
+        "type": "move",
+        "word": "Foto",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-12T19:22:58.703Z"
       }
     ],
     "levels": [
@@ -17933,6 +17947,14 @@
           {
             "length": 92,
             "date": "2024-10-11T04:18:10.948Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-10-12T19:22:56.475Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-10-12T19:22:58.703Z"
           }
         ]
       },
@@ -18625,6 +18647,14 @@
           {
             "length": 166,
             "date": "2024-10-11T04:18:10.948Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-10-12T19:22:56.475Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-10-12T19:22:58.703Z"
           }
         ]
       },
