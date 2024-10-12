@@ -3586,6 +3586,16 @@
               "- [Probably]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ordnung (noun, singular, femining)"
+          },
+          "back": {
+            "content": [
+              "- [Order/Tidyness]: Ist alles in Ordnung? : Is everything in order?"
+            ]
+          }
         }
       ]
     },
@@ -12548,6 +12558,11 @@
         "type": "add",
         "word": "Wohl",
         "date": "2024-10-12T05:14:39.633Z"
+      },
+      {
+        "type": "add",
+        "word": "Ordnung",
+        "date": "2024-10-12T05:17:39.954Z"
       }
     ],
     "levels": [
@@ -16028,6 +16043,10 @@
           {
             "length": 329,
             "date": "2024-10-12T05:14:39.633Z"
+          },
+          {
+            "length": 330,
+            "date": "2024-10-12T05:17:39.955Z"
           }
         ]
       },
