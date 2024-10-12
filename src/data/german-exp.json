@@ -329,6 +329,16 @@
               "- [We haven't seen eachother for a long time]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nein, schon lange nicht mehr."
+          },
+          "back": {
+            "content": [
+              "- [No, not for a long time.]: "
+            ]
+          }
         }
       ]
     },
@@ -544,6 +554,11 @@
         "type": "add",
         "word": "Wir",
         "date": "2024-10-12T04:32:47.324Z"
+      },
+      {
+        "type": "add",
+        "word": "Nein,",
+        "date": "2024-10-12T09:29:08.390Z"
       }
     ],
     "levels": [
@@ -676,6 +691,10 @@
           {
             "length": 32,
             "date": "2024-10-12T04:32:47.325Z"
+          },
+          {
+            "length": 33,
+            "date": "2024-10-12T09:29:08.391Z"
           }
         ]
       },
