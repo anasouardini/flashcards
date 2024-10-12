@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 212,
+      "currentCardIndex": 258,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2335,6 +2335,7 @@
           "back": {
             "content": [
               "- [Figure/number/digit]: ",
+              "- [To Pay] (v.): ",
               "- Forms: Zahlen (plural), Zahlen (v.)"
             ]
           }
@@ -2357,17 +2358,6 @@
           "back": {
             "content": [
               "- [Word formation]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Spezialist (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Specialist]: ",
-              "- Forms: Spezialisten (plural)"
             ]
           }
         },
@@ -2565,16 +2555,6 @@
         },
         {
           "front": {
-            "content": "Opa (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Grandpa]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Ausschnitt (noun, singular, masculine)"
           },
           "back": {
@@ -2657,16 +2637,6 @@
               "- [Now]: ",
               "- [Present] (noun): ",
               "- Forms: Jetzt (noun)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Oma (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Grandma]: "
             ]
           }
         },
@@ -2781,43 +2751,12 @@
         },
         {
           "front": {
-            "content": "Mutter (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Mother]: ",
-              "- Forms: Muttern (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Korrigieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Correct]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Satz (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Sentence]: ",
               "- Forms: Sätze (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Arbeitslos (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Jobless]: "
             ]
           }
         },
@@ -2870,16 +2809,6 @@
           "back": {
             "content": [
               "- [God]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Auf_Wiederschauenn (interjection)"
-          },
-          "back": {
-            "content": [
-              "- [See you again]: "
             ]
           }
         },
@@ -4655,6 +4584,78 @@
             "content": [
               "- [Business Card]: ",
               "- Forms: Visitenkarten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Spezialist (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Specialist]: ",
+              "- Forms: Spezialisten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Opa (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Grandpa]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Oma (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Grandma]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mutter (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Mother]: ",
+              "- Forms: Muttern (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Korrigieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Correct]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Arbeitslos (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Jobless]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auf_Wiederschauenn (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [See you again]: "
             ]
           }
         }
@@ -12712,6 +12713,55 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-12T21:39:05.645Z"
+      },
+      {
+        "type": "move",
+        "word": "Spezialist",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T21:47:29.186Z"
+      },
+      {
+        "type": "move",
+        "word": "Opa",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:06:08.345Z"
+      },
+      {
+        "type": "move",
+        "word": "Oma",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:13:10.563Z"
+      },
+      {
+        "type": "move",
+        "word": "Mutter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:20:09.096Z"
+      },
+      {
+        "type": "move",
+        "word": "Korrigieren",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:20:15.585Z"
+      },
+      {
+        "type": "move",
+        "word": "Arbeitslos",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:20:41.177Z"
+      },
+      {
+        "type": "move",
+        "word": "Auf_Wiederschauenn",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T22:25:19.784Z"
       }
     ],
     "levels": [
@@ -16244,6 +16294,34 @@
           {
             "length": 330,
             "date": "2024-10-12T21:39:05.645Z"
+          },
+          {
+            "length": 329,
+            "date": "2024-10-12T21:47:29.186Z"
+          },
+          {
+            "length": 328,
+            "date": "2024-10-12T22:06:08.345Z"
+          },
+          {
+            "length": 327,
+            "date": "2024-10-12T22:13:10.563Z"
+          },
+          {
+            "length": 326,
+            "date": "2024-10-12T22:20:09.096Z"
+          },
+          {
+            "length": 325,
+            "date": "2024-10-12T22:20:15.585Z"
+          },
+          {
+            "length": 324,
+            "date": "2024-10-12T22:20:41.177Z"
+          },
+          {
+            "length": 323,
+            "date": "2024-10-12T22:25:19.784Z"
           }
         ]
       },
@@ -18064,6 +18142,34 @@
           {
             "length": 96,
             "date": "2024-10-12T21:39:05.645Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-10-12T21:47:29.186Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-10-12T22:06:08.345Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-10-12T22:13:10.563Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-10-12T22:20:09.096Z"
+          },
+          {
+            "length": 101,
+            "date": "2024-10-12T22:20:15.585Z"
+          },
+          {
+            "length": 102,
+            "date": "2024-10-12T22:20:41.177Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-10-12T22:25:19.784Z"
           }
         ]
       },
