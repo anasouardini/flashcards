@@ -3629,6 +3629,16 @@
               "- Forms: Haare (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Passen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Fit]: "
+            ]
+          }
         }
       ]
     },
@@ -12611,6 +12621,11 @@
         "type": "add",
         "word": "Haar",
         "date": "2024-10-12T05:35:09.123Z"
+      },
+      {
+        "type": "add",
+        "word": "Passen",
+        "date": "2024-10-12T09:33:43.013Z"
       }
     ],
     "levels": [
@@ -16107,6 +16122,10 @@
           {
             "length": 333,
             "date": "2024-10-12T05:35:09.124Z"
+          },
+          {
+            "length": 334,
+            "date": "2024-10-12T09:33:43.014Z"
           }
         ]
       },
