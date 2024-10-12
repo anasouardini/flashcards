@@ -1,8 +1,8 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 185,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1909,17 +1909,6 @@
         },
         {
           "front": {
-            "content": "Montag (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Monday]: ",
-              "- Forms: Montage (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Dienstag (noun, singular, masculine)"
           },
           "back": {
@@ -1931,56 +1920,12 @@
         },
         {
           "front": {
-            "content": "Mittwoch (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Wednesday]: ",
-              "- Forms: Mittwoche (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Donnerstag (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Thursday]: ",
               "- Forms: Donnerstage (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Freitag (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Friday]: ",
-              "- Forms: Freitage (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Samstag (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Saturday]: ",
-              "- Forms: Samstage (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sonntag (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Sunday]: ",
-              "- Forms: Sonntage (plural)"
             ]
           }
         },
@@ -4655,6 +4600,61 @@
             "content": [
               "- [Yesterday]: ",
               "- Other Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Montag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Monday]: ",
+              "- Forms: Montage (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mittwoch (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Wednesday]: ",
+              "- Forms: Mittwoche (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Freitag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Friday]: ",
+              "- Forms: Freitage (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Samstag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Saturday]: ",
+              "- Forms: Samstage (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sonntag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sunday]: ",
+              "- Forms: Sonntage (plural)"
             ]
           }
         }
@@ -12670,6 +12670,41 @@
         "type": "add",
         "word": "Jederzeit",
         "date": "2024-10-12T19:32:06.019Z"
+      },
+      {
+        "type": "move",
+        "word": "Montag",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T20:39:06.929Z"
+      },
+      {
+        "type": "move",
+        "word": "Mittwoch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T20:39:56.936Z"
+      },
+      {
+        "type": "move",
+        "word": "Freitag",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T20:39:59.176Z"
+      },
+      {
+        "type": "move",
+        "word": "Samstag",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T20:40:00.794Z"
+      },
+      {
+        "type": "move",
+        "word": "Sonntag",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-12T20:40:02.120Z"
       }
     ],
     "levels": [
@@ -16178,6 +16213,26 @@
           {
             "length": 336,
             "date": "2024-10-12T19:32:06.019Z"
+          },
+          {
+            "length": 335,
+            "date": "2024-10-12T20:39:06.929Z"
+          },
+          {
+            "length": 334,
+            "date": "2024-10-12T20:39:56.936Z"
+          },
+          {
+            "length": 333,
+            "date": "2024-10-12T20:39:59.176Z"
+          },
+          {
+            "length": 332,
+            "date": "2024-10-12T20:40:00.794Z"
+          },
+          {
+            "length": 331,
+            "date": "2024-10-12T20:40:02.120Z"
           }
         ]
       },
@@ -17974,6 +18029,26 @@
           {
             "length": 90,
             "date": "2024-10-12T19:22:58.703Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-10-12T20:39:06.929Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-10-12T20:39:56.936Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-10-12T20:39:59.176Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-10-12T20:40:00.794Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-10-12T20:40:02.120Z"
           }
         ]
       },
