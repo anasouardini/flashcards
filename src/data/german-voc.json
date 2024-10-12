@@ -3607,6 +3607,17 @@
               "- Forms: Vorbereitet (adv.), Vorbereiten (v.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Verändern (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To change]: ",
+              "- Forms: Verändert (adj.), Verändert (pp.)"
+            ]
+          }
         }
       ]
     },
@@ -12579,6 +12590,11 @@
         "type": "add",
         "word": "Vorbereitet",
         "date": "2024-10-12T05:21:16.172Z"
+      },
+      {
+        "type": "add",
+        "word": "Verändern",
+        "date": "2024-10-12T05:29:31.321Z"
       }
     ],
     "levels": [
@@ -16067,6 +16083,10 @@
           {
             "length": 331,
             "date": "2024-10-12T05:21:16.172Z"
+          },
+          {
+            "length": 332,
+            "date": "2024-10-12T05:29:31.321Z"
           }
         ]
       },
