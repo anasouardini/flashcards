@@ -319,6 +319,16 @@
               "- [(appended to questions to make them casual)]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wir habe uns lange nicht mehr gesehn"
+          },
+          "back": {
+            "content": [
+              "- [We haven't seen eachother for a long time]: "
+            ]
+          }
         }
       ]
     },
@@ -529,6 +539,11 @@
         "type": "add",
         "word": "Denn",
         "date": "2024-10-11T23:09:55.349Z"
+      },
+      {
+        "type": "add",
+        "word": "Wir",
+        "date": "2024-10-12T04:32:47.324Z"
       }
     ],
     "levels": [
@@ -657,6 +672,10 @@
           {
             "length": 31,
             "date": "2024-10-11T23:09:55.350Z"
+          },
+          {
+            "length": 32,
+            "date": "2024-10-12T04:32:47.325Z"
           }
         ]
       },
