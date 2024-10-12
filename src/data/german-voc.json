@@ -3639,6 +3639,16 @@
               "- [To Fit]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Paar (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Pair/Couple]: "
+            ]
+          }
         }
       ]
     },
@@ -12626,6 +12636,11 @@
         "type": "add",
         "word": "Passen",
         "date": "2024-10-12T09:33:43.013Z"
+      },
+      {
+        "type": "add",
+        "word": "Paar",
+        "date": "2024-10-12T09:35:01.339Z"
       }
     ],
     "levels": [
@@ -16126,6 +16141,10 @@
           {
             "length": 334,
             "date": "2024-10-12T09:33:43.014Z"
+          },
+          {
+            "length": 335,
+            "date": "2024-10-12T09:35:01.339Z"
           }
         ]
       },
