@@ -3649,6 +3649,16 @@
               "- [Pair/Couple]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Jederzeit (pronoun/quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [Any]: "
+            ]
+          }
         }
       ]
     },
@@ -12655,6 +12665,11 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-12T19:22:58.703Z"
+      },
+      {
+        "type": "add",
+        "word": "Jederzeit",
+        "date": "2024-10-12T19:32:06.019Z"
       }
     ],
     "levels": [
@@ -16159,6 +16174,10 @@
           {
             "length": 335,
             "date": "2024-10-12T09:35:01.339Z"
+          },
+          {
+            "length": 336,
+            "date": "2024-10-12T19:32:06.019Z"
           }
         ]
       },
