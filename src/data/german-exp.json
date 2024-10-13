@@ -349,6 +349,16 @@
               "- [How are you?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kein Problem"
+          },
+          "back": {
+            "content": [
+              "- [No problem]: "
+            ]
+          }
         }
       ]
     },
@@ -574,6 +584,11 @@
         "type": "add",
         "word": "Wie",
         "date": "2024-10-13T12:28:37.357Z"
+      },
+      {
+        "type": "add",
+        "word": "Kein",
+        "date": "2024-10-13T21:15:12.943Z"
       }
     ],
     "levels": [
@@ -714,6 +729,10 @@
           {
             "length": 34,
             "date": "2024-10-13T12:28:37.430Z"
+          },
+          {
+            "length": 35,
+            "date": "2024-10-13T21:15:12.944Z"
           }
         ]
       },
