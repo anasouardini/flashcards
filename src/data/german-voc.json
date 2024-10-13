@@ -3665,6 +3665,17 @@
               "- Forms: Daten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Widerholung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Repetition]: ",
+              "- Forms: Widerholungen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13150,6 +13161,11 @@
         "type": "add",
         "word": "Datum",
         "date": "2024-10-13T21:04:30.751Z"
+      },
+      {
+        "type": "add",
+        "word": "Widerholung",
+        "date": "2024-10-13T21:08:59.582Z"
       }
     ],
     "levels": [
@@ -16842,6 +16858,10 @@
           {
             "length": 336,
             "date": "2024-10-13T21:04:30.752Z"
+          },
+          {
+            "length": 337,
+            "date": "2024-10-13T21:08:59.583Z"
           }
         ]
       },
