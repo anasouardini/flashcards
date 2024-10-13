@@ -3676,6 +3676,16 @@
               "- Forms: Widerholungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bitten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Request]: "
+            ]
+          }
         }
       ]
     },
@@ -13166,6 +13176,11 @@
         "type": "add",
         "word": "Widerholung",
         "date": "2024-10-13T21:08:59.582Z"
+      },
+      {
+        "type": "add",
+        "word": "Bitten",
+        "date": "2024-10-13T21:13:41.270Z"
       }
     ],
     "levels": [
@@ -16862,6 +16877,10 @@
           {
             "length": 337,
             "date": "2024-10-13T21:08:59.583Z"
+          },
+          {
+            "length": 338,
+            "date": "2024-10-13T21:13:41.271Z"
           }
         ]
       },
