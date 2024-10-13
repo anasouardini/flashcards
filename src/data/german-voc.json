@@ -3643,6 +3643,17 @@
               "- Forms: Mengen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Geburtsdatum (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Birth date]: ",
+              "- Forms: Geburtsdaten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13118,6 +13129,11 @@
         "type": "add",
         "word": "Menge",
         "date": "2024-10-13T21:00:21.889Z"
+      },
+      {
+        "type": "add",
+        "word": "Geburtsdatum",
+        "date": "2024-10-13T21:03:54.078Z"
       }
     ],
     "levels": [
@@ -16802,6 +16818,10 @@
           {
             "length": 334,
             "date": "2024-10-13T21:00:21.889Z"
+          },
+          {
+            "length": 335,
+            "date": "2024-10-13T21:03:54.078Z"
           }
         ]
       },
