@@ -3589,6 +3589,16 @@
               "- [To Order (a product)]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Möchten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Wish/Desire]: "
+            ]
+          }
         }
       ]
     },
@@ -13039,6 +13049,11 @@
         "type": "add",
         "word": "Bestellen",
         "date": "2024-10-13T20:50:21.878Z"
+      },
+      {
+        "type": "add",
+        "word": "Möchten",
+        "date": "2024-10-13T20:53:35.372Z"
       }
     ],
     "levels": [
@@ -16703,6 +16718,10 @@
           {
             "length": 329,
             "date": "2024-10-13T20:50:21.878Z"
+          },
+          {
+            "length": 330,
+            "date": "2024-10-13T20:53:35.372Z"
           }
         ]
       },
