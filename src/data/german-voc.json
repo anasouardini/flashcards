@@ -3621,6 +3621,17 @@
               "- Forms: Nummern (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Straße (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Road/Street]: ",
+              "- Forms: Straßen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13086,6 +13097,11 @@
         "type": "add",
         "word": "Nummer",
         "date": "2024-10-13T20:58:41.306Z"
+      },
+      {
+        "type": "add",
+        "word": "Straße",
+        "date": "2024-10-13T20:59:42.940Z"
       }
     ],
     "levels": [
@@ -16762,6 +16778,10 @@
           {
             "length": 332,
             "date": "2024-10-13T20:58:41.306Z"
+          },
+          {
+            "length": 333,
+            "date": "2024-10-13T20:59:42.940Z"
           }
         ]
       },
