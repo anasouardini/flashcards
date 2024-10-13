@@ -3419,6 +3419,16 @@
               "- [Wood]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Papier (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Paper]: "
+            ]
+          }
         }
       ]
     },
@@ -12789,6 +12799,11 @@
         "type": "add",
         "word": "Holz",
         "date": "2024-10-13T17:08:34.093Z"
+      },
+      {
+        "type": "add",
+        "word": "Papier",
+        "date": "2024-10-13T17:26:24.484Z"
       }
     ],
     "levels": [
@@ -16389,6 +16404,10 @@
           {
             "length": 313,
             "date": "2024-10-13T17:08:34.094Z"
+          },
+          {
+            "length": 314,
+            "date": "2024-10-13T17:26:24.484Z"
           }
         ]
       },
