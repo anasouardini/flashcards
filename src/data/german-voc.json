@@ -3524,6 +3524,16 @@
               "- Forms: Taschen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Designer (noun, singular/plural, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Designer(s)]: "
+            ]
+          }
         }
       ]
     },
@@ -12944,6 +12954,11 @@
         "type": "add",
         "word": "Tasche",
         "date": "2024-10-13T18:00:32.915Z"
+      },
+      {
+        "type": "add",
+        "word": "Designer",
+        "date": "2024-10-13T18:02:14.835Z"
       }
     ],
     "levels": [
@@ -16584,6 +16599,10 @@
           {
             "length": 323,
             "date": "2024-10-13T18:00:32.915Z"
+          },
+          {
+            "length": 324,
+            "date": "2024-10-13T18:02:14.836Z"
           }
         ]
       },
