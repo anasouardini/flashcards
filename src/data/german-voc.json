@@ -3399,6 +3399,16 @@
               "- [Pair/Couple]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Glas (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Glass]: "
+            ]
+          }
         }
       ]
     },
@@ -12759,6 +12769,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-12T22:52:22.242Z"
+      },
+      {
+        "type": "add",
+        "word": "Glas",
+        "date": "2024-10-13T17:07:59.661Z"
       }
     ],
     "levels": [
@@ -16351,6 +16366,10 @@
           {
             "length": 314,
             "date": "2024-10-12T22:52:22.242Z"
+          },
+          {
+            "length": 312,
+            "date": "2024-10-13T17:07:59.731Z"
           }
         ]
       },
