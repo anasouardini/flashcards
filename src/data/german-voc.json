@@ -3429,6 +3429,17 @@
               "- [Paper]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Form (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Form]: ",
+              "- Forms: Formen (plural), Formen (v.)"
+            ]
+          }
         }
       ]
     },
@@ -12804,6 +12815,11 @@
         "type": "add",
         "word": "Papier",
         "date": "2024-10-13T17:26:24.484Z"
+      },
+      {
+        "type": "add",
+        "word": "Form",
+        "date": "2024-10-13T17:27:59.177Z"
       }
     ],
     "levels": [
@@ -16408,6 +16424,10 @@
           {
             "length": 314,
             "date": "2024-10-13T17:26:24.484Z"
+          },
+          {
+            "length": 315,
+            "date": "2024-10-13T17:27:59.177Z"
           }
         ]
       },
