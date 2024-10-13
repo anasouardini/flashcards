@@ -3654,6 +3654,17 @@
               "- Forms: Geburtsdaten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Datum (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Date]: ",
+              "- Forms: Daten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13134,6 +13145,11 @@
         "type": "add",
         "word": "Geburtsdatum",
         "date": "2024-10-13T21:03:54.078Z"
+      },
+      {
+        "type": "add",
+        "word": "Datum",
+        "date": "2024-10-13T21:04:30.751Z"
       }
     ],
     "levels": [
@@ -16822,6 +16838,10 @@
           {
             "length": 335,
             "date": "2024-10-13T21:03:54.078Z"
+          },
+          {
+            "length": 336,
+            "date": "2024-10-13T21:04:30.752Z"
           }
         ]
       },
