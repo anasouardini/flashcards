@@ -3503,6 +3503,16 @@
               "- [Ball]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kugelschreiber (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Ballpen]: "
+            ]
+          }
         }
       ]
     },
@@ -12913,6 +12923,11 @@
         "type": "add",
         "word": "Kugel",
         "date": "2024-10-13T17:59:03.073Z"
+      },
+      {
+        "type": "add",
+        "word": "Kugelschreiber",
+        "date": "2024-10-13T17:59:25.610Z"
       }
     ],
     "levels": [
@@ -16545,6 +16560,10 @@
           {
             "length": 321,
             "date": "2024-10-13T17:59:03.074Z"
+          },
+          {
+            "length": 322,
+            "date": "2024-10-13T17:59:25.610Z"
           }
         ]
       },
