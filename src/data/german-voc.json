@@ -3493,6 +3493,16 @@
               "- Forms: Ketten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kugel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Ball]: "
+            ]
+          }
         }
       ]
     },
@@ -12898,6 +12908,11 @@
         "type": "add",
         "word": "Kette",
         "date": "2024-10-13T17:57:28.463Z"
+      },
+      {
+        "type": "add",
+        "word": "Kugel",
+        "date": "2024-10-13T17:59:03.073Z"
       }
     ],
     "levels": [
@@ -16526,6 +16541,10 @@
           {
             "length": 320,
             "date": "2024-10-13T17:57:28.464Z"
+          },
+          {
+            "length": 321,
+            "date": "2024-10-13T17:59:03.074Z"
           }
         ]
       },
