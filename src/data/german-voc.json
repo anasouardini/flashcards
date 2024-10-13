@@ -3452,6 +3452,16 @@
               "- Forms: Materialen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Eckig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Square]: "
+            ]
+          }
         }
       ]
     },
@@ -12837,6 +12847,11 @@
         "type": "add",
         "word": "Material",
         "date": "2024-10-13T17:47:30.988Z"
+      },
+      {
+        "type": "add",
+        "word": "Eckig",
+        "date": "2024-10-13T17:51:40.208Z"
       }
     ],
     "levels": [
@@ -16449,6 +16464,10 @@
           {
             "length": 316,
             "date": "2024-10-13T17:47:30.989Z"
+          },
+          {
+            "length": 317,
+            "date": "2024-10-13T17:51:40.209Z"
           }
         ]
       },
