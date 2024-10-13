@@ -3455,7 +3455,7 @@
         },
         {
           "front": {
-            "content": "Eckig (adj.)"
+            "content": "Eckig (noun, sngular, neuter)"
           },
           "back": {
             "content": [
@@ -3470,6 +3470,16 @@
           "back": {
             "content": [
               "- [Circle]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fotoapparat (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Camera]: "
             ]
           }
         }
@@ -12867,6 +12877,11 @@
         "type": "add",
         "word": "Kreis",
         "date": "2024-10-13T17:52:40.734Z"
+      },
+      {
+        "type": "add",
+        "word": "Fotoapparat",
+        "date": "2024-10-13T17:56:28.198Z"
       }
     ],
     "levels": [
@@ -16487,6 +16502,10 @@
           {
             "length": 318,
             "date": "2024-10-13T17:52:40.735Z"
+          },
+          {
+            "length": 319,
+            "date": "2024-10-13T17:56:28.198Z"
           }
         ]
       },
