@@ -3579,6 +3579,16 @@
               "- Forms: Bestellungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bestellen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Order (a product)]: "
+            ]
+          }
         }
       ]
     },
@@ -13024,6 +13034,11 @@
         "type": "add",
         "word": "Bestellung",
         "date": "2024-10-13T20:30:12.921Z"
+      },
+      {
+        "type": "add",
+        "word": "Bestellen",
+        "date": "2024-10-13T20:50:21.878Z"
       }
     ],
     "levels": [
@@ -16684,6 +16699,10 @@
           {
             "length": 328,
             "date": "2024-10-13T20:30:12.922Z"
+          },
+          {
+            "length": 329,
+            "date": "2024-10-13T20:50:21.878Z"
           }
         ]
       },
