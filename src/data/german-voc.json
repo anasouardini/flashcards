@@ -3557,6 +3557,17 @@
               "- Forms: Produkte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Uhr (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Clock/Watch]: ",
+              "- Forms: Uren (plural)"
+            ]
+          }
         }
       ]
     },
@@ -12992,6 +13003,11 @@
         "type": "add",
         "word": "Produkte",
         "date": "2024-10-13T18:45:06.306Z"
+      },
+      {
+        "type": "add",
+        "word": "Uhr",
+        "date": "2024-10-13T20:24:11.352Z"
       }
     ],
     "levels": [
@@ -16644,6 +16660,10 @@
           {
             "length": 326,
             "date": "2024-10-13T18:45:06.306Z"
+          },
+          {
+            "length": 327,
+            "date": "2024-10-13T20:24:11.353Z"
           }
         ]
       },
