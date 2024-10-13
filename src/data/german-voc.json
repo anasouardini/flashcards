@@ -3409,6 +3409,16 @@
               "- [Glass]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Holz (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Wood]: "
+            ]
+          }
         }
       ]
     },
@@ -12774,6 +12784,11 @@
         "type": "add",
         "word": "Glas",
         "date": "2024-10-13T17:07:59.661Z"
+      },
+      {
+        "type": "add",
+        "word": "Holz",
+        "date": "2024-10-13T17:08:34.093Z"
       }
     ],
     "levels": [
@@ -16370,6 +16385,10 @@
           {
             "length": 312,
             "date": "2024-10-13T17:07:59.731Z"
+          },
+          {
+            "length": 313,
+            "date": "2024-10-13T17:08:34.094Z"
           }
         ]
       },
