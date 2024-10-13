@@ -339,6 +339,16 @@
               "- [No, not for a long time.]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wie geht's dir so?"
+          },
+          "back": {
+            "content": [
+              "- [How are you?]: "
+            ]
+          }
         }
       ]
     },
@@ -559,6 +569,11 @@
         "type": "add",
         "word": "Nein,",
         "date": "2024-10-12T09:29:08.390Z"
+      },
+      {
+        "type": "add",
+        "word": "Wie",
+        "date": "2024-10-13T12:28:37.357Z"
       }
     ],
     "levels": [
@@ -695,6 +710,10 @@
           {
             "length": 33,
             "date": "2024-10-12T09:29:08.391Z"
+          },
+          {
+            "length": 34,
+            "date": "2024-10-13T12:28:37.430Z"
           }
         ]
       },
