@@ -3534,6 +3534,17 @@
               "- [Designer(s)]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Mischen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Mixing]: ",
+              "- Forms: Mischen (v.)"
+            ]
+          }
         }
       ]
     },
@@ -12959,6 +12970,11 @@
         "type": "add",
         "word": "Designer",
         "date": "2024-10-13T18:02:14.835Z"
+      },
+      {
+        "type": "add",
+        "word": "Mischen",
+        "date": "2024-10-13T18:42:09.039Z"
       }
     ],
     "levels": [
@@ -16603,6 +16619,10 @@
           {
             "length": 324,
             "date": "2024-10-13T18:02:14.836Z"
+          },
+          {
+            "length": 325,
+            "date": "2024-10-13T18:42:09.039Z"
           }
         ]
       },
