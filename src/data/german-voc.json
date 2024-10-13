@@ -3632,6 +3632,17 @@
               "- Forms: Straßen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Menge (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Quantity]: ",
+              "- Forms: Mengen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13102,6 +13113,11 @@
         "type": "add",
         "word": "Straße",
         "date": "2024-10-13T20:59:42.940Z"
+      },
+      {
+        "type": "add",
+        "word": "Menge",
+        "date": "2024-10-13T21:00:21.889Z"
       }
     ],
     "levels": [
@@ -16782,6 +16798,10 @@
           {
             "length": 333,
             "date": "2024-10-13T20:59:42.940Z"
+          },
+          {
+            "length": 334,
+            "date": "2024-10-13T21:00:21.889Z"
           }
         ]
       },
