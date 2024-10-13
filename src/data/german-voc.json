@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 292,
+      "currentCardIndex": 302,
       "currentCardSide": "back",
       "cards": [
         {
@@ -3183,16 +3183,6 @@
             "content": [
               "- [Lighter]: ",
               "- Forms: Feuerzeuge (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zeichnen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Draw]: "
             ]
           }
         },
@@ -12532,11 +12522,6 @@
         "type": "add",
         "word": "Feuerzeug",
         "date": "2024-10-11T06:38:48.473Z"
-      },
-      {
-        "type": "add",
-        "word": "Zeichnen",
-        "date": "2024-10-11T06:42:51.229Z"
       },
       {
         "type": "add",
