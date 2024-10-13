@@ -3731,6 +3731,17 @@
               "- Forms: Handys (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Arbeitsplatz (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Workplace]: ",
+              "- Forms: Arbeitsplätze (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13246,6 +13257,11 @@
         "type": "add",
         "word": "Handy",
         "date": "2024-10-13T21:36:43.360Z"
+      },
+      {
+        "type": "add",
+        "word": "Arbeitsplatz",
+        "date": "2024-10-13T21:38:51.092Z"
       }
     ],
     "levels": [
@@ -16962,6 +16978,10 @@
           {
             "length": 342,
             "date": "2024-10-13T21:36:43.360Z"
+          },
+          {
+            "length": 343,
+            "date": "2024-10-13T21:38:51.092Z"
           }
         ]
       },
