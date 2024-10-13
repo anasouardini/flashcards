@@ -3437,7 +3437,19 @@
           "back": {
             "content": [
               "- [Form]: ",
+              "- [To Form] (v.): ",
               "- Forms: Formen (plural), Formen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Material (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Material]: ",
+              "- Forms: Materialen (plural)"
             ]
           }
         }
@@ -12820,6 +12832,11 @@
         "type": "add",
         "word": "Form",
         "date": "2024-10-13T17:27:59.177Z"
+      },
+      {
+        "type": "add",
+        "word": "Material",
+        "date": "2024-10-13T17:47:30.988Z"
       }
     ],
     "levels": [
@@ -16428,6 +16445,10 @@
           {
             "length": 315,
             "date": "2024-10-13T17:27:59.177Z"
+          },
+          {
+            "length": 316,
+            "date": "2024-10-13T17:47:30.989Z"
           }
         ]
       },
