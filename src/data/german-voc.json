@@ -3599,6 +3599,17 @@
               "- [Wish/Desire]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Angabe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Information]: ",
+              "- Forms: Angaben (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13054,6 +13065,11 @@
         "type": "add",
         "word": "Möchten",
         "date": "2024-10-13T20:53:35.372Z"
+      },
+      {
+        "type": "add",
+        "word": "Angabe",
+        "date": "2024-10-13T20:56:22.540Z"
       }
     ],
     "levels": [
@@ -16722,6 +16738,10 @@
           {
             "length": 330,
             "date": "2024-10-13T20:53:35.372Z"
+          },
+          {
+            "length": 331,
+            "date": "2024-10-13T20:56:22.541Z"
           }
         ]
       },
