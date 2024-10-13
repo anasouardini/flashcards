@@ -3686,6 +3686,17 @@
               "- [To Request]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "See (noun, singular, masculine/feminine)"
+          },
+          "back": {
+            "content": [
+              "- [See]: ",
+              "- Forms: Seen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13181,6 +13192,11 @@
         "type": "add",
         "word": "Bitten",
         "date": "2024-10-13T21:13:41.270Z"
+      },
+      {
+        "type": "add",
+        "word": "See",
+        "date": "2024-10-13T21:18:29.566Z"
       }
     ],
     "levels": [
@@ -16881,6 +16897,10 @@
           {
             "length": 338,
             "date": "2024-10-13T21:13:41.271Z"
+          },
+          {
+            "length": 339,
+            "date": "2024-10-13T21:18:29.567Z"
           }
         ]
       },
