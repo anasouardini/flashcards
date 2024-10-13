@@ -3496,7 +3496,7 @@
         },
         {
           "front": {
-            "content": "Kugel (noun, singular, masculine)"
+            "content": "Kugel (noun, singular, feminine)"
           },
           "back": {
             "content": [
@@ -3511,6 +3511,17 @@
           "back": {
             "content": [
               "- [Ballpen]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tasche (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Pocket/Bag]: ",
+              "- Forms: Taschen (plural)"
             ]
           }
         }
@@ -12928,6 +12939,11 @@
         "type": "add",
         "word": "Kugelschreiber",
         "date": "2024-10-13T17:59:25.610Z"
+      },
+      {
+        "type": "add",
+        "word": "Tasche",
+        "date": "2024-10-13T18:00:32.915Z"
       }
     ],
     "levels": [
@@ -16564,6 +16580,10 @@
           {
             "length": 322,
             "date": "2024-10-13T17:59:25.610Z"
+          },
+          {
+            "length": 323,
+            "date": "2024-10-13T18:00:32.915Z"
           }
         ]
       },
