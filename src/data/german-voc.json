@@ -3693,8 +3693,20 @@
           },
           "back": {
             "content": [
-              "- [See]: ",
+              "- [Lake] (f.): ",
+              "- [Sea/Ocean] (m.): ",
               "- Forms: Seen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Büro (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Office]: ",
+              "- Forms: Büros (plural)"
             ]
           }
         }
@@ -13197,6 +13209,11 @@
         "type": "add",
         "word": "See",
         "date": "2024-10-13T21:18:29.566Z"
+      },
+      {
+        "type": "add",
+        "word": "Büro",
+        "date": "2024-10-13T21:32:33.048Z"
       }
     ],
     "levels": [
@@ -16901,6 +16918,10 @@
           {
             "length": 339,
             "date": "2024-10-13T21:18:29.567Z"
+          },
+          {
+            "length": 340,
+            "date": "2024-10-13T21:32:33.048Z"
           }
         ]
       },
