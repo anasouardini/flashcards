@@ -3709,6 +3709,17 @@
               "- Forms: Büros (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Strategie (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Strategy]: ",
+              "- Forms: Strategien (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13214,6 +13225,11 @@
         "type": "add",
         "word": "Büro",
         "date": "2024-10-13T21:32:33.048Z"
+      },
+      {
+        "type": "add",
+        "word": "Strategie",
+        "date": "2024-10-13T21:34:17.115Z"
       }
     ],
     "levels": [
@@ -16922,6 +16938,10 @@
           {
             "length": 340,
             "date": "2024-10-13T21:32:33.048Z"
+          },
+          {
+            "length": 341,
+            "date": "2024-10-13T21:34:17.115Z"
           }
         ]
       },
