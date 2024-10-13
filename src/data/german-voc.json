@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 302,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -221,7 +221,8 @@
           "back": {
             "content": [
               "- [At any time]: ",
-              "- Forms: "
+              "- [Any] (pron.): ",
+              "- Forms: Jederzeit (pronoun)"
             ]
           }
         },
@@ -3306,7 +3307,7 @@
           "back": {
             "content": [
               "- [Time]: ",
-              "- [Times] (prep.): 3 mal 3 = 9 : 3 times 3 = 9",
+              "- [Times] (prep.): 3 mal 3 gleich 9 : 3 times 3 equal 9",
               "- [Times] (suffix): hundertmal : hundred times",
               "- [From time to time] (adv.):",
               "- Forms: -mal (suffix), Mal (adv.), Mal (prep.)"
@@ -3391,16 +3392,6 @@
         },
         {
           "front": {
-            "content": "Passen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Fit]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Paar (noun, singular, neuter)"
           },
           "back": {
@@ -3408,21 +3399,11 @@
               "- [Pair/Couple]: "
             ]
           }
-        },
-        {
-          "front": {
-            "content": "Jederzeit (pronoun/quantifier)"
-          },
-          "back": {
-            "content": [
-              "- [Any]: "
-            ]
-          }
         }
       ]
     },
     {
-      "currentCardIndex": 106,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -4643,7 +4624,7 @@
     },
     {
       "currentCardIndex": 0,
-      "currentCardSide": "back",
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -12615,11 +12596,6 @@
       },
       {
         "type": "add",
-        "word": "Passen",
-        "date": "2024-10-12T09:33:43.013Z"
-      },
-      {
-        "type": "add",
         "word": "Paar",
         "date": "2024-10-12T09:35:01.339Z"
       },
@@ -12636,11 +12612,6 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-12T19:22:58.703Z"
-      },
-      {
-        "type": "add",
-        "word": "Jederzeit",
-        "date": "2024-10-12T19:32:06.019Z"
       },
       {
         "type": "move",
