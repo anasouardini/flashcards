@@ -3482,6 +3482,17 @@
               "- [Camera]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kette (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Chain/Necklace]: ",
+              "- Forms: Ketten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -12882,6 +12893,11 @@
         "type": "add",
         "word": "Fotoapparat",
         "date": "2024-10-13T17:56:28.198Z"
+      },
+      {
+        "type": "add",
+        "word": "Kette",
+        "date": "2024-10-13T17:57:28.463Z"
       }
     ],
     "levels": [
@@ -16506,6 +16522,10 @@
           {
             "length": 319,
             "date": "2024-10-13T17:56:28.198Z"
+          },
+          {
+            "length": 320,
+            "date": "2024-10-13T17:57:28.464Z"
           }
         ]
       },
