@@ -3568,6 +3568,17 @@
               "- Forms: Uren (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bestellung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Order]: ",
+              "- Forms: Bestellungen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13008,6 +13019,11 @@
         "type": "add",
         "word": "Uhr",
         "date": "2024-10-13T20:24:11.352Z"
+      },
+      {
+        "type": "add",
+        "word": "Bestellung",
+        "date": "2024-10-13T20:30:12.921Z"
       }
     ],
     "levels": [
@@ -16664,6 +16680,10 @@
           {
             "length": 327,
             "date": "2024-10-13T20:24:11.353Z"
+          },
+          {
+            "length": 328,
+            "date": "2024-10-13T20:30:12.922Z"
           }
         ]
       },
