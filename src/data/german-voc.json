@@ -3462,6 +3462,16 @@
               "- [Square]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kreis (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Circle]: "
+            ]
+          }
         }
       ]
     },
@@ -12852,6 +12862,11 @@
         "type": "add",
         "word": "Eckig",
         "date": "2024-10-13T17:51:40.208Z"
+      },
+      {
+        "type": "add",
+        "word": "Kreis",
+        "date": "2024-10-13T17:52:40.734Z"
       }
     ],
     "levels": [
@@ -16468,6 +16483,10 @@
           {
             "length": 317,
             "date": "2024-10-13T17:51:40.209Z"
+          },
+          {
+            "length": 318,
+            "date": "2024-10-13T17:52:40.735Z"
           }
         ]
       },
