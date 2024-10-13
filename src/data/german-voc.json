@@ -3720,6 +3720,17 @@
               "- Forms: Strategien (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Handy (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Mobile]: ",
+              "- Forms: Handys (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13230,6 +13241,11 @@
         "type": "add",
         "word": "Strategie",
         "date": "2024-10-13T21:34:17.115Z"
+      },
+      {
+        "type": "add",
+        "word": "Handy",
+        "date": "2024-10-13T21:36:43.360Z"
       }
     ],
     "levels": [
@@ -16942,6 +16958,10 @@
           {
             "length": 341,
             "date": "2024-10-13T21:34:17.115Z"
+          },
+          {
+            "length": 342,
+            "date": "2024-10-13T21:36:43.360Z"
           }
         ]
       },
