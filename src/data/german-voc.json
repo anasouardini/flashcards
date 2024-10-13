@@ -3610,6 +3610,17 @@
               "- Forms: Angaben (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nummer (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Number]: ",
+              "- Forms: Nummern (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13070,6 +13081,11 @@
         "type": "add",
         "word": "Angabe",
         "date": "2024-10-13T20:56:22.540Z"
+      },
+      {
+        "type": "add",
+        "word": "Nummer",
+        "date": "2024-10-13T20:58:41.306Z"
       }
     ],
     "levels": [
@@ -16742,6 +16758,10 @@
           {
             "length": 331,
             "date": "2024-10-13T20:56:22.541Z"
+          },
+          {
+            "length": 332,
+            "date": "2024-10-13T20:58:41.306Z"
           }
         ]
       },
