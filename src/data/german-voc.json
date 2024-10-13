@@ -3542,7 +3542,19 @@
           "back": {
             "content": [
               "- [Mixing]: ",
+              "- [To Mix] (v.): ",
               "- Forms: Mischen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Produkte (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Product]: ",
+              "- Forms: Produkte (plural)"
             ]
           }
         }
@@ -12975,6 +12987,11 @@
         "type": "add",
         "word": "Mischen",
         "date": "2024-10-13T18:42:09.039Z"
+      },
+      {
+        "type": "add",
+        "word": "Produkte",
+        "date": "2024-10-13T18:45:06.306Z"
       }
     ],
     "levels": [
@@ -16623,6 +16640,10 @@
           {
             "length": 325,
             "date": "2024-10-13T18:42:09.039Z"
+          },
+          {
+            "length": 326,
+            "date": "2024-10-13T18:45:06.306Z"
           }
         ]
       },
