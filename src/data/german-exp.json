@@ -359,6 +359,16 @@
               "- [No problem]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schöne Grüße."
+          },
+          "back": {
+            "content": [
+              "- [Kind regards.]: "
+            ]
+          }
         }
       ]
     },
@@ -589,6 +599,11 @@
         "type": "add",
         "word": "Kein",
         "date": "2024-10-13T21:15:12.943Z"
+      },
+      {
+        "type": "add",
+        "word": "Schöne",
+        "date": "2024-10-14T04:22:58.746Z"
       }
     ],
     "levels": [
@@ -733,6 +748,10 @@
           {
             "length": 35,
             "date": "2024-10-13T21:15:12.944Z"
+          },
+          {
+            "length": 36,
+            "date": "2024-10-14T04:22:58.746Z"
           }
         ]
       },
