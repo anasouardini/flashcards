@@ -3850,6 +3850,17 @@
               "- Forms: Kalender (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bildschirm (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Screen]: ",
+              "- Forms: Bildschirme (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13420,6 +13431,11 @@
         "type": "add",
         "word": "Kalender",
         "date": "2024-10-14T05:23:08.085Z"
+      },
+      {
+        "type": "add",
+        "word": "Bildschirm",
+        "date": "2024-10-14T05:23:51.988Z"
       }
     ],
     "levels": [
@@ -17180,6 +17196,10 @@
           {
             "length": 353,
             "date": "2024-10-14T05:23:08.086Z"
+          },
+          {
+            "length": 354,
+            "date": "2024-10-14T05:23:51.988Z"
           }
         ]
       },
