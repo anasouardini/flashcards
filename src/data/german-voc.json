@@ -3894,6 +3894,16 @@
               "- [There]: Da sind : there are"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Himmel (noun, singular/plural, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sky/Skies]: "
+            ]
+          }
         }
       ]
     },
@@ -13484,6 +13494,11 @@
         "type": "add",
         "word": "Da",
         "date": "2024-10-14T06:03:26.586Z"
+      },
+      {
+        "type": "add",
+        "word": "Himmel",
+        "date": "2024-10-14T06:10:48.275Z"
       }
     ],
     "levels": [
@@ -17260,6 +17275,10 @@
           {
             "length": 357,
             "date": "2024-10-14T06:03:26.586Z"
+          },
+          {
+            "length": 358,
+            "date": "2024-10-14T06:10:48.284Z"
           }
         ]
       },
