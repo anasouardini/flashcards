@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 115,
-      "currentCardSide": "front",
+      "currentCardIndex": 137,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -1300,17 +1300,6 @@
         },
         {
           "front": {
-            "content": "Persönlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Personal]: ",
-              "- Forms: Persönlich (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Persönlichkeit (noun, singular, feminine)"
           },
           "back": {
@@ -1333,17 +1322,6 @@
         },
         {
           "front": {
-            "content": "Partner (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Partner]: ",
-              "- Forms: Partnerin (feminine), Partners (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zuordnen (v.)"
           },
           "back": {
@@ -1354,31 +1332,11 @@
         },
         {
           "front": {
-            "content": "Ordnen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Order (1st, 2nd, etc)]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Einmal (adv.)"
           },
           "back": {
             "content": [
               "- [Once/One day]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sehr (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Very/Really/Much]: "
             ]
           }
         },
@@ -3776,16 +3734,6 @@
         },
         {
           "front": {
-            "content": "Vorname (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [First name]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Nachname (noun, singular, masculine)"
           },
           "back": {
@@ -4614,6 +4562,48 @@
           "back": {
             "content": [
               "- [First name]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Persönlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Personal]: ",
+              "- Forms: Persönlich (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Partner (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Partner]: ",
+              "- Forms: Partnerin (feminine), Partners (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ordnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Order (1st, 2nd, etc)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sehr (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Very/Really/Much]: "
             ]
           }
         }
@@ -12166,11 +12156,6 @@
       },
       {
         "type": "add",
-        "word": "Vorname",
-        "date": "2024-10-09T08:46:48.765Z"
-      },
-      {
-        "type": "add",
         "word": "Beratung",
         "date": "2024-10-09T08:52:08.173Z"
       },
@@ -14443,10 +14428,31 @@
       },
       {
         "type": "move",
-        "word": "Vorname",
+        "word": "Persönlich",
         "fromLevel": 0,
         "toLevel": 1,
-        "date": "2024-10-14T19:43:13.667Z"
+        "date": "2024-10-14T19:45:47.458Z"
+      },
+      {
+        "type": "move",
+        "word": "Partner",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T19:46:56.867Z"
+      },
+      {
+        "type": "move",
+        "word": "Ordnen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T19:47:14.539Z"
+      },
+      {
+        "type": "move",
+        "word": "Sehr",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T19:47:30.355Z"
       }
     ],
     "levels": [
@@ -18531,6 +18537,22 @@
           {
             "length": 294,
             "date": "2024-10-14T19:43:13.667Z"
+          },
+          {
+            "length": 293,
+            "date": "2024-10-14T19:45:47.458Z"
+          },
+          {
+            "length": 292,
+            "date": "2024-10-14T19:46:56.867Z"
+          },
+          {
+            "length": 291,
+            "date": "2024-10-14T19:47:14.539Z"
+          },
+          {
+            "length": 290,
+            "date": "2024-10-14T19:47:30.355Z"
           }
         ]
       },
@@ -20899,6 +20921,18 @@
           {
             "length": 129,
             "date": "2024-10-14T19:43:13.667Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-10-14T19:46:56.867Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-10-14T19:47:14.539Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-10-14T19:47:30.355Z"
           }
         ]
       },
