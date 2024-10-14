@@ -3915,6 +3915,17 @@
               "- Forms: Köpfe (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Fragebogen (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Quetionaire]: ",
+              "- Forms: Fragebogen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13515,6 +13526,11 @@
         "type": "add",
         "word": "Kopf",
         "date": "2024-10-14T06:12:10.864Z"
+      },
+      {
+        "type": "add",
+        "word": "Fragebogen",
+        "date": "2024-10-14T06:19:49.511Z"
       }
     ],
     "levels": [
@@ -17299,6 +17315,10 @@
           {
             "length": 359,
             "date": "2024-10-14T06:12:10.865Z"
+          },
+          {
+            "length": 360,
+            "date": "2024-10-14T06:19:49.511Z"
           }
         ]
       },
