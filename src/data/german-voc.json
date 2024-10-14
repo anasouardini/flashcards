@@ -3753,6 +3753,17 @@
               "- Forms: Rechnungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Mann (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Man]: ",
+              "- Forms: Männer (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13278,6 +13289,11 @@
         "type": "add",
         "word": "Rechnung",
         "date": "2024-10-14T04:04:47.646Z"
+      },
+      {
+        "type": "add",
+        "word": "Mann",
+        "date": "2024-10-14T04:06:57.435Z"
       }
     ],
     "levels": [
@@ -17002,6 +17018,10 @@
           {
             "length": 344,
             "date": "2024-10-14T04:04:47.722Z"
+          },
+          {
+            "length": 345,
+            "date": "2024-10-14T04:06:57.435Z"
           }
         ]
       },
