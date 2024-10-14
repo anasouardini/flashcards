@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 26,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -62,99 +62,11 @@
         },
         {
           "front": {
-            "content": "Auch (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Also]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Herzlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Kind]: Herzlich Wilkommen : Kind welcome",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Langsam (adj.)"
           },
           "back": {
             "content": [
               "- [Slow]: Auf langsamem Deutsch : In slow German",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Auf (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [in/at/on/for]: Auf Deutsch : In German",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nähe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Near/Approximity]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Seit (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Since]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Geschwister (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Sibling]: ",
-              "- Forms: Geschwister (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schwester (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Sister]: ",
-              "- Forms: Schwestern (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Jüngere (noun, singular, fiminine)"
-          },
-          "back": {
-            "content": [
-              "- [Junior]: ",
               "- Forms: "
             ]
           }
@@ -172,17 +84,6 @@
         },
         {
           "front": {
-            "content": "Erste (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [First]: Ich bin der erste : I'm the first",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Außer (prep.)"
           },
           "back": {
@@ -194,56 +95,11 @@
         },
         {
           "front": {
-            "content": "Abmelden (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Cancel]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wieder (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Again]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Jederzeit (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [At any time]: ",
-              "- [Any] (pron.): ",
-              "- Forms: Jederzeit (pronoun)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Freuen (v.)"
           },
           "back": {
             "content": [
               "- [Be pleased]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Dort (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [There]: ",
               "- Forms: "
             ]
           }
@@ -289,39 +145,6 @@
             "content": [
               "- [As]: ",
               "- [Than]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Geschichte (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [History]: ",
-              "- Forms: Geschichte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Werden (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To become/get]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sagen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To say]: ",
               "- Forms: "
             ]
           }
@@ -395,99 +218,11 @@
         },
         {
           "front": {
-            "content": "Lassen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To leave/let]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schlecht (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Bad]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Witzig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Funny]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Entschuldigung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Excuse/Appology]: ",
-              "- Forms: Entschuldigungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Muss (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [Must]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Angebot (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Offer]: ",
-              "- Forms: Angebote (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Viel (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Much]: Das Geschenk hat nicht viel gekostet : the present did not cost much",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bar (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Cash]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nur (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Only]: ",
               "- Forms: "
             ]
           }
@@ -505,17 +240,6 @@
         },
         {
           "front": {
-            "content": "Haltestelle (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Stop/Station]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Verspätung (noun, singular, feminine)"
           },
           "back": {
@@ -527,67 +251,12 @@
         },
         {
           "front": {
-            "content": "Treppe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Stair]: ",
-              "- Forms: Treppen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Rolltreppe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Escalator]: ",
-              "- Forms: Rolltreppen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Eingang (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Entrance]: ",
-              "- Forms: Eingänge (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wiedersehen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Good Bye]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Aufzug (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Elevator]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ausgang (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Exit]: ",
-              "- Forms: Ausgänge (plural)"
             ]
           }
         },
@@ -615,78 +284,12 @@
         },
         {
           "front": {
-            "content": "Zimmer (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Room]: ",
-              "- Forms: Zimmer (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wohnung (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Apartment/Flat]: ",
               "- Forms: Wohnungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Reservierung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Rservation]: ",
-              "- Forms: Rservierungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Reise (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Travel]: ",
-              "- Forms: Reisen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Reisepass (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Passport]: ",
-              "- Forms: Reisepässe (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Stock (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Floor]: ",
-              "- Forms: Stöcke (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bitteschön (interjection?)"
-          },
-          "back": {
-            "content": [
-              "- [Here you are]: ",
-              "- Forms: "
             ]
           }
         },
@@ -3954,6 +3557,7 @@
           "back": {
             "content": [
               "- [Printer]: ",
+              "- [To Print]: ",
               "- Forms: Drucke (v.)"
             ]
           }
@@ -4055,17 +3659,6 @@
         },
         {
           "front": {
-            "content": "Abend (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Evening]: ",
-              "- Other Forms: Abende (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Hier (adv.)"
           },
           "back": {
@@ -4122,67 +3715,11 @@
         },
         {
           "front": {
-            "content": "Wie (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [How]: ",
-              "- [Like] (prep.): ",
-              "- Forms: Wie (preposition)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "So (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [That/As]: Das Problem war nicht so einfach zu lösen : The problem was not that easy to resolve.",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Frage (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Question]: ",
-              "- Forms: Frangen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gern (adv.)"
           },
           "back": {
             "content": [
               "- [Gladly/With pleasure]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mensch (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Person]: ",
-              "- Forms: Menschen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wenn (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [If/When]: ",
               "- Forms: "
             ]
           }
@@ -4195,17 +3732,6 @@
             "content": [
               "- [Capital City]: ",
               "- Forms: Häuptstadte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tochter (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Daughter]: ",
-              "- Forms: Töchter (plural)"
             ]
           }
         },
@@ -4245,45 +3771,12 @@
         },
         {
           "front": {
-            "content": "Firma (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Company]: ",
-              "- Forms: Firmen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Denken (v.)"
           },
           "back": {
             "content": [
               "- [To think]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tun (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To do]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Klo (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Toilet]: ",
-              "- Forms: Klos (plural)"
             ]
           }
         },
@@ -4300,189 +3793,12 @@
         },
         {
           "front": {
-            "content": "Einladen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To invite]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kochen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To cook]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kaputt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Broken]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hässlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Ugly]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Regelmäßig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Regular]: ",
-              "- [Regularly] (adv.): ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bildung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Education]: ",
-              "- Forms: Bildungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Für (prep.)"
           },
           "back": {
             "content": [
               "- [For]: ",
               "- [On behalf of]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zeit (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Time]: ",
-              "- Forms: Zeiten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Essen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Food]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Abendessen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Dinner]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mittagessen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Lunch]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Stellen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To put/place]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Versuchen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To try]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Suchen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To search/look/seek/find]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nachdem (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [After]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schauen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To watch/look]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tief (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Low]: ",
               "- Forms: "
             ]
           }
@@ -4505,17 +3821,6 @@
           "back": {
             "content": [
               "- [Thin]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Neugierig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Curious]: ",
               "- Forms: "
             ]
           }
@@ -4566,149 +3871,6 @@
         },
         {
           "front": {
-            "content": "Waschen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To wash]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Aber (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [But]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sein (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To be]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Geld (noun)"
-          },
-          "back": {
-            "content": [
-              "- [Money]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Präsentieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Present]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lecker (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Tasty]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Prost (interjetion)"
-          },
-          "back": {
-            "content": [
-              "- [Cheers]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Stimmt (adj./interjection)"
-          },
-          "back": {
-            "content": [
-              "- [True]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Passieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To happen]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Vergessen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To forget]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ändern (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Change]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nutzen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To use]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lieben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To love]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Kurz (adj.)"
           },
           "back": {
@@ -4743,55 +3905,11 @@
         },
         {
           "front": {
-            "content": "Schlimm (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Bad]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Halb (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Half]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Oft (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Often]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Ingenieur (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Engineer]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Student (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Student]: ",
-              "- Forms: Studenten (plural), Studentin (feminine)"
             ]
           }
         },
@@ -4808,66 +3926,12 @@
         },
         {
           "front": {
-            "content": "Job (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Job]: ",
-              "- Forms: Jobs (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Interview (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Interview]: ",
-              "- Forms: Interviews (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Person (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Person]: ",
-              "- Forms: Personen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Arbitgeber (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Employer]: ",
-              "- Forms: Arbitgeber (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Geber (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Giver/Donor]: ",
               "- Forms: Geber (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Vater (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Father]: "
             ]
           }
         },
@@ -4927,32 +3991,11 @@
         },
         {
           "front": {
-            "content": "Couch (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Couch/Sofa]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sorte (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Sort/Type/Kind]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gestern (noun, singular, neutre)"
-          },
-          "back": {
-            "content": [
-              "- [Yesterday]: ",
-              "- Other Forms: "
             ]
           }
         },
@@ -5050,17 +4093,6 @@
           "back": {
             "content": [
               "- [Grandma]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mutter (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Mother]: ",
-              "- Forms: Muttern (plural)"
             ]
           }
         },
@@ -5175,6 +4207,403 @@
           "back": {
             "content": [
               "- [Mother tongue]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auch (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Also]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Herzlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Kind]: Herzlich Wilkommen : Kind welcome",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auf (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [in/at/on/for]: Auf Deutsch : In German",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nähe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Near/Approximity]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Seit (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Since]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Geschwister (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Sibling]: ",
+              "- Forms: Geschwister (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schwester (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Sister]: ",
+              "- Forms: Schwestern (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Jüngere (noun, singular, fiminine)"
+          },
+          "back": {
+            "content": [
+              "- [Junior]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Erste (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [First]: Ich bin der erste : I'm the first",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Abmelden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Cancel]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wieder (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Again]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Jederzeit (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [At any time]: ",
+              "- [Any] (pron.): ",
+              "- Forms: Jederzeit (pronoun)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dort (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [There]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Geschichte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [History]: ",
+              "- Forms: Geschichte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Werden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To become/get]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sagen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To say]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lassen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To leave/let]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schlecht (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Bad]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Witzig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Funny]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Entschuldigung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Excuse/Appology]: ",
+              "- Forms: Entschuldigungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Angebot (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Offer]: ",
+              "- Forms: Angebote (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Viel (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Much]: Das Geschenk hat nicht viel gekostet : the present did not cost much",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bar (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Cash]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nur (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Only]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haltestelle (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Stop/Station]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Treppe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Stair]: ",
+              "- Forms: Treppen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Rolltreppe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Escalator]: ",
+              "- Forms: Rolltreppen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Eingang (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Entrance]: ",
+              "- Forms: Eingänge (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wiedersehen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Good Bye]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ausgang (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Exit]: ",
+              "- Forms: Ausgänge (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zimmer (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Room]: ",
+              "- Forms: Zimmer (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Reservierung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Rservation]: ",
+              "- Forms: Rservierungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Reise (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Travel]: ",
+              "- Forms: Reisen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Reisepass (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Passport]: ",
+              "- Forms: Reisepässe (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stock (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Floor]: ",
+              "- Forms: Stöcke (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bitteschön (interjection?)"
+          },
+          "back": {
+            "content": [
+              "- [Here you are]: ",
+              "- Forms: "
             ]
           }
         }
@@ -7029,6 +6458,578 @@
           "back": {
             "content": [
               "- [Photo]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Abend (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Evening]: ",
+              "- Other Forms: Abende (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [How]: ",
+              "- [Like] (prep.): ",
+              "- Forms: Wie (preposition)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "So (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [That/As]: Das Problem war nicht so einfach zu lösen : The problem was not that easy to resolve.",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Frage (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Question]: ",
+              "- Forms: Frangen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mensch (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Person]: ",
+              "- Forms: Menschen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wenn (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [If/When]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tochter (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Daughter]: ",
+              "- Forms: Töchter (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Firma (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Company]: ",
+              "- Forms: Firmen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tun (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To do]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Klo (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Toilet]: ",
+              "- Forms: Klos (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einladen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To invite]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kochen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To cook]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kaputt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Broken]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hässlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Ugly]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Regelmäßig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Regular]: ",
+              "- [Regularly] (adv.): ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bildung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Education]: ",
+              "- Forms: Bildungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Time]: ",
+              "- Forms: Zeiten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Essen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Food]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Abendessen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Dinner]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mittagessen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Lunch]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stellen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To put/place]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Versuchen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To try]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Suchen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To search/look/seek/find]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nachdem (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [After]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schauen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To watch/look]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tief (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Low]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Neugierig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Curious]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Waschen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To wash]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aber (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [But]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sein (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To be]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Geld (noun)"
+          },
+          "back": {
+            "content": [
+              "- [Money]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Präsentieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Present]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lecker (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Tasty]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Prost (interjetion)"
+          },
+          "back": {
+            "content": [
+              "- [Cheers]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stimmt (adj./interjection)"
+          },
+          "back": {
+            "content": [
+              "- [True]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Passieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To happen]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Vergessen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To forget]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ändern (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Change]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nutzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To use]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lieben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To love]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schlimm (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Bad]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Halb (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Half]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Oft (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Often]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Student (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Student]: ",
+              "- Forms: Studenten (plural), Studentin (feminine)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Job (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Job]: ",
+              "- Forms: Jobs (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Interview (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Interview]: ",
+              "- Forms: Interviews (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Person (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Person]: ",
+              "- Forms: Personen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Arbitgeber (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Employer]: ",
+              "- Forms: Arbitgeber (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Vater (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Father]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Couch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Couch/Sofa]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gestern (noun, singular, neutre)"
+          },
+          "back": {
+            "content": [
+              "- [Yesterday]: ",
+              "- Other Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mutter (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Mother]: ",
+              "- Forms: Muttern (plural)"
             ]
           }
         }
@@ -13577,6 +13578,622 @@
         "type": "add",
         "word": "Drucke",
         "date": "2024-10-14T06:43:51.337Z"
+      },
+      {
+        "type": "move",
+        "word": "Abend",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T12:59:43.772Z"
+      },
+      {
+        "type": "move",
+        "word": "Wie",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:00:37.900Z"
+      },
+      {
+        "type": "move",
+        "word": "So",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:00:52.028Z"
+      },
+      {
+        "type": "move",
+        "word": "Frage",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:01:01.172Z"
+      },
+      {
+        "type": "move",
+        "word": "Mensch",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:01:22.076Z"
+      },
+      {
+        "type": "move",
+        "word": "Wenn",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:01:33.715Z"
+      },
+      {
+        "type": "move",
+        "word": "Tochter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:02:03.307Z"
+      },
+      {
+        "type": "move",
+        "word": "Firma",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:02:23.451Z"
+      },
+      {
+        "type": "move",
+        "word": "Tun",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:02:38.243Z"
+      },
+      {
+        "type": "move",
+        "word": "Klo",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:02:41.835Z"
+      },
+      {
+        "type": "move",
+        "word": "Einladen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:03:55.825Z"
+      },
+      {
+        "type": "move",
+        "word": "Kochen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:04:02.243Z"
+      },
+      {
+        "type": "move",
+        "word": "Kaputt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:04:05.699Z"
+      },
+      {
+        "type": "move",
+        "word": "Hässlich",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:04:15.226Z"
+      },
+      {
+        "type": "move",
+        "word": "Regelmäßig",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:04:25.250Z"
+      },
+      {
+        "type": "move",
+        "word": "Bildung",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:04:46.138Z"
+      },
+      {
+        "type": "move",
+        "word": "Zeit",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:05:08.562Z"
+      },
+      {
+        "type": "move",
+        "word": "Essen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:05:34.778Z"
+      },
+      {
+        "type": "move",
+        "word": "Abendessen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:05:46.098Z"
+      },
+      {
+        "type": "move",
+        "word": "Mittagessen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:05:49.618Z"
+      },
+      {
+        "type": "move",
+        "word": "Stellen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:06:05.353Z"
+      },
+      {
+        "type": "move",
+        "word": "Versuchen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:06:22.770Z"
+      },
+      {
+        "type": "move",
+        "word": "Suchen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:06:28.194Z"
+      },
+      {
+        "type": "move",
+        "word": "Nachdem",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:06:36.610Z"
+      },
+      {
+        "type": "move",
+        "word": "Schauen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:06:45.151Z"
+      },
+      {
+        "type": "move",
+        "word": "Tief",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:06:48.407Z"
+      },
+      {
+        "type": "move",
+        "word": "Neugierig",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:07:21.270Z"
+      },
+      {
+        "type": "move",
+        "word": "Waschen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:07:51.434Z"
+      },
+      {
+        "type": "move",
+        "word": "Aber",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:07:53.850Z"
+      },
+      {
+        "type": "move",
+        "word": "Sein",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:07:57.977Z"
+      },
+      {
+        "type": "move",
+        "word": "Geld",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:01.690Z"
+      },
+      {
+        "type": "move",
+        "word": "Präsentieren",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:06.305Z"
+      },
+      {
+        "type": "move",
+        "word": "Lecker",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:11.641Z"
+      },
+      {
+        "type": "move",
+        "word": "Prost",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:15.705Z"
+      },
+      {
+        "type": "move",
+        "word": "Stimmt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:18.161Z"
+      },
+      {
+        "type": "move",
+        "word": "Passieren",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:21.105Z"
+      },
+      {
+        "type": "move",
+        "word": "Vergessen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:24.042Z"
+      },
+      {
+        "type": "move",
+        "word": "Ändern",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:26.961Z"
+      },
+      {
+        "type": "move",
+        "word": "Nutzen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:29.385Z"
+      },
+      {
+        "type": "move",
+        "word": "Lieben",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:32.162Z"
+      },
+      {
+        "type": "move",
+        "word": "Schlimm",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:55.785Z"
+      },
+      {
+        "type": "move",
+        "word": "Halb",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:08:58.265Z"
+      },
+      {
+        "type": "move",
+        "word": "Oft",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:09:01.004Z"
+      },
+      {
+        "type": "move",
+        "word": "Student",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:09:22.361Z"
+      },
+      {
+        "type": "move",
+        "word": "Job",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:10:01.321Z"
+      },
+      {
+        "type": "move",
+        "word": "Interview",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:10:06.145Z"
+      },
+      {
+        "type": "move",
+        "word": "Person",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:10:11.809Z"
+      },
+      {
+        "type": "move",
+        "word": "Arbitgeber",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:10:47.203Z"
+      },
+      {
+        "type": "move",
+        "word": "Vater",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:10:59.105Z"
+      },
+      {
+        "type": "move",
+        "word": "Couch",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:12:26.936Z"
+      },
+      {
+        "type": "move",
+        "word": "Gestern",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:12:41.609Z"
+      },
+      {
+        "type": "move",
+        "word": "Mutter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-14T13:14:27.640Z"
+      },
+      {
+        "type": "move",
+        "word": "Auch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:18:13.759Z"
+      },
+      {
+        "type": "move",
+        "word": "Herzlich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:18:19.775Z"
+      },
+      {
+        "type": "move",
+        "word": "Auf",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:18:36.903Z"
+      },
+      {
+        "type": "move",
+        "word": "Nähe",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:18:45.807Z"
+      },
+      {
+        "type": "move",
+        "word": "Seit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:18:51.879Z"
+      },
+      {
+        "type": "move",
+        "word": "Geschwister",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:19:03.855Z"
+      },
+      {
+        "type": "move",
+        "word": "Schwester",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:19:06.879Z"
+      },
+      {
+        "type": "move",
+        "word": "Jüngere",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:19:15.943Z"
+      },
+      {
+        "type": "move",
+        "word": "Erste",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:19:35.063Z"
+      },
+      {
+        "type": "move",
+        "word": "Abmelden",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:21:01.806Z"
+      },
+      {
+        "type": "move",
+        "word": "Wieder",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:21:08.206Z"
+      },
+      {
+        "type": "move",
+        "word": "Jederzeit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:21:28.646Z"
+      },
+      {
+        "type": "move",
+        "word": "Dort",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:21:40.446Z"
+      },
+      {
+        "type": "move",
+        "word": "Geschichte",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:23:02.710Z"
+      },
+      {
+        "type": "move",
+        "word": "Werden",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:23:09.166Z"
+      },
+      {
+        "type": "move",
+        "word": "Sagen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T13:23:12.646Z"
+      },
+      {
+        "type": "move",
+        "word": "Lassen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:28:33.375Z"
+      },
+      {
+        "type": "move",
+        "word": "Schlecht",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:28:40.973Z"
+      },
+      {
+        "type": "move",
+        "word": "Witzig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:28:47.183Z"
+      },
+      {
+        "type": "move",
+        "word": "Entschuldigung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:28:59.495Z"
+      },
+      {
+        "type": "move",
+        "word": "Angebot",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:29:16.934Z"
+      },
+      {
+        "type": "move",
+        "word": "Viel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:29:24.135Z"
+      },
+      {
+        "type": "move",
+        "word": "Bar",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:29:31.623Z"
+      },
+      {
+        "type": "move",
+        "word": "Nur",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:29:41.743Z"
+      },
+      {
+        "type": "move",
+        "word": "Haltestelle",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:29:58.943Z"
+      },
+      {
+        "type": "move",
+        "word": "Treppe",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:30:19.143Z"
+      },
+      {
+        "type": "move",
+        "word": "Rolltreppe",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:30:26.935Z"
+      },
+      {
+        "type": "move",
+        "word": "Eingang",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:30:32.703Z"
+      },
+      {
+        "type": "move",
+        "word": "Wiedersehen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:30:41.575Z"
+      },
+      {
+        "type": "move",
+        "word": "Ausgang",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:30:56.567Z"
+      },
+      {
+        "type": "move",
+        "word": "Zimmer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:31:22.366Z"
+      },
+      {
+        "type": "move",
+        "word": "Reservierung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:31:39.887Z"
+      },
+      {
+        "type": "move",
+        "word": "Reise",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:31:45.510Z"
+      },
+      {
+        "type": "move",
+        "word": "Reisepass",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:31:49.743Z"
+      },
+      {
+        "type": "move",
+        "word": "Stock",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:31:52.951Z"
+      },
+      {
+        "type": "move",
+        "word": "Bitteschön",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:32:05.286Z"
       }
     ],
     "levels": [
@@ -17377,6 +17994,150 @@
           {
             "length": 363,
             "date": "2024-10-14T06:43:51.408Z"
+          },
+          {
+            "length": 362,
+            "date": "2024-10-14T13:18:13.759Z"
+          },
+          {
+            "length": 361,
+            "date": "2024-10-14T13:18:19.775Z"
+          },
+          {
+            "length": 360,
+            "date": "2024-10-14T13:18:36.903Z"
+          },
+          {
+            "length": 359,
+            "date": "2024-10-14T13:18:45.807Z"
+          },
+          {
+            "length": 358,
+            "date": "2024-10-14T13:18:51.879Z"
+          },
+          {
+            "length": 357,
+            "date": "2024-10-14T13:19:03.855Z"
+          },
+          {
+            "length": 356,
+            "date": "2024-10-14T13:19:06.879Z"
+          },
+          {
+            "length": 355,
+            "date": "2024-10-14T13:19:15.943Z"
+          },
+          {
+            "length": 354,
+            "date": "2024-10-14T13:19:35.063Z"
+          },
+          {
+            "length": 353,
+            "date": "2024-10-14T13:21:01.806Z"
+          },
+          {
+            "length": 352,
+            "date": "2024-10-14T13:21:08.206Z"
+          },
+          {
+            "length": 351,
+            "date": "2024-10-14T13:21:28.646Z"
+          },
+          {
+            "length": 350,
+            "date": "2024-10-14T13:21:40.446Z"
+          },
+          {
+            "length": 349,
+            "date": "2024-10-14T13:23:02.710Z"
+          },
+          {
+            "length": 348,
+            "date": "2024-10-14T13:23:09.166Z"
+          },
+          {
+            "length": 347,
+            "date": "2024-10-14T13:23:12.646Z"
+          },
+          {
+            "length": 346,
+            "date": "2024-10-14T18:28:33.375Z"
+          },
+          {
+            "length": 345,
+            "date": "2024-10-14T18:28:40.973Z"
+          },
+          {
+            "length": 344,
+            "date": "2024-10-14T18:28:47.183Z"
+          },
+          {
+            "length": 343,
+            "date": "2024-10-14T18:28:59.495Z"
+          },
+          {
+            "length": 342,
+            "date": "2024-10-14T18:29:16.934Z"
+          },
+          {
+            "length": 341,
+            "date": "2024-10-14T18:29:24.135Z"
+          },
+          {
+            "length": 340,
+            "date": "2024-10-14T18:29:31.623Z"
+          },
+          {
+            "length": 339,
+            "date": "2024-10-14T18:29:41.743Z"
+          },
+          {
+            "length": 338,
+            "date": "2024-10-14T18:29:58.943Z"
+          },
+          {
+            "length": 337,
+            "date": "2024-10-14T18:30:19.143Z"
+          },
+          {
+            "length": 336,
+            "date": "2024-10-14T18:30:26.935Z"
+          },
+          {
+            "length": 335,
+            "date": "2024-10-14T18:30:32.703Z"
+          },
+          {
+            "length": 334,
+            "date": "2024-10-14T18:30:41.575Z"
+          },
+          {
+            "length": 333,
+            "date": "2024-10-14T18:30:56.567Z"
+          },
+          {
+            "length": 332,
+            "date": "2024-10-14T18:31:22.366Z"
+          },
+          {
+            "length": 331,
+            "date": "2024-10-14T18:31:39.887Z"
+          },
+          {
+            "length": 330,
+            "date": "2024-10-14T18:31:45.510Z"
+          },
+          {
+            "length": 329,
+            "date": "2024-10-14T18:31:49.743Z"
+          },
+          {
+            "length": 328,
+            "date": "2024-10-14T18:31:52.951Z"
+          },
+          {
+            "length": 327,
+            "date": "2024-10-14T18:32:05.286Z"
           }
         ]
       },
@@ -19257,6 +20018,358 @@
           {
             "length": 111,
             "date": "2024-10-12T22:52:22.242Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-10-14T12:59:43.834Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-10-14T13:00:37.900Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-10-14T13:00:52.028Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-10-14T13:01:01.172Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-10-14T13:01:22.076Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-10-14T13:01:33.715Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-10-14T13:02:03.307Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-10-14T13:02:23.451Z"
+          },
+          {
+            "length": 102,
+            "date": "2024-10-14T13:02:38.243Z"
+          },
+          {
+            "length": 101,
+            "date": "2024-10-14T13:02:41.835Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-10-14T13:03:55.825Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-10-14T13:04:02.243Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-10-14T13:04:05.699Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-10-14T13:04:15.226Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-10-14T13:04:25.250Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-10-14T13:04:46.138Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-10-14T13:05:08.562Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-10-14T13:05:34.778Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-10-14T13:05:46.098Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-10-14T13:05:49.618Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-10-14T13:06:05.353Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-10-14T13:06:22.770Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-10-14T13:06:28.194Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-10-14T13:06:36.610Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-10-14T13:06:45.151Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-10-14T13:06:48.407Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-10-14T13:07:21.270Z"
+          },
+          {
+            "length": 83,
+            "date": "2024-10-14T13:07:51.434Z"
+          },
+          {
+            "length": 82,
+            "date": "2024-10-14T13:07:53.850Z"
+          },
+          {
+            "length": 81,
+            "date": "2024-10-14T13:07:57.977Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-10-14T13:08:01.690Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-10-14T13:08:06.305Z"
+          },
+          {
+            "length": 78,
+            "date": "2024-10-14T13:08:11.641Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-10-14T13:08:15.705Z"
+          },
+          {
+            "length": 76,
+            "date": "2024-10-14T13:08:18.161Z"
+          },
+          {
+            "length": 75,
+            "date": "2024-10-14T13:08:21.105Z"
+          },
+          {
+            "length": 74,
+            "date": "2024-10-14T13:08:24.042Z"
+          },
+          {
+            "length": 73,
+            "date": "2024-10-14T13:08:26.961Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-10-14T13:08:29.385Z"
+          },
+          {
+            "length": 71,
+            "date": "2024-10-14T13:08:32.162Z"
+          },
+          {
+            "length": 70,
+            "date": "2024-10-14T13:08:55.785Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-10-14T13:08:58.265Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-10-14T13:09:01.004Z"
+          },
+          {
+            "length": 67,
+            "date": "2024-10-14T13:09:22.361Z"
+          },
+          {
+            "length": 66,
+            "date": "2024-10-14T13:10:01.321Z"
+          },
+          {
+            "length": 65,
+            "date": "2024-10-14T13:10:06.145Z"
+          },
+          {
+            "length": 64,
+            "date": "2024-10-14T13:10:11.809Z"
+          },
+          {
+            "length": 63,
+            "date": "2024-10-14T13:10:47.203Z"
+          },
+          {
+            "length": 62,
+            "date": "2024-10-14T13:10:59.105Z"
+          },
+          {
+            "length": 61,
+            "date": "2024-10-14T13:12:26.936Z"
+          },
+          {
+            "length": 60,
+            "date": "2024-10-14T13:12:41.609Z"
+          },
+          {
+            "length": 59,
+            "date": "2024-10-14T13:14:27.640Z"
+          },
+          {
+            "length": 60,
+            "date": "2024-10-14T13:18:13.759Z"
+          },
+          {
+            "length": 61,
+            "date": "2024-10-14T13:18:19.775Z"
+          },
+          {
+            "length": 62,
+            "date": "2024-10-14T13:18:36.903Z"
+          },
+          {
+            "length": 63,
+            "date": "2024-10-14T13:18:45.807Z"
+          },
+          {
+            "length": 64,
+            "date": "2024-10-14T13:18:51.879Z"
+          },
+          {
+            "length": 65,
+            "date": "2024-10-14T13:19:03.855Z"
+          },
+          {
+            "length": 66,
+            "date": "2024-10-14T13:19:06.879Z"
+          },
+          {
+            "length": 67,
+            "date": "2024-10-14T13:19:15.943Z"
+          },
+          {
+            "length": 68,
+            "date": "2024-10-14T13:19:35.063Z"
+          },
+          {
+            "length": 69,
+            "date": "2024-10-14T13:21:01.806Z"
+          },
+          {
+            "length": 70,
+            "date": "2024-10-14T13:21:08.206Z"
+          },
+          {
+            "length": 71,
+            "date": "2024-10-14T13:21:28.646Z"
+          },
+          {
+            "length": 72,
+            "date": "2024-10-14T13:21:40.446Z"
+          },
+          {
+            "length": 73,
+            "date": "2024-10-14T13:23:02.710Z"
+          },
+          {
+            "length": 74,
+            "date": "2024-10-14T13:23:09.166Z"
+          },
+          {
+            "length": 75,
+            "date": "2024-10-14T13:23:12.646Z"
+          },
+          {
+            "length": 76,
+            "date": "2024-10-14T18:28:33.375Z"
+          },
+          {
+            "length": 77,
+            "date": "2024-10-14T18:28:40.973Z"
+          },
+          {
+            "length": 78,
+            "date": "2024-10-14T18:28:47.183Z"
+          },
+          {
+            "length": 79,
+            "date": "2024-10-14T18:28:59.495Z"
+          },
+          {
+            "length": 80,
+            "date": "2024-10-14T18:29:16.934Z"
+          },
+          {
+            "length": 81,
+            "date": "2024-10-14T18:29:24.135Z"
+          },
+          {
+            "length": 82,
+            "date": "2024-10-14T18:29:31.623Z"
+          },
+          {
+            "length": 83,
+            "date": "2024-10-14T18:29:41.743Z"
+          },
+          {
+            "length": 84,
+            "date": "2024-10-14T18:29:58.943Z"
+          },
+          {
+            "length": 85,
+            "date": "2024-10-14T18:30:19.143Z"
+          },
+          {
+            "length": 86,
+            "date": "2024-10-14T18:30:26.935Z"
+          },
+          {
+            "length": 87,
+            "date": "2024-10-14T18:30:32.703Z"
+          },
+          {
+            "length": 88,
+            "date": "2024-10-14T18:30:41.575Z"
+          },
+          {
+            "length": 89,
+            "date": "2024-10-14T18:30:56.567Z"
+          },
+          {
+            "length": 90,
+            "date": "2024-10-14T18:31:22.366Z"
+          },
+          {
+            "length": 91,
+            "date": "2024-10-14T18:31:39.887Z"
+          },
+          {
+            "length": 92,
+            "date": "2024-10-14T18:31:45.510Z"
+          },
+          {
+            "length": 93,
+            "date": "2024-10-14T18:31:49.743Z"
+          },
+          {
+            "length": 94,
+            "date": "2024-10-14T18:31:52.951Z"
+          },
+          {
+            "length": 95,
+            "date": "2024-10-14T18:32:05.286Z"
           }
         ]
       },
@@ -19957,6 +21070,214 @@
           {
             "length": 168,
             "date": "2024-10-12T19:22:58.703Z"
+          },
+          {
+            "length": 169,
+            "date": "2024-10-14T12:59:43.835Z"
+          },
+          {
+            "length": 170,
+            "date": "2024-10-14T13:00:37.900Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-10-14T13:00:52.028Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-10-14T13:01:01.172Z"
+          },
+          {
+            "length": 173,
+            "date": "2024-10-14T13:01:22.076Z"
+          },
+          {
+            "length": 174,
+            "date": "2024-10-14T13:01:33.715Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-10-14T13:02:03.307Z"
+          },
+          {
+            "length": 176,
+            "date": "2024-10-14T13:02:23.452Z"
+          },
+          {
+            "length": 177,
+            "date": "2024-10-14T13:02:38.243Z"
+          },
+          {
+            "length": 178,
+            "date": "2024-10-14T13:02:41.835Z"
+          },
+          {
+            "length": 179,
+            "date": "2024-10-14T13:03:55.825Z"
+          },
+          {
+            "length": 180,
+            "date": "2024-10-14T13:04:02.243Z"
+          },
+          {
+            "length": 181,
+            "date": "2024-10-14T13:04:05.699Z"
+          },
+          {
+            "length": 182,
+            "date": "2024-10-14T13:04:15.227Z"
+          },
+          {
+            "length": 183,
+            "date": "2024-10-14T13:04:25.250Z"
+          },
+          {
+            "length": 184,
+            "date": "2024-10-14T13:04:46.138Z"
+          },
+          {
+            "length": 185,
+            "date": "2024-10-14T13:05:08.563Z"
+          },
+          {
+            "length": 186,
+            "date": "2024-10-14T13:05:34.778Z"
+          },
+          {
+            "length": 187,
+            "date": "2024-10-14T13:05:46.098Z"
+          },
+          {
+            "length": 188,
+            "date": "2024-10-14T13:05:49.618Z"
+          },
+          {
+            "length": 189,
+            "date": "2024-10-14T13:06:05.353Z"
+          },
+          {
+            "length": 190,
+            "date": "2024-10-14T13:06:22.770Z"
+          },
+          {
+            "length": 191,
+            "date": "2024-10-14T13:06:28.194Z"
+          },
+          {
+            "length": 192,
+            "date": "2024-10-14T13:06:36.610Z"
+          },
+          {
+            "length": 193,
+            "date": "2024-10-14T13:06:45.151Z"
+          },
+          {
+            "length": 194,
+            "date": "2024-10-14T13:06:48.407Z"
+          },
+          {
+            "length": 195,
+            "date": "2024-10-14T13:07:21.270Z"
+          },
+          {
+            "length": 196,
+            "date": "2024-10-14T13:07:51.434Z"
+          },
+          {
+            "length": 197,
+            "date": "2024-10-14T13:07:53.850Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-10-14T13:07:57.977Z"
+          },
+          {
+            "length": 199,
+            "date": "2024-10-14T13:08:01.690Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-10-14T13:08:06.305Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-10-14T13:08:11.641Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-10-14T13:08:15.705Z"
+          },
+          {
+            "length": 203,
+            "date": "2024-10-14T13:08:18.161Z"
+          },
+          {
+            "length": 204,
+            "date": "2024-10-14T13:08:21.105Z"
+          },
+          {
+            "length": 205,
+            "date": "2024-10-14T13:08:24.042Z"
+          },
+          {
+            "length": 206,
+            "date": "2024-10-14T13:08:26.961Z"
+          },
+          {
+            "length": 207,
+            "date": "2024-10-14T13:08:29.385Z"
+          },
+          {
+            "length": 208,
+            "date": "2024-10-14T13:08:32.162Z"
+          },
+          {
+            "length": 209,
+            "date": "2024-10-14T13:08:55.785Z"
+          },
+          {
+            "length": 210,
+            "date": "2024-10-14T13:08:58.265Z"
+          },
+          {
+            "length": 211,
+            "date": "2024-10-14T13:09:01.004Z"
+          },
+          {
+            "length": 212,
+            "date": "2024-10-14T13:09:22.361Z"
+          },
+          {
+            "length": 213,
+            "date": "2024-10-14T13:10:01.321Z"
+          },
+          {
+            "length": 214,
+            "date": "2024-10-14T13:10:06.145Z"
+          },
+          {
+            "length": 215,
+            "date": "2024-10-14T13:10:11.809Z"
+          },
+          {
+            "length": 216,
+            "date": "2024-10-14T13:10:47.203Z"
+          },
+          {
+            "length": 217,
+            "date": "2024-10-14T13:10:59.105Z"
+          },
+          {
+            "length": 218,
+            "date": "2024-10-14T13:12:26.936Z"
+          },
+          {
+            "length": 219,
+            "date": "2024-10-14T13:12:41.609Z"
+          },
+          {
+            "length": 220,
+            "date": "2024-10-14T13:14:27.640Z"
           }
         ]
       },
