@@ -3872,6 +3872,17 @@
               "- Forms: Tafeln (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sammmeln (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Gathering/Collecting]: ",
+              "- Forms: Sammeln (v.)"
+            ]
+          }
         }
       ]
     },
@@ -13452,6 +13463,11 @@
         "type": "add",
         "word": "Tafel",
         "date": "2024-10-14T05:48:22.252Z"
+      },
+      {
+        "type": "add",
+        "word": "Sammmeln",
+        "date": "2024-10-14T05:50:41.985Z"
       }
     ],
     "levels": [
@@ -17220,6 +17236,10 @@
           {
             "length": 355,
             "date": "2024-10-14T05:48:22.252Z"
+          },
+          {
+            "length": 356,
+            "date": "2024-10-14T05:50:41.985Z"
           }
         ]
       },
