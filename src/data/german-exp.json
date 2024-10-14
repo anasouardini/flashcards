@@ -369,6 +369,16 @@
               "- [Kind regards.]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wo ist/sind/etc denn ...?"
+          },
+          "back": {
+            "content": [
+              "- [Where is/are/etc ...?]: "
+            ]
+          }
         }
       ]
     },
@@ -604,6 +614,11 @@
         "type": "add",
         "word": "Schöne",
         "date": "2024-10-14T04:22:58.746Z"
+      },
+      {
+        "type": "add",
+        "word": "Wo",
+        "date": "2024-10-14T06:07:08.436Z"
       }
     ],
     "levels": [
@@ -752,6 +767,10 @@
           {
             "length": 36,
             "date": "2024-10-14T04:22:58.746Z"
+          },
+          {
+            "length": 37,
+            "date": "2024-10-14T06:07:08.436Z"
           }
         ]
       },
