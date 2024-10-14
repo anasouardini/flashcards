@@ -3904,6 +3904,17 @@
               "- [Sky/Skies]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kopf (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Head]: ",
+              "- Forms: Köpfe (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13499,6 +13510,11 @@
         "type": "add",
         "word": "Himmel",
         "date": "2024-10-14T06:10:48.275Z"
+      },
+      {
+        "type": "add",
+        "word": "Kopf",
+        "date": "2024-10-14T06:12:10.864Z"
       }
     ],
     "levels": [
@@ -17279,6 +17295,10 @@
           {
             "length": 358,
             "date": "2024-10-14T06:10:48.284Z"
+          },
+          {
+            "length": 359,
+            "date": "2024-10-14T06:12:10.865Z"
           }
         ]
       },
