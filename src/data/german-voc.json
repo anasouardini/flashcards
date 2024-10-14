@@ -3774,6 +3774,16 @@
               "- [One/You]: Man weiß nie, wo man anfangen soll. : One doesn't know where should start."
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Soll (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Target/Start]: "
+            ]
+          }
         }
       ]
     },
@@ -13309,6 +13319,11 @@
         "type": "add",
         "word": "Man",
         "date": "2024-10-14T04:09:17.052Z"
+      },
+      {
+        "type": "add",
+        "word": "Soll",
+        "date": "2024-10-14T04:11:02.205Z"
       }
     ],
     "levels": [
@@ -17041,6 +17056,10 @@
           {
             "length": 346,
             "date": "2024-10-14T04:09:17.052Z"
+          },
+          {
+            "length": 347,
+            "date": "2024-10-14T04:11:02.206Z"
           }
         ]
       },
