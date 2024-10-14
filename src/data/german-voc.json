@@ -3156,6 +3156,16 @@
               "- [Soon]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Stand (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Status]: "
+            ]
+          }
         }
       ]
     },
@@ -14453,6 +14463,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-14T19:47:30.355Z"
+      },
+      {
+        "type": "add",
+        "word": "Stand",
+        "date": "2024-10-14T20:00:58.206Z"
       }
     ],
     "levels": [
@@ -18553,6 +18568,10 @@
           {
             "length": 290,
             "date": "2024-10-14T19:47:30.355Z"
+          },
+          {
+            "length": 291,
+            "date": "2024-10-14T20:00:58.206Z"
           }
         ]
       },
