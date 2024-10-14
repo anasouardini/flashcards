@@ -3794,6 +3794,17 @@
               "- [Start/Begin]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Termin (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Deadline/Appointment]: ",
+              "- Forms: Termine (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13339,6 +13350,11 @@
         "type": "add",
         "word": "Anfangen",
         "date": "2024-10-14T04:15:27.166Z"
+      },
+      {
+        "type": "add",
+        "word": "Termin",
+        "date": "2024-10-14T04:19:25.837Z"
       }
     ],
     "levels": [
@@ -17079,6 +17095,10 @@
           {
             "length": 348,
             "date": "2024-10-14T04:15:27.166Z"
+          },
+          {
+            "length": 349,
+            "date": "2024-10-14T04:19:25.837Z"
           }
         ]
       },
