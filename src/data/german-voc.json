@@ -3818,6 +3818,16 @@
               "- Forms: Formulare (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ins (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Into]: "
+            ]
+          }
         }
       ]
     },
@@ -13373,6 +13383,11 @@
         "type": "add",
         "word": "Formular",
         "date": "2024-10-14T05:09:13.360Z"
+      },
+      {
+        "type": "add",
+        "word": "Ins",
+        "date": "2024-10-14T05:17:38.654Z"
       }
     ],
     "levels": [
@@ -17121,6 +17136,10 @@
           {
             "length": 350,
             "date": "2024-10-14T05:09:13.361Z"
+          },
+          {
+            "length": 351,
+            "date": "2024-10-14T05:17:38.654Z"
           }
         ]
       },
