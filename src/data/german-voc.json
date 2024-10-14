@@ -3926,6 +3926,16 @@
               "- Forms: Fragebogen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Füllen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Fill]: "
+            ]
+          }
         }
       ]
     },
@@ -13531,6 +13541,11 @@
         "type": "add",
         "word": "Fragebogen",
         "date": "2024-10-14T06:19:49.511Z"
+      },
+      {
+        "type": "add",
+        "word": "Füllen",
+        "date": "2024-10-14T06:21:02.725Z"
       }
     ],
     "levels": [
@@ -17319,6 +17334,10 @@
           {
             "length": 360,
             "date": "2024-10-14T06:19:49.511Z"
+          },
+          {
+            "length": 361,
+            "date": "2024-10-14T06:21:02.726Z"
           }
         ]
       },
