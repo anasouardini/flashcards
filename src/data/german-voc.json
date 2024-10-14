@@ -3880,7 +3880,18 @@
           "back": {
             "content": [
               "- [Gathering/Collecting]: ",
+              "- [To Gather/To Collect] (v.): ",
               "- Forms: Sammeln (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Da (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [There]: Da sind : there are"
             ]
           }
         }
@@ -13468,6 +13479,11 @@
         "type": "add",
         "word": "Sammmeln",
         "date": "2024-10-14T05:50:41.985Z"
+      },
+      {
+        "type": "add",
+        "word": "Da",
+        "date": "2024-10-14T06:03:26.586Z"
       }
     ],
     "levels": [
@@ -17240,6 +17256,10 @@
           {
             "length": 356,
             "date": "2024-10-14T05:50:41.985Z"
+          },
+          {
+            "length": 357,
+            "date": "2024-10-14T06:03:26.586Z"
           }
         ]
       },
