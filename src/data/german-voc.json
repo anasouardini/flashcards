@@ -3861,6 +3861,17 @@
               "- Forms: Bildschirme (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Tafel (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Table]: ",
+              "- Forms: Tafeln (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13436,6 +13447,11 @@
         "type": "add",
         "word": "Bildschirm",
         "date": "2024-10-14T05:23:51.988Z"
+      },
+      {
+        "type": "add",
+        "word": "Tafel",
+        "date": "2024-10-14T05:48:22.252Z"
       }
     ],
     "levels": [
@@ -17200,6 +17216,10 @@
           {
             "length": 354,
             "date": "2024-10-14T05:23:51.988Z"
+          },
+          {
+            "length": 355,
+            "date": "2024-10-14T05:48:22.252Z"
           }
         ]
       },
