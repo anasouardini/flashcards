@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 165,
+      "currentCardIndex": 174,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1812,7 +1812,7 @@
         },
         {
           "front": {
-            "content": "Sogn (noun, singular, masculine)"
+            "content": "Sohn (noun, singular, masculine)"
           },
           "back": {
             "content": [
@@ -1827,7 +1827,7 @@
           },
           "back": {
             "content": [
-              "- [Grandcild]: ",
+              "- [Grandchild]: ",
               "- Forms: Enkel (plural)"
             ]
           }
