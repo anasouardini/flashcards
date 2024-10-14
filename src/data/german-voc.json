@@ -3764,6 +3764,16 @@
               "- Forms: Männer (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Man (pronoun)"
+          },
+          "back": {
+            "content": [
+              "- [One/You]: Man weiß nie, wo man anfangen soll. : One doesn't know where should start."
+            ]
+          }
         }
       ]
     },
@@ -13294,6 +13304,11 @@
         "type": "add",
         "word": "Mann",
         "date": "2024-10-14T04:06:57.435Z"
+      },
+      {
+        "type": "add",
+        "word": "Man",
+        "date": "2024-10-14T04:09:17.052Z"
       }
     ],
     "levels": [
@@ -17022,6 +17037,10 @@
           {
             "length": 345,
             "date": "2024-10-14T04:06:57.435Z"
+          },
+          {
+            "length": 346,
+            "date": "2024-10-14T04:09:17.052Z"
           }
         ]
       },
