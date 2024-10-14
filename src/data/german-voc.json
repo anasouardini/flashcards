@@ -3750,6 +3750,8 @@
           "back": {
             "content": [
               "- [Account]: ",
+              "- [Invoice]: ",
+              "- [Bill]: ",
               "- Forms: Rechnungen (plural)"
             ]
           }
@@ -3803,6 +3805,17 @@
             "content": [
               "- [Deadline/Appointment]: ",
               "- Forms: Termine (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Formular (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Form]: ",
+              "- Forms: Formulare (plural)"
             ]
           }
         }
@@ -13355,6 +13368,11 @@
         "type": "add",
         "word": "Termin",
         "date": "2024-10-14T04:19:25.837Z"
+      },
+      {
+        "type": "add",
+        "word": "Formular",
+        "date": "2024-10-14T05:09:13.360Z"
       }
     ],
     "levels": [
@@ -17099,6 +17117,10 @@
           {
             "length": 349,
             "date": "2024-10-14T04:19:25.837Z"
+          },
+          {
+            "length": 350,
+            "date": "2024-10-14T05:09:13.361Z"
           }
         ]
       },
