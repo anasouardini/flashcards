@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 174,
+      "currentCardIndex": 243,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1915,6 +1915,7 @@
           "back": {
             "content": [
               "- [Sentence]: ",
+              "- [Phrase]: ",
               "- Forms: Sätze (plural)"
             ]
           }
@@ -1957,7 +1958,9 @@
           },
           "back": {
             "content": [
-              "- [To Greet]: "
+              "- [To Greet]: ",
+              "- [Greeting] (noun): ",
+              "- Forms: Gruß (noun)"
             ]
           }
         },
@@ -1988,7 +1991,7 @@
           "back": {
             "content": [
               "- [To Give Birth]: ",
-              "- Forms: Geboren (pp.)"
+              "- Forms: Geboren (pp./adj.)"
             ]
           }
         },
@@ -2272,16 +2275,6 @@
         },
         {
           "front": {
-            "content": "Hoppla! (interjection)"
-          },
-          "back": {
-            "content": [
-              "- [Ops!]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Baum (noun, singular, masculine)"
           },
           "back": {
@@ -2484,19 +2477,6 @@
         },
         {
           "front": {
-            "content": "Normal (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Normal/Standard]: ",
-              "- [Normally] (adv.): ",
-              "- [Normall] (adj.): ",
-              "- Forms: Normal (adv.), Normal (adj.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wohl (adv.)"
           },
           "back": {
@@ -2580,39 +2560,6 @@
         },
         {
           "front": {
-            "content": "Papier (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Paper]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Form (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Form]: ",
-              "- [To Form] (v.): ",
-              "- Forms: Formen (plural), Formen (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Material (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Material]: ",
-              "- Forms: Materialen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Eckig (noun, sngular, neuter)"
           },
           "back": {
@@ -2685,16 +2632,6 @@
         },
         {
           "front": {
-            "content": "Designer (noun, singular/plural, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Designer(s)]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Mischen (noun, singular, neuter)"
           },
           "back": {
@@ -2702,17 +2639,6 @@
               "- [Mixing]: ",
               "- [To Mix] (v.): ",
               "- Forms: Mischen (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Produkte (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Product]: ",
-              "- Forms: Produkte (plural)"
             ]
           }
         },
@@ -4616,6 +4542,83 @@
           "back": {
             "content": [
               "- [Ah!]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hoppla! (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [Ops!]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Normal (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Normal/Standard]: ",
+              "- [Normally] (adv.): ",
+              "- [Normall] (adj.): ",
+              "- Forms: Normal (adv.), Normal (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Papier (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Paper]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Form (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Form]: ",
+              "- [To Form] (v.): ",
+              "- Forms: Formen (plural), Formen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Material (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Material]: ",
+              "- Forms: Materialen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Designer (noun, singular/plural, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Designer(s)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Produkte (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Product]: ",
+              "- Forms: Produkte (plural)"
             ]
           }
         }
@@ -14491,6 +14494,55 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-14T21:13:55.924Z"
+      },
+      {
+        "type": "move",
+        "word": "Hoppla!",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T22:03:54.153Z"
+      },
+      {
+        "type": "move",
+        "word": "Normal",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T22:20:05.532Z"
+      },
+      {
+        "type": "move",
+        "word": "Papier",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T22:28:58.436Z"
+      },
+      {
+        "type": "move",
+        "word": "Form",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T22:28:59.170Z"
+      },
+      {
+        "type": "move",
+        "word": "Material",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T22:29:06.428Z"
+      },
+      {
+        "type": "move",
+        "word": "Designer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T22:33:57.396Z"
+      },
+      {
+        "type": "move",
+        "word": "Produkte",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T22:35:10.874Z"
       }
     ],
     "levels": [
@@ -18607,6 +18659,34 @@
           {
             "length": 288,
             "date": "2024-10-14T21:13:55.924Z"
+          },
+          {
+            "length": 287,
+            "date": "2024-10-14T22:03:54.153Z"
+          },
+          {
+            "length": 286,
+            "date": "2024-10-14T22:20:05.532Z"
+          },
+          {
+            "length": 285,
+            "date": "2024-10-14T22:28:58.436Z"
+          },
+          {
+            "length": 284,
+            "date": "2024-10-14T22:28:59.170Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-10-14T22:29:06.428Z"
+          },
+          {
+            "length": 282,
+            "date": "2024-10-14T22:33:57.396Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-14T22:35:10.874Z"
           }
         ]
       },
@@ -20999,6 +21079,34 @@
           {
             "length": 135,
             "date": "2024-10-14T21:13:55.925Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-10-14T22:03:54.153Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-10-14T22:20:05.532Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-10-14T22:28:58.436Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-10-14T22:28:59.170Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-10-14T22:29:06.428Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-10-14T22:33:57.396Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-10-14T22:35:10.874Z"
           }
         ]
       },
