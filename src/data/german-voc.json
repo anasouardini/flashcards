@@ -3839,6 +3839,17 @@
               "- Forms: Notizbücher (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kalender (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Calendar]: ",
+              "- Forms: Kalender (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13404,6 +13415,11 @@
         "type": "add",
         "word": "Notizbuch",
         "date": "2024-10-14T05:22:27.808Z"
+      },
+      {
+        "type": "add",
+        "word": "Kalender",
+        "date": "2024-10-14T05:23:08.085Z"
       }
     ],
     "levels": [
@@ -17160,6 +17176,10 @@
           {
             "length": 352,
             "date": "2024-10-14T05:22:27.809Z"
+          },
+          {
+            "length": 353,
+            "date": "2024-10-14T05:23:08.086Z"
           }
         ]
       },
