@@ -3828,6 +3828,17 @@
               "- [Into]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Notizbuch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Notebook]: ",
+              "- Forms: Notizbücher (plural)"
+            ]
+          }
         }
       ]
     },
@@ -13388,6 +13399,11 @@
         "type": "add",
         "word": "Ins",
         "date": "2024-10-14T05:17:38.654Z"
+      },
+      {
+        "type": "add",
+        "word": "Notizbuch",
+        "date": "2024-10-14T05:22:27.808Z"
       }
     ],
     "levels": [
@@ -17140,6 +17156,10 @@
           {
             "length": 351,
             "date": "2024-10-14T05:17:38.654Z"
+          },
+          {
+            "length": 352,
+            "date": "2024-10-14T05:22:27.809Z"
           }
         ]
       },
