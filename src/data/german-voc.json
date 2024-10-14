@@ -3946,6 +3946,17 @@
               "- [To Fill]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Drucke (noun, singular/plural, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Printer]: ",
+              "- Forms: Drucke (v.)"
+            ]
+          }
         }
       ]
     },
@@ -13561,6 +13572,11 @@
         "type": "add",
         "word": "Ausfüllen",
         "date": "2024-10-14T06:21:39.818Z"
+      },
+      {
+        "type": "add",
+        "word": "Drucke",
+        "date": "2024-10-14T06:43:51.337Z"
       }
     ],
     "levels": [
@@ -17357,6 +17373,10 @@
           {
             "length": 362,
             "date": "2024-10-14T06:21:39.818Z"
+          },
+          {
+            "length": 363,
+            "date": "2024-10-14T06:43:51.408Z"
           }
         ]
       },
