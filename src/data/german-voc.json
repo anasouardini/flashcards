@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 26,
+      "currentCardIndex": 48,
       "currentCardSide": "back",
       "cards": [
         {
@@ -295,55 +295,11 @@
         },
         {
           "front": {
-            "content": "Genau (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Exact/Precise]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Heiß (adj.)"
           },
           "back": {
             "content": [
               "- [Hot]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wetter (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Weather]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Regen (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Rain]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nehmen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To take]: ",
               "- Forms: "
             ]
           }
@@ -377,17 +333,6 @@
           "back": {
             "content": [
               "- [To stand]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Benutzen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To use/utilize]: ",
               "- Forms: "
             ]
           }
@@ -438,33 +383,11 @@
         },
         {
           "front": {
-            "content": "Halten (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To keep/hold]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Treffen (v.)"
           },
           "back": {
             "content": [
               "- [To hit/meet]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nennen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To name/to call oneslef]: ",
               "- Forms: "
             ]
           }
@@ -487,17 +410,6 @@
           "back": {
             "content": [
               "- [To need]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Stimmen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To tune / to be correct / to be true]: ",
               "- Forms: "
             ]
           }
@@ -614,33 +526,11 @@
         },
         {
           "front": {
-            "content": "Auch_Wenn (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Even if]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sogar (conjunction)"
           },
           "back": {
             "content": [
               "- [Even]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nur_Wenn (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Only if]: ",
               "- Forms: "
             ]
           }
@@ -4603,6 +4493,116 @@
           "back": {
             "content": [
               "- [Here you are]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Genau (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Exact/Precise]: ",
+              "- Forms: Genau (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wetter (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Weather]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Regen (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Rain]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nehmen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To take]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Benutzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To use/utilize]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Halten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To keep/hold]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nennen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To name/to call oneslef]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stimmen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To tune / to be correct / to be true]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auch_Wenn (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Even if]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nur_Wenn (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Only if]: ",
               "- Forms: "
             ]
           }
@@ -14194,6 +14194,76 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-14T18:32:05.286Z"
+      },
+      {
+        "type": "move",
+        "word": "Genau",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:32:56.727Z"
+      },
+      {
+        "type": "move",
+        "word": "Wetter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:33:51.286Z"
+      },
+      {
+        "type": "move",
+        "word": "Regen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:33:55.310Z"
+      },
+      {
+        "type": "move",
+        "word": "Nehmen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:34:04.214Z"
+      },
+      {
+        "type": "move",
+        "word": "Benutzen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:35:22.021Z"
+      },
+      {
+        "type": "move",
+        "word": "Halten",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:37:19.428Z"
+      },
+      {
+        "type": "move",
+        "word": "Nennen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:37:52.909Z"
+      },
+      {
+        "type": "move",
+        "word": "Stimmen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:38:35.037Z"
+      },
+      {
+        "type": "move",
+        "word": "Auch_Wenn",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:44:47.627Z"
+      },
+      {
+        "type": "move",
+        "word": "Nur_Wenn",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T18:45:00.507Z"
       }
     ],
     "levels": [
@@ -18138,6 +18208,46 @@
           {
             "length": 327,
             "date": "2024-10-14T18:32:05.286Z"
+          },
+          {
+            "length": 326,
+            "date": "2024-10-14T18:32:56.727Z"
+          },
+          {
+            "length": 325,
+            "date": "2024-10-14T18:33:51.286Z"
+          },
+          {
+            "length": 324,
+            "date": "2024-10-14T18:33:55.310Z"
+          },
+          {
+            "length": 323,
+            "date": "2024-10-14T18:34:04.214Z"
+          },
+          {
+            "length": 322,
+            "date": "2024-10-14T18:35:22.021Z"
+          },
+          {
+            "length": 321,
+            "date": "2024-10-14T18:37:19.428Z"
+          },
+          {
+            "length": 320,
+            "date": "2024-10-14T18:37:52.909Z"
+          },
+          {
+            "length": 319,
+            "date": "2024-10-14T18:38:35.037Z"
+          },
+          {
+            "length": 318,
+            "date": "2024-10-14T18:44:47.627Z"
+          },
+          {
+            "length": 317,
+            "date": "2024-10-14T18:45:00.507Z"
           }
         ]
       },
@@ -20370,6 +20480,46 @@
           {
             "length": 95,
             "date": "2024-10-14T18:32:05.286Z"
+          },
+          {
+            "length": 96,
+            "date": "2024-10-14T18:32:56.727Z"
+          },
+          {
+            "length": 97,
+            "date": "2024-10-14T18:33:51.286Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-10-14T18:33:55.310Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-10-14T18:34:04.214Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-10-14T18:35:22.021Z"
+          },
+          {
+            "length": 101,
+            "date": "2024-10-14T18:37:19.428Z"
+          },
+          {
+            "length": 102,
+            "date": "2024-10-14T18:37:52.909Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-10-14T18:38:35.037Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-10-14T18:44:47.627Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-10-14T18:45:00.507Z"
           }
         ]
       },
