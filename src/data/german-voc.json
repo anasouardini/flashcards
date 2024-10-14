@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 137,
+      "currentCardIndex": 165,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1542,16 +1542,6 @@
         },
         {
           "front": {
-            "content": "Wortbildung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Word formation]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Schauspieler (noun, singular, masculine)"
           },
           "back": {
@@ -1788,32 +1778,12 @@
         },
         {
           "front": {
-            "content": "Dann (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Then]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Tabelle (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Table]: ",
               "- Forms: Tabellen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Oh! (interjection)"
-          },
-          "back": {
-            "content": [
-              "- [Ah!]: "
             ]
           }
         },
@@ -3163,7 +3133,9 @@
           },
           "back": {
             "content": [
-              "- [Status]: "
+              "- [Status]: ",
+              "- [State]: ",
+              "- [Stand/Booth]: "
             ]
           }
         }
@@ -4614,6 +4586,36 @@
           "back": {
             "content": [
               "- [Very/Really/Much]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wortbildung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Word formation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dann (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Then]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Oh! (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [Ah!]: "
             ]
           }
         }
@@ -14468,6 +14470,27 @@
         "type": "add",
         "word": "Stand",
         "date": "2024-10-14T20:00:58.206Z"
+      },
+      {
+        "type": "move",
+        "word": "Wortbildung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T20:03:15.055Z"
+      },
+      {
+        "type": "move",
+        "word": "Dann",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T21:13:46.750Z"
+      },
+      {
+        "type": "move",
+        "word": "Oh!",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-14T21:13:55.924Z"
       }
     ],
     "levels": [
@@ -18572,6 +18595,18 @@
           {
             "length": 291,
             "date": "2024-10-14T20:00:58.206Z"
+          },
+          {
+            "length": 290,
+            "date": "2024-10-14T20:03:15.055Z"
+          },
+          {
+            "length": 289,
+            "date": "2024-10-14T21:13:46.751Z"
+          },
+          {
+            "length": 288,
+            "date": "2024-10-14T21:13:55.924Z"
           }
         ]
       },
@@ -20952,6 +20987,18 @@
           {
             "length": 132,
             "date": "2024-10-14T19:47:30.355Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-10-14T20:03:15.055Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-10-14T21:13:46.751Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-10-14T21:13:55.925Z"
           }
         ]
       },
