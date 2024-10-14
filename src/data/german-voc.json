@@ -3771,7 +3771,7 @@
           },
           "back": {
             "content": [
-              "- [One/You]: Man weiß nie, wo man anfangen soll. : One doesn't know where should start."
+              "- [One/You]: Man weiß nie, wo man anfangen soll. : One doesn't know where supposed to start."
             ]
           }
         },
@@ -3781,7 +3781,17 @@
           },
           "back": {
             "content": [
-              "- [Target/Start]: "
+              "- [Target]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Anfangen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Start/Begin]: "
             ]
           }
         }
@@ -13324,6 +13334,11 @@
         "type": "add",
         "word": "Soll",
         "date": "2024-10-14T04:11:02.205Z"
+      },
+      {
+        "type": "add",
+        "word": "Anfangen",
+        "date": "2024-10-14T04:15:27.166Z"
       }
     ],
     "levels": [
@@ -17060,6 +17075,10 @@
           {
             "length": 347,
             "date": "2024-10-14T04:11:02.206Z"
+          },
+          {
+            "length": 348,
+            "date": "2024-10-14T04:15:27.166Z"
           }
         ]
       },
