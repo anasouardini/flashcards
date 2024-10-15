@@ -3210,6 +3210,17 @@
               "- Forms: Ringe (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ringen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Struggle]: ",
+              "- Forms: Ringen (v.)"
+            ]
+          }
         }
       ]
     },
@@ -14823,6 +14834,11 @@
         "type": "add",
         "word": "Ring",
         "date": "2024-10-15T15:43:14.492Z"
+      },
+      {
+        "type": "add",
+        "word": "Ringen",
+        "date": "2024-10-15T15:43:38.282Z"
       }
     ],
     "levels": [
@@ -19043,6 +19059,10 @@
           {
             "length": 294,
             "date": "2024-10-15T15:43:14.492Z"
+          },
+          {
+            "length": 295,
+            "date": "2024-10-15T15:43:38.282Z"
           }
         ]
       },
