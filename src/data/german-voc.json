@@ -3060,7 +3060,20 @@
           "back": {
             "content": [
               "- [To report]: ",
+              "- [To signal]: ",
+              "- [To announce]: ",
               "- Forms: Sich Melden (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sich melden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To report]: ",
+              "- Forms: Melden (v.)"
             ]
           }
         }
@@ -14611,6 +14624,11 @@
         "type": "add",
         "word": "Melden",
         "date": "2024-10-15T04:20:24.964Z"
+      },
+      {
+        "type": "add",
+        "word": "Sich",
+        "date": "2024-10-15T04:21:06.672Z"
       }
     ],
     "levels": [
@@ -18779,6 +18797,10 @@
           {
             "length": 281,
             "date": "2024-10-15T04:20:24.964Z"
+          },
+          {
+            "length": 282,
+            "date": "2024-10-15T04:21:06.672Z"
           }
         ]
       },
