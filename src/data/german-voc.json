@@ -3255,6 +3255,17 @@
               "- Forms: T-Shirts/Shirts (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Handtuch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Towel]: ",
+              "- Forms: Handtücher (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14888,6 +14899,11 @@
         "type": "add",
         "word": "T-Shirt/Shirt",
         "date": "2024-10-15T15:49:05.889Z"
+      },
+      {
+        "type": "add",
+        "word": "Handtuch",
+        "date": "2024-10-15T15:51:24.782Z"
       }
     ],
     "levels": [
@@ -19124,6 +19140,10 @@
           {
             "length": 298,
             "date": "2024-10-15T15:49:05.890Z"
+          },
+          {
+            "length": 299,
+            "date": "2024-10-15T15:51:24.783Z"
           }
         ]
       },
