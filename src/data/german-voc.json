@@ -3145,6 +3145,16 @@
               "- Forms: Autoren (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Daraus (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [From there]: "
+            ]
+          }
         }
       ]
     },
@@ -14728,6 +14738,11 @@
         "type": "add",
         "word": "Autor",
         "date": "2024-10-15T05:47:57.936Z"
+      },
+      {
+        "type": "add",
+        "word": "Daraus",
+        "date": "2024-10-15T05:55:06.964Z"
       }
     ],
     "levels": [
@@ -18924,6 +18939,10 @@
           {
             "length": 288,
             "date": "2024-10-15T05:47:57.937Z"
+          },
+          {
+            "length": 289,
+            "date": "2024-10-15T05:55:06.964Z"
           }
         ]
       },
