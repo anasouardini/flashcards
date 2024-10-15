@@ -3134,6 +3134,17 @@
               "- Forms: Stück (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Autor (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Author]: ",
+              "- Forms: Autoren (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14712,6 +14723,11 @@
         "type": "add",
         "word": "Stück",
         "date": "2024-10-15T05:42:59.605Z"
+      },
+      {
+        "type": "add",
+        "word": "Autor",
+        "date": "2024-10-15T05:47:57.936Z"
       }
     ],
     "levels": [
@@ -18904,6 +18920,10 @@
           {
             "length": 287,
             "date": "2024-10-15T05:42:59.605Z"
+          },
+          {
+            "length": 288,
+            "date": "2024-10-15T05:47:57.937Z"
           }
         ]
       },
