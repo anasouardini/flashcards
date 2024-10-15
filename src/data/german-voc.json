@@ -3101,6 +3101,17 @@
               "- Forms: Bälle (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Energie (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Energy/Power]: ",
+              "- Forms: Energien (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14664,6 +14675,11 @@
         "type": "add",
         "word": "Ball",
         "date": "2024-10-15T04:35:33.435Z"
+      },
+      {
+        "type": "add",
+        "word": "Energie",
+        "date": "2024-10-15T04:36:34.679Z"
       }
     ],
     "levels": [
@@ -18844,6 +18860,10 @@
           {
             "length": 284,
             "date": "2024-10-15T04:35:33.436Z"
+          },
+          {
+            "length": 285,
+            "date": "2024-10-15T04:36:34.680Z"
           }
         ]
       },
