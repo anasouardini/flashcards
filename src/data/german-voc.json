@@ -3073,7 +3073,20 @@
           "back": {
             "content": [
               "- [To report]: ",
+              "- [To answer]: ",
+              "- [To get in touch]: ",
               "- Forms: Melden (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Werfen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To throw]: ",
+              "- Forms: Zuwerfen (v.)"
             ]
           }
         }
@@ -14629,6 +14642,11 @@
         "type": "add",
         "word": "Sich",
         "date": "2024-10-15T04:21:06.672Z"
+      },
+      {
+        "type": "add",
+        "word": "Werfen",
+        "date": "2024-10-15T04:27:06.306Z"
       }
     ],
     "levels": [
@@ -18801,6 +18819,10 @@
           {
             "length": 282,
             "date": "2024-10-15T04:21:06.672Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-10-15T04:27:06.307Z"
           }
         ]
       },
