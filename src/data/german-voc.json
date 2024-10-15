@@ -3218,7 +3218,19 @@
           "back": {
             "content": [
               "- [Struggle]: ",
+              "- [To Struggle] (v.): ",
               "- Forms: Ringen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tasse (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Cup/Mug]: ",
+              "- Forms: Tassen (plural)"
             ]
           }
         }
@@ -14839,6 +14851,11 @@
         "type": "add",
         "word": "Ringen",
         "date": "2024-10-15T15:43:38.282Z"
+      },
+      {
+        "type": "add",
+        "word": "Tasse",
+        "date": "2024-10-15T15:44:58.163Z"
       }
     ],
     "levels": [
@@ -19063,6 +19080,10 @@
           {
             "length": 295,
             "date": "2024-10-15T15:43:38.282Z"
+          },
+          {
+            "length": 296,
+            "date": "2024-10-15T15:44:58.164Z"
           }
         ]
       },
