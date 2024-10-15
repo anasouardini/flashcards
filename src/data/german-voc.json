@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 248,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2796,34 +2796,12 @@
         },
         {
           "front": {
-            "content": "Strategie (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Strategy]: ",
-              "- Forms: Strategien (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Handy (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [Mobile]: ",
               "- Forms: Handys (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Arbeitsplatz (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Workplace]: ",
-              "- Forms: Arbeitsplätze (plural)"
             ]
           }
         },
@@ -2921,17 +2899,6 @@
             "content": [
               "- [Notebook]: ",
               "- Forms: Notizbücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kalender (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Calendar]: ",
-              "- Forms: Kalender (plural)"
             ]
           }
         },
@@ -4619,6 +4586,39 @@
             "content": [
               "- [Product]: ",
               "- Forms: Produkte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Strategie (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Strategy]: ",
+              "- Forms: Strategien (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Arbeitsplatz (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Workplace]: ",
+              "- Forms: Arbeitsplätze (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kalender (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Calendar]: ",
+              "- Forms: Kalender (plural)"
             ]
           }
         }
@@ -14543,6 +14543,27 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-14T22:35:10.874Z"
+      },
+      {
+        "type": "move",
+        "word": "Strategie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-15T03:25:06.921Z"
+      },
+      {
+        "type": "move",
+        "word": "Arbeitsplatz",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-15T03:25:27.097Z"
+      },
+      {
+        "type": "move",
+        "word": "Kalender",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-15T03:29:42.504Z"
       }
     ],
     "levels": [
@@ -18687,6 +18708,18 @@
           {
             "length": 281,
             "date": "2024-10-14T22:35:10.874Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-15T03:25:06.996Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-15T03:25:27.097Z"
+          },
+          {
+            "length": 278,
+            "date": "2024-10-15T03:29:42.504Z"
           }
         ]
       },
@@ -21107,6 +21140,18 @@
           {
             "length": 142,
             "date": "2024-10-14T22:35:10.874Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-15T03:25:06.996Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-10-15T03:25:27.097Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-10-15T03:29:42.504Z"
           }
         ]
       },
