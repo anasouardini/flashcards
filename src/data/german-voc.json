@@ -3166,6 +3166,17 @@
               "- Forms: Texte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Station (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Station]: ",
+              "- Forms: Stationen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14759,6 +14770,11 @@
         "type": "add",
         "word": "Text",
         "date": "2024-10-15T06:04:46.937Z"
+      },
+      {
+        "type": "add",
+        "word": "Station",
+        "date": "2024-10-15T06:06:30.003Z"
       }
     ],
     "levels": [
@@ -18963,6 +18979,10 @@
           {
             "length": 290,
             "date": "2024-10-15T06:04:46.938Z"
+          },
+          {
+            "length": 291,
+            "date": "2024-10-15T06:06:30.003Z"
           }
         ]
       },
