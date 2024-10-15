@@ -3123,6 +3123,17 @@
               "- Forms: Telefone (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Stück (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Piece]: ",
+              "- Forms: Stück (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14696,6 +14707,11 @@
         "type": "add",
         "word": "Telefon",
         "date": "2024-10-15T04:40:03.345Z"
+      },
+      {
+        "type": "add",
+        "word": "Stück",
+        "date": "2024-10-15T05:42:59.605Z"
       }
     ],
     "levels": [
@@ -18884,6 +18900,10 @@
           {
             "length": 286,
             "date": "2024-10-15T04:40:03.346Z"
+          },
+          {
+            "length": 287,
+            "date": "2024-10-15T05:42:59.605Z"
           }
         ]
       },
