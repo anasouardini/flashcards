@@ -3155,6 +3155,17 @@
               "- [From there]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Text (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Text]: ",
+              "- Forms: Texte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14743,6 +14754,11 @@
         "type": "add",
         "word": "Daraus",
         "date": "2024-10-15T05:55:06.964Z"
+      },
+      {
+        "type": "add",
+        "word": "Text",
+        "date": "2024-10-15T06:04:46.937Z"
       }
     ],
     "levels": [
@@ -18943,6 +18959,10 @@
           {
             "length": 289,
             "date": "2024-10-15T05:55:06.964Z"
+          },
+          {
+            "length": 290,
+            "date": "2024-10-15T06:04:46.938Z"
           }
         ]
       },
