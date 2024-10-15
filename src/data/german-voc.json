@@ -3199,6 +3199,17 @@
               "- Forms: Teller (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ring (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Ring]: ",
+              "- Forms: Ringe (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14807,6 +14818,11 @@
         "type": "add",
         "word": "Teller",
         "date": "2024-10-15T15:41:51.426Z"
+      },
+      {
+        "type": "add",
+        "word": "Ring",
+        "date": "2024-10-15T15:43:14.492Z"
       }
     ],
     "levels": [
@@ -19023,6 +19039,10 @@
           {
             "length": 293,
             "date": "2024-10-15T15:41:51.497Z"
+          },
+          {
+            "length": 294,
+            "date": "2024-10-15T15:43:14.492Z"
           }
         ]
       },
