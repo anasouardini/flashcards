@@ -3052,6 +3052,17 @@
               "- [To hear from you again (Goodbye)]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Melden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To report]: ",
+              "- Forms: Sich Melden (v.)"
+            ]
+          }
         }
       ]
     },
@@ -14595,6 +14606,11 @@
         "type": "add",
         "word": "Auf",
         "date": "2024-10-15T04:16:58.408Z"
+      },
+      {
+        "type": "add",
+        "word": "Melden",
+        "date": "2024-10-15T04:20:24.964Z"
       }
     ],
     "levels": [
@@ -18759,6 +18775,10 @@
           {
             "length": 280,
             "date": "2024-10-15T04:16:58.409Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-15T04:20:24.964Z"
           }
         ]
       },
