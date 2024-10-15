@@ -3042,6 +3042,16 @@
               "- Forms: Anrufe (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Auf wiederhören (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [To hear from you again (Goodbye)]: "
+            ]
+          }
         }
       ]
     },
@@ -14580,6 +14590,11 @@
         "type": "add",
         "word": "Anruf",
         "date": "2024-10-15T04:08:44.728Z"
+      },
+      {
+        "type": "add",
+        "word": "Auf",
+        "date": "2024-10-15T04:16:58.408Z"
       }
     ],
     "levels": [
@@ -18740,6 +18755,10 @@
           {
             "length": 279,
             "date": "2024-10-15T04:08:44.728Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-15T04:16:58.409Z"
           }
         ]
       },
