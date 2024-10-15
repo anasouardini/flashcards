@@ -3081,12 +3081,24 @@
         },
         {
           "front": {
-            "content": "Werfen (v.)"
+            "content": "Werfen/Zuwerfen (v.)"
           },
           "back": {
             "content": [
               "- [To throw]: ",
-              "- Forms: Zuwerfen (v.)"
+              "- [To cast]: ",
+              "- [To toss]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ball (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Ball]: ",
+              "- Forms: Bälle (plural)"
             ]
           }
         }
@@ -14647,6 +14659,11 @@
         "type": "add",
         "word": "Werfen",
         "date": "2024-10-15T04:27:06.306Z"
+      },
+      {
+        "type": "add",
+        "word": "Ball",
+        "date": "2024-10-15T04:35:33.435Z"
       }
     ],
     "levels": [
@@ -18823,6 +18840,10 @@
           {
             "length": 283,
             "date": "2024-10-15T04:27:06.307Z"
+          },
+          {
+            "length": 284,
+            "date": "2024-10-15T04:35:33.436Z"
           }
         ]
       },
