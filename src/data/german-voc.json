@@ -3233,6 +3233,17 @@
               "- Forms: Tassen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Regenschirm (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Umbrilla]: ",
+              "- Forms: Regenschirme (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14856,6 +14867,11 @@
         "type": "add",
         "word": "Tasse",
         "date": "2024-10-15T15:44:58.163Z"
+      },
+      {
+        "type": "add",
+        "word": "Regenschirm",
+        "date": "2024-10-15T15:47:29.049Z"
       }
     ],
     "levels": [
@@ -19084,6 +19100,10 @@
           {
             "length": 296,
             "date": "2024-10-15T15:44:58.164Z"
+          },
+          {
+            "length": 297,
+            "date": "2024-10-15T15:47:29.049Z"
           }
         ]
       },
