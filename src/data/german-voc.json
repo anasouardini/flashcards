@@ -3188,6 +3188,17 @@
               "- Forms: Könige (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Teller (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Place/Dish]: ",
+              "- Forms: Teller (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14791,6 +14802,11 @@
         "type": "add",
         "word": "König",
         "date": "2024-10-15T06:10:23.738Z"
+      },
+      {
+        "type": "add",
+        "word": "Teller",
+        "date": "2024-10-15T15:41:51.426Z"
       }
     ],
     "levels": [
@@ -19003,6 +19019,10 @@
           {
             "length": 292,
             "date": "2024-10-15T06:10:23.738Z"
+          },
+          {
+            "length": 293,
+            "date": "2024-10-15T15:41:51.497Z"
           }
         ]
       },
