@@ -3244,6 +3244,17 @@
               "- Forms: Regenschirme (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "T-Shirt/Shirt (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [T-Shirt/Shirt]: ",
+              "- Forms: T-Shirts/Shirts (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14872,6 +14883,11 @@
         "type": "add",
         "word": "Regenschirm",
         "date": "2024-10-15T15:47:29.049Z"
+      },
+      {
+        "type": "add",
+        "word": "T-Shirt/Shirt",
+        "date": "2024-10-15T15:49:05.889Z"
       }
     ],
     "levels": [
@@ -19104,6 +19120,10 @@
           {
             "length": 297,
             "date": "2024-10-15T15:47:29.049Z"
+          },
+          {
+            "length": 298,
+            "date": "2024-10-15T15:49:05.890Z"
           }
         ]
       },
