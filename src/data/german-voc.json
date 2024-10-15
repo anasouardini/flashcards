@@ -3031,6 +3031,17 @@
               "- [Stand/Booth]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Anruf (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Phone call]: ",
+              "- Forms: Anrufe (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14564,6 +14575,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-15T03:29:42.504Z"
+      },
+      {
+        "type": "add",
+        "word": "Anruf",
+        "date": "2024-10-15T04:08:44.728Z"
       }
     ],
     "levels": [
@@ -18720,6 +18736,10 @@
           {
             "length": 278,
             "date": "2024-10-15T03:29:42.504Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-15T04:08:44.728Z"
           }
         ]
       },
