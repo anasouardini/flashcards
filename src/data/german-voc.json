@@ -3266,6 +3266,17 @@
               "- Forms: Handtücher (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Puppe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Doll]: ",
+              "- Forms: Puppen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -14904,6 +14915,11 @@
         "type": "add",
         "word": "Handtuch",
         "date": "2024-10-15T15:51:24.782Z"
+      },
+      {
+        "type": "add",
+        "word": "Puppe",
+        "date": "2024-10-15T15:53:29.783Z"
       }
     ],
     "levels": [
@@ -19144,6 +19160,10 @@
           {
             "length": 299,
             "date": "2024-10-15T15:51:24.783Z"
+          },
+          {
+            "length": 300,
+            "date": "2024-10-15T15:53:29.783Z"
           }
         ]
       },
