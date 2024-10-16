@@ -1,5 +1,5 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -3281,7 +3281,7 @@
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 31,
       "currentCardSide": "front",
       "cards": [
         {
@@ -3331,17 +3331,6 @@
         },
         {
           "front": {
-            "content": "Freund (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Friend]: ",
-              "- Forms: Freunde (plural), Freundin (fem.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Ab (prep.)"
           },
           "back": {
@@ -3358,17 +3347,6 @@
           "back": {
             "content": [
               "- [Thirst]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lesen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To read]: ",
               "- Forms: "
             ]
           }
@@ -3408,17 +3386,6 @@
         },
         {
           "front": {
-            "content": "Woher (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [From Where]: Woher kommen Sie? : Where are you(formal) from?",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Weg (noun, singular, masculine)"
           },
           "back": {
@@ -3426,17 +3393,6 @@
               "- [Way/Path]: ",
               "- [Away] (adv.): ",
               "- Forms: Wege (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gern (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Gladly/With pleasure]: ",
-              "- Forms: "
             ]
           }
         },
@@ -3453,46 +3409,12 @@
         },
         {
           "front": {
-            "content": "Krieg (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [War]: ",
-              "- Forms: Kriege (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nach (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [After]: ",
-              "- [About]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Arzt (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Doctor]: ",
               "- Forms: Ärzte (plural), Ärztin (feminine)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Denken (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To think]: ",
-              "- Forms: "
             ]
           }
         },
@@ -3554,17 +3476,6 @@
         },
         {
           "front": {
-            "content": "Früh (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Early]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Unwichtig (adj.)"
           },
           "back": {
@@ -3581,17 +3492,6 @@
           "back": {
             "content": [
               "- [Last]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kurz (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Short]: ",
               "- Forms: "
             ]
           }
@@ -3621,108 +3521,12 @@
         },
         {
           "front": {
-            "content": "Ingenieur (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Engineer]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Journalist (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Journalist]: ",
-              "- Forms: Journalistin (feminine), Journalist-en/-innen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Geber (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Giver/Donor]: ",
-              "- Forms: Geber (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Moderator (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Moderator]: ",
-              "- Forms: Moderatorin (feminine), Moderatoren (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sich_erinnern (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Remember]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Lektion (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Lesson]: ",
               "- Forms: Lektionen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Praktisch (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Practical]: ",
-              "- Forms: Praktisch (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lampe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Lamp/Light]: ",
-              "- Forms: Lampen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sorte (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Sort/Type/Kind]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Montag (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Monday]: ",
-              "- Forms: Montage (plural)"
             ]
           }
         },
@@ -3809,16 +3613,6 @@
           "back": {
             "content": [
               "- [Grandma]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Korrigieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Correct]: "
             ]
           }
         },
@@ -7291,6 +7085,212 @@
             "content": [
               "- [Mother]: ",
               "- Forms: Muttern (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Freund (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Friend]: ",
+              "- Forms: Freunde (plural), Freundin (fem.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lesen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To read]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Woher (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [From Where]: Woher kommen Sie? : Where are you(formal) from?",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gern (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Gladly/With pleasure]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Krieg (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [War]: ",
+              "- Forms: Kriege (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nach (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [After]: ",
+              "- [About]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Denken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To think]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Früh (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Early]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kurz (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Short]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ingenieur (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Engineer]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Journalist (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Journalist]: ",
+              "- Forms: Journalistin (feminine), Journalist-en/-innen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Geber (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Giver/Donor]: ",
+              "- Forms: Geber (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Moderator (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Moderator]: ",
+              "- Forms: Moderatorin (feminine), Moderatoren (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sich_erinnern (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Remember]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Praktisch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Practical]: ",
+              "- Forms: Praktisch (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lampe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Lamp/Light]: ",
+              "- Forms: Lampen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sorte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Sort/Type/Kind]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Montag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Monday]: ",
+              "- Forms: Montage (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Korrigieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Correct]: "
             ]
           }
         }
@@ -14920,6 +14920,139 @@
         "type": "add",
         "word": "Puppe",
         "date": "2024-10-15T15:53:29.783Z"
+      },
+      {
+        "type": "move",
+        "word": "Freund",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:35:08.926Z"
+      },
+      {
+        "type": "move",
+        "word": "Lesen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:35:45.398Z"
+      },
+      {
+        "type": "move",
+        "word": "Woher",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:36:22.606Z"
+      },
+      {
+        "type": "move",
+        "word": "Gern",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:37:15.622Z"
+      },
+      {
+        "type": "move",
+        "word": "Krieg",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:37:52.438Z"
+      },
+      {
+        "type": "move",
+        "word": "Nach",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:38:33.433Z"
+      },
+      {
+        "type": "move",
+        "word": "Denken",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:38:55.030Z"
+      },
+      {
+        "type": "move",
+        "word": "Früh",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:41:01.807Z"
+      },
+      {
+        "type": "move",
+        "word": "Kurz",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:41:35.469Z"
+      },
+      {
+        "type": "move",
+        "word": "Ingenieur",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:42:42.676Z"
+      },
+      {
+        "type": "move",
+        "word": "Journalist",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:43:04.068Z"
+      },
+      {
+        "type": "move",
+        "word": "Geber",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:43:11.581Z"
+      },
+      {
+        "type": "move",
+        "word": "Moderator",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:43:32.997Z"
+      },
+      {
+        "type": "move",
+        "word": "Sich_erinnern",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:44:10.229Z"
+      },
+      {
+        "type": "move",
+        "word": "Praktisch",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:44:46.109Z"
+      },
+      {
+        "type": "move",
+        "word": "Lampe",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:45:37.301Z"
+      },
+      {
+        "type": "move",
+        "word": "Sorte",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:45:59.373Z"
+      },
+      {
+        "type": "move",
+        "word": "Montag",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:46:17.332Z"
+      },
+      {
+        "type": "move",
+        "word": "Korrigieren",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:48:25.653Z"
       }
     ],
     "levels": [
@@ -21596,6 +21729,82 @@
           {
             "length": 145,
             "date": "2024-10-15T03:29:42.504Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-10-16T06:35:08.928Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-16T06:35:45.398Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-10-16T06:36:22.606Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-10-16T06:37:15.622Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-10-16T06:37:52.438Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-10-16T06:38:33.433Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-10-16T06:38:55.030Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-10-16T06:41:01.807Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-10-16T06:41:35.469Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-10-16T06:42:42.676Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-10-16T06:43:04.068Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-10-16T06:43:11.581Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-10-16T06:43:32.997Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-10-16T06:44:10.229Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-10-16T06:44:46.109Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-10-16T06:45:37.301Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-10-16T06:45:59.373Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-10-16T06:46:17.332Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-10-16T06:48:25.653Z"
           }
         ]
       },
@@ -22504,6 +22713,82 @@
           {
             "length": 220,
             "date": "2024-10-14T13:14:27.640Z"
+          },
+          {
+            "length": 221,
+            "date": "2024-10-16T06:35:08.928Z"
+          },
+          {
+            "length": 222,
+            "date": "2024-10-16T06:35:45.398Z"
+          },
+          {
+            "length": 223,
+            "date": "2024-10-16T06:36:22.606Z"
+          },
+          {
+            "length": 224,
+            "date": "2024-10-16T06:37:15.622Z"
+          },
+          {
+            "length": 225,
+            "date": "2024-10-16T06:37:52.438Z"
+          },
+          {
+            "length": 226,
+            "date": "2024-10-16T06:38:33.433Z"
+          },
+          {
+            "length": 227,
+            "date": "2024-10-16T06:38:55.030Z"
+          },
+          {
+            "length": 228,
+            "date": "2024-10-16T06:41:01.807Z"
+          },
+          {
+            "length": 229,
+            "date": "2024-10-16T06:41:35.469Z"
+          },
+          {
+            "length": 230,
+            "date": "2024-10-16T06:42:42.676Z"
+          },
+          {
+            "length": 231,
+            "date": "2024-10-16T06:43:04.068Z"
+          },
+          {
+            "length": 232,
+            "date": "2024-10-16T06:43:11.581Z"
+          },
+          {
+            "length": 233,
+            "date": "2024-10-16T06:43:32.997Z"
+          },
+          {
+            "length": 234,
+            "date": "2024-10-16T06:44:10.229Z"
+          },
+          {
+            "length": 235,
+            "date": "2024-10-16T06:44:46.109Z"
+          },
+          {
+            "length": 236,
+            "date": "2024-10-16T06:45:37.301Z"
+          },
+          {
+            "length": 237,
+            "date": "2024-10-16T06:45:59.373Z"
+          },
+          {
+            "length": 238,
+            "date": "2024-10-16T06:46:17.332Z"
+          },
+          {
+            "length": 239,
+            "date": "2024-10-16T06:48:25.653Z"
           }
         ]
       },
