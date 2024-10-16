@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 98,
+      "currentCardIndex": 102,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1099,7 +1099,7 @@
           "back": {
             "content": [
               "- [Song]: ",
-              "- Forms: "
+              "- Forms: Lieder (plural)"
             ]
           }
         },
@@ -1110,17 +1110,6 @@
           "back": {
             "content": [
               "- [To Complete]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Creuzen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Cross]: ",
               "- Forms: "
             ]
           }
@@ -4624,6 +4613,17 @@
           "back": {
             "content": [
               "- [Door]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Creuzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Cross]: ",
               "- Forms: "
             ]
           }
@@ -15116,6 +15116,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-16T10:14:23.653Z"
+      },
+      {
+        "type": "move",
+        "word": "Creuzen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T10:20:56.203Z"
       }
     ],
     "levels": [
@@ -19384,6 +19391,10 @@
           {
             "length": 294,
             "date": "2024-10-16T10:14:23.653Z"
+          },
+          {
+            "length": 293,
+            "date": "2024-10-16T10:20:56.203Z"
           }
         ]
       },
@@ -21928,6 +21939,10 @@
           {
             "length": 129,
             "date": "2024-10-16T10:14:23.653Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-10-16T10:20:56.203Z"
           }
         ]
       },
