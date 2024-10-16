@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 73,
-      "currentCardSide": "front",
+      "currentCardIndex": 94,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -818,7 +818,7 @@
         },
         {
           "front": {
-            "content": "Helfsbereit (adj.)"
+            "content": "Hilfsbereit (adj.)"
           },
           "back": {
             "content": [
@@ -917,17 +917,6 @@
         },
         {
           "front": {
-            "content": "Besorgt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Worried]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Verwirrt (adj.)"
           },
           "back": {
@@ -955,29 +944,6 @@
           "back": {
             "content": [
               "- [Satisfied]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schwer (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Heavy]: ",
-              "- [Difficult]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schwierig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Difficult] (don't use with physical tasks): ",
               "- Forms: "
             ]
           }
@@ -1055,17 +1021,6 @@
           "back": {
             "content": [
               "- [Possible]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Viele (quantifier)"
-          },
-          "back": {
-            "content": [
-              "- [Many]: ",
               "- Forms: "
             ]
           }
@@ -4624,6 +4579,51 @@
           "back": {
             "content": [
               "- [Straight ahead]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Besorgt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Worried]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schwer (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Heavy]: ",
+              "- [Difficult]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schwierig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Difficult] (don't use with physical tasks): ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Viele (quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [Many]: ",
               "- Forms: "
             ]
           }
@@ -15081,6 +15081,34 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-16T07:23:21.792Z"
+      },
+      {
+        "type": "move",
+        "word": "Besorgt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T09:07:43.284Z"
+      },
+      {
+        "type": "move",
+        "word": "Schwer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T09:09:12.843Z"
+      },
+      {
+        "type": "move",
+        "word": "Schwierig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T09:09:28.587Z"
+      },
+      {
+        "type": "move",
+        "word": "Viele",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T10:09:26.332Z"
       }
     ],
     "levels": [
@@ -19329,6 +19357,22 @@
           {
             "length": 299,
             "date": "2024-10-16T07:23:21.792Z"
+          },
+          {
+            "length": 298,
+            "date": "2024-10-16T09:07:43.284Z"
+          },
+          {
+            "length": 297,
+            "date": "2024-10-16T09:09:12.843Z"
+          },
+          {
+            "length": 296,
+            "date": "2024-10-16T09:09:28.587Z"
+          },
+          {
+            "length": 295,
+            "date": "2024-10-16T10:09:26.332Z"
           }
         ]
       },
@@ -21853,6 +21897,22 @@
           {
             "length": 124,
             "date": "2024-10-16T07:23:21.792Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-10-16T09:07:43.284Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-10-16T09:09:12.843Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-10-16T09:09:28.587Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-10-16T10:09:26.332Z"
           }
         ]
       },
