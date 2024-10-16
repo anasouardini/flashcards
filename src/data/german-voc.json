@@ -1,5 +1,5 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -3281,7 +3281,7 @@
       ]
     },
     {
-      "currentCardIndex": 31,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -3628,7 +3628,7 @@
         },
         {
           "front": {
-            "content": "Auf_Wiederschauenn (interjection)"
+            "content": "Auf_Wiederschauen (interjection)"
           },
           "back": {
             "content": [
@@ -3686,17 +3686,6 @@
           "back": {
             "content": [
               "- [Special offer]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Puzzle (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Puzzle]: ",
-              "- Forms: Puzzles (plural)"
             ]
           }
         },
@@ -4544,34 +4533,11 @@
         },
         {
           "front": {
-            "content": "Oh! (interjection)"
-          },
-          "back": {
-            "content": [
-              "- [Ah!]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Hoppla! (interjection)"
           },
           "back": {
             "content": [
               "- [Ops!]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Normal (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Normal/Standard]: ",
-              "- [Normally] (adv.): ",
-              "- [Normall] (adj.): ",
-              "- Forms: Normal (adv.), Normal (adj.)"
             ]
           }
         },
@@ -7291,6 +7257,40 @@
           "back": {
             "content": [
               "- [To Correct]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Puzzle (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Puzzle]: ",
+              "- Forms: Puzzles (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Oh! (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [Ah!]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Normal (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Normal/Standard]: ",
+              "- [Normally] (adv.): ",
+              "- [Normall] (adj.): ",
+              "- Forms: Normal (adv.), Normal (adj.)"
             ]
           }
         }
@@ -15053,6 +15053,27 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-16T06:48:25.653Z"
+      },
+      {
+        "type": "move",
+        "word": "Puzzle",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T06:51:22.324Z"
+      },
+      {
+        "type": "move",
+        "word": "Oh!",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T07:10:55.948Z"
+      },
+      {
+        "type": "move",
+        "word": "Normal",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-16T07:11:27.484Z"
       }
     ],
     "levels": [
@@ -21805,6 +21826,18 @@
           {
             "length": 126,
             "date": "2024-10-16T06:48:25.653Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-10-16T06:51:22.324Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-10-16T07:10:55.948Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-10-16T07:11:27.484Z"
           }
         ]
       },
@@ -22789,6 +22822,18 @@
           {
             "length": 239,
             "date": "2024-10-16T06:48:25.653Z"
+          },
+          {
+            "length": 240,
+            "date": "2024-10-16T06:51:22.324Z"
+          },
+          {
+            "length": 241,
+            "date": "2024-10-16T07:10:55.948Z"
+          },
+          {
+            "length": 242,
+            "date": "2024-10-16T07:11:27.484Z"
           }
         ]
       },
