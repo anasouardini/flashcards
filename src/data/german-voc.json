@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 94,
+      "currentCardIndex": 98,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1049,22 +1049,11 @@
         },
         {
           "front": {
-            "content": "Tanzen (adv.)"
+            "content": "Tanzen (v.)"
           },
           "back": {
             "content": [
               "- [To Dance]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tür (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Door]: ",
               "- Forms: "
             ]
           }
@@ -4624,6 +4613,17 @@
           "back": {
             "content": [
               "- [Many]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tür (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Door]: ",
               "- Forms: "
             ]
           }
@@ -15109,6 +15109,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-16T10:09:26.332Z"
+      },
+      {
+        "type": "move",
+        "word": "Tür",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T10:14:23.653Z"
       }
     ],
     "levels": [
@@ -19373,6 +19380,10 @@
           {
             "length": 295,
             "date": "2024-10-16T10:09:26.332Z"
+          },
+          {
+            "length": 294,
+            "date": "2024-10-16T10:14:23.653Z"
           }
         ]
       },
@@ -21913,6 +21924,10 @@
           {
             "length": 128,
             "date": "2024-10-16T10:09:26.332Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-10-16T10:14:23.653Z"
           }
         ]
       },
