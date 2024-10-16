@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 57,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -223,17 +223,6 @@
           "back": {
             "content": [
               "- [Must]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Geradeaus (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Straight ahead]: ",
               "- Forms: "
             ]
           }
@@ -548,22 +537,22 @@
         },
         {
           "front": {
-            "content": "Solange (conjunction)"
+            "content": "Entweder (conjunction)"
           },
           "back": {
             "content": [
-              "- [As long as]: ",
+              "- [Either]: ",
               "- Forms: "
             ]
           }
         },
         {
           "front": {
-            "content": "Entweder (conjunction)"
+            "content": "Solange (conjunction)"
           },
           "back": {
             "content": [
-              "- [Either]: ",
+              "- [As long as]: ",
               "- Forms: "
             ]
           }
@@ -4625,6 +4614,17 @@
             "content": [
               "- [Calendar]: ",
               "- Forms: Kalender (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Geradeaus (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Straight ahead]: ",
+              "- Forms: "
             ]
           }
         }
@@ -15074,6 +15074,13 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-16T07:11:27.484Z"
+      },
+      {
+        "type": "move",
+        "word": "Geradeaus",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T07:23:21.792Z"
       }
     ],
     "levels": [
@@ -19318,6 +19325,10 @@
           {
             "length": 300,
             "date": "2024-10-15T15:53:29.783Z"
+          },
+          {
+            "length": 299,
+            "date": "2024-10-16T07:23:21.792Z"
           }
         ]
       },
@@ -21838,6 +21849,10 @@
           {
             "length": 123,
             "date": "2024-10-16T07:11:27.484Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-10-16T07:23:21.792Z"
           }
         ]
       },
