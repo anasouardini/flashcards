@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 116,
-      "currentCardSide": "back",
+      "currentCardIndex": 191,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -1288,7 +1288,7 @@
           },
           "back": {
             "content": [
-              "- [Turn]: ",
+              "- [Turn/Twist]: ",
               "- Forms: Wendungen (plural)"
             ]
           }
@@ -1320,16 +1320,6 @@
           "back": {
             "content": [
               "- [Adobt/send]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ende (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [End/Bottom/Exit]: "
             ]
           }
         },
@@ -1481,17 +1471,6 @@
           "back": {
             "content": [
               "- [With/at/for]: Ich arbeite bei Google."
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Plakat (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Poster]: ",
-              "- Forms: Plakate (plural)"
             ]
           }
         },
@@ -1878,42 +1857,12 @@
         },
         {
           "front": {
-            "content": "Gott (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [God]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Stammbaum (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Family Tree]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gebären (v.)"
           },
           "back": {
             "content": [
               "- [To Give Birth]: ",
               "- Forms: Geboren (pp./adj.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mehr (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [More/Further]: "
             ]
           }
         },
@@ -2010,17 +1959,6 @@
               "- [Offering]: ",
               "- [To Offer] (v.): ",
               "- Forms: Anbieten (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Preis (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Price]: ",
-              "- Forms: Preise (plural)"
             ]
           }
         },
@@ -4625,6 +4563,68 @@
           "back": {
             "content": [
               "- [To Note/Write down]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ende (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [End/Bottom/Exit]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Plakat (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Poster]: ",
+              "- Forms: Plakate (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gott (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [God]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stammbaum (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Family Tree]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mehr (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [More/Further]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Preis (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Price]: ",
+              "- Forms: Preise (plural)"
             ]
           }
         }
@@ -15130,6 +15130,48 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-16T20:02:20.972Z"
+      },
+      {
+        "type": "move",
+        "word": "Ende",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T20:18:23.485Z"
+      },
+      {
+        "type": "move",
+        "word": "Plakat",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T20:32:28.295Z"
+      },
+      {
+        "type": "move",
+        "word": "Gott",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T21:19:41.896Z"
+      },
+      {
+        "type": "move",
+        "word": "Stammbaum",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T21:19:53.994Z"
+      },
+      {
+        "type": "move",
+        "word": "Mehr",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T21:21:04.887Z"
+      },
+      {
+        "type": "move",
+        "word": "Preis",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T21:34:22.174Z"
       }
     ],
     "levels": [
@@ -19406,6 +19448,30 @@
           {
             "length": 292,
             "date": "2024-10-16T20:02:21.047Z"
+          },
+          {
+            "length": 291,
+            "date": "2024-10-16T20:18:23.485Z"
+          },
+          {
+            "length": 290,
+            "date": "2024-10-16T20:32:28.295Z"
+          },
+          {
+            "length": 289,
+            "date": "2024-10-16T21:19:41.896Z"
+          },
+          {
+            "length": 288,
+            "date": "2024-10-16T21:19:53.994Z"
+          },
+          {
+            "length": 287,
+            "date": "2024-10-16T21:21:04.887Z"
+          },
+          {
+            "length": 286,
+            "date": "2024-10-16T21:34:22.174Z"
           }
         ]
       },
@@ -21958,6 +22024,30 @@
           {
             "length": 131,
             "date": "2024-10-16T20:02:21.047Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-10-16T20:18:23.485Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-10-16T20:32:28.295Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-10-16T21:19:41.896Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-10-16T21:19:53.994Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-10-16T21:21:04.887Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-10-16T21:34:22.174Z"
           }
         ]
       },
