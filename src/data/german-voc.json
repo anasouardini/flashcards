@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 191,
-      "currentCardSide": "front",
+      "currentCardIndex": 225,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -2087,18 +2087,8 @@
           },
           "back": {
             "content": [
-              "- [To Compaire]: ",
+              "- [To Compare]: ",
               "- Forms: Vergleich(e) (noun)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Notieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Note]: "
             ]
           }
         },
@@ -2120,17 +2110,6 @@
             "content": [
               "- [Player]: ",
               "- Forms: Spieler (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Baum (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Tree]: ",
-              "- Forms: Bäume (plural)"
             ]
           }
         },
@@ -4625,6 +4604,17 @@
             "content": [
               "- [Price]: ",
               "- Forms: Preise (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Baum (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Tree]: ",
+              "- Forms: Bäume (plural)"
             ]
           }
         }
@@ -12537,11 +12527,6 @@
       },
       {
         "type": "add",
-        "word": "Notieren",
-        "date": "2024-10-09T19:59:34.092Z"
-      },
-      {
-        "type": "add",
         "word": "Puzzle",
         "date": "2024-10-09T20:35:22.493Z"
       },
@@ -15172,6 +15157,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-16T21:34:22.174Z"
+      },
+      {
+        "type": "move",
+        "word": "Baum",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T21:48:51.222Z"
       }
     ],
     "levels": [
@@ -19472,6 +19464,10 @@
           {
             "length": 286,
             "date": "2024-10-16T21:34:22.174Z"
+          },
+          {
+            "length": 284,
+            "date": "2024-10-16T21:48:51.222Z"
           }
         ]
       },
@@ -22048,6 +22044,10 @@
           {
             "length": 137,
             "date": "2024-10-16T21:34:22.174Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-10-16T21:48:51.222Z"
           }
         ]
       },
