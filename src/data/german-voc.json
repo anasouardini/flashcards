@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 102,
+      "currentCardIndex": 116,
       "currentCardSide": "back",
       "cards": [
         {
@@ -33,7 +33,7 @@
           },
           "back": {
             "content": [
-              "- [Be called/Mean]: Das heißt : That means; Ich heiße Anas : I'm called Anas",
+              "- [To Be called/To Mean]: Das heißt : That means; Ich heiße Anas : I'm called Anas",
               "- Forms: "
             ]
           }
@@ -1165,16 +1165,6 @@
           "back": {
             "content": [
               "- [To Draw]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Notieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Note/Write down]: "
             ]
           }
         },
@@ -4625,6 +4615,16 @@
             "content": [
               "- [To Cross]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Notieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Note/Write down]: "
             ]
           }
         }
@@ -15123,6 +15123,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-16T10:20:56.203Z"
+      },
+      {
+        "type": "move",
+        "word": "Notieren",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-16T20:02:20.972Z"
       }
     ],
     "levels": [
@@ -19395,6 +19402,10 @@
           {
             "length": 293,
             "date": "2024-10-16T10:20:56.203Z"
+          },
+          {
+            "length": 292,
+            "date": "2024-10-16T20:02:21.047Z"
           }
         ]
       },
@@ -21943,6 +21954,10 @@
           {
             "length": 130,
             "date": "2024-10-16T10:20:56.203Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-10-16T20:02:21.047Z"
           }
         ]
       },
