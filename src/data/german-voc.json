@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 261,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2863,19 +2863,8 @@
           },
           "back": {
             "content": [
-              "- [Place/Dish]: ",
+              "- [Plate/Dish]: ",
               "- Forms: Teller (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ring (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Ring]: ",
-              "- Forms: Ringe (plural)"
             ]
           }
         },
@@ -2915,34 +2904,12 @@
         },
         {
           "front": {
-            "content": "T-Shirt/Shirt (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [T-Shirt/Shirt]: ",
-              "- Forms: T-Shirts/Shirts (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Handtuch (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [Towel]: ",
               "- Forms: Handtücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Puppe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Doll]: ",
-              "- Forms: Puppen (plural)"
             ]
           }
         },
@@ -4641,6 +4608,39 @@
             "content": [
               "- [King]: ",
               "- Forms: Könige (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ring (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Ring]: ",
+              "- Forms: Ringe (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "T-Shirt/Shirt (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [T-Shirt/Shirt]: ",
+              "- Forms: T-Shirts/Shirts (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Puppe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Doll]: ",
+              "- Forms: Puppen (plural)"
             ]
           }
         }
@@ -15295,6 +15295,27 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-17T09:20:55.835Z"
+      },
+      {
+        "type": "move",
+        "word": "Ring",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T09:21:44.823Z"
+      },
+      {
+        "type": "move",
+        "word": "T-Shirt/Shirt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T09:25:13.880Z"
+      },
+      {
+        "type": "move",
+        "word": "Puppe",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T09:28:31.553Z"
       }
     ],
     "levels": [
@@ -19663,6 +19684,18 @@
           {
             "length": 270,
             "date": "2024-10-17T09:20:55.835Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-10-17T09:21:44.823Z"
+          },
+          {
+            "length": 268,
+            "date": "2024-10-17T09:25:13.880Z"
+          },
+          {
+            "length": 267,
+            "date": "2024-10-17T09:28:31.553Z"
           }
         ]
       },
@@ -22307,6 +22340,18 @@
           {
             "length": 154,
             "date": "2024-10-17T09:20:55.835Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-10-17T09:21:44.823Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-10-17T09:25:13.880Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-10-17T09:28:31.553Z"
           }
         ]
       },
