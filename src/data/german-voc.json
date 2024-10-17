@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 244,
+      "currentCardIndex": 252,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2674,6 +2674,7 @@
           "back": {
             "content": [
               "- [Table]: ",
+              "- [Board]: ",
               "- Forms: Tafeln (plural)"
             ]
           }
