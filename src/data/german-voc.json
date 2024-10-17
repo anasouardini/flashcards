@@ -1,5 +1,5 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 2,
   "levels": [
     {
       "currentCardIndex": 235,
@@ -2570,12 +2570,12 @@
         },
         {
           "front": {
-            "content": "Widerholung (noun, singular, feminine)"
+            "content": "Wiederholung (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Repetition]: ",
-              "- Forms: Widerholungen (plural)"
+              "- Forms: Wiederholungen (plural)"
             ]
           }
         },
@@ -2585,7 +2585,8 @@
           },
           "back": {
             "content": [
-              "- [To Request]: "
+              "- [To Request]: ",
+              "- Forms: Bitte (noun, singular), Bitten (noun, plural), Bitte (interjection)"
             ]
           }
         },
@@ -4617,11 +4618,25 @@
               "- Forms: Nummern (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bitte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Request(s)]: ",
+              "- [Please!] (inter.): ",
+              "- [You are welcome!] (inter.): ",
+              "- [To Request] (v.): ",
+              "- [Forms]: Bitte (interjection), Bitten (plural), Bitten (verb)"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 24,
       "currentCardSide": "front",
       "cards": [
         {
@@ -4882,18 +4897,6 @@
             "content": [
               "- [Go]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bitte"
-          },
-          "back": {
-            "content": [
-              "- [Please]: ",
-              "- [You are welcome!] (interjection): ",
-              "- [Forms]: "
             ]
           }
         },
@@ -15171,6 +15174,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-17T05:56:06.580Z"
+      },
+      {
+        "type": "move",
+        "word": "Bitte",
+        "fromLevel": 2,
+        "toLevel": 1,
+        "date": "2024-10-17T06:42:10.094Z"
       }
     ],
     "levels": [
@@ -22063,6 +22073,10 @@
           {
             "length": 139,
             "date": "2024-10-17T05:56:06.653Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-10-17T06:42:10.095Z"
           }
         ]
       },
@@ -23059,6 +23073,10 @@
           {
             "length": 242,
             "date": "2024-10-16T07:11:27.484Z"
+          },
+          {
+            "length": 241,
+            "date": "2024-10-17T06:42:10.095Z"
           }
         ]
       },
