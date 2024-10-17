@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 239,
+      "currentCardIndex": 244,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2617,16 +2617,6 @@
         },
         {
           "front": {
-            "content": "Man (pronoun)"
-          },
-          "back": {
-            "content": [
-              "- [One/You]: Man weiß nie, wo man anfangen soll (v.: sollen) : One never knows where one supposed to start."
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Soll (noun, singular, neuter)"
           },
           "back": {
@@ -2658,17 +2648,6 @@
         },
         {
           "front": {
-            "content": "Formular (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Form]: ",
-              "- Forms: Formulare (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Ins (prep.)"
           },
           "back": {
@@ -2685,17 +2664,6 @@
             "content": [
               "- [Notebook]: ",
               "- Forms: Notizbücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bildschirm (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Screen]: ",
-              "- Forms: Bildschirme (plural)"
             ]
           }
         },
@@ -4640,6 +4608,38 @@
             "content": [
               "- [Man]: ",
               "- Forms: Männer (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Man (pronoun)"
+          },
+          "back": {
+            "content": [
+              "- [One/You]: Man weiß nie, wo man anfangen soll (v.: sollen) : One never knows where one supposed to start."
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Formular (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Form]: ",
+              "- Forms: Formulare (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bildschirm (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Screen]: ",
+              "- Forms: Bildschirme (plural)"
             ]
           }
         }
@@ -15217,6 +15217,27 @@
         "type": "add",
         "word": "Nie",
         "date": "2024-10-17T07:10:26.912Z"
+      },
+      {
+        "type": "move",
+        "word": "Man",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T07:15:23.030Z"
+      },
+      {
+        "type": "move",
+        "word": "Formular",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T07:47:05.789Z"
+      },
+      {
+        "type": "move",
+        "word": "Bildschirm",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T08:02:01.409Z"
       }
     ],
     "levels": [
@@ -19541,6 +19562,18 @@
           {
             "length": 281,
             "date": "2024-10-17T07:10:26.912Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-17T07:15:23.031Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-17T07:47:05.789Z"
+          },
+          {
+            "length": 278,
+            "date": "2024-10-17T08:02:01.409Z"
           }
         ]
       },
@@ -22141,6 +22174,18 @@
           {
             "length": 143,
             "date": "2024-10-17T07:07:49.192Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-10-17T07:15:23.031Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-10-17T07:47:05.789Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-10-17T08:02:01.409Z"
           }
         ]
       },
