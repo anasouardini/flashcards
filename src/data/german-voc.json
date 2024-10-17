@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 225,
-      "currentCardSide": "back",
+      "currentCardIndex": 235,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2526,17 +2526,6 @@
         },
         {
           "front": {
-            "content": "Nummer (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Number]: ",
-              "- Forms: Nummern (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Straße (noun, singular, feminine)"
           },
           "back": {
@@ -4615,6 +4604,17 @@
             "content": [
               "- [Tree]: ",
               "- Forms: Bäume (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nummer (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Number]: ",
+              "- Forms: Nummern (plural)"
             ]
           }
         }
@@ -15164,6 +15164,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-16T21:48:51.222Z"
+      },
+      {
+        "type": "move",
+        "word": "Nummer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T05:56:06.580Z"
       }
     ],
     "levels": [
@@ -19468,6 +19475,10 @@
           {
             "length": 284,
             "date": "2024-10-16T21:48:51.222Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-10-17T05:56:06.653Z"
           }
         ]
       },
@@ -22048,6 +22059,10 @@
           {
             "length": 138,
             "date": "2024-10-16T21:48:51.222Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-10-17T05:56:06.653Z"
           }
         ]
       },
