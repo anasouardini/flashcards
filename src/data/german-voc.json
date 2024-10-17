@@ -2621,7 +2621,7 @@
           },
           "back": {
             "content": [
-              "- [One/You]: Man weiß nie, wo man anfangen soll. : One doesn't know where supposed to start."
+              "- [One/You]: Man weiß nie, wo man anfangen soll. : One never knows where one supposed to start."
             ]
           }
         },
@@ -3061,6 +3061,16 @@
             "content": [
               "- [Doll]: ",
               "- Forms: Puppen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nie (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Never]: "
             ]
           }
         }
@@ -15202,6 +15212,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-17T07:07:49.192Z"
+      },
+      {
+        "type": "add",
+        "word": "Nie",
+        "date": "2024-10-17T07:10:26.912Z"
       }
     ],
     "levels": [
@@ -19522,6 +19537,10 @@
           {
             "length": 280,
             "date": "2024-10-17T07:07:49.192Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-17T07:10:26.912Z"
           }
         ]
       },
