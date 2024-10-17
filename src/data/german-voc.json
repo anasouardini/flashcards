@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 252,
+      "currentCardIndex": 261,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2761,7 +2761,7 @@
             "content": [
               "- [Printer]: ",
               "- [To Print]: ",
-              "- Forms: Drucke (v.)"
+              "- Forms: Drucken (v.)"
             ]
           }
         },
@@ -2795,16 +2795,6 @@
             "content": [
               "- [Phone call]: ",
               "- Forms: Anrufe (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Auf wiederhören (interjection)"
-          },
-          "back": {
-            "content": [
-              "- [To hear from you again (Goodbye)]: "
             ]
           }
         },
@@ -2859,88 +2849,11 @@
         },
         {
           "front": {
-            "content": "Energie (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Energy/Power]: ",
-              "- Forms: Energien (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Telefon (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Phone]: ",
-              "- Forms: Telefone (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Stück (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Piece]: ",
-              "- Forms: Stück (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Autor (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Author]: ",
-              "- Forms: Autoren (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Daraus (prep.)"
           },
           "back": {
             "content": [
               "- [From there]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Text (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Text]: ",
-              "- Forms: Texte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Station (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Station]: ",
-              "- Forms: Stationen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "König (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [King]: ",
-              "- Forms: Könige (plural)"
             ]
           }
         },
@@ -4641,6 +4554,93 @@
             "content": [
               "- [Screen]: ",
               "- Forms: Bildschirme (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auf wiederhören (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [To hear from you again (Goodbye)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Energie (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Energy/Power]: ",
+              "- Forms: Energien (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Telefon (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Phone]: ",
+              "- Forms: Telefone (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stück (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Piece]: ",
+              "- Forms: Stück (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Autor (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Author]: ",
+              "- Forms: Autoren (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Text (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Text]: ",
+              "- Forms: Texte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Station (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Station]: ",
+              "- Forms: Stationen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "König (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [King]: ",
+              "- Forms: Könige (plural)"
             ]
           }
         }
@@ -14817,7 +14817,7 @@
       },
       {
         "type": "add",
-        "word": "Auf",
+        "word": "Auf Wiederhören",
         "date": "2024-10-15T04:16:58.408Z"
       },
       {
@@ -15239,6 +15239,62 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-17T08:02:01.409Z"
+      },
+      {
+        "type": "move",
+        "word": "Auf",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T08:51:09.964Z"
+      },
+      {
+        "type": "move",
+        "word": "Energie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T09:16:12.116Z"
+      },
+      {
+        "type": "move",
+        "word": "Telefon",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T09:16:31.221Z"
+      },
+      {
+        "type": "move",
+        "word": "Stück",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T09:17:19.083Z"
+      },
+      {
+        "type": "move",
+        "word": "Autor",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T09:17:29.660Z"
+      },
+      {
+        "type": "move",
+        "word": "Text",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T09:20:20.027Z"
+      },
+      {
+        "type": "move",
+        "word": "Station",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T09:20:26.627Z"
+      },
+      {
+        "type": "move",
+        "word": "König",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T09:20:55.835Z"
       }
     ],
     "levels": [
@@ -19575,6 +19631,38 @@
           {
             "length": 278,
             "date": "2024-10-17T08:02:01.409Z"
+          },
+          {
+            "length": 277,
+            "date": "2024-10-17T08:51:09.965Z"
+          },
+          {
+            "length": 276,
+            "date": "2024-10-17T09:16:12.117Z"
+          },
+          {
+            "length": 275,
+            "date": "2024-10-17T09:16:31.221Z"
+          },
+          {
+            "length": 274,
+            "date": "2024-10-17T09:17:19.083Z"
+          },
+          {
+            "length": 273,
+            "date": "2024-10-17T09:17:29.660Z"
+          },
+          {
+            "length": 272,
+            "date": "2024-10-17T09:20:20.027Z"
+          },
+          {
+            "length": 271,
+            "date": "2024-10-17T09:20:26.627Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-17T09:20:55.835Z"
           }
         ]
       },
@@ -22187,6 +22275,38 @@
           {
             "length": 146,
             "date": "2024-10-17T08:02:01.409Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-10-17T08:51:09.965Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-10-17T09:16:12.117Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-10-17T09:16:31.221Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-10-17T09:17:19.083Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-10-17T09:17:29.660Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-10-17T09:20:20.027Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-10-17T09:20:26.627Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-10-17T09:20:55.835Z"
           }
         ]
       },
