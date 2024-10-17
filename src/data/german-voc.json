@@ -2926,8 +2926,8 @@
       ]
     },
     {
-      "currentCardIndex": 107,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -4103,7 +4103,7 @@
         },
         {
           "front": {
-            "content": "Produkte (noun, singular, neuter)"
+            "content": "Produkt (noun, singular, neuter)"
           },
           "back": {
             "content": [
@@ -4480,28 +4480,6 @@
             "content": [
               "- [King]: ",
               "- Forms: Könige (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ring (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Ring]: ",
-              "- Forms: Ringe (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "T-Shirt/Shirt (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [T-Shirt/Shirt]: ",
-              "- Forms: T-Shirts/Shirts (plural)"
             ]
           }
         },
@@ -7295,6 +7273,28 @@
           "back": {
             "content": [
               "- [Designer(s)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "T-Shirt/Shirt (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [T-Shirt/Shirt]: ",
+              "- Forms: T-Shirts/Shirts (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ring (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Ring]: ",
+              "- Forms: Ringe (plural)"
             ]
           }
         }
@@ -13646,7 +13646,7 @@
       },
       {
         "type": "add",
-        "word": "Produkte",
+        "word": "Produkt",
         "date": "2024-10-13T18:45:06.306Z"
       },
       {
@@ -14784,7 +14784,7 @@
       },
       {
         "type": "move",
-        "word": "Produkte",
+        "word": "Produkt",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-14T22:35:10.874Z"
@@ -15400,6 +15400,20 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-17T19:44:20.248Z"
+      },
+      {
+        "type": "move",
+        "word": "T-Shirt/Shirt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-17T20:00:21.643Z"
+      },
+      {
+        "type": "move",
+        "word": "Ring",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-17T20:00:54.603Z"
       }
     ],
     "levels": [
@@ -22484,6 +22498,14 @@
           {
             "length": 145,
             "date": "2024-10-17T19:44:20.248Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-10-17T20:00:21.643Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-17T20:00:54.603Z"
           }
         ]
       },
@@ -23532,6 +23554,14 @@
           {
             "length": 253,
             "date": "2024-10-17T19:44:20.248Z"
+          },
+          {
+            "length": 254,
+            "date": "2024-10-17T20:00:21.643Z"
+          },
+          {
+            "length": 255,
+            "date": "2024-10-17T20:00:54.603Z"
           }
         ]
       },
