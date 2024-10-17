@@ -1,9 +1,9 @@
 {
-  "currentLevel": 2,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 235,
-      "currentCardSide": "front",
+      "currentCardIndex": 239,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -2604,28 +2604,6 @@
         },
         {
           "front": {
-            "content": "Büro (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Office]: ",
-              "- Forms: Büros (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Handy (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Mobile]: ",
-              "- Forms: Handys (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Rechnung (noun, singular, feminine)"
           },
           "back": {
@@ -2634,17 +2612,6 @@
               "- [Invoice]: ",
               "- [Bill]: ",
               "- Forms: Rechnungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mann (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Man]: ",
-              "- Forms: Männer (plural)"
             ]
           }
         },
@@ -4632,11 +4599,44 @@
               "- [Forms]: Bitte (interjection), Bitten (plural), Bitten (verb)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Büro (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Office]: ",
+              "- Forms: Büros (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Handy (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Mobile]: ",
+              "- Forms: Handys (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mann (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Man]: ",
+              "- Forms: Männer (plural)"
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 24,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -15181,6 +15181,27 @@
         "fromLevel": 2,
         "toLevel": 1,
         "date": "2024-10-17T06:42:10.094Z"
+      },
+      {
+        "type": "move",
+        "word": "Büro",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T06:58:47.938Z"
+      },
+      {
+        "type": "move",
+        "word": "Handy",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T06:59:10.737Z"
+      },
+      {
+        "type": "move",
+        "word": "Mann",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-17T07:07:49.192Z"
       }
     ],
     "levels": [
@@ -19489,6 +19510,18 @@
           {
             "length": 283,
             "date": "2024-10-17T05:56:06.653Z"
+          },
+          {
+            "length": 282,
+            "date": "2024-10-17T06:58:47.938Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-17T06:59:10.737Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-17T07:07:49.192Z"
           }
         ]
       },
@@ -22077,6 +22110,18 @@
           {
             "length": 140,
             "date": "2024-10-17T06:42:10.095Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-10-17T06:58:47.938Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-10-17T06:59:10.737Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-17T07:07:49.192Z"
           }
         ]
       },
