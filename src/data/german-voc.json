@@ -3058,7 +3058,20 @@
           },
           "back": {
             "content": [
-              "- [To Enter]: "
+              "- [To Enter]: ",
+              "- [To Occur]: ",
+              "- [To Happen]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Markt (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Market]: ",
+              "- Forms: Märkte (plural)"
             ]
           }
         }
@@ -15618,6 +15631,11 @@
         "type": "add",
         "word": "Eintreten",
         "date": "2024-10-18T06:21:44.297Z"
+      },
+      {
+        "type": "add",
+        "word": "Markt",
+        "date": "2024-10-18T06:34:13.996Z"
       }
     ],
     "levels": [
@@ -20050,6 +20068,10 @@
           {
             "length": 280,
             "date": "2024-10-18T06:21:44.297Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-18T06:34:13.996Z"
           }
         ]
       },
