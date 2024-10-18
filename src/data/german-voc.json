@@ -3162,6 +3162,17 @@
               "- Forms: Zeichnungen (plural), Zeichnen (v.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Auge (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Eye]: ",
+              "- Forms: Augen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -15764,6 +15775,11 @@
         "type": "add",
         "word": "Zeichnung",
         "date": "2024-10-18T07:10:15.546Z"
+      },
+      {
+        "type": "add",
+        "word": "Auge",
+        "date": "2024-10-18T07:40:42.814Z"
       }
     ],
     "levels": [
@@ -20232,6 +20248,10 @@
           {
             "length": 289,
             "date": "2024-10-18T07:10:15.546Z"
+          },
+          {
+            "length": 290,
+            "date": "2024-10-18T07:40:42.815Z"
           }
         ]
       },
