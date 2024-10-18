@@ -2973,7 +2973,18 @@
           "back": {
             "content": [
               "- [Dealers]: ",
+              "- [Traders]: ",
               "- Forms: Händer (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zwischen (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Between]: "
             ]
           }
         }
@@ -15493,6 +15504,11 @@
         "type": "add",
         "word": "Händer",
         "date": "2024-10-18T05:58:28.664Z"
+      },
+      {
+        "type": "add",
+        "word": "Zwischen",
+        "date": "2024-10-18T06:00:06.569Z"
       }
     ],
     "levels": [
@@ -19893,6 +19909,10 @@
           {
             "length": 272,
             "date": "2024-10-18T05:58:28.664Z"
+          },
+          {
+            "length": 273,
+            "date": "2024-10-18T06:00:06.570Z"
           }
         ]
       },
