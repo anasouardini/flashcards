@@ -3195,6 +3195,17 @@
               "- Forms: Hände (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Platz (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Place]: ",
+              "- Forms: Plätze (plural)"
+            ]
+          }
         }
       ]
     },
@@ -16106,6 +16117,11 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-18T18:34:24.490Z"
+      },
+      {
+        "type": "add",
+        "word": "Platz",
+        "date": "2024-10-18T18:38:50.618Z"
       }
     ],
     "levels": [
@@ -20586,6 +20602,10 @@
           {
             "length": 292,
             "date": "2024-10-18T07:58:22.544Z"
+          },
+          {
+            "length": 293,
+            "date": "2024-10-18T18:38:50.619Z"
           }
         ]
       },
