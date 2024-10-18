@@ -3048,7 +3048,17 @@
           "back": {
             "content": [
               "- [Entrance]: ",
-              "- Forms: Eintritt (plural)"
+              "- Forms: Eintritte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Eintreten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Enter]: "
             ]
           }
         }
@@ -15603,6 +15613,11 @@
         "type": "add",
         "word": "Eintritt",
         "date": "2024-10-18T06:21:00.826Z"
+      },
+      {
+        "type": "add",
+        "word": "Eintreten",
+        "date": "2024-10-18T06:21:44.297Z"
       }
     ],
     "levels": [
@@ -20031,6 +20046,10 @@
           {
             "length": 279,
             "date": "2024-10-18T06:21:00.826Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-18T06:21:44.297Z"
           }
         ]
       },
