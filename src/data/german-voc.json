@@ -3129,6 +3129,17 @@
               "- [Flea market/junk market]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kurs (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Course]: ",
+              "- Forms: Kurse (plural)"
+            ]
+          }
         }
       ]
     },
@@ -15716,6 +15727,11 @@
         "type": "add",
         "word": "Flohmarkt/Trödelmarkt",
         "date": "2024-10-18T07:00:00.237Z"
+      },
+      {
+        "type": "add",
+        "word": "Kurs",
+        "date": "2024-10-18T07:00:56.630Z"
       }
     ],
     "levels": [
@@ -20172,6 +20188,10 @@
           {
             "length": 286,
             "date": "2024-10-18T07:00:00.237Z"
+          },
+          {
+            "length": 287,
+            "date": "2024-10-18T07:00:56.630Z"
           }
         ]
       },
