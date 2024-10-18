@@ -2943,6 +2943,16 @@
               "- Forms: Traditionen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Stöbern (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Browse]: "
+            ]
+          }
         }
       ]
     },
@@ -15445,6 +15455,11 @@
         "type": "add",
         "word": "Tradition",
         "date": "2024-10-18T05:28:07.511Z"
+      },
+      {
+        "type": "add",
+        "word": "Stöbern",
+        "date": "2024-10-18T05:29:43.774Z"
       }
     ],
     "levels": [
@@ -19833,6 +19848,10 @@
           {
             "length": 269,
             "date": "2024-10-18T05:28:07.511Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-18T05:29:43.775Z"
           }
         ]
       },
