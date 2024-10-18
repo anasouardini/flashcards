@@ -2922,6 +2922,16 @@
               "- [Never]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schönster (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Most Beautiful]: "
+            ]
+          }
         }
       ]
     },
@@ -15414,6 +15424,11 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-17T20:00:54.603Z"
+      },
+      {
+        "type": "add",
+        "word": "Schönster",
+        "date": "2024-10-18T05:17:14.473Z"
       }
     ],
     "levels": [
@@ -19794,6 +19809,10 @@
           {
             "length": 267,
             "date": "2024-10-17T09:28:31.553Z"
+          },
+          {
+            "length": 268,
+            "date": "2024-10-18T05:17:14.546Z"
           }
         ]
       },
