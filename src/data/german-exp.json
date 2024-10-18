@@ -389,6 +389,16 @@
               "- [Right here]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Aus Omas Zeiten"
+          },
+          "back": {
+            "content": [
+              "- [From Grandma's time (very old)]: "
+            ]
+          }
         }
       ]
     },
@@ -634,6 +644,11 @@
         "type": "add",
         "word": "Hier richtig",
         "date": "2024-10-18T05:55:25.507Z"
+      },
+      {
+        "type": "add",
+        "word": "Aus Omas Zeiten",
+        "date": "2024-10-18T06:11:20.584Z"
       }
     ],
     "levels": [
@@ -790,6 +805,10 @@
           {
             "length": 38,
             "date": "2024-10-18T05:55:25.507Z"
+          },
+          {
+            "length": 39,
+            "date": "2024-10-18T06:11:20.584Z"
           }
         ]
       },
