@@ -3109,6 +3109,16 @@
               "- Forms: Beispiele (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Mitbringen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Bring along]: Bringen Sie X mit in die... : Bring X along into the..."
+            ]
+          }
         }
       ]
     },
@@ -15686,6 +15696,11 @@
         "type": "add",
         "word": "Beispiel",
         "date": "2024-10-18T06:51:34.744Z"
+      },
+      {
+        "type": "add",
+        "word": "Mitbringen",
+        "date": "2024-10-18T06:57:50.993Z"
       }
     ],
     "levels": [
@@ -20134,6 +20149,10 @@
           {
             "length": 284,
             "date": "2024-10-18T06:51:34.744Z"
+          },
+          {
+            "length": 285,
+            "date": "2024-10-18T06:57:50.993Z"
           }
         ]
       },
