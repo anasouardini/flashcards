@@ -3210,8 +3210,8 @@
       ]
     },
     {
-      "currentCardIndex": 67,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -3964,17 +3964,6 @@
         },
         {
           "front": {
-            "content": "Kalender (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Calendar]: ",
-              "- Forms: Kalender (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Geradeaus (adv.)"
           },
           "back": {
@@ -4048,26 +4037,6 @@
             "content": [
               "- [To Cross]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Notieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Note/Write down]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ende (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [End/Bottom/Exit]: "
             ]
           }
         },
@@ -7579,6 +7548,37 @@
           "back": {
             "content": [
               "- [Paper]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kalender (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Calendar]: ",
+              "- Forms: Kalender (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Notieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Note/Write down]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ende (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [End/Bottom/Exit]: "
             ]
           }
         }
@@ -16122,6 +16122,27 @@
         "type": "add",
         "word": "Platz",
         "date": "2024-10-18T18:38:50.618Z"
+      },
+      {
+        "type": "move",
+        "word": "Kalender",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-18T18:39:53.681Z"
+      },
+      {
+        "type": "move",
+        "word": "Notieren",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-18T18:40:59.928Z"
+      },
+      {
+        "type": "move",
+        "word": "Ende",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-18T18:41:19.041Z"
       }
     ],
     "levels": [
@@ -23486,6 +23507,18 @@
           {
             "length": 101,
             "date": "2024-10-18T18:34:24.490Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-10-18T18:39:53.681Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-10-18T18:40:59.928Z"
+          },
+          {
+            "length": 98,
+            "date": "2024-10-18T18:41:19.041Z"
           }
         ]
       },
@@ -24710,6 +24743,18 @@
           {
             "length": 297,
             "date": "2024-10-18T18:34:24.490Z"
+          },
+          {
+            "length": 298,
+            "date": "2024-10-18T18:39:53.681Z"
+          },
+          {
+            "length": 299,
+            "date": "2024-10-18T18:40:59.928Z"
+          },
+          {
+            "length": 300,
+            "date": "2024-10-18T18:41:19.041Z"
           }
         ]
       },
