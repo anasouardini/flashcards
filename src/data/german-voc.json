@@ -2932,6 +2932,17 @@
               "- [Most Beautiful]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Tradition (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Tradition]: ",
+              "- Forms: Traditionen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -15429,6 +15440,11 @@
         "type": "add",
         "word": "Schönster",
         "date": "2024-10-18T05:17:14.473Z"
+      },
+      {
+        "type": "add",
+        "word": "Tradition",
+        "date": "2024-10-18T05:28:07.511Z"
       }
     ],
     "levels": [
@@ -19813,6 +19829,10 @@
           {
             "length": 268,
             "date": "2024-10-18T05:17:14.546Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-10-18T05:28:07.511Z"
           }
         ]
       },
