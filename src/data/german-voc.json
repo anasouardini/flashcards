@@ -3008,6 +3008,17 @@
               "- [Junk]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Event (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Event]: ",
+              "- Forms: Events (plural)"
+            ]
+          }
         }
       ]
     },
@@ -15540,6 +15551,11 @@
         "type": "add",
         "word": "Trödel",
         "date": "2024-10-18T06:03:26.934Z"
+      },
+      {
+        "type": "add",
+        "word": "Event",
+        "date": "2024-10-18T06:05:51.603Z"
       }
     ],
     "levels": [
@@ -19952,6 +19968,10 @@
           {
             "length": 275,
             "date": "2024-10-18T06:03:26.935Z"
+          },
+          {
+            "length": 276,
+            "date": "2024-10-18T06:05:51.603Z"
           }
         ]
       },
