@@ -1164,7 +1164,8 @@
           },
           "back": {
             "content": [
-              "- [To Draw]: "
+              "- [To Draw]: ",
+              "- Forms: Zeichnung (noun, singular, feminine), Zeichnungen (noun, plural, feminine)"
             ]
           }
         },
@@ -3148,6 +3149,17 @@
           "back": {
             "content": [
               "- [Well]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeichnung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Drawings]: ",
+              "- Forms: Zeichnungen (plural), Zeichnen (v.)"
             ]
           }
         }
@@ -15747,6 +15759,11 @@
         "type": "add",
         "word": "Na",
         "date": "2024-10-18T07:05:48.684Z"
+      },
+      {
+        "type": "add",
+        "word": "Zeichnung",
+        "date": "2024-10-18T07:10:15.546Z"
       }
     ],
     "levels": [
@@ -20211,6 +20228,10 @@
           {
             "length": 288,
             "date": "2024-10-18T07:05:48.684Z"
+          },
+          {
+            "length": 289,
+            "date": "2024-10-18T07:10:15.546Z"
           }
         ]
       },
