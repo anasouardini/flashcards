@@ -3040,6 +3040,17 @@
               "- Forms: Geöffnet (pp.), Offen (adj.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Eintritt (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Entrance]: ",
+              "- Forms: Eintritt (plural)"
+            ]
+          }
         }
       ]
     },
@@ -15587,6 +15598,11 @@
         "type": "add",
         "word": "Öffnen",
         "date": "2024-10-18T06:18:54.495Z"
+      },
+      {
+        "type": "add",
+        "word": "Eintritt",
+        "date": "2024-10-18T06:21:00.826Z"
       }
     ],
     "levels": [
@@ -20011,6 +20027,10 @@
           {
             "length": 278,
             "date": "2024-10-18T06:18:54.496Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-18T06:21:00.826Z"
           }
         ]
       },
