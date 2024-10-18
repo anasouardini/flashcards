@@ -3074,6 +3074,17 @@
               "- Forms: Märkte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gegenstand (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Item/Topic/Thing]: ",
+              "- Forms: Gegenstände (plural)"
+            ]
+          }
         }
       ]
     },
@@ -15636,6 +15647,11 @@
         "type": "add",
         "word": "Markt",
         "date": "2024-10-18T06:34:13.996Z"
+      },
+      {
+        "type": "add",
+        "word": "Gegenstand",
+        "date": "2024-10-18T06:48:47.306Z"
       }
     ],
     "levels": [
@@ -20072,6 +20088,10 @@
           {
             "length": 281,
             "date": "2024-10-18T06:34:13.996Z"
+          },
+          {
+            "length": 282,
+            "date": "2024-10-18T06:48:47.306Z"
           }
         ]
       },
