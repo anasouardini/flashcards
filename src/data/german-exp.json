@@ -399,6 +399,16 @@
               "- [From Grandma's time (very old)]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Was für"
+          },
+          "back": {
+            "content": [
+              "- [What kind of]: "
+            ]
+          }
         }
       ]
     },
@@ -649,6 +659,11 @@
         "type": "add",
         "word": "Aus Omas Zeiten",
         "date": "2024-10-18T06:11:20.584Z"
+      },
+      {
+        "type": "add",
+        "word": "Was für",
+        "date": "2024-10-18T07:27:56.583Z"
       }
     ],
     "levels": [
@@ -809,6 +824,10 @@
           {
             "length": 39,
             "date": "2024-10-18T06:11:20.584Z"
+          },
+          {
+            "length": 40,
+            "date": "2024-10-18T07:27:56.583Z"
           }
         ]
       },
