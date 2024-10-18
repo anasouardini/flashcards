@@ -379,6 +379,16 @@
               "- [Where is/are/etc ...?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Hier richtig"
+          },
+          "back": {
+            "content": [
+              "- [Right here]: "
+            ]
+          }
         }
       ]
     },
@@ -619,6 +629,11 @@
         "type": "add",
         "word": "Wo",
         "date": "2024-10-14T06:07:08.436Z"
+      },
+      {
+        "type": "add",
+        "word": "Hier richtig",
+        "date": "2024-10-18T05:55:25.507Z"
       }
     ],
     "levels": [
@@ -771,6 +786,10 @@
           {
             "length": 37,
             "date": "2024-10-14T06:07:08.436Z"
+          },
+          {
+            "length": 38,
+            "date": "2024-10-18T05:55:25.507Z"
           }
         ]
       },
