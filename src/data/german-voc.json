@@ -3019,6 +3019,16 @@
               "- Forms: Events (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Pro (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Per/For]: 7 Euro pro Meter : 7 Euro per meter"
+            ]
+          }
         }
       ]
     },
@@ -15556,6 +15566,11 @@
         "type": "add",
         "word": "Event",
         "date": "2024-10-18T06:05:51.603Z"
+      },
+      {
+        "type": "add",
+        "word": "Pro",
+        "date": "2024-10-18T06:14:22.149Z"
       }
     ],
     "levels": [
@@ -19972,6 +19987,10 @@
           {
             "length": 276,
             "date": "2024-10-18T06:05:51.603Z"
+          },
+          {
+            "length": 277,
+            "date": "2024-10-18T06:14:22.149Z"
           }
         ]
       },
