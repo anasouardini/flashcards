@@ -3173,6 +3173,17 @@
               "- Forms: Augen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wagen (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Car]: ",
+              "- Forms: Wagen/Wägen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -15780,6 +15791,11 @@
         "type": "add",
         "word": "Auge",
         "date": "2024-10-18T07:40:42.814Z"
+      },
+      {
+        "type": "add",
+        "word": "Wagen",
+        "date": "2024-10-18T07:48:04.548Z"
       }
     ],
     "levels": [
@@ -20252,6 +20268,10 @@
           {
             "length": 290,
             "date": "2024-10-18T07:40:42.815Z"
+          },
+          {
+            "length": 291,
+            "date": "2024-10-18T07:48:04.549Z"
           }
         ]
       },
