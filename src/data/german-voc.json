@@ -3119,6 +3119,16 @@
               "- [To Bring along]: Bringen Sie X mit in die... : Bring X along into the..."
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Flohmarkt/Trödelmarkt (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Flea market/junk market]: "
+            ]
+          }
         }
       ]
     },
@@ -15701,6 +15711,11 @@
         "type": "add",
         "word": "Mitbringen",
         "date": "2024-10-18T06:57:50.993Z"
+      },
+      {
+        "type": "add",
+        "word": "Flohmarkt/Trödelmarkt",
+        "date": "2024-10-18T07:00:00.237Z"
       }
     ],
     "levels": [
@@ -20153,6 +20168,10 @@
           {
             "length": 285,
             "date": "2024-10-18T06:57:50.993Z"
+          },
+          {
+            "length": 286,
+            "date": "2024-10-18T07:00:00.237Z"
           }
         ]
       },
