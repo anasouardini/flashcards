@@ -3081,8 +3081,21 @@
           },
           "back": {
             "content": [
-              "- [Item/Topic/Thing]: ",
+              "- [Item]: ",
+              "- [Topic]: ",
+              "- [Thing]: ",
               "- Forms: Gegenstände (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beschreibung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Description]: ",
+              "- Forms: Beschreibungen (plural)"
             ]
           }
         }
@@ -15652,6 +15665,11 @@
         "type": "add",
         "word": "Gegenstand",
         "date": "2024-10-18T06:48:47.306Z"
+      },
+      {
+        "type": "add",
+        "word": "Beschreibung",
+        "date": "2024-10-18T06:50:27.768Z"
       }
     ],
     "levels": [
@@ -20092,6 +20110,10 @@
           {
             "length": 282,
             "date": "2024-10-18T06:48:47.306Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-10-18T06:50:27.768Z"
           }
         ]
       },
