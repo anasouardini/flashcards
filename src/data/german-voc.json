@@ -3098,6 +3098,17 @@
               "- Forms: Beschreibungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Beispiel (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Example]: ",
+              "- Forms: Beispiele (plural)"
+            ]
+          }
         }
       ]
     },
@@ -15670,6 +15681,11 @@
         "type": "add",
         "word": "Beschreibung",
         "date": "2024-10-18T06:50:27.768Z"
+      },
+      {
+        "type": "add",
+        "word": "Beispiel",
+        "date": "2024-10-18T06:51:34.744Z"
       }
     ],
     "levels": [
@@ -20114,6 +20130,10 @@
           {
             "length": 283,
             "date": "2024-10-18T06:50:27.768Z"
+          },
+          {
+            "length": 284,
+            "date": "2024-10-18T06:51:34.744Z"
           }
         ]
       },
