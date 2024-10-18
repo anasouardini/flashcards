@@ -3184,6 +3184,17 @@
               "- Forms: Wagen/Wägen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Hand (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Hand]: ",
+              "- Forms: Hände (plural)"
+            ]
+          }
         }
       ]
     },
@@ -15796,6 +15807,11 @@
         "type": "add",
         "word": "Wagen",
         "date": "2024-10-18T07:48:04.548Z"
+      },
+      {
+        "type": "add",
+        "word": "Hand",
+        "date": "2024-10-18T07:58:22.544Z"
       }
     ],
     "levels": [
@@ -20272,6 +20288,10 @@
           {
             "length": 291,
             "date": "2024-10-18T07:48:04.549Z"
+          },
+          {
+            "length": 292,
+            "date": "2024-10-18T07:58:22.544Z"
           }
         ]
       },
