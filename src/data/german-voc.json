@@ -2960,7 +2960,20 @@
           },
           "back": {
             "content": [
-              "- [To Bargain]: "
+              "- [To Bargain]: ",
+              "- [To Act]: ",
+              "- [To Trade]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Händer (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Dealers]: ",
+              "- Forms: Händer (plural)"
             ]
           }
         }
@@ -15475,6 +15488,11 @@
         "type": "add",
         "word": "Handeln",
         "date": "2024-10-18T05:31:39.227Z"
+      },
+      {
+        "type": "add",
+        "word": "Händer",
+        "date": "2024-10-18T05:58:28.664Z"
       }
     ],
     "levels": [
@@ -19871,6 +19889,10 @@
           {
             "length": 271,
             "date": "2024-10-18T05:31:39.228Z"
+          },
+          {
+            "length": 272,
+            "date": "2024-10-18T05:58:28.664Z"
           }
         ]
       },
