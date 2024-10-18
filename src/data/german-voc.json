@@ -2998,6 +2998,16 @@
               "- Forms: Besucher (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Trödel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Junk]: "
+            ]
+          }
         }
       ]
     },
@@ -15525,6 +15535,11 @@
         "type": "add",
         "word": "Besucher",
         "date": "2024-10-18T06:01:05.949Z"
+      },
+      {
+        "type": "add",
+        "word": "Trödel",
+        "date": "2024-10-18T06:03:26.934Z"
       }
     ],
     "levels": [
@@ -19933,6 +19948,10 @@
           {
             "length": 274,
             "date": "2024-10-18T06:01:05.949Z"
+          },
+          {
+            "length": 275,
+            "date": "2024-10-18T06:03:26.935Z"
           }
         ]
       },
