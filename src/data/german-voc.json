@@ -3029,6 +3029,17 @@
               "- [Per/For]: 7 Euro pro Meter : 7 Euro per meter"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Öffnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Open]: ",
+              "- Forms: Geöffnet (pp.), Offen (adj.)"
+            ]
+          }
         }
       ]
     },
@@ -15571,6 +15582,11 @@
         "type": "add",
         "word": "Pro",
         "date": "2024-10-18T06:14:22.149Z"
+      },
+      {
+        "type": "add",
+        "word": "Öffnen",
+        "date": "2024-10-18T06:18:54.495Z"
       }
     ],
     "levels": [
@@ -19991,6 +20007,10 @@
           {
             "length": 277,
             "date": "2024-10-18T06:14:22.149Z"
+          },
+          {
+            "length": 278,
+            "date": "2024-10-18T06:18:54.496Z"
           }
         ]
       },
