@@ -3206,6 +3206,16 @@
               "- Forms: Plätze (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Besten (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Best]: passt am besten : fits better"
+            ]
+          }
         }
       ]
     },
@@ -16143,6 +16153,11 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-18T18:41:19.041Z"
+      },
+      {
+        "type": "add",
+        "word": "Besten",
+        "date": "2024-10-19T06:34:06.328Z"
       }
     ],
     "levels": [
@@ -20627,6 +20642,10 @@
           {
             "length": 293,
             "date": "2024-10-18T18:38:50.619Z"
+          },
+          {
+            "length": 294,
+            "date": "2024-10-19T06:34:06.404Z"
           }
         ]
       },
