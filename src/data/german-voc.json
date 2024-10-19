@@ -2587,6 +2587,7 @@
           "back": {
             "content": [
               "- [To Request]: ",
+              "- [To Ask]: Um etwas bitten : Asking about something",
               "- Forms: Bitte (noun, singular), Bitten (noun, plural), Bitte (interjection)"
             ]
           }
@@ -3495,7 +3496,20 @@
           "back": {
             "content": [
               "- [About]: ",
+              "- [Around]: ",
+              "- [At]: Um 5 : At 5",
               "- Forms: Um (interjection)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Telefonieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Phone-call]: ",
+              "- Forms: Telefon(e) (noun)"
             ]
           }
         }
@@ -16576,6 +16590,11 @@
         "type": "add",
         "word": "Um",
         "date": "2024-10-19T10:38:55.842Z"
+      },
+      {
+        "type": "add",
+        "word": "Telefonieren",
+        "date": "2024-10-19T10:48:53.851Z"
       }
     ],
     "levels": [
@@ -21172,6 +21191,10 @@
           {
             "length": 321,
             "date": "2024-10-19T10:38:55.843Z"
+          },
+          {
+            "length": 322,
+            "date": "2024-10-19T10:48:53.852Z"
           }
         ]
       },
