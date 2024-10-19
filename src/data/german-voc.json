@@ -3227,6 +3227,16 @@
               "- Forms: Statistiken (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Singen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To sing]: "
+            ]
+          }
         }
       ]
     },
@@ -16174,6 +16184,11 @@
         "type": "add",
         "word": "Statistik",
         "date": "2024-10-19T06:36:33.320Z"
+      },
+      {
+        "type": "add",
+        "word": "Singen",
+        "date": "2024-10-19T06:37:39.889Z"
       }
     ],
     "levels": [
@@ -20666,6 +20681,10 @@
           {
             "length": 295,
             "date": "2024-10-19T06:36:33.320Z"
+          },
+          {
+            "length": 296,
+            "date": "2024-10-19T06:37:39.890Z"
           }
         ]
       },
