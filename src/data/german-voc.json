@@ -3405,6 +3405,17 @@
               "- [Mostly]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gelegentlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Occaisonal]: ",
+              "- Forms: Gelegentlich (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -16438,6 +16449,11 @@
         "type": "add",
         "word": "Meistens",
         "date": "2024-10-19T07:39:09.614Z"
+      },
+      {
+        "type": "add",
+        "word": "Gelegentlich",
+        "date": "2024-10-19T07:40:00.643Z"
       }
     ],
     "levels": [
@@ -20998,6 +21014,10 @@
           {
             "length": 312,
             "date": "2024-10-19T07:39:09.615Z"
+          },
+          {
+            "length": 313,
+            "date": "2024-10-19T07:40:00.644Z"
           }
         ]
       },
