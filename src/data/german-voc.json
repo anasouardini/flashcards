@@ -3566,7 +3566,20 @@
           "back": {
             "content": [
               "- [Stack]: ",
+              "- [Pile]: ",
+              "- [Batch]: ",
               "- Forms: Stapel (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dutzend (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Dozen]: ",
+              "- Forms: Dutzende (plural)"
             ]
           }
         }
@@ -16677,6 +16690,11 @@
         "type": "add",
         "word": "Stapel",
         "date": "2024-10-19T11:05:56.661Z"
+      },
+      {
+        "type": "add",
+        "word": "Dutzend",
+        "date": "2024-10-19T11:12:55.493Z"
       }
     ],
     "levels": [
@@ -21297,6 +21315,10 @@
           {
             "length": 327,
             "date": "2024-10-19T11:05:56.661Z"
+          },
+          {
+            "length": 328,
+            "date": "2024-10-19T11:12:55.493Z"
           }
         ]
       },
