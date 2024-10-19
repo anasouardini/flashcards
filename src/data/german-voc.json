@@ -3277,6 +3277,16 @@
               "- [To Paint/Draw]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bedanken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Thank]: "
+            ]
+          }
         }
       ]
     },
@@ -16249,6 +16259,11 @@
         "type": "add",
         "word": "Malen",
         "date": "2024-10-19T06:53:07.600Z"
+      },
+      {
+        "type": "add",
+        "word": "Bedanken",
+        "date": "2024-10-19T07:03:51.060Z"
       }
     ],
     "levels": [
@@ -20761,6 +20776,10 @@
           {
             "length": 300,
             "date": "2024-10-19T06:53:07.601Z"
+          },
+          {
+            "length": 301,
+            "date": "2024-10-19T07:03:51.061Z"
           }
         ]
       },
