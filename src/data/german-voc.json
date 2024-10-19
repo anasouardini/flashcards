@@ -3319,6 +3319,17 @@
               "- [To Walk]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Musik (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Music]: ",
+              "- Forms: Musiken (plural)"
+            ]
+          }
         }
       ]
     },
@@ -16311,6 +16322,11 @@
         "type": "add",
         "word": "Spazieren",
         "date": "2024-10-19T07:16:56.207Z"
+      },
+      {
+        "type": "add",
+        "word": "Musik",
+        "date": "2024-10-19T07:17:34.456Z"
       }
     ],
     "levels": [
@@ -20839,6 +20855,10 @@
           {
             "length": 304,
             "date": "2024-10-19T07:16:56.207Z"
+          },
+          {
+            "length": 305,
+            "date": "2024-10-19T07:17:34.456Z"
           }
         ]
       },
