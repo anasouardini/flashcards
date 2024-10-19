@@ -3374,6 +3374,17 @@
               "- Forms: Selten (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Häufig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Frequent]: ",
+              "- Forms: Häufig (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -16392,6 +16403,11 @@
         "type": "add",
         "word": "Selten",
         "date": "2024-10-19T07:36:11.631Z"
+      },
+      {
+        "type": "add",
+        "word": "Häufig",
+        "date": "2024-10-19T07:37:25.820Z"
       }
     ],
     "levels": [
@@ -20940,6 +20956,10 @@
           {
             "length": 309,
             "date": "2024-10-19T07:36:11.631Z"
+          },
+          {
+            "length": 310,
+            "date": "2024-10-19T07:37:25.820Z"
           }
         ]
       },
