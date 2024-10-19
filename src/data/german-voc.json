@@ -3309,6 +3309,16 @@
               "- Forms: Hobbys (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Spazieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Walk]: "
+            ]
+          }
         }
       ]
     },
@@ -16296,6 +16306,11 @@
         "type": "add",
         "word": "Hobby",
         "date": "2024-10-19T07:16:18.749Z"
+      },
+      {
+        "type": "add",
+        "word": "Spazieren",
+        "date": "2024-10-19T07:16:56.207Z"
       }
     ],
     "levels": [
@@ -20820,6 +20835,10 @@
           {
             "length": 303,
             "date": "2024-10-19T07:16:18.750Z"
+          },
+          {
+            "length": 304,
+            "date": "2024-10-19T07:16:56.207Z"
           }
         ]
       },
