@@ -419,6 +419,16 @@
               "- [Not at all]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ab und zu"
+          },
+          "back": {
+            "content": [
+              "- [Now and then]: "
+            ]
+          }
         }
       ]
     },
@@ -679,6 +689,11 @@
         "type": "add",
         "word": "Gar nicht",
         "date": "2024-10-19T06:52:40.746Z"
+      },
+      {
+        "type": "add",
+        "word": "Ab und zu",
+        "date": "2024-10-19T07:38:07.462Z"
       }
     ],
     "levels": [
@@ -847,6 +862,10 @@
           {
             "length": 41,
             "date": "2024-10-19T06:52:40.747Z"
+          },
+          {
+            "length": 42,
+            "date": "2024-10-19T07:38:07.463Z"
           }
         ]
       },
