@@ -3466,6 +3466,17 @@
               "- [Ever]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wiederholt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Repeated]: ",
+              "- Forms: Wiederholt (adv.), Wiederholten (v.)"
+            ]
+          }
         }
       ]
     },
@@ -16529,6 +16540,11 @@
         "type": "add",
         "word": "Jemals",
         "date": "2024-10-19T07:47:30.514Z"
+      },
+      {
+        "type": "add",
+        "word": "Wiederholt",
+        "date": "2024-10-19T07:49:26.759Z"
       }
     ],
     "levels": [
@@ -21113,6 +21129,10 @@
           {
             "length": 318,
             "date": "2024-10-19T07:47:30.515Z"
+          },
+          {
+            "length": 319,
+            "date": "2024-10-19T07:49:26.759Z"
           }
         ]
       },
