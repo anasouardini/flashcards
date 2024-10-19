@@ -449,6 +449,16 @@
               "- [No, unfortunately not possible/ok]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nein, tut mir leid"
+          },
+          "back": {
+            "content": [
+              "- [No, I'm sorry]: "
+            ]
+          }
         }
       ]
     },
@@ -724,6 +734,11 @@
         "type": "add",
         "word": "Nein, geht leider nicht",
         "date": "2024-10-19T10:58:51.890Z"
+      },
+      {
+        "type": "add",
+        "word": "Nein, tut mir leid",
+        "date": "2024-10-19T11:00:12.568Z"
       }
     ],
     "levels": [
@@ -904,6 +919,10 @@
           {
             "length": 44,
             "date": "2024-10-19T10:58:51.890Z"
+          },
+          {
+            "length": 45,
+            "date": "2024-10-19T11:00:12.568Z"
           }
         ]
       },
