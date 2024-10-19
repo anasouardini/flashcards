@@ -3484,7 +3484,18 @@
           },
           "back": {
             "content": [
-              "- [Remotely/Hardly ever]: "
+              "- [Barely/Remotely/Hardly ever]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Um (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [About]: ",
+              "- Forms: Um (interjection)"
             ]
           }
         }
@@ -16560,6 +16571,11 @@
         "type": "add",
         "word": "Fast nie",
         "date": "2024-10-19T10:34:07.066Z"
+      },
+      {
+        "type": "add",
+        "word": "Um",
+        "date": "2024-10-19T10:38:55.842Z"
       }
     ],
     "levels": [
@@ -21152,6 +21168,10 @@
           {
             "length": 320,
             "date": "2024-10-19T10:34:07.066Z"
+          },
+          {
+            "length": 321,
+            "date": "2024-10-19T10:38:55.843Z"
           }
         ]
       },
