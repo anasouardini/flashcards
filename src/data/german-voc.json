@@ -3520,6 +3520,18 @@
           "back": {
             "content": [
               "- [Smoking]: ",
+              "- [To Smoke] (v.): ",
+              "- Forms: Rauchen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Rauch (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Smoke]: ",
               "- Forms: Rauchen (v.)"
             ]
           }
@@ -16611,6 +16623,11 @@
         "type": "add",
         "word": "Rauchen",
         "date": "2024-10-19T10:51:14.898Z"
+      },
+      {
+        "type": "add",
+        "word": "Rauch",
+        "date": "2024-10-19T10:53:55.580Z"
       }
     ],
     "levels": [
@@ -21215,6 +21232,10 @@
           {
             "length": 323,
             "date": "2024-10-19T10:51:14.899Z"
+          },
+          {
+            "length": 324,
+            "date": "2024-10-19T10:53:55.581Z"
           }
         ]
       },
