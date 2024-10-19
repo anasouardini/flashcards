@@ -1,21 +1,10 @@
 {
-  "currentLevel": 2,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 112,
+      "currentCardSide": "back",
       "cards": [
-        {
-          "front": {
-            "content": "Fehler (noun, singuler/plural, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Mistake/Error]: ",
-              "- Forms: "
-            ]
-          }
-        },
         {
           "front": {
             "content": "Verstehen (v.)"
@@ -162,17 +151,6 @@
         },
         {
           "front": {
-            "content": "Mögen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To like]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wissen (v.)"
           },
           "back": {
@@ -295,17 +273,6 @@
         },
         {
           "front": {
-            "content": "Regnen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Rain]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zeigen (v.)"
           },
           "back": {
@@ -361,17 +328,6 @@
         },
         {
           "front": {
-            "content": "Schaffen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To create/accomplish/manage]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Treffen (v.)"
           },
           "back": {
@@ -383,44 +339,11 @@
         },
         {
           "front": {
-            "content": "Führen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To lead/guide]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Brauchen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To need]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Erzählen (v.)"
           },
           "back": {
             "content": [
               "- [To tell]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Erreichen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To acheive/reach]: ",
               "- Forms: "
             ]
           }
@@ -454,17 +377,6 @@
           "back": {
             "content": [
               "- [To run/walk/work]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Entscheiden (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To decide]: ",
               "- Forms: "
             ]
           }
@@ -526,33 +438,11 @@
         },
         {
           "front": {
-            "content": "Sobald (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [As soon as]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Entweder (conjunction)"
           },
           "back": {
             "content": [
               "- [Either]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Solange (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [As long as]: ",
               "- Forms: "
             ]
           }
@@ -600,17 +490,6 @@
           "back": {
             "content": [
               "- [Rather]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wählen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To choose]: ",
               "- Forms: "
             ]
           }
@@ -708,28 +587,6 @@
         },
         {
           "front": {
-            "content": "Tragen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To carry/wear]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Erkennen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To recognize/realize]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Weit (adj.)"
           },
           "back": {
@@ -768,17 +625,6 @@
           "back": {
             "content": [
               "- [Single]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Unterschiedlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Different]: ",
               "- Forms: "
             ]
           }
@@ -928,44 +774,11 @@
         },
         {
           "front": {
-            "content": "Enttäuscht (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Disappointed]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zufrieden (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Satisfied]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gleich (adj.)"
           },
           "back": {
             "content": [
               "- [Equal/Same]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Speziell (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Specific]: ",
               "- Forms: "
             ]
           }
@@ -988,17 +801,6 @@
           "back": {
             "content": [
               "- [Own]: Meine eigenen : My own",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Toll (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Great]: ",
               "- Forms: "
             ]
           }
@@ -1032,39 +834,6 @@
           "back": {
             "content": [
               "- [Why]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wer (pron.)"
-          },
-          "back": {
-            "content": [
-              "- [Who]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tanzen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Dance]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Landschaft (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Landscape]: ",
               "- Forms: "
             ]
           }
@@ -1138,17 +907,6 @@
         },
         {
           "front": {
-            "content": "Welche (ponoun)"
-          },
-          "back": {
-            "content": [
-              "- [Which]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Weißen (v.)"
           },
           "back": {
@@ -1166,17 +924,6 @@
             "content": [
               "- [To Draw]: ",
               "- Forms: Zeichnung (noun, singular, feminine), Zeichnungen (noun, plural, feminine)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gespräch (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Discussion/Chat/conversation]: ",
-              "- Forms: Gespräche (plural)"
             ]
           }
         },
@@ -1208,17 +955,6 @@
             "content": [
               "- [Friend]: ",
               "- Forms: Bekannte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Persönlichkeit (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Personality]: ",
-              "- Forms: Persönlichkeiten (plural)"
             ]
           }
         },
@@ -1270,16 +1006,6 @@
           "back": {
             "content": [
               "- [To Spell]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Diktieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Dictate]: "
             ]
           }
         },
@@ -1359,69 +1085,6 @@
         },
         {
           "front": {
-            "content": "Andere (pron., quantifier)"
-          },
-          "back": {
-            "content": [
-              "- [Other/Another]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Beruf (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Profession]: ",
-              "- Forms: Berufe (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Steckbrief (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Profile/Description]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Brief (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Letter (message)]: ",
-              "- Forms: Briefe (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Über (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [For/on/about/by]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Familienstand (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Marital status]: ",
-              "- Forms: Familienstände (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zahl (noun, singular, feminine)"
           },
           "back": {
@@ -1483,16 +1146,6 @@
             "content": [
               "- [Dictionary]: ",
               "- Forms: Wörterbücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Beruflich (adj/adv)"
-          },
-          "back": {
-            "content": [
-              "- [Professional/Professionally]: "
             ]
           }
         },
@@ -4698,6 +4351,353 @@
             "content": [
               "- [Doll]: ",
               "- Forms: Puppen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fehler (noun, singuler/plural, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Mistake/Error]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mögen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To like]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Regnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Rain]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schaffen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To create/accomplish/manage]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Führen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To lead/guide]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Brauchen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To need]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Erreichen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To acheive/reach]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Entscheiden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To decide]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sobald (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [As soon as]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Solange (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [As long as]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wählen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To choose]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tragen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To carry/wear]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Erkennen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To recognize/realize]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Unterschiedlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Different]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Enttäuscht (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Disappointed]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zufrieden (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Satisfied]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Speziell (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Specific]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Toll (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Great]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wer (pron.)"
+          },
+          "back": {
+            "content": [
+              "- [Who]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tanzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Dance]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Landschaft (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Landscape]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Welche (ponoun)"
+          },
+          "back": {
+            "content": [
+              "- [Which]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gespräch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Discussion/Chat/conversation]: ",
+              "- Forms: Gespräche (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Persönlichkeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Personality]: ",
+              "- Forms: Persönlichkeiten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Diktieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Dictate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Andere (pron., quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [Other/Another]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beruf (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Profession]: ",
+              "- Forms: Berufe (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Steckbrief (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Profile/Description]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Brief (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Letter (message)]: ",
+              "- Forms: Briefe (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Über (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [For/on/about/by]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Familienstand (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Marital status]: ",
+              "- Forms: Familienstände (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beruflich (adj/adv)"
+          },
+          "back": {
+            "content": [
+              "- [Professional/Professionally]: "
             ]
           }
         }
@@ -16744,6 +16744,230 @@
         "type": "add",
         "word": "Schwimmbad",
         "date": "2024-10-19T17:23:48.439Z"
+      },
+      {
+        "type": "move",
+        "word": "Fehler",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T18:17:54.775Z"
+      },
+      {
+        "type": "move",
+        "word": "Mögen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T18:27:32.188Z"
+      },
+      {
+        "type": "move",
+        "word": "Regnen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T18:58:19.412Z"
+      },
+      {
+        "type": "move",
+        "word": "Schaffen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T19:03:52.144Z"
+      },
+      {
+        "type": "move",
+        "word": "Führen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T19:03:58.003Z"
+      },
+      {
+        "type": "move",
+        "word": "Brauchen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T19:04:04.243Z"
+      },
+      {
+        "type": "move",
+        "word": "Erreichen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T19:04:15.475Z"
+      },
+      {
+        "type": "move",
+        "word": "Entscheiden",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T19:06:01.450Z"
+      },
+      {
+        "type": "move",
+        "word": "Sobald",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T19:10:07.033Z"
+      },
+      {
+        "type": "move",
+        "word": "Solange",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T19:10:21.200Z"
+      },
+      {
+        "type": "move",
+        "word": "Wählen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T19:14:40.972Z"
+      },
+      {
+        "type": "move",
+        "word": "Tragen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:15:50.264Z"
+      },
+      {
+        "type": "move",
+        "word": "Erkennen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:16:02.504Z"
+      },
+      {
+        "type": "move",
+        "word": "Unterschiedlich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:18:38.039Z"
+      },
+      {
+        "type": "move",
+        "word": "Enttäuscht",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:33:43.068Z"
+      },
+      {
+        "type": "move",
+        "word": "Zufrieden",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:34:04.163Z"
+      },
+      {
+        "type": "move",
+        "word": "Speziell",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:36:04.232Z"
+      },
+      {
+        "type": "move",
+        "word": "Toll",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:37:49.267Z"
+      },
+      {
+        "type": "move",
+        "word": "Wer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:38:59.018Z"
+      },
+      {
+        "type": "move",
+        "word": "Tanzen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:39:03.090Z"
+      },
+      {
+        "type": "move",
+        "word": "Landschaft",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:39:06.994Z"
+      },
+      {
+        "type": "move",
+        "word": "Welche",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:54:26.486Z"
+      },
+      {
+        "type": "move",
+        "word": "Gespräch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:55:42.614Z"
+      },
+      {
+        "type": "move",
+        "word": "Persönlichkeit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T20:57:55.910Z"
+      },
+      {
+        "type": "move",
+        "word": "Diktieren",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T21:00:45.488Z"
+      },
+      {
+        "type": "move",
+        "word": "Andere",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T21:14:50.169Z"
+      },
+      {
+        "type": "move",
+        "word": "Beruf",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T21:15:18.113Z"
+      },
+      {
+        "type": "move",
+        "word": "Steckbrief",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T21:15:22.857Z"
+      },
+      {
+        "type": "move",
+        "word": "Brief",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T21:15:29.353Z"
+      },
+      {
+        "type": "move",
+        "word": "Über",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T21:15:39.505Z"
+      },
+      {
+        "type": "move",
+        "word": "Familienstand",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T21:16:01.793Z"
+      },
+      {
+        "type": "move",
+        "word": "Beruflich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-19T21:19:43.952Z"
       }
     ],
     "levels": [
@@ -21380,6 +21604,134 @@
           {
             "length": 331,
             "date": "2024-10-19T17:23:48.500Z"
+          },
+          {
+            "length": 330,
+            "date": "2024-10-19T18:17:54.776Z"
+          },
+          {
+            "length": 329,
+            "date": "2024-10-19T18:27:32.188Z"
+          },
+          {
+            "length": 328,
+            "date": "2024-10-19T18:58:19.412Z"
+          },
+          {
+            "length": 327,
+            "date": "2024-10-19T19:03:52.144Z"
+          },
+          {
+            "length": 326,
+            "date": "2024-10-19T19:03:58.003Z"
+          },
+          {
+            "length": 325,
+            "date": "2024-10-19T19:04:04.243Z"
+          },
+          {
+            "length": 324,
+            "date": "2024-10-19T19:04:15.475Z"
+          },
+          {
+            "length": 323,
+            "date": "2024-10-19T19:06:01.450Z"
+          },
+          {
+            "length": 322,
+            "date": "2024-10-19T19:10:07.033Z"
+          },
+          {
+            "length": 321,
+            "date": "2024-10-19T19:10:21.200Z"
+          },
+          {
+            "length": 320,
+            "date": "2024-10-19T19:14:40.972Z"
+          },
+          {
+            "length": 319,
+            "date": "2024-10-19T20:15:50.264Z"
+          },
+          {
+            "length": 318,
+            "date": "2024-10-19T20:16:02.504Z"
+          },
+          {
+            "length": 317,
+            "date": "2024-10-19T20:18:38.039Z"
+          },
+          {
+            "length": 316,
+            "date": "2024-10-19T20:33:43.068Z"
+          },
+          {
+            "length": 315,
+            "date": "2024-10-19T20:34:04.163Z"
+          },
+          {
+            "length": 314,
+            "date": "2024-10-19T20:36:04.232Z"
+          },
+          {
+            "length": 313,
+            "date": "2024-10-19T20:37:49.267Z"
+          },
+          {
+            "length": 312,
+            "date": "2024-10-19T20:38:59.018Z"
+          },
+          {
+            "length": 311,
+            "date": "2024-10-19T20:39:03.090Z"
+          },
+          {
+            "length": 310,
+            "date": "2024-10-19T20:39:06.994Z"
+          },
+          {
+            "length": 309,
+            "date": "2024-10-19T20:54:26.486Z"
+          },
+          {
+            "length": 308,
+            "date": "2024-10-19T20:55:42.614Z"
+          },
+          {
+            "length": 307,
+            "date": "2024-10-19T20:57:55.910Z"
+          },
+          {
+            "length": 306,
+            "date": "2024-10-19T21:00:45.488Z"
+          },
+          {
+            "length": 305,
+            "date": "2024-10-19T21:14:50.169Z"
+          },
+          {
+            "length": 304,
+            "date": "2024-10-19T21:15:18.113Z"
+          },
+          {
+            "length": 303,
+            "date": "2024-10-19T21:15:22.857Z"
+          },
+          {
+            "length": 302,
+            "date": "2024-10-19T21:15:29.353Z"
+          },
+          {
+            "length": 301,
+            "date": "2024-10-19T21:15:39.505Z"
+          },
+          {
+            "length": 300,
+            "date": "2024-10-19T21:16:01.793Z"
+          },
+          {
+            "length": 299,
+            "date": "2024-10-19T21:19:43.952Z"
           }
         ]
       },
@@ -24272,6 +24624,134 @@
           {
             "length": 98,
             "date": "2024-10-18T18:41:19.041Z"
+          },
+          {
+            "length": 99,
+            "date": "2024-10-19T18:17:54.776Z"
+          },
+          {
+            "length": 100,
+            "date": "2024-10-19T18:27:32.188Z"
+          },
+          {
+            "length": 101,
+            "date": "2024-10-19T18:58:19.412Z"
+          },
+          {
+            "length": 102,
+            "date": "2024-10-19T19:03:52.144Z"
+          },
+          {
+            "length": 103,
+            "date": "2024-10-19T19:03:58.003Z"
+          },
+          {
+            "length": 104,
+            "date": "2024-10-19T19:04:04.243Z"
+          },
+          {
+            "length": 105,
+            "date": "2024-10-19T19:04:15.475Z"
+          },
+          {
+            "length": 106,
+            "date": "2024-10-19T19:06:01.450Z"
+          },
+          {
+            "length": 107,
+            "date": "2024-10-19T19:10:07.033Z"
+          },
+          {
+            "length": 108,
+            "date": "2024-10-19T19:10:21.200Z"
+          },
+          {
+            "length": 109,
+            "date": "2024-10-19T19:14:40.972Z"
+          },
+          {
+            "length": 110,
+            "date": "2024-10-19T20:15:50.264Z"
+          },
+          {
+            "length": 111,
+            "date": "2024-10-19T20:16:02.504Z"
+          },
+          {
+            "length": 112,
+            "date": "2024-10-19T20:18:38.039Z"
+          },
+          {
+            "length": 113,
+            "date": "2024-10-19T20:33:43.068Z"
+          },
+          {
+            "length": 114,
+            "date": "2024-10-19T20:34:04.163Z"
+          },
+          {
+            "length": 115,
+            "date": "2024-10-19T20:36:04.232Z"
+          },
+          {
+            "length": 116,
+            "date": "2024-10-19T20:37:49.267Z"
+          },
+          {
+            "length": 117,
+            "date": "2024-10-19T20:38:59.018Z"
+          },
+          {
+            "length": 118,
+            "date": "2024-10-19T20:39:03.090Z"
+          },
+          {
+            "length": 119,
+            "date": "2024-10-19T20:39:06.994Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-10-19T20:54:26.486Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-10-19T20:55:42.614Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-10-19T20:57:55.910Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-10-19T21:00:45.488Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-10-19T21:14:50.169Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-10-19T21:15:18.113Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-10-19T21:15:22.857Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-10-19T21:15:29.353Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-10-19T21:15:39.505Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-10-19T21:16:01.793Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-10-19T21:19:43.952Z"
           }
         ]
       },
