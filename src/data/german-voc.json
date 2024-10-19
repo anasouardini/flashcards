@@ -3363,6 +3363,17 @@
               "- Forms: Freizeiten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Selten (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Rare]: ",
+              "- Forms: Selten (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -6246,6 +6257,7 @@
           "back": {
             "content": [
               "- [Ever]: Wann immer : When ever",
+              "- [Always]: ",
               "- Forms: "
             ]
           }
@@ -16375,6 +16387,11 @@
         "type": "add",
         "word": "Freizeit",
         "date": "2024-10-19T07:24:12.898Z"
+      },
+      {
+        "type": "add",
+        "word": "Selten",
+        "date": "2024-10-19T07:36:11.631Z"
       }
     ],
     "levels": [
@@ -20919,6 +20936,10 @@
           {
             "length": 308,
             "date": "2024-10-19T07:24:12.898Z"
+          },
+          {
+            "length": 309,
+            "date": "2024-10-19T07:36:11.631Z"
           }
         ]
       },
