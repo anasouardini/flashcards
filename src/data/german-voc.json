@@ -3436,6 +3436,16 @@
               "- [Barely/Rarely]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bisweilen (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Sometimes]: "
+            ]
+          }
         }
       ]
     },
@@ -16484,6 +16494,11 @@
         "type": "add",
         "word": "Kaum",
         "date": "2024-10-19T07:41:42.685Z"
+      },
+      {
+        "type": "add",
+        "word": "Bisweilen",
+        "date": "2024-10-19T07:42:59.075Z"
       }
     ],
     "levels": [
@@ -21056,6 +21071,10 @@
           {
             "length": 315,
             "date": "2024-10-19T07:41:42.685Z"
+          },
+          {
+            "length": 316,
+            "date": "2024-10-19T07:42:59.075Z"
           }
         ]
       },
