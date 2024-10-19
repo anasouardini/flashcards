@@ -3599,7 +3599,21 @@
           },
           "back": {
             "content": [
-              "- [Of]: "
+              "- [In]: ",
+              "- [At]: ",
+              "- [On]: ",
+              "- [Of]: ",
+              "- [By]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schwimmbad (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Swimming pool]: "
             ]
           }
         }
@@ -16725,6 +16739,11 @@
         "type": "add",
         "word": "An",
         "date": "2024-10-19T13:10:49.455Z"
+      },
+      {
+        "type": "add",
+        "word": "Schwimmbad",
+        "date": "2024-10-19T17:23:48.439Z"
       }
     ],
     "levels": [
@@ -21357,6 +21376,10 @@
           {
             "length": 330,
             "date": "2024-10-19T13:10:49.456Z"
+          },
+          {
+            "length": 331,
+            "date": "2024-10-19T17:23:48.500Z"
           }
         ]
       },
