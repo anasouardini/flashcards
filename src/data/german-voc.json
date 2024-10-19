@@ -3416,6 +3416,16 @@
               "- Forms: Gelegentlich (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Stets (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Constantly/Always]: "
+            ]
+          }
         }
       ]
     },
@@ -16454,6 +16464,11 @@
         "type": "add",
         "word": "Gelegentlich",
         "date": "2024-10-19T07:40:00.643Z"
+      },
+      {
+        "type": "add",
+        "word": "Stets",
+        "date": "2024-10-19T07:40:54.404Z"
       }
     ],
     "levels": [
@@ -21018,6 +21033,10 @@
           {
             "length": 313,
             "date": "2024-10-19T07:40:00.644Z"
+          },
+          {
+            "length": 314,
+            "date": "2024-10-19T07:40:54.405Z"
           }
         ]
       },
