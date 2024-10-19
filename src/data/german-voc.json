@@ -3247,6 +3247,16 @@
               "- [Surfing]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schwimmen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Swimm]: "
+            ]
+          }
         }
       ]
     },
@@ -16204,6 +16214,11 @@
         "type": "add",
         "word": "Surfen",
         "date": "2024-10-19T06:38:03.412Z"
+      },
+      {
+        "type": "add",
+        "word": "Schwimmen",
+        "date": "2024-10-19T06:38:37.180Z"
       }
     ],
     "levels": [
@@ -20704,6 +20719,10 @@
           {
             "length": 297,
             "date": "2024-10-19T06:38:03.412Z"
+          },
+          {
+            "length": 298,
+            "date": "2024-10-19T06:38:37.180Z"
           }
         ]
       },
