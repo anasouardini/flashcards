@@ -3298,6 +3298,17 @@
               "- Forms: Späße (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Hobby (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Hobby]: ",
+              "- Forms: Hobbys (plural)"
+            ]
+          }
         }
       ]
     },
@@ -16280,6 +16291,11 @@
         "type": "add",
         "word": "Spaß",
         "date": "2024-10-19T07:14:03.143Z"
+      },
+      {
+        "type": "add",
+        "word": "Hobby",
+        "date": "2024-10-19T07:16:18.749Z"
       }
     ],
     "levels": [
@@ -20800,6 +20816,10 @@
           {
             "length": 302,
             "date": "2024-10-19T07:14:03.144Z"
+          },
+          {
+            "length": 303,
+            "date": "2024-10-19T07:16:18.750Z"
           }
         ]
       },
