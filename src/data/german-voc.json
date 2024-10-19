@@ -3456,6 +3456,16 @@
               "- [Again/Once Again]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Jemals (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Ever]: "
+            ]
+          }
         }
       ]
     },
@@ -16514,6 +16524,11 @@
         "type": "add",
         "word": "Abermals",
         "date": "2024-10-19T07:46:45.843Z"
+      },
+      {
+        "type": "add",
+        "word": "Jemals",
+        "date": "2024-10-19T07:47:30.514Z"
       }
     ],
     "levels": [
@@ -21094,6 +21109,10 @@
           {
             "length": 317,
             "date": "2024-10-19T07:46:45.844Z"
+          },
+          {
+            "length": 318,
+            "date": "2024-10-19T07:47:30.515Z"
           }
         ]
       },
