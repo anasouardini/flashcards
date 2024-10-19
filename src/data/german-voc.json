@@ -1300,7 +1300,7 @@
           },
           "back": {
             "content": [
-              "- [On]: "
+              "- [On]: Am = An + dem"
             ]
           }
         },
@@ -3590,6 +3590,16 @@
           "back": {
             "content": [
               "- [Summary]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "An (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Of]: "
             ]
           }
         }
@@ -16710,6 +16720,11 @@
         "type": "add",
         "word": "Zusammenfassung",
         "date": "2024-10-19T13:01:17.205Z"
+      },
+      {
+        "type": "add",
+        "word": "An",
+        "date": "2024-10-19T13:10:49.455Z"
       }
     ],
     "levels": [
@@ -21338,6 +21353,10 @@
           {
             "length": 329,
             "date": "2024-10-19T13:01:17.226Z"
+          },
+          {
+            "length": 330,
+            "date": "2024-10-19T13:10:49.456Z"
           }
         ]
       },
