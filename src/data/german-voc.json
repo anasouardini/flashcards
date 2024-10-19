@@ -3582,6 +3582,16 @@
               "- Forms: Dutzende (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zusammenfassung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Summary]: "
+            ]
+          }
         }
       ]
     },
@@ -16695,6 +16705,11 @@
         "type": "add",
         "word": "Dutzend",
         "date": "2024-10-19T11:12:55.493Z"
+      },
+      {
+        "type": "add",
+        "word": "Zusammenfassung",
+        "date": "2024-10-19T13:01:17.205Z"
       }
     ],
     "levels": [
@@ -21319,6 +21334,10 @@
           {
             "length": 328,
             "date": "2024-10-19T11:12:55.493Z"
+          },
+          {
+            "length": 329,
+            "date": "2024-10-19T13:01:17.226Z"
           }
         ]
       },
