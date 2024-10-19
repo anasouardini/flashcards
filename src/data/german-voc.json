@@ -3477,6 +3477,16 @@
               "- Forms: Wiederholt (adv.), Wiederholten (v.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Fast nie (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Remotely/Hardly ever]: "
+            ]
+          }
         }
       ]
     },
@@ -16545,6 +16555,11 @@
         "type": "add",
         "word": "Wiederholt",
         "date": "2024-10-19T07:49:26.759Z"
+      },
+      {
+        "type": "add",
+        "word": "Fast nie",
+        "date": "2024-10-19T10:34:07.066Z"
       }
     ],
     "levels": [
@@ -21133,6 +21148,10 @@
           {
             "length": 319,
             "date": "2024-10-19T07:49:26.759Z"
+          },
+          {
+            "length": 320,
+            "date": "2024-10-19T10:34:07.066Z"
           }
         ]
       },
