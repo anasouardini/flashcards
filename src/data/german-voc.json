@@ -3543,7 +3543,19 @@
           "back": {
             "content": [
               "- [Natural]: ",
+              "- [Naturally] (adv.): ",
+              "- [Of Course] (adv.): ",
               "- Forms: Natürlich (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Worum (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [About What]: "
             ]
           }
         }
@@ -16644,6 +16656,11 @@
         "type": "add",
         "word": "Natürlich",
         "date": "2024-10-19T10:55:36.582Z"
+      },
+      {
+        "type": "add",
+        "word": "Worum",
+        "date": "2024-10-19T11:02:28.218Z"
       }
     ],
     "levels": [
@@ -21256,6 +21273,10 @@
           {
             "length": 325,
             "date": "2024-10-19T10:55:36.582Z"
+          },
+          {
+            "length": 326,
+            "date": "2024-10-19T11:02:28.219Z"
           }
         ]
       },
