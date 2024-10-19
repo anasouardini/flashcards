@@ -429,6 +429,16 @@
               "- [Now and then]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wie oft?"
+          },
+          "back": {
+            "content": [
+              "- [How often?]: "
+            ]
+          }
         }
       ]
     },
@@ -694,6 +704,11 @@
         "type": "add",
         "word": "Ab und zu",
         "date": "2024-10-19T07:38:07.462Z"
+      },
+      {
+        "type": "add",
+        "word": "Wie oft?",
+        "date": "2024-10-19T10:37:07.812Z"
       }
     ],
     "levels": [
@@ -866,6 +881,10 @@
           {
             "length": 42,
             "date": "2024-10-19T07:38:07.463Z"
+          },
+          {
+            "length": 43,
+            "date": "2024-10-19T10:37:07.813Z"
           }
         ]
       },
