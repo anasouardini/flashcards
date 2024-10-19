@@ -439,6 +439,16 @@
               "- [How often?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Nein, geht leider nicht"
+          },
+          "back": {
+            "content": [
+              "- [No, unfortunately not possible/ok]: "
+            ]
+          }
         }
       ]
     },
@@ -709,6 +719,11 @@
         "type": "add",
         "word": "Wie oft?",
         "date": "2024-10-19T10:37:07.812Z"
+      },
+      {
+        "type": "add",
+        "word": "Nein, geht leider nicht",
+        "date": "2024-10-19T10:58:51.890Z"
       }
     ],
     "levels": [
@@ -885,6 +900,10 @@
           {
             "length": 43,
             "date": "2024-10-19T10:37:07.813Z"
+          },
+          {
+            "length": 44,
+            "date": "2024-10-19T10:58:51.890Z"
           }
         ]
       },
