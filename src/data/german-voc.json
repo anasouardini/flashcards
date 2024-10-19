@@ -3216,6 +3216,17 @@
               "- [Best]: passt am besten : fits better"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Statistik (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Statistic]: ",
+              "- Forms: Statistiken (plural)"
+            ]
+          }
         }
       ]
     },
@@ -16158,6 +16169,11 @@
         "type": "add",
         "word": "Besten",
         "date": "2024-10-19T06:34:06.328Z"
+      },
+      {
+        "type": "add",
+        "word": "Statistik",
+        "date": "2024-10-19T06:36:33.320Z"
       }
     ],
     "levels": [
@@ -20646,6 +20662,10 @@
           {
             "length": 294,
             "date": "2024-10-19T06:34:06.404Z"
+          },
+          {
+            "length": 295,
+            "date": "2024-10-19T06:36:33.320Z"
           }
         ]
       },
