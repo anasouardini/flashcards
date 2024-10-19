@@ -3385,6 +3385,16 @@
               "- Forms: Häufig (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Oftmals (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Often]: "
+            ]
+          }
         }
       ]
     },
@@ -16408,6 +16418,11 @@
         "type": "add",
         "word": "Häufig",
         "date": "2024-10-19T07:37:25.820Z"
+      },
+      {
+        "type": "add",
+        "word": "Oftmals",
+        "date": "2024-10-19T07:38:33.973Z"
       }
     ],
     "levels": [
@@ -20960,6 +20975,10 @@
           {
             "length": 310,
             "date": "2024-10-19T07:37:25.820Z"
+          },
+          {
+            "length": 311,
+            "date": "2024-10-19T07:38:33.973Z"
           }
         ]
       },
