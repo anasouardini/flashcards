@@ -3330,6 +3330,17 @@
               "- Forms: Musiken (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ausflug (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Trip]: ",
+              "- Forms: Ausflüge (plural)"
+            ]
+          }
         }
       ]
     },
@@ -16327,6 +16338,11 @@
         "type": "add",
         "word": "Musik",
         "date": "2024-10-19T07:17:34.456Z"
+      },
+      {
+        "type": "add",
+        "word": "Ausflug",
+        "date": "2024-10-19T07:19:44.928Z"
       }
     ],
     "levels": [
@@ -20859,6 +20875,10 @@
           {
             "length": 305,
             "date": "2024-10-19T07:17:34.456Z"
+          },
+          {
+            "length": 306,
+            "date": "2024-10-19T07:19:44.928Z"
           }
         ]
       },
