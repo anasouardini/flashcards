@@ -3352,6 +3352,17 @@
               "- Forms: Lieblinge (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Freizeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Free Time]: ",
+              "- Forms: Freizeiten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -16359,6 +16370,11 @@
         "type": "add",
         "word": "Liebling",
         "date": "2024-10-19T07:21:26.437Z"
+      },
+      {
+        "type": "add",
+        "word": "Freizeit",
+        "date": "2024-10-19T07:24:12.898Z"
       }
     ],
     "levels": [
@@ -20899,6 +20915,10 @@
           {
             "length": 307,
             "date": "2024-10-19T07:21:26.438Z"
+          },
+          {
+            "length": 308,
+            "date": "2024-10-19T07:24:12.898Z"
           }
         ]
       },
