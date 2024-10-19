@@ -3512,6 +3512,17 @@
               "- Forms: Telefon(e) (noun)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Rauchen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Smoking]: ",
+              "- Forms: Rauchen (v.)"
+            ]
+          }
         }
       ]
     },
@@ -16595,6 +16606,11 @@
         "type": "add",
         "word": "Telefonieren",
         "date": "2024-10-19T10:48:53.851Z"
+      },
+      {
+        "type": "add",
+        "word": "Rauchen",
+        "date": "2024-10-19T10:51:14.898Z"
       }
     ],
     "levels": [
@@ -21195,6 +21211,10 @@
           {
             "length": 322,
             "date": "2024-10-19T10:48:53.852Z"
+          },
+          {
+            "length": 323,
+            "date": "2024-10-19T10:51:14.899Z"
           }
         ]
       },
