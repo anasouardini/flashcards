@@ -3551,11 +3551,22 @@
         },
         {
           "front": {
-            "content": "Worum (adv.)"
+            "content": "Worum (pronoun)"
           },
           "back": {
             "content": [
-              "- [About What]: "
+              "- [What else]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stapel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Stack]: ",
+              "- Forms: Stapel (plural)"
             ]
           }
         }
@@ -16661,6 +16672,11 @@
         "type": "add",
         "word": "Worum",
         "date": "2024-10-19T11:02:28.218Z"
+      },
+      {
+        "type": "add",
+        "word": "Stapel",
+        "date": "2024-10-19T11:05:56.661Z"
       }
     ],
     "levels": [
@@ -21277,6 +21293,10 @@
           {
             "length": 326,
             "date": "2024-10-19T11:02:28.219Z"
+          },
+          {
+            "length": 327,
+            "date": "2024-10-19T11:05:56.661Z"
           }
         ]
       },
