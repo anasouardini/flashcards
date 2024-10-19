@@ -3446,6 +3446,16 @@
               "- [Sometimes]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Abermals (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Again/Once Again]: "
+            ]
+          }
         }
       ]
     },
@@ -16499,6 +16509,11 @@
         "type": "add",
         "word": "Bisweilen",
         "date": "2024-10-19T07:42:59.075Z"
+      },
+      {
+        "type": "add",
+        "word": "Abermals",
+        "date": "2024-10-19T07:46:45.843Z"
       }
     ],
     "levels": [
@@ -21075,6 +21090,10 @@
           {
             "length": 316,
             "date": "2024-10-19T07:42:59.075Z"
+          },
+          {
+            "length": 317,
+            "date": "2024-10-19T07:46:45.844Z"
           }
         ]
       },
