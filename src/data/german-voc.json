@@ -3341,6 +3341,17 @@
               "- Forms: Ausflüge (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Liebling (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Favorite]: ",
+              "- Forms: Lieblinge (plural)"
+            ]
+          }
         }
       ]
     },
@@ -16343,6 +16354,11 @@
         "type": "add",
         "word": "Ausflug",
         "date": "2024-10-19T07:19:44.928Z"
+      },
+      {
+        "type": "add",
+        "word": "Liebling",
+        "date": "2024-10-19T07:21:26.437Z"
       }
     ],
     "levels": [
@@ -20879,6 +20895,10 @@
           {
             "length": 306,
             "date": "2024-10-19T07:19:44.928Z"
+          },
+          {
+            "length": 307,
+            "date": "2024-10-19T07:21:26.438Z"
           }
         ]
       },
