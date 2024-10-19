@@ -3287,6 +3287,17 @@
               "- [To Thank]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Spaß (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Fun]: ",
+              "- Forms: Späße (plural)"
+            ]
+          }
         }
       ]
     },
@@ -16264,6 +16275,11 @@
         "type": "add",
         "word": "Bedanken",
         "date": "2024-10-19T07:03:51.060Z"
+      },
+      {
+        "type": "add",
+        "word": "Spaß",
+        "date": "2024-10-19T07:14:03.143Z"
       }
     ],
     "levels": [
@@ -20780,6 +20796,10 @@
           {
             "length": 301,
             "date": "2024-10-19T07:03:51.061Z"
+          },
+          {
+            "length": 302,
+            "date": "2024-10-19T07:14:03.144Z"
           }
         ]
       },
