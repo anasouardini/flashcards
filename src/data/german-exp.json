@@ -409,6 +409,16 @@
               "- [What kind of]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gar nicht"
+          },
+          "back": {
+            "content": [
+              "- [Not at all]: "
+            ]
+          }
         }
       ]
     },
@@ -664,6 +674,11 @@
         "type": "add",
         "word": "Was für",
         "date": "2024-10-18T07:27:56.583Z"
+      },
+      {
+        "type": "add",
+        "word": "Gar nicht",
+        "date": "2024-10-19T06:52:40.746Z"
       }
     ],
     "levels": [
@@ -828,6 +843,10 @@
           {
             "length": 40,
             "date": "2024-10-18T07:27:56.583Z"
+          },
+          {
+            "length": 41,
+            "date": "2024-10-19T06:52:40.747Z"
           }
         ]
       },
