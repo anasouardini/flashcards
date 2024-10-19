@@ -3535,6 +3535,17 @@
               "- Forms: Rauchen (v.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Natürlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Natural]: ",
+              "- Forms: Natürlich (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -16628,6 +16639,11 @@
         "type": "add",
         "word": "Rauch",
         "date": "2024-10-19T10:53:55.580Z"
+      },
+      {
+        "type": "add",
+        "word": "Natürlich",
+        "date": "2024-10-19T10:55:36.582Z"
       }
     ],
     "levels": [
@@ -21236,6 +21252,10 @@
           {
             "length": 324,
             "date": "2024-10-19T10:53:55.581Z"
+          },
+          {
+            "length": 325,
+            "date": "2024-10-19T10:55:36.582Z"
           }
         ]
       },
