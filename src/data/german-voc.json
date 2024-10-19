@@ -3244,7 +3244,7 @@
           },
           "back": {
             "content": [
-              "- [Surfing]: "
+              "- [To Surfe]: "
             ]
           }
         },
@@ -3255,6 +3255,16 @@
           "back": {
             "content": [
               "- [To Swimm]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fotograferen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Photograph]: "
             ]
           }
         }
@@ -16219,6 +16229,11 @@
         "type": "add",
         "word": "Schwimmen",
         "date": "2024-10-19T06:38:37.180Z"
+      },
+      {
+        "type": "add",
+        "word": "Fotograferen",
+        "date": "2024-10-19T06:39:27.176Z"
       }
     ],
     "levels": [
@@ -20723,6 +20738,10 @@
           {
             "length": 298,
             "date": "2024-10-19T06:38:37.180Z"
+          },
+          {
+            "length": 299,
+            "date": "2024-10-19T06:39:27.177Z"
           }
         ]
       },
