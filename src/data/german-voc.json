@@ -3426,6 +3426,16 @@
               "- [Constantly/Always]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kaum (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Barely/Rarely]: "
+            ]
+          }
         }
       ]
     },
@@ -16469,6 +16479,11 @@
         "type": "add",
         "word": "Stets",
         "date": "2024-10-19T07:40:54.404Z"
+      },
+      {
+        "type": "add",
+        "word": "Kaum",
+        "date": "2024-10-19T07:41:42.685Z"
       }
     ],
     "levels": [
@@ -21037,6 +21052,10 @@
           {
             "length": 314,
             "date": "2024-10-19T07:40:54.405Z"
+          },
+          {
+            "length": 315,
+            "date": "2024-10-19T07:41:42.685Z"
           }
         ]
       },
