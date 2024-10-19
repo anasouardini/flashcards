@@ -3267,6 +3267,16 @@
               "- [To Photograph]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Malen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Paint/Draw]: "
+            ]
+          }
         }
       ]
     },
@@ -16234,6 +16244,11 @@
         "type": "add",
         "word": "Fotograferen",
         "date": "2024-10-19T06:39:27.176Z"
+      },
+      {
+        "type": "add",
+        "word": "Malen",
+        "date": "2024-10-19T06:53:07.600Z"
       }
     ],
     "levels": [
@@ -20742,6 +20757,10 @@
           {
             "length": 299,
             "date": "2024-10-19T06:39:27.177Z"
+          },
+          {
+            "length": 300,
+            "date": "2024-10-19T06:53:07.601Z"
           }
         ]
       },
