@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 167,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -1909,17 +1909,6 @@
         },
         {
           "front": {
-            "content": "Datum (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Date]: ",
-              "- Forms: Daten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wiederholung (noun, singular, feminine)"
           },
           "back": {
@@ -1983,38 +1972,6 @@
           "back": {
             "content": [
               "- [Start/Begin]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Termin (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Deadline/Appointment]: ",
-              "- Forms: Termine (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ins (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Into]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Notizbuch (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Notebook]: ",
-              "- Forms: Notizbücher (plural)"
             ]
           }
         },
@@ -2189,27 +2146,6 @@
         },
         {
           "front": {
-            "content": "Ball (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Ball]: ",
-              "- Forms: Bälle (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Daraus (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [From there]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Teller (noun, singular, masculine)"
           },
           "back": {
@@ -2228,17 +2164,6 @@
               "- [Struggle]: ",
               "- [To Struggle] (v.): ",
               "- Forms: Ringen (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tasse (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Cup/Mug]: ",
-              "- Forms: Tassen (plural)"
             ]
           }
         },
@@ -2281,17 +2206,6 @@
           "back": {
             "content": [
               "- [Most Beautiful]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tradition (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Tradition]: ",
-              "- Forms: Traditionen (plural)"
             ]
           }
         },
@@ -2357,17 +2271,6 @@
           "back": {
             "content": [
               "- [Junk]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Event (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Event]: ",
-              "- Forms: Events (plural)"
             ]
           }
         },
@@ -2441,38 +2344,6 @@
         },
         {
           "front": {
-            "content": "Beschreibung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Description]: ",
-              "- Forms: Beschreibungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Beispiel (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Example]: ",
-              "- Forms: Beispiele (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mitbringen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Bring along]: Bringen Sie X mit in die... : Bring X along into the..."
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Flohmarkt/Trödelmarkt (noun, singular, neuter)"
           },
           "back": {
@@ -2537,17 +2408,6 @@
         },
         {
           "front": {
-            "content": "Hand (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Hand]: ",
-              "- Forms: Hände (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Platz (noun, singular, masculine)"
           },
           "back": {
@@ -2569,72 +2429,11 @@
         },
         {
           "front": {
-            "content": "Statistik (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Statistic]: ",
-              "- Forms: Statistiken (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Singen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To sing]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Surfen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Surfe]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schwimmen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Swimm]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fotograferen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Photograph]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Malen (v.)"
           },
           "back": {
             "content": [
               "- [To Paint/Draw]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bedanken (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Thank]: "
             ]
           }
         },
@@ -2651,33 +2450,11 @@
         },
         {
           "front": {
-            "content": "Hobby (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Hobby]: ",
-              "- Forms: Hobbys (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Spazieren (v.)"
           },
           "back": {
             "content": [
               "- [To Walk]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Musik (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Music]: ",
-              "- Forms: Musiken (plural)"
             ]
           }
         },
@@ -2853,17 +2630,6 @@
         },
         {
           "front": {
-            "content": "Telefonieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Phone-call]: ",
-              "- Forms: Telefon(e) (noun)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Rauchen (noun, singular, neuter)"
           },
           "back": {
@@ -2969,8 +2735,8 @@
       ]
     },
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 170,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -4698,6 +4464,240 @@
             "content": [
               "- [Clock/Watch]: ",
               "- Forms: Uren (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Datum (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Date]: ",
+              "- Forms: Daten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Termin (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Deadline/Appointment]: ",
+              "- Forms: Termine (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ins (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Into]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Notizbuch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Notebook]: ",
+              "- Forms: Notizbücher (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ball (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Ball]: ",
+              "- Forms: Bälle (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Daraus (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [From there]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tasse (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Cup/Mug]: ",
+              "- Forms: Tassen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tradition (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Tradition]: ",
+              "- Forms: Traditionen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Event (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Event]: ",
+              "- Forms: Events (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beschreibung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Description]: ",
+              "- Forms: Beschreibungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beispiel (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Example]: ",
+              "- Forms: Beispiele (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mitbringen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Bring along]: Bringen Sie X mit in die... : Bring X along into the..."
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hand (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Hand]: ",
+              "- Forms: Hände (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Statistik (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Statistic]: ",
+              "- Forms: Statistiken (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Singen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To sing]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Surfen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Surfe]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schwimmen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Swimm]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fotograferen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Photograph]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bedanken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Thank]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hobby (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Hobby]: ",
+              "- Forms: Hobbys (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Musik (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Music]: ",
+              "- Forms: Musiken (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Telefonieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Phone-call]: ",
+              "- Forms: Telefon(e) (noun)"
             ]
           }
         }
@@ -17164,6 +17164,160 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-20T17:49:42.874Z"
+      },
+      {
+        "type": "move",
+        "word": "Datum",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T17:58:51.386Z"
+      },
+      {
+        "type": "move",
+        "word": "Termin",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T18:30:29.763Z"
+      },
+      {
+        "type": "move",
+        "word": "Ins",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T18:30:33.163Z"
+      },
+      {
+        "type": "move",
+        "word": "Notizbuch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T18:30:45.275Z"
+      },
+      {
+        "type": "move",
+        "word": "Ball",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T19:31:47.850Z"
+      },
+      {
+        "type": "move",
+        "word": "Daraus",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T19:32:06.340Z"
+      },
+      {
+        "type": "move",
+        "word": "Tasse",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T19:48:29.416Z"
+      },
+      {
+        "type": "move",
+        "word": "Tradition",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T19:54:01.599Z"
+      },
+      {
+        "type": "move",
+        "word": "Event",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T20:12:30.436Z"
+      },
+      {
+        "type": "move",
+        "word": "Beschreibung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:29:50.455Z"
+      },
+      {
+        "type": "move",
+        "word": "Beispiel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:30:03.431Z"
+      },
+      {
+        "type": "move",
+        "word": "Mitbringen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:30:22.766Z"
+      },
+      {
+        "type": "move",
+        "word": "Hand",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:35:51.085Z"
+      },
+      {
+        "type": "move",
+        "word": "Statistik",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:38:13.276Z"
+      },
+      {
+        "type": "move",
+        "word": "Singen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:38:34.564Z"
+      },
+      {
+        "type": "move",
+        "word": "Surfen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:39:10.180Z"
+      },
+      {
+        "type": "move",
+        "word": "Schwimmen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:39:14.964Z"
+      },
+      {
+        "type": "move",
+        "word": "Fotograferen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:39:23.588Z"
+      },
+      {
+        "type": "move",
+        "word": "Bedanken",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:40:06.948Z"
+      },
+      {
+        "type": "move",
+        "word": "Hobby",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:41:58.892Z"
+      },
+      {
+        "type": "move",
+        "word": "Musik",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T21:43:19.187Z"
+      },
+      {
+        "type": "move",
+        "word": "Telefonieren",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-20T22:06:52.845Z"
       }
     ],
     "levels": [
@@ -22040,6 +22194,94 @@
           {
             "length": 271,
             "date": "2024-10-20T17:49:42.874Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-20T17:58:51.386Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-10-20T18:30:29.763Z"
+          },
+          {
+            "length": 268,
+            "date": "2024-10-20T18:30:33.163Z"
+          },
+          {
+            "length": 267,
+            "date": "2024-10-20T18:30:45.275Z"
+          },
+          {
+            "length": 266,
+            "date": "2024-10-20T19:31:47.850Z"
+          },
+          {
+            "length": 265,
+            "date": "2024-10-20T19:32:06.340Z"
+          },
+          {
+            "length": 264,
+            "date": "2024-10-20T19:48:29.416Z"
+          },
+          {
+            "length": 263,
+            "date": "2024-10-20T19:54:01.599Z"
+          },
+          {
+            "length": 262,
+            "date": "2024-10-20T20:12:30.436Z"
+          },
+          {
+            "length": 261,
+            "date": "2024-10-20T21:29:50.455Z"
+          },
+          {
+            "length": 260,
+            "date": "2024-10-20T21:30:03.431Z"
+          },
+          {
+            "length": 259,
+            "date": "2024-10-20T21:30:22.766Z"
+          },
+          {
+            "length": 258,
+            "date": "2024-10-20T21:35:51.085Z"
+          },
+          {
+            "length": 257,
+            "date": "2024-10-20T21:38:13.276Z"
+          },
+          {
+            "length": 256,
+            "date": "2024-10-20T21:38:34.564Z"
+          },
+          {
+            "length": 255,
+            "date": "2024-10-20T21:39:10.180Z"
+          },
+          {
+            "length": 254,
+            "date": "2024-10-20T21:39:14.964Z"
+          },
+          {
+            "length": 253,
+            "date": "2024-10-20T21:39:23.588Z"
+          },
+          {
+            "length": 252,
+            "date": "2024-10-20T21:40:06.948Z"
+          },
+          {
+            "length": 251,
+            "date": "2024-10-20T21:41:58.892Z"
+          },
+          {
+            "length": 250,
+            "date": "2024-10-20T21:43:19.187Z"
+          },
+          {
+            "length": 249,
+            "date": "2024-10-20T22:06:52.845Z"
           }
         ]
       },
@@ -25172,6 +25414,94 @@
           {
             "length": 158,
             "date": "2024-10-20T17:49:42.874Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-10-20T17:58:51.386Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-10-20T18:30:29.763Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-10-20T18:30:33.163Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-10-20T18:30:45.275Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-10-20T19:31:47.850Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-10-20T19:32:06.340Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-10-20T19:48:29.416Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-10-20T19:54:01.599Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-10-20T20:12:30.436Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-10-20T21:29:50.455Z"
+          },
+          {
+            "length": 169,
+            "date": "2024-10-20T21:30:03.431Z"
+          },
+          {
+            "length": 170,
+            "date": "2024-10-20T21:30:22.766Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-10-20T21:35:51.085Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-10-20T21:38:13.276Z"
+          },
+          {
+            "length": 173,
+            "date": "2024-10-20T21:38:34.564Z"
+          },
+          {
+            "length": 174,
+            "date": "2024-10-20T21:39:10.180Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-10-20T21:39:14.964Z"
+          },
+          {
+            "length": 176,
+            "date": "2024-10-20T21:39:23.588Z"
+          },
+          {
+            "length": 177,
+            "date": "2024-10-20T21:40:06.948Z"
+          },
+          {
+            "length": 178,
+            "date": "2024-10-20T21:41:58.892Z"
+          },
+          {
+            "length": 179,
+            "date": "2024-10-20T21:43:19.187Z"
+          },
+          {
+            "length": 180,
+            "date": "2024-10-20T22:06:52.845Z"
           }
         ]
       },
