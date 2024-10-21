@@ -2828,6 +2828,16 @@
               "- Forms: Aufwachen (noun, neuter)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Dauern (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Go on]: "
+            ]
+          }
         }
       ]
     },
@@ -17461,6 +17471,11 @@
         "type": "add",
         "word": "Aufwachen",
         "date": "2024-10-21T17:35:24.621Z"
+      },
+      {
+        "type": "add",
+        "word": "Dauern",
+        "date": "2024-10-21T17:37:25.253Z"
       }
     ],
     "levels": [
@@ -22461,6 +22476,10 @@
           {
             "length": 258,
             "date": "2024-10-21T17:35:24.621Z"
+          },
+          {
+            "length": 259,
+            "date": "2024-10-21T17:37:25.253Z"
           }
         ]
       },
