@@ -1702,6 +1702,7 @@
               "- [Times] (prep.): 3 mal 3 gleich 9 : 3 times 3 equal 9",
               "- [Times] (suffix): hundertmal : hundred times",
               "- [From time to time] (adv.):",
+              "- [Let's] (?): Mal gucken : Let's see",
               "- Forms: -mal (suffix), Mal (adv.), Mal (prep.)"
             ]
           }
@@ -2847,6 +2848,16 @@
           "back": {
             "content": [
               "- [Sometimes]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aufsteht (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Get up]: "
             ]
           }
         }
@@ -17492,6 +17503,11 @@
         "type": "add",
         "word": "Manchmal",
         "date": "2024-10-21T17:39:03.593Z"
+      },
+      {
+        "type": "add",
+        "word": "Aufsteht",
+        "date": "2024-10-21T17:45:27.839Z"
       }
     ],
     "levels": [
@@ -22500,6 +22516,10 @@
           {
             "length": 260,
             "date": "2024-10-21T17:39:03.594Z"
+          },
+          {
+            "length": 261,
+            "date": "2024-10-21T17:45:27.839Z"
           }
         ]
       },
