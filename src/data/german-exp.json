@@ -469,6 +469,16 @@
               "- [But then that is]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "So wie gerade"
+          },
+          "back": {
+            "content": [
+              "- [Like now]: "
+            ]
+          }
         }
       ]
     },
@@ -754,6 +764,11 @@
         "type": "add",
         "word": "Und das ist dann aber",
         "date": "2024-10-21T17:52:02.485Z"
+      },
+      {
+        "type": "add",
+        "word": "So wie gerade",
+        "date": "2024-10-21T17:57:01.821Z"
       }
     ],
     "levels": [
@@ -942,6 +957,10 @@
           {
             "length": 46,
             "date": "2024-10-21T17:52:02.485Z"
+          },
+          {
+            "length": 47,
+            "date": "2024-10-21T17:57:01.821Z"
           }
         ]
       },
