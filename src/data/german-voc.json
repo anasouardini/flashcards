@@ -2796,6 +2796,16 @@
               "- Forms: Wecker (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Unter (preposition)"
+          },
+          "back": {
+            "content": [
+              "- [Under]: "
+            ]
+          }
         }
       ]
     },
@@ -17414,6 +17424,11 @@
         "type": "add",
         "word": "Wecker",
         "date": "2024-10-21T14:20:16.716Z"
+      },
+      {
+        "type": "add",
+        "word": "Unter",
+        "date": "2024-10-21T14:22:03.002Z"
       }
     ],
     "levels": [
@@ -22402,6 +22417,10 @@
           {
             "length": 255,
             "date": "2024-10-21T14:20:16.717Z"
+          },
+          {
+            "length": 256,
+            "date": "2024-10-21T14:22:03.003Z"
           }
         ]
       },
