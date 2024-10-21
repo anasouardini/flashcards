@@ -2741,6 +2741,17 @@
               "- [Weekend]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zuchauer (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Viewer]: ",
+              "- Forms: Zuchauer (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17333,6 +17344,11 @@
         "type": "add",
         "word": "Wochenende",
         "date": "2024-10-21T13:33:50.076Z"
+      },
+      {
+        "type": "add",
+        "word": "Zuchauer",
+        "date": "2024-10-21T13:37:15.023Z"
       }
     ],
     "levels": [
@@ -22301,6 +22317,10 @@
           {
             "length": 250,
             "date": "2024-10-21T13:33:50.150Z"
+          },
+          {
+            "length": 251,
+            "date": "2024-10-21T13:37:15.024Z"
           }
         ]
       },
