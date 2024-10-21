@@ -2914,7 +2914,18 @@
           "back": {
             "content": [
               "- [Actual]: ",
+              "- [Actually] (adv.): ",
               "- Forms: Tatsächlich (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ritual (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Ritual]: "
             ]
           }
         }
@@ -17590,6 +17601,11 @@
         "type": "add",
         "word": "Tatsächlich",
         "date": "2024-10-21T18:04:49.165Z"
+      },
+      {
+        "type": "add",
+        "word": "Ritual",
+        "date": "2024-10-21T18:08:09.923Z"
       }
     ],
     "levels": [
@@ -22622,6 +22638,10 @@
           {
             "length": 266,
             "date": "2024-10-21T18:04:49.166Z"
+          },
+          {
+            "length": 267,
+            "date": "2024-10-21T18:08:09.924Z"
           }
         ]
       },
