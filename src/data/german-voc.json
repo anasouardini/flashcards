@@ -2902,7 +2902,19 @@
           },
           "back": {
             "content": [
-              "- [Around/Towards]: "
+              "- [Around]: ",
+              "- [Towards]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tatsächlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Actual]: ",
+              "- Forms: Tatsächlich (adv.)"
             ]
           }
         }
@@ -17573,6 +17585,11 @@
         "type": "add",
         "word": "Gegen",
         "date": "2024-10-21T18:01:05.896Z"
+      },
+      {
+        "type": "add",
+        "word": "Tatsächlich",
+        "date": "2024-10-21T18:04:49.165Z"
       }
     ],
     "levels": [
@@ -22601,6 +22618,10 @@
           {
             "length": 265,
             "date": "2024-10-21T18:01:05.896Z"
+          },
+          {
+            "length": 266,
+            "date": "2024-10-21T18:04:49.166Z"
           }
         ]
       },
