@@ -479,6 +479,16 @@
               "- [Like now]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gibt es"
+          },
+          "back": {
+            "content": [
+              "- [There is]: "
+            ]
+          }
         }
       ]
     },
@@ -769,6 +779,11 @@
         "type": "add",
         "word": "So wie gerade",
         "date": "2024-10-21T17:57:01.821Z"
+      },
+      {
+        "type": "add",
+        "word": "Gibt es",
+        "date": "2024-10-21T18:03:42.137Z"
       }
     ],
     "levels": [
@@ -961,6 +976,10 @@
           {
             "length": 47,
             "date": "2024-10-21T17:57:01.821Z"
+          },
+          {
+            "length": 48,
+            "date": "2024-10-21T18:03:42.137Z"
           }
         ]
       },
