@@ -2813,7 +2813,19 @@
           },
           "back": {
             "content": [
-              "- [To Turn off]: "
+              "- [To Turn off]: ",
+              "- [To Exhibit]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aufwachen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To wake up]: ",
+              "- Forms: Aufwachen (noun, neuter)"
             ]
           }
         }
@@ -17444,6 +17456,11 @@
         "type": "add",
         "word": "Ausstellen",
         "date": "2024-10-21T14:24:51.951Z"
+      },
+      {
+        "type": "add",
+        "word": "Aufwachen",
+        "date": "2024-10-21T17:35:24.621Z"
       }
     ],
     "levels": [
@@ -22440,6 +22457,10 @@
           {
             "length": 257,
             "date": "2024-10-21T14:24:51.951Z"
+          },
+          {
+            "length": 258,
+            "date": "2024-10-21T17:35:24.621Z"
           }
         ]
       },
