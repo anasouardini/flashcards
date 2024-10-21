@@ -2871,6 +2871,17 @@
               "- Forms: Wach (adj)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wahrscheinlich (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Probably]: ",
+              "- Forms: Wahrscheinlich (adj.)"
+            ]
+          }
         }
       ]
     },
@@ -17524,6 +17535,11 @@
         "type": "add",
         "word": "Wachen",
         "date": "2024-10-21T17:48:12.998Z"
+      },
+      {
+        "type": "add",
+        "word": "Wahrscheinlich",
+        "date": "2024-10-21T17:54:41.440Z"
       }
     ],
     "levels": [
@@ -22540,6 +22556,10 @@
           {
             "length": 262,
             "date": "2024-10-21T17:48:12.998Z"
+          },
+          {
+            "length": 263,
+            "date": "2024-10-21T17:54:41.440Z"
           }
         ]
       },
