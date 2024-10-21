@@ -2785,6 +2785,17 @@
               "- [To Chill]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wecker (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Timer/Alarm]: ",
+              "- Forms: Wecker (plural)"
+            ]
+          }
         }
       ]
     },
@@ -6211,6 +6222,7 @@
           "back": {
             "content": [
               "- [From]: ",
+              "- [Of]: ",
               "- Forms: "
             ]
           }
@@ -17397,6 +17409,11 @@
         "type": "add",
         "word": "Chillen",
         "date": "2024-10-21T13:45:16.257Z"
+      },
+      {
+        "type": "add",
+        "word": "Wecker",
+        "date": "2024-10-21T14:20:16.716Z"
       }
     ],
     "levels": [
@@ -22381,6 +22398,10 @@
           {
             "length": 254,
             "date": "2024-10-21T13:45:16.258Z"
+          },
+          {
+            "length": 255,
+            "date": "2024-10-21T14:20:16.717Z"
           }
         ]
       },
