@@ -499,6 +499,16 @@
               "- [Excuse me!]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Es tut mir leid"
+          },
+          "back": {
+            "content": [
+              "- [I'm sorry]: "
+            ]
+          }
         }
       ]
     },
@@ -799,6 +809,11 @@
         "type": "add",
         "word": "Entschuldigen Sie!",
         "date": "2024-10-21T20:03:33.843Z"
+      },
+      {
+        "type": "add",
+        "word": "Es tut mir leid",
+        "date": "2024-10-21T20:05:59.080Z"
       }
     ],
     "levels": [
@@ -999,6 +1014,10 @@
           {
             "length": 49,
             "date": "2024-10-21T20:03:33.844Z"
+          },
+          {
+            "length": 50,
+            "date": "2024-10-21T20:05:59.080Z"
           }
         ]
       },
