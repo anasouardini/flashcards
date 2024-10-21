@@ -2853,11 +2853,22 @@
         },
         {
           "front": {
-            "content": "Aufsteht (v.)"
+            "content": "Aufstehen (v.)"
           },
           "back": {
             "content": [
               "- [To Get up]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wachen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To wake]: ",
+              "- Forms: Wach (adj)"
             ]
           }
         }
@@ -17508,6 +17519,11 @@
         "type": "add",
         "word": "Aufsteht",
         "date": "2024-10-21T17:45:27.839Z"
+      },
+      {
+        "type": "add",
+        "word": "Wachen",
+        "date": "2024-10-21T17:48:12.998Z"
       }
     ],
     "levels": [
@@ -22520,6 +22536,10 @@
           {
             "length": 261,
             "date": "2024-10-21T17:45:27.839Z"
+          },
+          {
+            "length": 262,
+            "date": "2024-10-21T17:48:12.998Z"
           }
         ]
       },
