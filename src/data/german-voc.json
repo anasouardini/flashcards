@@ -2731,6 +2731,16 @@
               "- [Swimming pool]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wochenende (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Weekend]: "
+            ]
+          }
         }
       ]
     },
@@ -17318,6 +17328,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-20T22:06:52.845Z"
+      },
+      {
+        "type": "add",
+        "word": "Wochenende",
+        "date": "2024-10-21T13:33:50.076Z"
       }
     ],
     "levels": [
@@ -22282,6 +22297,10 @@
           {
             "length": 249,
             "date": "2024-10-20T22:06:52.845Z"
+          },
+          {
+            "length": 250,
+            "date": "2024-10-21T13:33:50.150Z"
           }
         ]
       },
