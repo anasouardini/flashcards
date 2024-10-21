@@ -2752,6 +2752,16 @@
               "- Forms: Zuchauer (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Verbringen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Spend]: "
+            ]
+          }
         }
       ]
     },
@@ -17349,6 +17359,11 @@
         "type": "add",
         "word": "Zuchauer",
         "date": "2024-10-21T13:37:15.023Z"
+      },
+      {
+        "type": "add",
+        "word": "Verbringen",
+        "date": "2024-10-21T13:39:01.902Z"
       }
     ],
     "levels": [
@@ -22321,6 +22336,10 @@
           {
             "length": 251,
             "date": "2024-10-21T13:37:15.024Z"
+          },
+          {
+            "length": 252,
+            "date": "2024-10-21T13:39:01.903Z"
           }
         ]
       },
