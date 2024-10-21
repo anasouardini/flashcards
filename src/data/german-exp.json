@@ -459,6 +459,16 @@
               "- [No, I'm sorry]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Und das ist dann aber"
+          },
+          "back": {
+            "content": [
+              "- [But then that is]: "
+            ]
+          }
         }
       ]
     },
@@ -739,6 +749,11 @@
         "type": "add",
         "word": "Nein, tut mir leid",
         "date": "2024-10-19T11:00:12.568Z"
+      },
+      {
+        "type": "add",
+        "word": "Und das ist dann aber",
+        "date": "2024-10-21T17:52:02.485Z"
       }
     ],
     "levels": [
@@ -923,6 +938,10 @@
           {
             "length": 45,
             "date": "2024-10-19T11:00:12.568Z"
+          },
+          {
+            "length": 46,
+            "date": "2024-10-21T17:52:02.485Z"
           }
         ]
       },
