@@ -2806,6 +2806,16 @@
               "- [Under]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ausstellen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Turn off]: "
+            ]
+          }
         }
       ]
     },
@@ -17429,6 +17439,11 @@
         "type": "add",
         "word": "Unter",
         "date": "2024-10-21T14:22:03.002Z"
+      },
+      {
+        "type": "add",
+        "word": "Ausstellen",
+        "date": "2024-10-21T14:24:51.951Z"
       }
     ],
     "levels": [
@@ -22421,6 +22436,10 @@
           {
             "length": 256,
             "date": "2024-10-21T14:22:03.003Z"
+          },
+          {
+            "length": 257,
+            "date": "2024-10-21T14:24:51.951Z"
           }
         ]
       },
