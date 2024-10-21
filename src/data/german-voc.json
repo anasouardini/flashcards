@@ -2762,6 +2762,17 @@
               "- [To Spend]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Grundsätzlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Basic]: ",
+              "- Forms: Grundsätzlich (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -17364,6 +17375,11 @@
         "type": "add",
         "word": "Verbringen",
         "date": "2024-10-21T13:39:01.902Z"
+      },
+      {
+        "type": "add",
+        "word": "Grundsätzlich",
+        "date": "2024-10-21T13:42:23.012Z"
       }
     ],
     "levels": [
@@ -22340,6 +22356,10 @@
           {
             "length": 252,
             "date": "2024-10-21T13:39:01.903Z"
+          },
+          {
+            "length": 253,
+            "date": "2024-10-21T13:42:23.013Z"
           }
         ]
       },
