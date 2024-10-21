@@ -489,6 +489,16 @@
               "- [There is]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Entschuldigen Sie!"
+          },
+          "back": {
+            "content": [
+              "- [Excuse me!]: "
+            ]
+          }
         }
       ]
     },
@@ -784,6 +794,11 @@
         "type": "add",
         "word": "Gibt es",
         "date": "2024-10-21T18:03:42.137Z"
+      },
+      {
+        "type": "add",
+        "word": "Entschuldigen Sie!",
+        "date": "2024-10-21T20:03:33.843Z"
       }
     ],
     "levels": [
@@ -980,6 +995,10 @@
           {
             "length": 48,
             "date": "2024-10-21T18:03:42.137Z"
+          },
+          {
+            "length": 49,
+            "date": "2024-10-21T20:03:33.844Z"
           }
         ]
       },
