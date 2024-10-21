@@ -2889,8 +2889,20 @@
           },
           "back": {
             "content": [
-              "- [Straight]: ",
+              "- [Straight] (n.): ",
+              "- [Now] (adv.): ",
+              "- [Straight/Direct] (adj.): ",
               "- Forms: Gerade (adv.),Gerade (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gegen (preposition)"
+          },
+          "back": {
+            "content": [
+              "- [Around/Towards]: "
             ]
           }
         }
@@ -17556,6 +17568,11 @@
         "type": "add",
         "word": "Gerade",
         "date": "2024-10-21T17:58:58.629Z"
+      },
+      {
+        "type": "add",
+        "word": "Gegen",
+        "date": "2024-10-21T18:01:05.896Z"
       }
     ],
     "levels": [
@@ -22580,6 +22597,10 @@
           {
             "length": 264,
             "date": "2024-10-21T17:58:58.630Z"
+          },
+          {
+            "length": 265,
+            "date": "2024-10-21T18:01:05.896Z"
           }
         ]
       },
