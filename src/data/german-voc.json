@@ -2835,7 +2835,18 @@
           },
           "back": {
             "content": [
-              "- [To Go on]: "
+              "- [To Go on]: ",
+              "- [To Last]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Manchmal (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Sometimes]: "
             ]
           }
         }
@@ -17476,6 +17487,11 @@
         "type": "add",
         "word": "Dauern",
         "date": "2024-10-21T17:37:25.253Z"
+      },
+      {
+        "type": "add",
+        "word": "Manchmal",
+        "date": "2024-10-21T17:39:03.593Z"
       }
     ],
     "levels": [
@@ -22480,6 +22496,10 @@
           {
             "length": 259,
             "date": "2024-10-21T17:37:25.253Z"
+          },
+          {
+            "length": 260,
+            "date": "2024-10-21T17:39:03.594Z"
           }
         ]
       },
