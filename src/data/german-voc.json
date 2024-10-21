@@ -2770,7 +2770,19 @@
           "back": {
             "content": [
               "- [Basic]: ",
+              "- [Essential]: ",
+              "- [Fundamental]: ",
               "- Forms: Grundsätzlich (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Chillen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Chill]: "
             ]
           }
         }
@@ -17380,6 +17392,11 @@
         "type": "add",
         "word": "Grundsätzlich",
         "date": "2024-10-21T13:42:23.012Z"
+      },
+      {
+        "type": "add",
+        "word": "Chillen",
+        "date": "2024-10-21T13:45:16.257Z"
       }
     ],
     "levels": [
@@ -22360,6 +22377,10 @@
           {
             "length": 253,
             "date": "2024-10-21T13:42:23.013Z"
+          },
+          {
+            "length": 254,
+            "date": "2024-10-21T13:45:16.258Z"
           }
         ]
       },
