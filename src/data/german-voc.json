@@ -2882,6 +2882,17 @@
               "- Forms: Wahrscheinlich (adj.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gerade (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Straight]: ",
+              "- Forms: Gerade (adv.),Gerade (adj.)"
+            ]
+          }
         }
       ]
     },
@@ -17540,6 +17551,11 @@
         "type": "add",
         "word": "Wahrscheinlich",
         "date": "2024-10-21T17:54:41.440Z"
+      },
+      {
+        "type": "add",
+        "word": "Gerade",
+        "date": "2024-10-21T17:58:58.629Z"
       }
     ],
     "levels": [
@@ -22560,6 +22576,10 @@
           {
             "length": 263,
             "date": "2024-10-21T17:54:41.440Z"
+          },
+          {
+            "length": 264,
+            "date": "2024-10-21T17:58:58.630Z"
           }
         ]
       },
