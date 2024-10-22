@@ -3025,6 +3025,17 @@
               "- [To Dress]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Serviette (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Napkin]: ",
+              "- Forms: Servietten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17748,6 +17759,11 @@
         "type": "add",
         "word": "Angezogen",
         "date": "2024-10-22T06:14:04.255Z"
+      },
+      {
+        "type": "add",
+        "word": "Serviette",
+        "date": "2024-10-22T06:17:57.363Z"
       }
     ],
     "levels": [
@@ -22820,6 +22836,10 @@
           {
             "length": 276,
             "date": "2024-10-22T06:14:04.256Z"
+          },
+          {
+            "length": 277,
+            "date": "2024-10-22T06:17:57.364Z"
           }
         ]
       },
