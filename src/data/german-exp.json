@@ -519,6 +519,2286 @@
               "- [I'm glad you're here.]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Moin, moin "
+          },
+          "back": {
+            "content": [
+              "- [Morning/Hi/Hello/Good day/How are you?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Geil "
+          },
+          "back": {
+            "content": [
+              "- [Awesome/Cool/Sexy]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dit jefällt ma "
+          },
+          "back": {
+            "content": [
+              "- [I like it]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Na? "
+          },
+          "back": {
+            "content": [
+              "- [Hey, what’s up?/How are you?/Well?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Basta "
+          },
+          "back": {
+            "content": [
+              "- [Period]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Quatsch "
+          },
+          "back": {
+            "content": [
+              "- [Nonsense/That's ridiculous]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich habe die Nase voll "
+          },
+          "back": {
+            "content": [
+              "- [I'm fed up/I'm sick of it]: Literal: I have a full nose"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Das ist nicht mein Bier "
+          },
+          "back": {
+            "content": [
+              "- [ Not my problem]: Literal: That’s not my beer"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Abwarten und Tee trinken "
+          },
+          "back": {
+            "content": [
+              "- [ Just wait and see]: Literal: Wait and drink tea"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich verstehe nur Bahnhof "
+          },
+          "back": {
+            "content": [
+              "- [ I don’t understand any of that/It’s all Greek to me]: Literal: I only understand train station"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Es ist mir Wurst "
+          },
+          "back": {
+            "content": [
+              "- [I don’t care]: Literal: It’s sausage to me"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Das Leben ist kein Ponyhof "
+          },
+          "back": {
+            "content": [
+              "- [Life is no picnic]: Literal: Life is not a pony farm"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Da haben wir den Salat "
+          },
+          "back": {
+            "content": [
+              "- [Everything is a mess/Now we’re in a pickle]: Literal: Here we’ve got the salad"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Leben wie Gott in Frankreich "
+          },
+          "back": {
+            "content": [
+              "- [Live like a king]: Literal: Live like God in France"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Der Zug ist schon abgefahren "
+          },
+          "back": {
+            "content": [
+              "- [That ship has sailed/The opportunity is gone]: Literal: The train has already left"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Innerer Schweinehund "
+          },
+          "back": {
+            "content": [
+              "- [Devil on your shoulder]: Literal: Inner pig-dog"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Morgenstund hat Gold im Mund "
+          },
+          "back": {
+            "content": [
+              "- [ The early bird gets the worm]: Literal: Morning hours have gold in the mouth"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hunde, die bellen, beißen nicht "
+          },
+          "back": {
+            "content": [
+              "- [His bark is worse than his bite]: Literal: Dogs that bark don’t bite"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hallo "
+          },
+          "back": {
+            "content": [
+              "- [ Hello]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Guten Morgen "
+          },
+          "back": {
+            "content": [
+              "- [ Good morning]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Guten Tag "
+          },
+          "back": {
+            "content": [
+              "- [ Good afternoon]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Guten Abend "
+          },
+          "back": {
+            "content": [
+              "- [ Good evening]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie geht es Ihnen? "
+          },
+          "back": {
+            "content": [
+              "- [ How are you? (formal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie geht’s dir? "
+          },
+          "back": {
+            "content": [
+              "- [ How are you? (informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mir geht es gut, danke "
+          },
+          "back": {
+            "content": [
+              "- [ I am fine, thank you]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Freut mich zu hören "
+          },
+          "back": {
+            "content": [
+              "- [ Glad to hear it]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mir geht es nicht so gut "
+          },
+          "back": {
+            "content": [
+              "- [ I’m not so good]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Es tut mir leid "
+          },
+          "back": {
+            "content": [
+              "- [ I’m sorry]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gesundheit "
+          },
+          "back": {
+            "content": [
+              "- [ Bless you (said after someone sneezes) ]: Literal: Health"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Alles Gute zum Geburtstag! "
+          },
+          "back": {
+            "content": [
+              "- [ Happy birthday!]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Machs gut "
+          },
+          "back": {
+            "content": [
+              "- [ Take care]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bis später "
+          },
+          "back": {
+            "content": [
+              "- [ See you later]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bis bald "
+          },
+          "back": {
+            "content": [
+              "- [ See you soon]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auf Wiedersehen "
+          },
+          "back": {
+            "content": [
+              "- [ Goodbye]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tschüss "
+          },
+          "back": {
+            "content": [
+              "- [ Bye]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gute Nacht "
+          },
+          "back": {
+            "content": [
+              "- [ Good night]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einen schönen Tag noch "
+          },
+          "back": {
+            "content": [
+              "- [ Have a nice day]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schönes Wochenende "
+          },
+          "back": {
+            "content": [
+              "- [ Have a nice weekend]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ebenso  / Gleichfalls  "
+          },
+          "back": {
+            "content": [
+              "- [Same to you]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Entschuldigung "
+          },
+          "back": {
+            "content": [
+              "- [ Excuse me/Sorry]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sprechen Sie Englisch? "
+          },
+          "back": {
+            "content": [
+              "- [ Do you speak English? (formal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ja "
+          },
+          "back": {
+            "content": [
+              "- [ Yes/Yeah]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nein "
+          },
+          "back": {
+            "content": [
+              "- [ No]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bitte "
+          },
+          "back": {
+            "content": [
+              "- [ Please]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich spreche nur ein bisschen Deutsch "
+          },
+          "back": {
+            "content": [
+              "- [ I only speak a little German]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich brauche eine Auskunft "
+          },
+          "back": {
+            "content": [
+              "- [I need some information]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich brauche Hilfe "
+          },
+          "back": {
+            "content": [
+              "- [ I need help]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bin ich hier richtig? "
+          },
+          "back": {
+            "content": [
+              "- [ Am I in the right place?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie sagt man … auf Deutsch? "
+          },
+          "back": {
+            "content": [
+              "- [ How do you say … in German?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Danke schön "
+          },
+          "back": {
+            "content": [
+              "- [ Thank you]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Vielen Dank für Ihre Hilfe "
+          },
+          "back": {
+            "content": [
+              "- [ Thanks so much for your help (formal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gern geschehen "
+          },
+          "back": {
+            "content": [
+              "- [ You’re welcome]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie ist Ihr Name?  / Wie heißt du? "
+          },
+          "back": {
+            "content": [
+              "- [ What is your name? (formal/informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich heiße…  / Mein Name ist… "
+          },
+          "back": {
+            "content": [
+              "- [ My name is…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Woher kommen Sie?  / Woher kommst du? "
+          },
+          "back": {
+            "content": [
+              "- [ Where are you from? (formal/informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich komme aus… "
+          },
+          "back": {
+            "content": [
+              "- [ I’m from…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich wohne in… "
+          },
+          "back": {
+            "content": [
+              "- [I live in…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie lange bleiben Sie in Deutschland  / Österreich  / der Schweiz? "
+          },
+          "back": {
+            "content": [
+              "- [ How long are you staying in Germany/Austria/Switzerland?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich bleibe eine Woche hier "
+          },
+          "back": {
+            "content": [
+              "- [ I am staying here for one week]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie alt sind Sie?  / Wie alt bist du? "
+          },
+          "back": {
+            "content": [
+              "- [ How old are you? (formal/informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich bin 20 Jahre alt "
+          },
+          "back": {
+            "content": [
+              "- [ I am 20 years old]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Was machen Sie  / Was machst du beruflich? "
+          },
+          "back": {
+            "content": [
+              "- [ What do you do for work? (formal/informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich bin… "
+          },
+          "back": {
+            "content": [
+              "- [ I’m a/an…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich bin verheiratet "
+          },
+          "back": {
+            "content": [
+              "- [I’m married]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich bin ledig "
+          },
+          "back": {
+            "content": [
+              "- [I’m single]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Meine Handynummer ist… "
+          },
+          "back": {
+            "content": [
+              "- [My cell phone number is…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich studiere… "
+          },
+          "back": {
+            "content": [
+              "- [I am studying…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie viele Geschwister hast du? "
+          },
+          "back": {
+            "content": [
+              "- [How many siblings do you have?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich habe zwei Geschwister "
+          },
+          "back": {
+            "content": [
+              "- [I have two siblings]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mein Lieblingsfilm ist… "
+          },
+          "back": {
+            "content": [
+              "- [My favorite…is…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich lerne Deutsch "
+          },
+          "back": {
+            "content": [
+              "- [I’m learning German]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Was machst du sonst so? "
+          },
+          "back": {
+            "content": [
+              "- [ What else do you do? (informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich… gerne "
+          },
+          "back": {
+            "content": [
+              "- [ I like to…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich mag… "
+          },
+          "back": {
+            "content": [
+              "- [I like…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich hasse… "
+          },
+          "back": {
+            "content": [
+              "- [I hate…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Meine Hobbys sind… "
+          },
+          "back": {
+            "content": [
+              "- [My hobbies are…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich stimme dir zu "
+          },
+          "back": {
+            "content": [
+              "- [ I agree with you]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Können Sie  / Kannst du langsamer sprechen? "
+          },
+          "back": {
+            "content": [
+              "- [ Can you speak slower? (formal/informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Können Sie  / Kannst du das bitte wiederholen? "
+          },
+          "back": {
+            "content": [
+              "- [ Can you repeat that please? (formal/informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Verstehen Sie?  / Verstehst du? "
+          },
+          "back": {
+            "content": [
+              "- [ Do you understand? (formal/informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich verstehe nicht "
+          },
+          "back": {
+            "content": [
+              "- [ I don’t understand]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hat mich gefreut Sie  / dich kennenzulernen "
+          },
+          "back": {
+            "content": [
+              "- [ It was nice meeting you (formal/informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Das ist mir legal "
+          },
+          "back": {
+            "content": [
+              "- [I don’t care]: Literal: That’s the same to me"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Spinnst du?!   "
+          },
+          "back": {
+            "content": [
+              "- [Are you crazy?! ]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "…oder?  "
+          },
+          "back": {
+            "content": [
+              "- […right?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haben Sie  / Hast du Hunger? "
+          },
+          "back": {
+            "content": [
+              "- [ Are you hungry? (formal/informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haben Sie  / Hast du Durst? "
+          },
+          "back": {
+            "content": [
+              "- [ Are you thirsty? (formal/informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wollen wir zusammen was essen gehen? "
+          },
+          "back": {
+            "content": [
+              "- [ Shall we get something to eat together?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Frühstück "
+          },
+          "back": {
+            "content": [
+              "- [ Breakfast]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mittagessen "
+          },
+          "back": {
+            "content": [
+              "- [ Lunch]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Abendessen "
+          },
+          "back": {
+            "content": [
+              "- [ Dinner]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einen Tisch für vier bitte "
+          },
+          "back": {
+            "content": [
+              "- [ A table for four, please]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich möchte einen Tisch reservieren "
+          },
+          "back": {
+            "content": [
+              "- [ I’d like to reserve a table]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich habe eine Reservierung "
+          },
+          "back": {
+            "content": [
+              "- [ I have a reservation]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einen Augenblick bitte "
+          },
+          "back": {
+            "content": [
+              "- [ Wait a minute, please]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Können wir die Speisekarte haben bitte? "
+          },
+          "back": {
+            "content": [
+              "- [ Can we see the menu, please?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Was ist das? "
+          },
+          "back": {
+            "content": [
+              "- [ What is this?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Können Sie etwas empfehlen? "
+          },
+          "back": {
+            "content": [
+              "- [ Can you recommend something?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haben Sie etwas vegetarisches  / veganisches? "
+          },
+          "back": {
+            "content": [
+              "- [ Do you have something vegetarian/vegan?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich esse kein… "
+          },
+          "back": {
+            "content": [
+              "- [ I don’t eat…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich bin allergisch gegen… "
+          },
+          "back": {
+            "content": [
+              "- [I am allergic to…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich hätte gerne… "
+          },
+          "back": {
+            "content": [
+              "- [ I’d like to have…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ein Bier bitte "
+          },
+          "back": {
+            "content": [
+              "- [ A beer, please]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einen Kaffee bitte "
+          },
+          "back": {
+            "content": [
+              "- [ One coffee, please]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Prost! "
+          },
+          "back": {
+            "content": [
+              "- [ Cheers!]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Guten Appetit "
+          },
+          "back": {
+            "content": [
+              "- [ Bon appetit]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nichts für mich, danke "
+          },
+          "back": {
+            "content": [
+              "- [ Nothing for me, thanks]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Das war’s   "
+          },
+          "back": {
+            "content": [
+              "- [That’s everything]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich bin satt "
+          },
+          "back": {
+            "content": [
+              "- [ I am full]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Entschuldigen Sie bitte, wo ist die Toilette? "
+          },
+          "back": {
+            "content": [
+              "- [ Excuse me, where is the bathroom?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Die Rechnung bitte "
+          },
+          "back": {
+            "content": [
+              "- [ The check, please]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich besorge den Kaffee "
+          },
+          "back": {
+            "content": [
+              "- [I’ll get the coffee/The coffee is on me]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kann ich eine Quitting haben bitte? "
+          },
+          "back": {
+            "content": [
+              "- [ Can I have a receipt, please?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stimmt so "
+          },
+          "back": {
+            "content": [
+              "- [ Keep the change]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Darf ich mal durch? "
+          },
+          "back": {
+            "content": [
+              "- [ Can you let me through?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Entschuldigung, wie komme ich zum…? "
+          },
+          "back": {
+            "content": [
+              "- [ Excuse me, how do I get to the…?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich suche das Museum "
+          },
+          "back": {
+            "content": [
+              "- [ I am looking for the museum]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ist das in der Nähe? "
+          },
+          "back": {
+            "content": [
+              "- [ Is that close by?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ist das weit von hier? "
+          },
+          "back": {
+            "content": [
+              "- [ Is that far from here?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "In welcher Richtung ist das? "
+          },
+          "back": {
+            "content": [
+              "- [ Which direction is that?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nach links  / rechts "
+          },
+          "back": {
+            "content": [
+              "- [ To the left/right]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Geradeaus "
+          },
+          "back": {
+            "content": [
+              "- [ Straight on]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo ist die nächste U-bahn  / Bushaltestelle? "
+          },
+          "back": {
+            "content": [
+              "- [ Where is the nearest subway/bus station?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fährt dieser Zug nach…? "
+          },
+          "back": {
+            "content": [
+              "- [ Does this train go to…?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie viel kostet eine Fahrkarte nach…? "
+          },
+          "back": {
+            "content": [
+              "- [ How much is a ticket to…?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Muss ich umsteigen? "
+          },
+          "back": {
+            "content": [
+              "- [ Do I have to change?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo finde ich ein Taxi? "
+          },
+          "back": {
+            "content": [
+              "- [ Where do I find a taxi?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zum Bahnhof bitte "
+          },
+          "back": {
+            "content": [
+              "- [ To the train station, please]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bitte halten Sie hier an "
+          },
+          "back": {
+            "content": [
+              "- [ Please stop here]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haben Sie einen Stadtplan? "
+          },
+          "back": {
+            "content": [
+              "- [ Do you have a city map?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Können Sie mir das auf der Karte zeigen? "
+          },
+          "back": {
+            "content": [
+              "- [ Can you show me that on the map?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich habe mich verlaufen "
+          },
+          "back": {
+            "content": [
+              "- [ I’ve gotten lost]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haben Sie noch Zimmer frei? "
+          },
+          "back": {
+            "content": [
+              "- [ Do you have rooms available?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich bleibe eine Nacht "
+          },
+          "back": {
+            "content": [
+              "- [ I am staying for one night]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich hätte gerne ein Zimmer  / ein Doppelzimmer "
+          },
+          "back": {
+            "content": [
+              "- [ I’d like to have a room/a double room]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ist das inklusive Frühstück? "
+          },
+          "back": {
+            "content": [
+              "- [ Is breakfast included?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bis wann muss ich auschecken? "
+          },
+          "back": {
+            "content": [
+              "- [ When is check-out?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Darf ich ins Internet gehen? "
+          },
+          "back": {
+            "content": [
+              "- [May I use the Internet?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Was möchten Sie? "
+          },
+          "back": {
+            "content": [
+              "- [ What would you like?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Suchen Sie etwas Bestimmtes? "
+          },
+          "back": {
+            "content": [
+              "- [ Are you looking for something specific?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich schaue mich nur um "
+          },
+          "back": {
+            "content": [
+              "- [ I’m just looking around.]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich suche… "
+          },
+          "back": {
+            "content": [
+              "- [ I am looking for…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Verkaufen Sie…? "
+          },
+          "back": {
+            "content": [
+              "- [ Do you sell…?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Was kostet das? "
+          },
+          "back": {
+            "content": [
+              "- [ How much is this?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haben Sie das auch in einer anderen Größe  / Farbe? "
+          },
+          "back": {
+            "content": [
+              "- [ Do you have this in another size/color?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Das ist zu teuer "
+          },
+          "back": {
+            "content": [
+              "- [ That’s too expensive]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Können Sie mir einen Rabatt geben? "
+          },
+          "back": {
+            "content": [
+              "- [ Can you give me a discount?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kann ich bar bezahlen? "
+          },
+          "back": {
+            "content": [
+              "- [ Can I pay in cash?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kann ich mit Kreditkarte bezahlen? "
+          },
+          "back": {
+            "content": [
+              "- [ Can I pay with a credit card?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Um wieviel Uhr öffnet das Geschäft? "
+          },
+          "back": {
+            "content": [
+              "- [ What time does the shop open?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "151.  Hilfe! "
+          },
+          "back": {
+            "content": [
+              "- [ Help!]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Feuer! "
+          },
+          "back": {
+            "content": [
+              "- [ Fire!]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Rufen Sie die Polizei! "
+          },
+          "back": {
+            "content": [
+              "- [ Call the police!]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich brauche dringend Hilfe "
+          },
+          "back": {
+            "content": [
+              "- [I need urgent help]]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo ist das Krankenhaus? "
+          },
+          "back": {
+            "content": [
+              "- [ Where is the hospital?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo ist die Apotheke? "
+          },
+          "back": {
+            "content": [
+              "- [ Where is the pharmacy?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mir ist schlecht "
+          },
+          "back": {
+            "content": [
+              "- [ I feel ill]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie komme ich zur amerikanischen Botschaft? "
+          },
+          "back": {
+            "content": [
+              "- [ How do I get to the American embassy?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lassen Sie mich in Ruhe! "
+          },
+          "back": {
+            "content": [
+              "- [ Leave me alone!]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Es ist ein Notfall "
+          },
+          "back": {
+            "content": [
+              "- [ It’s an emergency]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich heiße Laura"
+          },
+          "back": {
+            "content": [
+              "- [I am (called) Laura]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mein Name ist Michael"
+          },
+          "back": {
+            "content": [
+              "- [My name is Michael]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie heißt du?"
+          },
+          "back": {
+            "content": [
+              "- [What is your name? (informal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie heißen Sie?"
+          },
+          "back": {
+            "content": [
+              "- [What is your name? (formal)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich komme aus Berlin"
+          },
+          "back": {
+            "content": [
+              "- [I come from Berlin]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich bin Lehrer von Beruf"
+          },
+          "back": {
+            "content": [
+              "- [I am a teacher by profession]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich bin zwanzig Jahre alt"
+          },
+          "back": {
+            "content": [
+              "- [I am twenty years old]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich wohne in München"
+          },
+          "back": {
+            "content": [
+              "- [I live in Munich]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mein Hobby ist Fußball spielen"
+          },
+          "back": {
+            "content": [
+              "- [My hobby is playing soccer]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich habe zwei Geschwister"
+          },
+          "back": {
+            "content": [
+              "- [I have two siblings]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Guten Morgen"
+          },
+          "back": {
+            "content": [
+              "- [Good Morning]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Guten Tag"
+          },
+          "back": {
+            "content": [
+              "- [Good Day]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Guten Abend"
+          },
+          "back": {
+            "content": [
+              "- [Good Evening]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hallo"
+          },
+          "back": {
+            "content": [
+              "- [Hello]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tschüss"
+          },
+          "back": {
+            "content": [
+              "- [Bye]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auf Wiedersehen"
+          },
+          "back": {
+            "content": [
+              "- [Goodbye]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bis später"
+          },
+          "back": {
+            "content": [
+              "- [See you later]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gute Nacht"
+          },
+          "back": {
+            "content": [
+              "- [Good Night]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Willkommen"
+          },
+          "back": {
+            "content": [
+              "- [Welcome]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mach’s gut"
+          },
+          "back": {
+            "content": [
+              "- [Take care]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Wie spät ist es?”"
+          },
+          "back": {
+            "content": [
+              "- [“What time is it?”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Wo ist die nächste U-Bahn Station?”"
+          },
+          "back": {
+            "content": [
+              "- [“Where is the nearest subway station?”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Was kostet das?”"
+          },
+          "back": {
+            "content": [
+              "- [“How much does that cost?”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Entschuldigung, können Sie mir sagen, wo …"
+          },
+          "back": {
+            "content": [
+              "- [Excuse me, can you tell me where…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Entschuldigen Sie, wissen Sie, wo …"
+          },
+          "back": {
+            "content": [
+              "- [Excuse me, do you know where…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Könnten Sie mir bitte sagen, wo …"
+          },
+          "back": {
+            "content": [
+              "- [Could you please tell me where…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Können Sie mir weiterhelfen? Ich suche nach …"
+          },
+          "back": {
+            "content": [
+              "- [Can you help me? I am looking for…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo befindet sich …?"
+          },
+          "back": {
+            "content": [
+              "- [Where is… located?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ist das hier in der Nähe?"
+          },
+          "back": {
+            "content": [
+              "- [Is this close by?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ist es weit von hier?"
+          },
+          "back": {
+            "content": [
+              "- [Is it far from here?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo ist der nächste Supermarkt?"
+          },
+          "back": {
+            "content": [
+              "- [Where is the nearest supermarket?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Welchen Weg soll ich nehmen, um zum Theater zu gelangen?"
+          },
+          "back": {
+            "content": [
+              "- [Which way should I take to get to the theater?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie komme ich zum Museum?"
+          },
+          "back": {
+            "content": [
+              "- [How do I get to the museum?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo finde ich die nächste Bushaltestelle?"
+          },
+          "back": {
+            "content": [
+              "- [Where can I find the nearest bus stop?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo kann ich ein Taxi finden?"
+          },
+          "back": {
+            "content": [
+              "- [Where can I find a taxi?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie weit ist es zum Flughafen?"
+          },
+          "back": {
+            "content": [
+              "- [How far is it to the airport?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Ich hätte gern …”"
+          },
+          "back": {
+            "content": [
+              "- [“I would like…”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Was empfehlen Sie?”"
+          },
+          "back": {
+            "content": [
+              "- [“What do you recommend?”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Die Rechnung, bitte”"
+          },
+          "back": {
+            "content": [
+              "- [“The bill, please”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Ich bin allergisch gegen …”"
+          },
+          "back": {
+            "content": [
+              "- [“I am allergic to…” (if you have specific dietary restrictions)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Ich hätte gerne eine Vorspeise.”"
+          },
+          "back": {
+            "content": [
+              "- [“I would like an appetizer.”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Könnten Sie das Steak medium braten?”"
+          },
+          "back": {
+            "content": [
+              "- [“Could you cook the steak medium?”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Ich hätte gerne einen Tisch für zwei Personen.”"
+          },
+          "back": {
+            "content": [
+              "- [“I would like a table for two.”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Könnten Sie mir bitte das Menü zeigen?”"
+          },
+          "back": {
+            "content": [
+              "- [“Could you please show me the menu?”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Welche Desserts haben Sie zur Auswahl?”"
+          },
+          "back": {
+            "content": [
+              "- [“What desserts do you have available?”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "“Könnten Sie mir eine Empfehlung für ein vegetarisches Gericht geben?”"
+          },
+          "back": {
+            "content": [
+              "- [“Could you recommend a vegetarian dish for me?”]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich suche nach …"
+          },
+          "back": {
+            "content": [
+              "- [I am looking for…]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haben Sie…?"
+          },
+          "back": {
+            "content": [
+              "- [Do you have…?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie viel kostet das?"
+          },
+          "back": {
+            "content": [
+              "- [How much does that cost?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Welche Größe haben Sie?"
+          },
+          "back": {
+            "content": [
+              "- [What size do you have?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gibt es das in rot?"
+          },
+          "back": {
+            "content": [
+              "- [Do you have that in red?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo finde ich …?"
+          },
+          "back": {
+            "content": [
+              "- [Where can I find…?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kann ich das umtauschen?"
+          },
+          "back": {
+            "content": [
+              "- [Can I exchange this?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haben Sie eine Quittung?"
+          },
+          "back": {
+            "content": [
+              "- [Do you have a receipt?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Können Sie mir helfen?"
+          },
+          "back": {
+            "content": [
+              "- [Can you help me?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Was ist die Rückgaberegel?"
+          },
+          "back": {
+            "content": [
+              "- [What is the return policy?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie lange dauert die Lieferung?"
+          },
+          "back": {
+            "content": [
+              "- [How long does the delivery take?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie ist das Wetter heute?"
+          },
+          "back": {
+            "content": [
+              "- [How is the weather today?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hast du irgendwelche Hobbys?"
+          },
+          "back": {
+            "content": [
+              "- [Do you have any hobbies?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hast du schon einmal Deutschland besucht?"
+          },
+          "back": {
+            "content": [
+              "- [Have you ever visited Germany?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Was machst du gerne in deiner Freizeit?"
+          },
+          "back": {
+            "content": [
+              "- [What do you like to do in your free time?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kennst du gute Restaurants in der Nähe?"
+          },
+          "back": {
+            "content": [
+              "- [Do you know any good restaurants nearby?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gibt es hier besondere Sehenswürdigkeiten?"
+          },
+          "back": {
+            "content": [
+              "- [Are there any special attractions here?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie lange wohnst du schon hier?"
+          },
+          "back": {
+            "content": [
+              "- [How long have you been living here?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Was sind deine Lieblingsaktivitäten?"
+          },
+          "back": {
+            "content": [
+              "- [What are your favorite activities?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kannst du mir ein paar Tipps zur Stadt geben?"
+          },
+          "back": {
+            "content": [
+              "- [Can you give me some tips about the city?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wo kann man hier am besten einkaufen gehen?"
+          },
+          "back": {
+            "content": [
+              "- [Where is the best place to go shopping around here?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie mein-st/-en du/Sie das"
+          },
+          "back": {
+            "content": [
+              "- [What do you mean (by that)?]: "
+            ]
+          }
         }
       ]
     },
@@ -829,6 +3109,11 @@
         "type": "add",
         "word": "Ich freue mich, das du da bist.",
         "date": "2024-10-22T05:30:34.585Z"
+      },
+      {
+        "type": "add",
+        "word": "Wie mein-st/-en du/Sie das",
+        "date": "2024-10-22T12:21:54.433Z"
       }
     ],
     "levels": [
@@ -1037,6 +3322,18 @@
           {
             "length": 51,
             "date": "2024-10-22T05:30:34.656Z"
+          },
+          {
+            "length": 211,
+            "date": "2024-10-22T09:40:34.656Z"
+          },
+          {
+            "length": 278,
+            "date": "2024-10-22T10:30:34.656Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-22T12:21:54.495Z"
           }
         ]
       },
