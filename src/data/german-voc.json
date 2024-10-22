@@ -2960,6 +2960,17 @@
               "- Forms: Pullover (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gabel (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Fork]: ",
+              "- Forms: Gabeln (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17653,6 +17664,11 @@
         "type": "add",
         "word": "Pullover",
         "date": "2024-10-22T05:46:50.892Z"
+      },
+      {
+        "type": "add",
+        "word": "Gabel",
+        "date": "2024-10-22T05:52:47.253Z"
       }
     ],
     "levels": [
@@ -22701,6 +22717,10 @@
           {
             "length": 270,
             "date": "2024-10-22T05:46:50.893Z"
+          },
+          {
+            "length": 271,
+            "date": "2024-10-22T05:52:47.254Z"
           }
         ]
       },
