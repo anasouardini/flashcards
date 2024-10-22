@@ -3036,6 +3036,17 @@
               "- Forms: Servietten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Urlaub (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Holiday/vacation]: ",
+              "- Forms: Urlaube (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17764,6 +17775,11 @@
         "type": "add",
         "word": "Serviette",
         "date": "2024-10-22T06:17:57.363Z"
+      },
+      {
+        "type": "add",
+        "word": "Urlaub",
+        "date": "2024-10-22T06:19:20.294Z"
       }
     ],
     "levels": [
@@ -22840,6 +22856,10 @@
           {
             "length": 277,
             "date": "2024-10-22T06:17:57.364Z"
+          },
+          {
+            "length": 278,
+            "date": "2024-10-22T06:19:20.304Z"
           }
         ]
       },
