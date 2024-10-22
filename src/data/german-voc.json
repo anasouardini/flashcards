@@ -3015,6 +3015,16 @@
               "- Forms: Anzüge (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Angezogen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Dress]: "
+            ]
+          }
         }
       ]
     },
@@ -17733,6 +17743,11 @@
         "type": "add",
         "word": "Anzug",
         "date": "2024-10-22T06:12:49.766Z"
+      },
+      {
+        "type": "add",
+        "word": "Angezogen",
+        "date": "2024-10-22T06:14:04.255Z"
       }
     ],
     "levels": [
@@ -22801,6 +22816,10 @@
           {
             "length": 275,
             "date": "2024-10-22T06:12:49.766Z"
+          },
+          {
+            "length": 276,
+            "date": "2024-10-22T06:14:04.256Z"
           }
         ]
       },
