@@ -3068,6 +3068,17 @@
               "- Forms: Katzen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Lokal (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Local]: ",
+              "- Forms: Lokal (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -17811,6 +17822,11 @@
         "type": "add",
         "word": "Katze",
         "date": "2024-10-22T06:23:33.899Z"
+      },
+      {
+        "type": "add",
+        "word": "Lokal",
+        "date": "2024-10-22T06:56:08.454Z"
       }
     ],
     "levels": [
@@ -22899,6 +22915,10 @@
           {
             "length": 280,
             "date": "2024-10-22T06:23:33.900Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-22T06:56:08.455Z"
           }
         ]
       },
