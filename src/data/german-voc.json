@@ -3090,6 +3090,16 @@
               "- [Inside]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Außerhalb (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Ouside]: "
+            ]
+          }
         }
       ]
     },
@@ -17843,6 +17853,11 @@
         "type": "add",
         "word": "Innerhalb",
         "date": "2024-10-22T06:57:52.223Z"
+      },
+      {
+        "type": "add",
+        "word": "Außerhalb",
+        "date": "2024-10-22T06:58:11.475Z"
       }
     ],
     "levels": [
@@ -22939,6 +22954,10 @@
           {
             "length": 282,
             "date": "2024-10-22T06:57:52.224Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-10-22T06:58:11.475Z"
           }
         ]
       },
