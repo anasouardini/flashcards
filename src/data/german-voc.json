@@ -3057,6 +3057,17 @@
               "- [To Rest]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Katze (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Cat]: ",
+              "- Forms: Katzen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17795,6 +17806,11 @@
         "type": "add",
         "word": "Erholen",
         "date": "2024-10-22T06:20:07.533Z"
+      },
+      {
+        "type": "add",
+        "word": "Katze",
+        "date": "2024-10-22T06:23:33.899Z"
       }
     ],
     "levels": [
@@ -22879,6 +22895,10 @@
           {
             "length": 279,
             "date": "2024-10-22T06:20:07.534Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-22T06:23:33.900Z"
           }
         ]
       },
