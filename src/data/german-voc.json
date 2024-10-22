@@ -2949,6 +2949,17 @@
               "- Forms: Wasser (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Pullover (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sweater]: ",
+              "- Forms: Pullover (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17637,6 +17648,11 @@
         "type": "add",
         "word": "Wasser",
         "date": "2024-10-22T05:38:44.914Z"
+      },
+      {
+        "type": "add",
+        "word": "Pullover",
+        "date": "2024-10-22T05:46:50.892Z"
       }
     ],
     "levels": [
@@ -22681,6 +22697,10 @@
           {
             "length": 269,
             "date": "2024-10-22T05:38:44.914Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-22T05:46:50.893Z"
           }
         ]
       },
