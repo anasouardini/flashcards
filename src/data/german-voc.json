@@ -2993,6 +2993,17 @@
               "- Forms: Säfte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Orangensaft (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Orange juice]: ",
+              "- Forms: OrangenSäfte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17701,6 +17712,11 @@
         "type": "add",
         "word": "Saft",
         "date": "2024-10-22T06:09:23.501Z"
+      },
+      {
+        "type": "add",
+        "word": "Orangensaft",
+        "date": "2024-10-22T06:10:27.713Z"
       }
     ],
     "levels": [
@@ -22761,6 +22777,10 @@
           {
             "length": 273,
             "date": "2024-10-22T06:09:23.502Z"
+          },
+          {
+            "length": 274,
+            "date": "2024-10-22T06:10:27.714Z"
           }
         ]
       },
