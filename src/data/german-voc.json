@@ -2938,6 +2938,17 @@
               "- [Therefore/So]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wasser (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Water]: ",
+              "- Forms: Wasser (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17621,6 +17632,11 @@
         "type": "add",
         "word": "Also",
         "date": "2024-10-21T18:10:44.297Z"
+      },
+      {
+        "type": "add",
+        "word": "Wasser",
+        "date": "2024-10-22T05:38:44.914Z"
       }
     ],
     "levels": [
@@ -22661,6 +22677,10 @@
           {
             "length": 268,
             "date": "2024-10-21T18:10:44.297Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-10-22T05:38:44.914Z"
           }
         ]
       },
