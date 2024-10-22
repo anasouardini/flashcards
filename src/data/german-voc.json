@@ -3004,6 +3004,17 @@
               "- Forms: OrangenSäfte (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Anzug (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Suit]: ",
+              "- Forms: Anzüge (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17717,6 +17728,11 @@
         "type": "add",
         "word": "Orangensaft",
         "date": "2024-10-22T06:10:27.713Z"
+      },
+      {
+        "type": "add",
+        "word": "Anzug",
+        "date": "2024-10-22T06:12:49.766Z"
       }
     ],
     "levels": [
@@ -22781,6 +22797,10 @@
           {
             "length": 274,
             "date": "2024-10-22T06:10:27.714Z"
+          },
+          {
+            "length": 275,
+            "date": "2024-10-22T06:12:49.766Z"
           }
         ]
       },
