@@ -2982,6 +2982,17 @@
               "- Forms: Vögel (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Saft (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Juice]: ",
+              "- Forms: Säfte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17685,6 +17696,11 @@
         "type": "add",
         "word": "Vogel",
         "date": "2024-10-22T06:03:09.080Z"
+      },
+      {
+        "type": "add",
+        "word": "Saft",
+        "date": "2024-10-22T06:09:23.501Z"
       }
     ],
     "levels": [
@@ -22741,6 +22757,10 @@
           {
             "length": 272,
             "date": "2024-10-22T06:03:09.081Z"
+          },
+          {
+            "length": 273,
+            "date": "2024-10-22T06:09:23.502Z"
           }
         ]
       },
