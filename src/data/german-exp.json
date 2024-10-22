@@ -509,6 +509,16 @@
               "- [I'm sorry]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ich freue mich, das du da bist."
+          },
+          "back": {
+            "content": [
+              "- [I'm glad you're here.]: "
+            ]
+          }
         }
       ]
     },
@@ -814,6 +824,11 @@
         "type": "add",
         "word": "Es tut mir leid",
         "date": "2024-10-21T20:05:59.080Z"
+      },
+      {
+        "type": "add",
+        "word": "Ich freue mich, das du da bist.",
+        "date": "2024-10-22T05:30:34.585Z"
       }
     ],
     "levels": [
@@ -1018,6 +1033,10 @@
           {
             "length": 50,
             "date": "2024-10-21T20:05:59.080Z"
+          },
+          {
+            "length": 51,
+            "date": "2024-10-22T05:30:34.656Z"
           }
         ]
       },
