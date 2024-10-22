@@ -2971,6 +2971,17 @@
               "- Forms: Gabeln (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Vogel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Bird]: ",
+              "- Forms: Vögel (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17669,6 +17680,11 @@
         "type": "add",
         "word": "Gabel",
         "date": "2024-10-22T05:52:47.253Z"
+      },
+      {
+        "type": "add",
+        "word": "Vogel",
+        "date": "2024-10-22T06:03:09.080Z"
       }
     ],
     "levels": [
@@ -22721,6 +22737,10 @@
           {
             "length": 271,
             "date": "2024-10-22T05:52:47.254Z"
+          },
+          {
+            "length": 272,
+            "date": "2024-10-22T06:03:09.081Z"
           }
         ]
       },
