@@ -3100,6 +3100,17 @@
               "- [Ouside]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Luft (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Air]: ",
+              "- Forms: Lüfte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -17858,6 +17869,11 @@
         "type": "add",
         "word": "Außerhalb",
         "date": "2024-10-22T06:58:11.475Z"
+      },
+      {
+        "type": "add",
+        "word": "Luft",
+        "date": "2024-10-22T06:59:55.766Z"
       }
     ],
     "levels": [
@@ -22958,6 +22974,10 @@
           {
             "length": 283,
             "date": "2024-10-22T06:58:11.475Z"
+          },
+          {
+            "length": 284,
+            "date": "2024-10-22T06:59:55.767Z"
           }
         ]
       },
