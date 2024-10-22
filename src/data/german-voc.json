@@ -3047,6 +3047,16 @@
               "- Forms: Urlaube (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Erholen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Rest]: "
+            ]
+          }
         }
       ]
     },
@@ -17780,6 +17790,11 @@
         "type": "add",
         "word": "Urlaub",
         "date": "2024-10-22T06:19:20.294Z"
+      },
+      {
+        "type": "add",
+        "word": "Erholen",
+        "date": "2024-10-22T06:20:07.533Z"
       }
     ],
     "levels": [
@@ -22860,6 +22875,10 @@
           {
             "length": 278,
             "date": "2024-10-22T06:19:20.304Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-22T06:20:07.534Z"
           }
         ]
       },
