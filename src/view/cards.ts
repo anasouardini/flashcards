@@ -1,6 +1,7 @@
 import blessed from 'blessed';
 import {
   ActionHistory,
+  type ActionMove,
   type CardSide,
   LevelHistory,
   type Model,
@@ -136,6 +137,22 @@ function renderCard({
   // @ts-ignore
   vars.model.currentLevel = parseInt(cardLevel);
 
+  // calculate time spent in current status
+  const cardName = vars.model.levels[cardLevel].cards[cardIndex].front.content;
+  let timeSpentInCurrentStatus;
+  const cardLastAction: ActionMove = vars.model.history.actions.filter((action)=>{
+    const currentCard = action.word == cardName.split('(')[0].trim();
+    const moveAction = action.type == 'move';
+    return currentCard && moveAction;
+  }).at(-1) as ActionMove;
+  if(!cardLastAction){
+    timeSpentInCurrentStatus = `0`;
+  }else{
+    const timeSpentInCurrentStatusMS = (new Date()).getTime() - (new Date(cardLastAction.date)).getTime();
+    timeSpentInCurrentStatus = (timeSpentInCurrentStatusMS / 1000 / 60 / 60 / 24).toFixed(2);
+    // timeSpentInCurrentStatus = `${(new Date()).getSeconds()} - ${(new Date(cardLastAction.date)).getSeconds()}`;
+  }
+
   let cardContent = '';
   if (!isLevelEmpty) {
     const cardObj = vars.model.levels[cardLevel].cards[cardIndex];
@@ -145,6 +162,8 @@ function renderCard({
     } else {
       cardContent = cardContentTmp;
     }
+
+    cardContent += ` - ${timeSpentInCurrentStatus}`;
   } else {
     cardContent = 'This level has no cards';
   }
@@ -416,6 +435,7 @@ function setupKeybindings() {
   });
 
   vars.screen.key(['x'], function (ch, key) {
+    vars.unsavedActions = 0;
     vars.screen.destroy();
     explorer.init({ cb: init });
   });
