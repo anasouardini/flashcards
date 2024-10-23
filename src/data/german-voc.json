@@ -1,8 +1,8 @@
 {
-  "currentLevel": 2,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 68,
       "currentCardSide": "front",
       "cards": [
         {
@@ -185,17 +185,6 @@
         },
         {
           "front": {
-            "content": "Fahren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To drive]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Muss (noun, singular, neuter)"
           },
           "back": {
@@ -234,17 +223,6 @@
           "back": {
             "content": [
               "- [Also/As well]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schon (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Already/Yet]: ",
               "- Forms: "
             ]
           }
@@ -372,17 +350,6 @@
         },
         {
           "front": {
-            "content": "Laufen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To run/walk/work]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Trotzdem (conjunction)"
           },
           "back": {
@@ -474,17 +441,6 @@
         },
         {
           "front": {
-            "content": "Sondern (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [...But]: Kein das sondern dass : Not this but that",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Lieber (adv.)"
           },
           "back": {
@@ -554,17 +510,6 @@
         },
         {
           "front": {
-            "content": "Entwickeln (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To develop]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Erwarten (v.)"
           },
           "back": {
@@ -581,17 +526,6 @@
           "back": {
             "content": [
               "- [To pay]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Weit (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Far]: ",
               "- Forms: "
             ]
           }
@@ -642,33 +576,11 @@
         },
         {
           "front": {
-            "content": "Stolz (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Proud]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Ruhig (adj.)"
           },
           "back": {
             "content": [
               "- [Quiet]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hilfsbereit (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Helpful]: ",
               "- Forms: "
             ]
           }
@@ -763,17 +675,6 @@
         },
         {
           "front": {
-            "content": "Verwirrt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Confused]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gleich (adj.)"
           },
           "back": {
@@ -858,17 +759,6 @@
             "content": [
               "- [BTW]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lied (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Song]: ",
-              "- Forms: Lieder (plural)"
             ]
           }
         },
@@ -3116,7 +3006,7 @@
     },
     {
       "currentCardIndex": 0,
-      "currentCardSide": "back",
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -5078,6 +4968,116 @@
             "content": [
               "- [To Phone-call]: ",
               "- Forms: Telefon(e) (noun)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fahren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To drive]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schon (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Already/Yet]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Laufen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To run/walk/work]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sondern (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [...But]: Kein das sondern dass : Not this but that",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Entwickeln (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To develop]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weit (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Far]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stolz (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Proud]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hilfsbereit (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Helpful]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Verwirrt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Confused]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lied (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Song]: ",
+              "- Forms: Lieder (plural)"
             ]
           }
         }
@@ -17875,6 +17875,76 @@
         "type": "add",
         "word": "Luft",
         "date": "2024-10-22T06:59:55.766Z"
+      },
+      {
+        "type": "move",
+        "word": "Fahren",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T19:20:00.064Z"
+      },
+      {
+        "type": "move",
+        "word": "Schon",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T19:21:17.499Z"
+      },
+      {
+        "type": "move",
+        "word": "Laufen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T19:28:36.502Z"
+      },
+      {
+        "type": "move",
+        "word": "Sondern",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T19:34:45.006Z"
+      },
+      {
+        "type": "move",
+        "word": "Entwickeln",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T19:53:03.168Z"
+      },
+      {
+        "type": "move",
+        "word": "Weit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T19:56:28.897Z"
+      },
+      {
+        "type": "move",
+        "word": "Stolz",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T20:03:01.494Z"
+      },
+      {
+        "type": "move",
+        "word": "Hilfsbereit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T20:04:39.653Z"
+      },
+      {
+        "type": "move",
+        "word": "Verwirrt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T20:37:48.862Z"
+      },
+      {
+        "type": "move",
+        "word": "Lied",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T20:52:42.683Z"
       }
     ],
     "levels": [
@@ -22979,6 +23049,46 @@
           {
             "length": 284,
             "date": "2024-10-22T06:59:55.767Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-10-23T19:20:00.138Z"
+          },
+          {
+            "length": 282,
+            "date": "2024-10-23T19:21:17.499Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-23T19:28:36.502Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-23T19:34:45.007Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-23T19:53:03.168Z"
+          },
+          {
+            "length": 278,
+            "date": "2024-10-23T19:56:28.897Z"
+          },
+          {
+            "length": 277,
+            "date": "2024-10-23T20:03:01.494Z"
+          },
+          {
+            "length": 276,
+            "date": "2024-10-23T20:04:39.653Z"
+          },
+          {
+            "length": 275,
+            "date": "2024-10-23T20:37:48.863Z"
+          },
+          {
+            "length": 274,
+            "date": "2024-10-23T20:52:42.683Z"
           }
         ]
       },
@@ -26199,6 +26309,46 @@
           {
             "length": 180,
             "date": "2024-10-20T22:06:52.845Z"
+          },
+          {
+            "length": 181,
+            "date": "2024-10-23T19:20:00.138Z"
+          },
+          {
+            "length": 182,
+            "date": "2024-10-23T19:21:17.499Z"
+          },
+          {
+            "length": 183,
+            "date": "2024-10-23T19:28:36.502Z"
+          },
+          {
+            "length": 184,
+            "date": "2024-10-23T19:34:45.007Z"
+          },
+          {
+            "length": 185,
+            "date": "2024-10-23T19:53:03.168Z"
+          },
+          {
+            "length": 186,
+            "date": "2024-10-23T19:56:28.897Z"
+          },
+          {
+            "length": 187,
+            "date": "2024-10-23T20:03:01.494Z"
+          },
+          {
+            "length": 188,
+            "date": "2024-10-23T20:04:39.653Z"
+          },
+          {
+            "length": 189,
+            "date": "2024-10-23T20:37:48.863Z"
+          },
+          {
+            "length": 190,
+            "date": "2024-10-23T20:52:42.683Z"
           }
         ]
       },
