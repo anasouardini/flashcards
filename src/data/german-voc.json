@@ -5084,8 +5084,8 @@
       ]
     },
     {
-      "currentCardIndex": 105,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -6250,7 +6250,8 @@
           "back": {
             "content": [
               "- [Topic]: ",
-              "- Forms: "
+              "- [Issue]: ",
+              "- Forms: Themata (plural)"
             ]
           }
         },
