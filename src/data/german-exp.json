@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 54,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -60,51 +60,11 @@
         },
         {
           "front": {
-            "content": "Woher kommst du?"
-          },
-          "back": {
-            "content": [
-              "- [Where do you come from?]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ich komme aus Marokko."
-          },
-          "back": {
-            "content": [
-              "- [I come from Morocco.]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wie geht's (geht+es)?"
-          },
-          "back": {
-            "content": [
-              "- [How is it going?]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gut, und wie geht's Ihnen1 you.f (dative)?"
+            "content": "Gut, und wie geht's Ihnen (you.f, dative)?"
           },
           "back": {
             "content": [
               "- [Good, and how is it doing for you?]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wer ist das?"
-          },
-          "back": {
-            "content": [
-              "- [Who is that?]: "
             ]
           }
         },
@@ -140,91 +100,11 @@
         },
         {
           "front": {
-            "content": "Wie bette?"
-          },
-          "back": {
-            "content": [
-              "- [Can you repeate, please?]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Was meinen sie?"
-          },
-          "back": {
-            "content": [
-              "- [What do you mean?]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ich arbeite als Journalist."
+            "content": "Ich arbeite als Entwickler."
           },
           "back": {
             "content": [
               "- [I work as a journalist.]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Was machen Sie?"
-          },
-          "back": {
-            "content": [
-              "- [What do you do?]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Was sind Sie von Beruf?"
-          },
-          "back": {
-            "content": [
-              "- [What are you by profession? (What is your profession)]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Noch einmal"
-          },
-          "back": {
-            "content": [
-              "- [Once more]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ich bin 25 Jahre Alt"
-          },
-          "back": {
-            "content": [
-              "- [I'm 25 years old]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wie Viele?"
-          },
-          "back": {
-            "content": [
-              "- [How many?]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Prise nennen"
-          },
-          "back": {
-            "content": [
-              "- [Name price]: "
             ]
           }
         },
@@ -235,16 +115,6 @@
           "back": {
             "content": [
               "- [How much does the table cost?]: \"denn\" adds a bit of informality and politeness"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Das ist aber teuer."
-          },
-          "back": {
-            "content": [
-              "- [But that is expensive.]: "
             ]
           }
         },
@@ -352,16 +222,6 @@
         },
         {
           "front": {
-            "content": "Kein Problem"
-          },
-          "back": {
-            "content": [
-              "- [No problem]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Schöne Grüße."
           },
           "back": {
@@ -427,16 +287,6 @@
           "back": {
             "content": [
               "- [Now and then]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wie oft?"
-          },
-          "back": {
-            "content": [
-              "- [How often?]: "
             ]
           }
         },
@@ -697,46 +547,6 @@
           "back": {
             "content": [
               "- [His bark is worse than his bite]: Literal: Dogs that bark don’t bite"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hallo "
-          },
-          "back": {
-            "content": [
-              "- [ Hello]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Guten Morgen "
-          },
-          "back": {
-            "content": [
-              "- [ Good morning]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Guten Tag "
-          },
-          "back": {
-            "content": [
-              "- [ Good afternoon]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Guten Abend "
-          },
-          "back": {
-            "content": [
-              "- [ Good evening]: "
             ]
           }
         },
@@ -2805,7 +2615,198 @@
     {
       "currentCardIndex": 1,
       "currentCardSide": "front",
-      "cards": []
+      "cards": [
+        {
+          "front": {
+            "content": "Woher kommst du?"
+          },
+          "back": {
+            "content": [
+              "- [Where do you come from?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich komme aus Marokko."
+          },
+          "back": {
+            "content": [
+              "- [I come from Morocco.]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie geht's (geht+es)?"
+          },
+          "back": {
+            "content": [
+              "- [How is it going?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wer ist das?"
+          },
+          "back": {
+            "content": [
+              "- [Who is that?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie bette?"
+          },
+          "back": {
+            "content": [
+              "- [Can you repeate, please?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Was meinen sie?"
+          },
+          "back": {
+            "content": [
+              "- [What do you mean?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Was machen Sie?"
+          },
+          "back": {
+            "content": [
+              "- [What do you do?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Was sind Sie von Beruf?"
+          },
+          "back": {
+            "content": [
+              "- [What are you by profession? (What is your profession)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Noch einmal"
+          },
+          "back": {
+            "content": [
+              "- [Once more]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ich bin 25 Jahre Alt"
+          },
+          "back": {
+            "content": [
+              "- [I'm 25 years old]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie Viele?"
+          },
+          "back": {
+            "content": [
+              "- [How many?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Preise nennen"
+          },
+          "back": {
+            "content": [
+              "- [Name price]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Das ist aber teuer."
+          },
+          "back": {
+            "content": [
+              "- [But that is expensive.]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kein Problem"
+          },
+          "back": {
+            "content": [
+              "- [No problem]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wie oft?"
+          },
+          "back": {
+            "content": [
+              "- [How often?]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hallo "
+          },
+          "back": {
+            "content": [
+              "- [ Hello]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Guten Morgen "
+          },
+          "back": {
+            "content": [
+              "- [ Good morning]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Guten Tag "
+          },
+          "back": {
+            "content": [
+              "- [ Good afternoon]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Guten Abend "
+          },
+          "back": {
+            "content": [
+              "- [ Good evening]: "
+            ]
+          }
+        }
+      ]
     },
     {
       "currentCardIndex": 0,
@@ -3114,6 +3115,139 @@
         "type": "add",
         "word": "Wie mein-st/-en du/Sie das",
         "date": "2024-10-22T12:21:54.433Z"
+      },
+      {
+        "type": "move",
+        "word": "Woher",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:31:32.322Z"
+      },
+      {
+        "type": "move",
+        "word": "Ich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:31:34.273Z"
+      },
+      {
+        "type": "move",
+        "word": "Wie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:31:49.756Z"
+      },
+      {
+        "type": "move",
+        "word": "Wer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:32:48.315Z"
+      },
+      {
+        "type": "move",
+        "word": "Wie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:35:57.570Z"
+      },
+      {
+        "type": "move",
+        "word": "Was",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:36:26.860Z"
+      },
+      {
+        "type": "move",
+        "word": "Was",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:37:36.809Z"
+      },
+      {
+        "type": "move",
+        "word": "Was",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:38:23.161Z"
+      },
+      {
+        "type": "move",
+        "word": "Noch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:38:29.321Z"
+      },
+      {
+        "type": "move",
+        "word": "Ich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:39:30.849Z"
+      },
+      {
+        "type": "move",
+        "word": "Wie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:39:38.488Z"
+      },
+      {
+        "type": "move",
+        "word": "Preise",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:40:11.304Z"
+      },
+      {
+        "type": "move",
+        "word": "Das",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T06:42:13.368Z"
+      },
+      {
+        "type": "move",
+        "word": "Kein",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T07:43:32.896Z"
+      },
+      {
+        "type": "move",
+        "word": "Wie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T07:55:20.974Z"
+      },
+      {
+        "type": "move",
+        "word": "Hallo",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T09:18:38.622Z"
+      },
+      {
+        "type": "move",
+        "word": "Guten",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T09:18:40.134Z"
+      },
+      {
+        "type": "move",
+        "word": "Guten",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T09:18:42.070Z"
+      },
+      {
+        "type": "move",
+        "word": "Guten",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T09:18:42.934Z"
       }
     ],
     "levels": [
@@ -3334,11 +3468,164 @@
           {
             "length": 279,
             "date": "2024-10-22T12:21:54.495Z"
+          },
+          {
+            "length": 278,
+            "date": "2024-10-23T06:31:32.395Z"
+          },
+          {
+            "length": 277,
+            "date": "2024-10-23T06:31:34.273Z"
+          },
+          {
+            "length": 276,
+            "date": "2024-10-23T06:31:49.756Z"
+          },
+          {
+            "length": 275,
+            "date": "2024-10-23T06:32:48.315Z"
+          },
+          {
+            "length": 274,
+            "date": "2024-10-23T06:35:57.570Z"
+          },
+          {
+            "length": 273,
+            "date": "2024-10-23T06:36:26.860Z"
+          },
+          {
+            "length": 272,
+            "date": "2024-10-23T06:37:36.809Z"
+          },
+          {
+            "length": 271,
+            "date": "2024-10-23T06:38:23.161Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-23T06:38:29.321Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-10-23T06:39:30.849Z"
+          },
+          {
+            "length": 268,
+            "date": "2024-10-23T06:39:38.488Z"
+          },
+          {
+            "length": 267,
+            "date": "2024-10-23T06:40:11.304Z"
+          },
+          {
+            "length": 266,
+            "date": "2024-10-23T06:42:13.368Z"
+          },
+          {
+            "length": 265,
+            "date": "2024-10-23T07:43:32.896Z"
+          },
+          {
+            "length": 264,
+            "date": "2024-10-23T07:55:20.974Z"
+          },
+          {
+            "length": 263,
+            "date": "2024-10-23T09:18:38.622Z"
+          },
+          {
+            "length": 262,
+            "date": "2024-10-23T09:18:40.134Z"
+          },
+          {
+            "length": 261,
+            "date": "2024-10-23T09:18:42.070Z"
+          },
+          {
+            "length": 260,
+            "date": "2024-10-23T09:18:42.934Z"
           }
         ]
       },
       {
-        "lengths": []
+        "lengths": [
+          {
+            "length": 1,
+            "date": "2024-10-23T06:31:32.395Z"
+          },
+          {
+            "length": 2,
+            "date": "2024-10-23T06:31:34.273Z"
+          },
+          {
+            "length": 3,
+            "date": "2024-10-23T06:31:49.756Z"
+          },
+          {
+            "length": 4,
+            "date": "2024-10-23T06:32:48.315Z"
+          },
+          {
+            "length": 5,
+            "date": "2024-10-23T06:35:57.570Z"
+          },
+          {
+            "length": 6,
+            "date": "2024-10-23T06:36:26.860Z"
+          },
+          {
+            "length": 7,
+            "date": "2024-10-23T06:37:36.809Z"
+          },
+          {
+            "length": 8,
+            "date": "2024-10-23T06:38:23.161Z"
+          },
+          {
+            "length": 9,
+            "date": "2024-10-23T06:38:29.321Z"
+          },
+          {
+            "length": 10,
+            "date": "2024-10-23T06:39:30.849Z"
+          },
+          {
+            "length": 11,
+            "date": "2024-10-23T06:39:38.488Z"
+          },
+          {
+            "length": 12,
+            "date": "2024-10-23T06:40:11.304Z"
+          },
+          {
+            "length": 13,
+            "date": "2024-10-23T06:42:13.368Z"
+          },
+          {
+            "length": 14,
+            "date": "2024-10-23T07:43:32.896Z"
+          },
+          {
+            "length": 15,
+            "date": "2024-10-23T07:55:20.974Z"
+          },
+          {
+            "length": 16,
+            "date": "2024-10-23T09:18:38.622Z"
+          },
+          {
+            "length": 17,
+            "date": "2024-10-23T09:18:40.134Z"
+          },
+          {
+            "length": 18,
+            "date": "2024-10-23T09:18:42.070Z"
+          },
+          {
+            "length": 19,
+            "date": "2024-10-23T09:18:42.934Z"
+          }
+        ]
       },
       {
         "lengths": []
