@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 68,
-      "currentCardSide": "front",
+      "currentCardIndex": 82,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -797,17 +797,6 @@
         },
         {
           "front": {
-            "content": "Weißen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To know]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zeichnen (v.)"
           },
           "back": {
@@ -829,53 +818,12 @@
         },
         {
           "front": {
-            "content": "Üben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Exercice/Practice]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bekannte (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Friend]: ",
-              "- Forms: Bekannte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Seite (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Page]: ",
               "- Forms: Seiten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zuordnen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Assign/match]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Einmal (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Once/One day]: "
             ]
           }
         },
@@ -5078,6 +5026,58 @@
             "content": [
               "- [Song]: ",
               "- Forms: Lieder (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weißen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To know]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Üben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Exercice/Practice]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bekannte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Friend]: ",
+              "- Forms: Bekannte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zuordnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Assign/match]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einmal (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Once/One day]: "
             ]
           }
         }
@@ -17945,6 +17945,41 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-23T20:52:42.683Z"
+      },
+      {
+        "type": "move",
+        "word": "Weißen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T21:00:42.350Z"
+      },
+      {
+        "type": "move",
+        "word": "Üben",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T21:02:26.433Z"
+      },
+      {
+        "type": "move",
+        "word": "Bekannte",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T21:02:58.633Z"
+      },
+      {
+        "type": "move",
+        "word": "Zuordnen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T21:03:31.168Z"
+      },
+      {
+        "type": "move",
+        "word": "Einmal",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-23T21:03:38.473Z"
       }
     ],
     "levels": [
@@ -23089,6 +23124,26 @@
           {
             "length": 274,
             "date": "2024-10-23T20:52:42.683Z"
+          },
+          {
+            "length": 273,
+            "date": "2024-10-23T21:00:42.351Z"
+          },
+          {
+            "length": 272,
+            "date": "2024-10-23T21:02:26.433Z"
+          },
+          {
+            "length": 271,
+            "date": "2024-10-23T21:02:58.633Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-23T21:03:31.168Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-10-23T21:03:38.473Z"
           }
         ]
       },
@@ -26349,6 +26404,26 @@
           {
             "length": 190,
             "date": "2024-10-23T20:52:42.683Z"
+          },
+          {
+            "length": 191,
+            "date": "2024-10-23T21:00:42.351Z"
+          },
+          {
+            "length": 192,
+            "date": "2024-10-23T21:02:26.433Z"
+          },
+          {
+            "length": 193,
+            "date": "2024-10-23T21:02:58.633Z"
+          },
+          {
+            "length": 194,
+            "date": "2024-10-23T21:03:31.168Z"
+          },
+          {
+            "length": 195,
+            "date": "2024-10-23T21:03:38.473Z"
           }
         ]
       },
