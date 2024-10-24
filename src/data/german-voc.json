@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 82,
+      "currentCardIndex": 133,
       "currentCardSide": "back",
       "cards": [
         {
@@ -946,28 +946,6 @@
         },
         {
           "front": {
-            "content": "Schauspieler (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Actor]: ",
-              "- Forms: Schauspieler (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Friseur (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Hairdresser]: ",
-              "- Forms: Friseurin (feminine), Friseure (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Bei (prep.)"
           },
           "back": {
@@ -984,16 +962,6 @@
             "content": [
               "- [Dictionary]: ",
               "- Forms: Wörterbücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zu zweit (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [In pairs]: "
             ]
           }
         },
@@ -1081,37 +1049,6 @@
           "back": {
             "content": [
               "- [Oneself]: Einen Text über sich selbst : A text about yourself"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schüler (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Student]: ",
-              "- Forms: Schüler (plural), schülerin (feminine)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Praktikum (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Internship]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ansehen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Look at]: "
             ]
           }
         },
@@ -1442,17 +1379,6 @@
         },
         {
           "front": {
-            "content": "Flasche (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Bottle/Flask]: ",
-              "- Forms: Flaschen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Fällen (v.)"
           },
           "back": {
@@ -1461,16 +1387,6 @@
               "- [Like]: ",
               "- [Fall down]: ",
               "- Forms: Gefällt (pp)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Genauso (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Equally/Just the same]: "
             ]
           }
         },
@@ -5078,6 +4994,90 @@
           "back": {
             "content": [
               "- [Once/One day]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Friseur (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Hairdresser]: ",
+              "- Forms: Friseurin (feminine), Friseure (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schauspieler (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Actor]: ",
+              "- Forms: Schauspieler (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zu zweit (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [In pairs]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schüler (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Student]: ",
+              "- Forms: Schüler (plural), schülerin (feminine)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Praktikum (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Internship]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ansehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Look at]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Flasche (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Bottle/Flask]: ",
+              "- Forms: Flaschen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Genauso (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Equally/Just the same]: "
             ]
           }
         }
@@ -17980,6 +17980,62 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-23T21:03:38.473Z"
+      },
+      {
+        "type": "move",
+        "word": "Friseur",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T10:18:58.051Z"
+      },
+      {
+        "type": "move",
+        "word": "Schauspieler",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T10:19:08.098Z"
+      },
+      {
+        "type": "move",
+        "word": "Zu",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T10:20:29.690Z"
+      },
+      {
+        "type": "move",
+        "word": "Schüler",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T10:27:05.657Z"
+      },
+      {
+        "type": "move",
+        "word": "Praktikum",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T10:27:42.712Z"
+      },
+      {
+        "type": "move",
+        "word": "Ansehen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T10:27:59.000Z"
+      },
+      {
+        "type": "move",
+        "word": "Flasche",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T17:59:34.365Z"
+      },
+      {
+        "type": "move",
+        "word": "Genauso",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T18:03:07.996Z"
       }
     ],
     "levels": [
@@ -23144,6 +23200,38 @@
           {
             "length": 269,
             "date": "2024-10-23T21:03:38.473Z"
+          },
+          {
+            "length": 268,
+            "date": "2024-10-24T10:18:58.126Z"
+          },
+          {
+            "length": 267,
+            "date": "2024-10-24T10:19:08.098Z"
+          },
+          {
+            "length": 266,
+            "date": "2024-10-24T10:20:29.690Z"
+          },
+          {
+            "length": 265,
+            "date": "2024-10-24T10:27:05.657Z"
+          },
+          {
+            "length": 264,
+            "date": "2024-10-24T10:27:42.712Z"
+          },
+          {
+            "length": 263,
+            "date": "2024-10-24T10:27:59.000Z"
+          },
+          {
+            "length": 262,
+            "date": "2024-10-24T17:59:34.365Z"
+          },
+          {
+            "length": 261,
+            "date": "2024-10-24T18:03:07.996Z"
           }
         ]
       },
@@ -26424,6 +26512,38 @@
           {
             "length": 195,
             "date": "2024-10-23T21:03:38.473Z"
+          },
+          {
+            "length": 196,
+            "date": "2024-10-24T10:18:58.126Z"
+          },
+          {
+            "length": 197,
+            "date": "2024-10-24T10:19:08.098Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-10-24T10:20:29.690Z"
+          },
+          {
+            "length": 199,
+            "date": "2024-10-24T10:27:05.657Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-10-24T10:27:42.712Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-10-24T10:27:59.000Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-10-24T17:59:34.365Z"
+          },
+          {
+            "length": 203,
+            "date": "2024-10-24T18:03:07.996Z"
           }
         ]
       },
