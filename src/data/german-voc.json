@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 133,
+      "currentCardIndex": 180,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1473,7 +1473,7 @@
         },
         {
           "front": {
-            "content": "Ordnung (noun, singular, femining)"
+            "content": "Ordnung (noun, singular, feminine)"
           },
           "back": {
             "content": [
@@ -1530,17 +1530,6 @@
           "back": {
             "content": [
               "- [Circle]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kette (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Chain/Necklace]: ",
-              "- Forms: Ketten (plural)"
             ]
           }
         },
@@ -1631,45 +1620,12 @@
         },
         {
           "front": {
-            "content": "Straße (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Road/Street]: ",
-              "- Forms: Straßen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Menge (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Quantity]: ",
               "- Forms: Mengen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Geburtsdatum (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Birth date]: ",
-              "- Forms: Geburtsdaten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wiederholung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Repetition]: ",
-              "- Forms: Wiederholungen (plural)"
             ]
           }
         },
@@ -1682,18 +1638,6 @@
               "- [To Request]: ",
               "- [To Ask]: Um etwas bitten : Asking about something",
               "- Forms: Bitte (noun, singular), Bitten (noun, plural), Bitte (interjection)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "See (noun, singular, masculine/feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Lake] (f.): ",
-              "- [Sea/Ocean] (m.): ",
-              "- Forms: Seen (plural)"
             ]
           }
         },
@@ -1840,18 +1784,6 @@
         },
         {
           "front": {
-            "content": "Stand (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Status]: ",
-              "- [State]: ",
-              "- [Stand/Booth]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Anruf (noun, singular, masculine)"
           },
           "back": {
@@ -1924,33 +1856,12 @@
         },
         {
           "front": {
-            "content": "Regenschirm (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Umbrilla]: ",
-              "- Forms: Regenschirme (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Handtuch (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [Towel]: ",
               "- Forms: Handtücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nie (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Never]: "
             ]
           }
         },
@@ -5078,6 +4989,95 @@
           "back": {
             "content": [
               "- [Equally/Just the same]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kette (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Chain/Necklace]: ",
+              "- Forms: Ketten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Straße (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Road/Street]: ",
+              "- Forms: Straßen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Geburtsdatum (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Birth date]: ",
+              "- Forms: Geburtsdaten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wiederholung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Repetition]: ",
+              "- Forms: Wiederholungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "See (noun, singular, masculine/feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Lake] (f.): ",
+              "- [Sea/Ocean] (m.): ",
+              "- Forms: Seen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stand (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Status]: ",
+              "- [State]: ",
+              "- [Stand/Booth]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Regenschirm (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Umbrilla]: ",
+              "- Forms: Regenschirme (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nie (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Never]: "
             ]
           }
         }
@@ -8408,7 +8408,7 @@
       "cards": []
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": null,
       "currentCardSide": "front",
       "cards": []
     },
@@ -18036,6 +18036,62 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-24T18:03:07.996Z"
+      },
+      {
+        "type": "move",
+        "word": "Kette",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T19:15:44.842Z"
+      },
+      {
+        "type": "move",
+        "word": "Straße",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T19:33:06.022Z"
+      },
+      {
+        "type": "move",
+        "word": "Geburtsdatum",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T19:37:16.452Z"
+      },
+      {
+        "type": "move",
+        "word": "Wiederholung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T19:37:25.372Z"
+      },
+      {
+        "type": "move",
+        "word": "See",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T19:39:39.604Z"
+      },
+      {
+        "type": "move",
+        "word": "Stand",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T20:47:53.038Z"
+      },
+      {
+        "type": "move",
+        "word": "Regenschirm",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T21:07:35.962Z"
+      },
+      {
+        "type": "move",
+        "word": "Nie",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-24T21:10:06.025Z"
       }
     ],
     "levels": [
@@ -23232,6 +23288,38 @@
           {
             "length": 261,
             "date": "2024-10-24T18:03:07.996Z"
+          },
+          {
+            "length": 260,
+            "date": "2024-10-24T19:15:44.843Z"
+          },
+          {
+            "length": 259,
+            "date": "2024-10-24T19:33:06.022Z"
+          },
+          {
+            "length": 258,
+            "date": "2024-10-24T19:37:16.452Z"
+          },
+          {
+            "length": 257,
+            "date": "2024-10-24T19:37:25.372Z"
+          },
+          {
+            "length": 256,
+            "date": "2024-10-24T19:39:39.604Z"
+          },
+          {
+            "length": 255,
+            "date": "2024-10-24T20:47:53.038Z"
+          },
+          {
+            "length": 254,
+            "date": "2024-10-24T21:07:35.962Z"
+          },
+          {
+            "length": 253,
+            "date": "2024-10-24T21:10:06.026Z"
           }
         ]
       },
@@ -26544,6 +26632,38 @@
           {
             "length": 203,
             "date": "2024-10-24T18:03:07.996Z"
+          },
+          {
+            "length": 204,
+            "date": "2024-10-24T19:15:44.843Z"
+          },
+          {
+            "length": 205,
+            "date": "2024-10-24T19:33:06.022Z"
+          },
+          {
+            "length": 206,
+            "date": "2024-10-24T19:37:16.452Z"
+          },
+          {
+            "length": 207,
+            "date": "2024-10-24T19:37:25.372Z"
+          },
+          {
+            "length": 208,
+            "date": "2024-10-24T19:39:39.604Z"
+          },
+          {
+            "length": 209,
+            "date": "2024-10-24T20:47:53.038Z"
+          },
+          {
+            "length": 210,
+            "date": "2024-10-24T21:07:35.962Z"
+          },
+          {
+            "length": 211,
+            "date": "2024-10-24T21:10:06.026Z"
           }
         ]
       },
