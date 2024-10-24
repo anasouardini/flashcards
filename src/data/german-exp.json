@@ -2619,6 +2619,16 @@
               "- [Long ago]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Mal gucken"
+          },
+          "back": {
+            "content": [
+              "- [Let's see]: "
+            ]
+          }
         }
       ]
     },
@@ -3263,6 +3273,11 @@
         "type": "add",
         "word": "Lange her",
         "date": "2024-10-24T18:27:11.666Z"
+      },
+      {
+        "type": "add",
+        "word": "Mal gucken",
+        "date": "2024-10-24T18:59:51.541Z"
       }
     ],
     "levels": [
@@ -3563,6 +3578,10 @@
           {
             "length": 261,
             "date": "2024-10-24T18:27:11.732Z"
+          },
+          {
+            "length": 262,
+            "date": "2024-10-24T18:59:51.541Z"
           }
         ]
       },
