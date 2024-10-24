@@ -2609,6 +2609,16 @@
               "- [What do you mean (by that)?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Lange her"
+          },
+          "back": {
+            "content": [
+              "- [Long ago]: "
+            ]
+          }
         }
       ]
     },
@@ -3248,6 +3258,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-23T09:18:42.934Z"
+      },
+      {
+        "type": "add",
+        "word": "Lange her",
+        "date": "2024-10-24T18:27:11.666Z"
       }
     ],
     "levels": [
@@ -3544,6 +3559,10 @@
           {
             "length": 260,
             "date": "2024-10-23T09:18:42.934Z"
+          },
+          {
+            "length": 261,
+            "date": "2024-10-24T18:27:11.732Z"
           }
         ]
       },
