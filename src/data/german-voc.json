@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 180,
+      "currentCardIndex": 211,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1986,17 +1986,6 @@
         },
         {
           "front": {
-            "content": "Markt (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Market]: ",
-              "- Forms: Märkte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gegenstand (noun, singular, masculine)"
           },
           "back": {
@@ -2020,27 +2009,6 @@
         },
         {
           "front": {
-            "content": "Kurs (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Course]: ",
-              "- Forms: Kurse (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Na (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Well]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zeichnung (noun, singular, feminine)"
           },
           "back": {
@@ -2058,28 +2026,6 @@
             "content": [
               "- [Eye]: ",
               "- Forms: Augen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wagen (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Car]: ",
-              "- Forms: Wagen/Wägen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Platz (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Place]: ",
-              "- Forms: Plätze (plural)"
             ]
           }
         },
@@ -2176,16 +2122,6 @@
             "content": [
               "- [Frequent]: ",
               "- Forms: Häufig (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Oftmals (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Often]: "
             ]
           }
         },
@@ -2319,19 +2255,6 @@
         },
         {
           "front": {
-            "content": "Natürlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Natural]: ",
-              "- [Naturally] (adv.): ",
-              "- [Of Course] (adv.): ",
-              "- Forms: Natürlich (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Worum (pronoun)"
           },
           "back": {
@@ -2385,16 +2308,6 @@
               "- [On]: ",
               "- [Of]: ",
               "- [By]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schwimmbad (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Swimming pool]: "
             ]
           }
         },
@@ -5078,6 +4991,93 @@
           "back": {
             "content": [
               "- [Never]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Markt (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Market]: ",
+              "- Forms: Märkte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kurs (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Course]: ",
+              "- Forms: Kurse (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Na (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Well]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wagen (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Car]: ",
+              "- Forms: Wagen/Wägen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Platz (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Place]: ",
+              "- Forms: Plätze (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Oftmals (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Often]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Natürlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Natural]: ",
+              "- [Naturally] (adv.): ",
+              "- [Of Course] (adv.): ",
+              "- Forms: Natürlich (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schwimmbad (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Swimming pool]: "
             ]
           }
         }
@@ -18092,6 +18092,62 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-24T21:10:06.025Z"
+      },
+      {
+        "type": "move",
+        "word": "Markt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T08:57:54.173Z"
+      },
+      {
+        "type": "move",
+        "word": "Kurs",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T09:03:44.746Z"
+      },
+      {
+        "type": "move",
+        "word": "Na",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T09:03:55.482Z"
+      },
+      {
+        "type": "move",
+        "word": "Wagen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T09:27:32.634Z"
+      },
+      {
+        "type": "move",
+        "word": "Platz",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T09:27:56.050Z"
+      },
+      {
+        "type": "move",
+        "word": "Oftmals",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T10:05:29.010Z"
+      },
+      {
+        "type": "move",
+        "word": "Natürlich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T11:58:45.193Z"
+      },
+      {
+        "type": "move",
+        "word": "Schwimmbad",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T12:53:10.121Z"
       }
     ],
     "levels": [
@@ -23320,6 +23376,38 @@
           {
             "length": 253,
             "date": "2024-10-24T21:10:06.026Z"
+          },
+          {
+            "length": 252,
+            "date": "2024-10-25T08:57:54.236Z"
+          },
+          {
+            "length": 251,
+            "date": "2024-10-25T09:03:44.746Z"
+          },
+          {
+            "length": 250,
+            "date": "2024-10-25T09:03:55.482Z"
+          },
+          {
+            "length": 249,
+            "date": "2024-10-25T09:27:32.635Z"
+          },
+          {
+            "length": 248,
+            "date": "2024-10-25T09:27:56.050Z"
+          },
+          {
+            "length": 247,
+            "date": "2024-10-25T10:05:29.010Z"
+          },
+          {
+            "length": 246,
+            "date": "2024-10-25T11:58:45.193Z"
+          },
+          {
+            "length": 245,
+            "date": "2024-10-25T12:53:10.121Z"
           }
         ]
       },
@@ -26664,6 +26752,38 @@
           {
             "length": 211,
             "date": "2024-10-24T21:10:06.026Z"
+          },
+          {
+            "length": 212,
+            "date": "2024-10-25T08:57:54.236Z"
+          },
+          {
+            "length": 213,
+            "date": "2024-10-25T09:03:44.746Z"
+          },
+          {
+            "length": 214,
+            "date": "2024-10-25T09:03:55.482Z"
+          },
+          {
+            "length": 215,
+            "date": "2024-10-25T09:27:32.635Z"
+          },
+          {
+            "length": 216,
+            "date": "2024-10-25T09:27:56.050Z"
+          },
+          {
+            "length": 217,
+            "date": "2024-10-25T10:05:29.010Z"
+          },
+          {
+            "length": 218,
+            "date": "2024-10-25T11:58:45.193Z"
+          },
+          {
+            "length": 219,
+            "date": "2024-10-25T12:53:10.121Z"
           }
         ]
       },
