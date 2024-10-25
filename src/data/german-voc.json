@@ -2639,7 +2639,7 @@
       ]
     },
     {
-      "currentCardIndex": 119,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -3946,7 +3946,8 @@
             "content": [
               "- [Status]: ",
               "- [State]: ",
-              "- [Stand/Booth]: "
+              "- [Stand/Booth]: ",
+              "- Forms: Stände (plural)"
             ]
           }
         },
