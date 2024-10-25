@@ -1,5 +1,5 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 2,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -4127,7 +4127,7 @@
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 300,
       "currentCardSide": "front",
       "cards": [
         {
@@ -6490,12 +6490,12 @@
         },
         {
           "front": {
-            "content": "Arbitgeber (noun, singular, masculine)"
+            "content": "Arbeitgeber (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Employer]: ",
-              "- Forms: Arbitgeber (plural)"
+              "- Forms: Arbeitgeber (plural)"
             ]
           }
         },
@@ -6505,7 +6505,8 @@
           },
           "back": {
             "content": [
-              "- [Father]: "
+              "- [Father]: ",
+              "- Forms: Väter (plural)"
             ]
           }
         },
