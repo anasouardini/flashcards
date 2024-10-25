@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 211,
-      "currentCardSide": "back",
+      "currentCardIndex": 239,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2323,12 +2323,12 @@
         },
         {
           "front": {
-            "content": "Zuchauer (noun, singular, neuter)"
+            "content": "Zuschauer (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [Viewer]: ",
-              "- Forms: Zuchauer (plural)"
+              "- Forms: Zuschauer (plural)"
             ]
           }
         },
@@ -2378,22 +2378,12 @@
         },
         {
           "front": {
-            "content": "Unter (preposition)"
-          },
-          "back": {
-            "content": [
-              "- [Under]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Ausstellen (v.)"
           },
           "back": {
             "content": [
               "- [To Turn off]: ",
-              "- [To Exhibit]: "
+              "- [To Show]: "
             ]
           }
         },
@@ -2499,43 +2489,11 @@
         },
         {
           "front": {
-            "content": "Ritual (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Ritual]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Also (adv.)"
           },
           "back": {
             "content": [
               "- [Therefore/So]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wasser (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Water]: ",
-              "- Forms: Wasser (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Pullover (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Sweater]: ",
-              "- Forms: Pullover (plural)"
             ]
           }
         },
@@ -2644,18 +2602,6 @@
             "content": [
               "- [Cat]: ",
               "- Forms: Katzen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lokal (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Local]: ",
-              "- [Locally]: ",
-              "- Forms: Lokal (adv.)"
             ]
           }
         },
@@ -5078,6 +5024,60 @@
           "back": {
             "content": [
               "- [Swimming pool]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Unter (preposition)"
+          },
+          "back": {
+            "content": [
+              "- [Under]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ritual (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Ritual]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wasser (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Water]: ",
+              "- Forms: Wasser (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Pullover (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sweater]: ",
+              "- Forms: Pullover (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lokal (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Local]: ",
+              "- [Locally]: ",
+              "- Forms: Lokal (adv.)"
             ]
           }
         }
@@ -18148,6 +18148,41 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-25T12:53:10.121Z"
+      },
+      {
+        "type": "move",
+        "word": "Unter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T14:13:36.135Z"
+      },
+      {
+        "type": "move",
+        "word": "Ritual",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T14:48:06.026Z"
+      },
+      {
+        "type": "move",
+        "word": "Wasser",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T14:51:37.031Z"
+      },
+      {
+        "type": "move",
+        "word": "Pullover",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T14:52:38.838Z"
+      },
+      {
+        "type": "move",
+        "word": "Lokal",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-25T15:37:20.517Z"
       }
     ],
     "levels": [
@@ -23408,6 +23443,26 @@
           {
             "length": 245,
             "date": "2024-10-25T12:53:10.121Z"
+          },
+          {
+            "length": 244,
+            "date": "2024-10-25T14:13:36.136Z"
+          },
+          {
+            "length": 243,
+            "date": "2024-10-25T14:48:06.027Z"
+          },
+          {
+            "length": 242,
+            "date": "2024-10-25T14:51:37.031Z"
+          },
+          {
+            "length": 241,
+            "date": "2024-10-25T14:52:38.838Z"
+          },
+          {
+            "length": 240,
+            "date": "2024-10-25T15:37:20.517Z"
           }
         ]
       },
@@ -26784,6 +26839,26 @@
           {
             "length": 219,
             "date": "2024-10-25T12:53:10.121Z"
+          },
+          {
+            "length": 220,
+            "date": "2024-10-25T14:13:36.136Z"
+          },
+          {
+            "length": 221,
+            "date": "2024-10-25T14:48:06.027Z"
+          },
+          {
+            "length": 222,
+            "date": "2024-10-25T14:51:37.031Z"
+          },
+          {
+            "length": 223,
+            "date": "2024-10-25T14:52:38.838Z"
+          },
+          {
+            "length": 224,
+            "date": "2024-10-25T15:37:20.517Z"
           }
         ]
       },
