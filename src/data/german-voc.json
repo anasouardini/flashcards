@@ -2926,6 +2926,17 @@
               "- [To Wait]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Minute (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Minute]: ",
+              "- Forms: Minuten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19243,6 +19254,11 @@
         "type": "add",
         "word": "Warten",
         "date": "2024-10-26T17:46:04.274Z"
+      },
+      {
+        "type": "add",
+        "word": "Minute",
+        "date": "2024-10-26T17:46:59.469Z"
       }
     ],
     "levels": [
@@ -24631,6 +24647,10 @@
           {
             "length": 267,
             "date": "2024-10-26T17:46:04.275Z"
+          },
+          {
+            "length": 268,
+            "date": "2024-10-26T17:46:59.469Z"
           }
         ]
       },
