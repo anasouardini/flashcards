@@ -3004,6 +3004,16 @@
               "- [About]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zivilisation (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Civilization]: "
+            ]
+          }
         }
       ]
     },
@@ -7866,7 +7876,8 @@
           "back": {
             "content": [
               "- [Right/Correct]: ",
-              "- Forms: "
+              "- [Really] (adv.): ",
+              "- Forms: Richtig (adv.)"
             ]
           }
         },
@@ -19358,6 +19369,11 @@
         "type": "add",
         "word": "Darüber",
         "date": "2024-10-26T18:14:59.033Z"
+      },
+      {
+        "type": "add",
+        "word": "Zivilisation",
+        "date": "2024-10-26T18:19:53.279Z"
       }
     ],
     "levels": [
@@ -24774,6 +24790,10 @@
           {
             "length": 274,
             "date": "2024-10-26T18:14:59.033Z"
+          },
+          {
+            "length": 275,
+            "date": "2024-10-26T18:19:53.279Z"
           }
         ]
       },
