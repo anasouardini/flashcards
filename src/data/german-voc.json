@@ -3305,6 +3305,16 @@
               "- [To Do]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Aufräumen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Clean/Tidy]: "
+            ]
+          }
         }
       ]
     },
@@ -19803,6 +19813,11 @@
         "type": "add",
         "word": "Erledigen",
         "date": "2024-10-26T19:25:37.755Z"
+      },
+      {
+        "type": "add",
+        "word": "Aufräumen",
+        "date": "2024-10-26T19:26:47.336Z"
       }
     ],
     "levels": [
@@ -25331,6 +25346,10 @@
           {
             "length": 302,
             "date": "2024-10-26T19:25:37.756Z"
+          },
+          {
+            "length": 303,
+            "date": "2024-10-26T19:26:47.336Z"
           }
         ]
       },
