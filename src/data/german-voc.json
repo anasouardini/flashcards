@@ -278,6 +278,7 @@
           "back": {
             "content": [
               "- [To stay]: ",
+              "- [To maintain]: ",
               "- Forms: "
             ]
           }
@@ -3282,6 +3283,16 @@
             "content": [
               "- [Healthy]: ",
               "- Forms: Gesund (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Prima (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Great/Super]: "
             ]
           }
         }
@@ -19772,6 +19783,11 @@
         "type": "add",
         "word": "Gesund",
         "date": "2024-10-26T19:19:49.949Z"
+      },
+      {
+        "type": "add",
+        "word": "Prima",
+        "date": "2024-10-26T19:21:27.118Z"
       }
     ],
     "levels": [
@@ -25292,6 +25308,10 @@
           {
             "length": 300,
             "date": "2024-10-26T19:19:49.949Z"
+          },
+          {
+            "length": 301,
+            "date": "2024-10-26T19:21:27.119Z"
           }
         ]
       },
