@@ -3315,6 +3315,16 @@
               "- [To Clean/Tidy]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ausmisten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Clean]: "
+            ]
+          }
         }
       ]
     },
@@ -19818,6 +19828,11 @@
         "type": "add",
         "word": "Aufräumen",
         "date": "2024-10-26T19:26:47.336Z"
+      },
+      {
+        "type": "add",
+        "word": "Ausmisten",
+        "date": "2024-10-26T19:27:17.274Z"
       }
     ],
     "levels": [
@@ -25350,6 +25365,10 @@
           {
             "length": 303,
             "date": "2024-10-26T19:26:47.336Z"
+          },
+          {
+            "length": 304,
+            "date": "2024-10-26T19:27:17.274Z"
           }
         ]
       },
