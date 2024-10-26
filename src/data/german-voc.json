@@ -3063,7 +3063,19 @@
           },
           "back": {
             "content": [
-              "- [To Have]: "
+              "- [To Have]: ",
+              "- [To Own]: ",
+              "- [To Possess]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Davon (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Thereof/Of them/Of it/etc]: "
             ]
           }
         }
@@ -19451,6 +19463,11 @@
         "type": "add",
         "word": "Besizen",
         "date": "2024-10-26T18:30:21.864Z"
+      },
+      {
+        "type": "add",
+        "word": "Davon",
+        "date": "2024-10-26T18:32:26.495Z"
       }
     ],
     "levels": [
@@ -24891,6 +24908,10 @@
           {
             "length": 280,
             "date": "2024-10-26T18:30:21.865Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-26T18:32:26.496Z"
           }
         ]
       },
