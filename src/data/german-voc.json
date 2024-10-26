@@ -3258,7 +3258,18 @@
           },
           "back": {
             "content": [
-              "- [To Cause]: "
+              "- [To Cause]: ",
+              "- [To Ensure]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Erhalten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Obtain]: "
             ]
           }
         }
@@ -19739,6 +19750,11 @@
         "type": "add",
         "word": "Bewirken",
         "date": "2024-10-26T19:15:38.342Z"
+      },
+      {
+        "type": "add",
+        "word": "Erhalten",
+        "date": "2024-10-26T19:18:45.725Z"
       }
     ],
     "levels": [
@@ -25251,6 +25267,10 @@
           {
             "length": 298,
             "date": "2024-10-26T19:15:38.343Z"
+          },
+          {
+            "length": 299,
+            "date": "2024-10-26T19:18:45.725Z"
           }
         ]
       },
