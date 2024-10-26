@@ -2952,12 +2952,24 @@
         },
         {
           "front": {
-            "content": "Zeituhr (noun, singular, feminine)"
+            "content": "Zeituhr/Timer (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Clock]: ",
+              "- [Timer]: ",
               "- Forms: Fortschritten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schade (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Sad]: ",
+              "- Forms: Schade (interjection), Schaden (v.), Schaden (noun)"
             ]
           }
         }
@@ -19291,8 +19303,13 @@
       },
       {
         "type": "add",
-        "word": "Zeituhr",
+        "word": "Zeituhr/Timer",
         "date": "2024-10-26T17:59:32.171Z"
+      },
+      {
+        "type": "add",
+        "word": "Schade",
+        "date": "2024-10-26T18:05:39.075Z"
       }
     ],
     "levels": [
@@ -24693,6 +24710,10 @@
           {
             "length": 270,
             "date": "2024-10-26T17:59:32.171Z"
+          },
+          {
+            "length": 271,
+            "date": "2024-10-26T18:05:39.075Z"
           }
         ]
       },
