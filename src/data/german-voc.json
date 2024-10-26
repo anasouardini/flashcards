@@ -2937,6 +2937,17 @@
               "- Forms: Minuten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Fortschritt (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Progress]: ",
+              "- Forms: Fortschritte (plural)"
+            ]
+          }
         }
       ]
     },
@@ -7929,7 +7940,8 @@
           "back": {
             "content": [
               "- [Excuse/Appology]: ",
-              "- Forms: Entschuldigungen (plural)"
+              "- [Sorry] (interjection): ",
+              "- Forms: Entschuldigungen (plural), Entschuldigung (interjection)"
             ]
           }
         },
@@ -19259,6 +19271,11 @@
         "type": "add",
         "word": "Minute",
         "date": "2024-10-26T17:46:59.469Z"
+      },
+      {
+        "type": "add",
+        "word": "Fortschritt",
+        "date": "2024-10-26T17:57:04.041Z"
       }
     ],
     "levels": [
@@ -24651,6 +24668,10 @@
           {
             "length": 268,
             "date": "2024-10-26T17:46:59.469Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-10-26T17:57:04.041Z"
           }
         ]
       },
