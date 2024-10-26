@@ -2639,7 +2639,7 @@
         },
         {
           "front": {
-            "content": "Sichhinsetzen (v.)"
+            "content": "Sich hinsetzen (v.)"
           },
           "back": {
             "content": [
@@ -2720,6 +2720,16 @@
             "content": [
               "- [Plant]: ",
               "- Forms: Pflanzen (plural), Pflanzen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sich kümmern um (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To look after]: "
             ]
           }
         }
@@ -18905,7 +18915,7 @@
       },
       {
         "type": "add",
-        "word": "Sichhinsetzen",
+        "word": "Sich hinsetzen",
         "date": "2024-10-26T14:32:04.179Z"
       },
       {
@@ -18942,6 +18952,11 @@
         "type": "add",
         "word": "Pflanze",
         "date": "2024-10-26T15:54:29.581Z"
+      },
+      {
+        "type": "add",
+        "word": "Sich kümmern um",
+        "date": "2024-10-26T15:59:26.485Z"
       }
     ],
     "levels": [
@@ -24254,6 +24269,10 @@
           {
             "length": 248,
             "date": "2024-10-26T15:54:29.581Z"
+          },
+          {
+            "length": 249,
+            "date": "2024-10-26T15:59:26.486Z"
           }
         ]
       },
