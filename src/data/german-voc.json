@@ -2645,6 +2645,17 @@
               "- [To Set down oneself]: Ich setze mich hin : I set myself down"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "List (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- []: ",
+              "- Forms: Listen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -18830,6 +18841,11 @@
         "type": "add",
         "word": "Sichhinsetzen",
         "date": "2024-10-26T14:32:04.179Z"
+      },
+      {
+        "type": "add",
+        "word": "List",
+        "date": "2024-10-26T14:36:54.676Z"
       }
     ],
     "levels": [
@@ -24114,6 +24130,10 @@
           {
             "length": 241,
             "date": "2024-10-26T14:32:04.252Z"
+          },
+          {
+            "length": 242,
+            "date": "2024-10-26T14:36:54.677Z"
           }
         ]
       },
