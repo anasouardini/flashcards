@@ -2858,6 +2858,17 @@
               "- [To Proceed]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Tätigkeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Activity]: ",
+              "- Forms: Tätigkeiten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19143,6 +19154,11 @@
         "type": "add",
         "word": "Weitergehen",
         "date": "2024-10-26T17:02:03.731Z"
+      },
+      {
+        "type": "add",
+        "word": "Tätigkeit",
+        "date": "2024-10-26T17:28:27.105Z"
       }
     ],
     "levels": [
@@ -24507,6 +24523,10 @@
           {
             "length": 261,
             "date": "2024-10-26T17:02:03.731Z"
+          },
+          {
+            "length": 262,
+            "date": "2024-10-26T17:28:27.161Z"
           }
         ]
       },
