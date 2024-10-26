@@ -2743,6 +2743,17 @@
               "- Forms: Gärten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Katastrophe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Catastrophe/Disaster]: ",
+              "- Forms: Katastrophen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -18973,6 +18984,11 @@
         "type": "add",
         "word": "Garten",
         "date": "2024-10-26T16:12:06.185Z"
+      },
+      {
+        "type": "add",
+        "word": "Katastrophe",
+        "date": "2024-10-26T16:13:14.234Z"
       }
     ],
     "levels": [
@@ -24293,6 +24309,10 @@
           {
             "length": 250,
             "date": "2024-10-26T16:12:06.186Z"
+          },
+          {
+            "length": 251,
+            "date": "2024-10-26T16:13:14.234Z"
           }
         ]
       },
