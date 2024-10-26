@@ -2785,6 +2785,17 @@
               "- [To Save]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Blatt (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Leaf]: ",
+              "- Forms: Blätter (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19035,6 +19046,11 @@
         "type": "add",
         "word": "Retten",
         "date": "2024-10-26T16:40:42.585Z"
+      },
+      {
+        "type": "add",
+        "word": "Blatt",
+        "date": "2024-10-26T16:42:45.058Z"
       }
     ],
     "levels": [
@@ -24371,6 +24387,10 @@
           {
             "length": 254,
             "date": "2024-10-26T16:40:42.585Z"
+          },
+          {
+            "length": 255,
+            "date": "2024-10-26T16:42:45.058Z"
           }
         ]
       },
