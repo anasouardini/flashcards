@@ -2828,6 +2828,16 @@
               "- [Little]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Mega- (prefix)"
+          },
+          "back": {
+            "content": [
+              "- [Very-]: Megatrocken : Very Dry"
+            ]
+          }
         }
       ]
     },
@@ -19098,6 +19108,11 @@
         "type": "add",
         "word": "Wenig",
         "date": "2024-10-26T16:51:07.492Z"
+      },
+      {
+        "type": "add",
+        "word": "Mega-",
+        "date": "2024-10-26T16:52:44.089Z"
       }
     ],
     "levels": [
@@ -24450,6 +24465,10 @@
           {
             "length": 258,
             "date": "2024-10-26T16:51:07.492Z"
+          },
+          {
+            "length": 259,
+            "date": "2024-10-26T16:52:44.090Z"
           }
         ]
       },
