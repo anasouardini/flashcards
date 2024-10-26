@@ -2972,6 +2972,17 @@
               "- Forms: Schade (interjection), Schaden (v.), Schaden (noun)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schaden (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Damage]: ",
+              "- Forms: Schäden (plural), Schaden (v)"
+            ]
+          }
         }
       ]
     },
@@ -19310,6 +19321,11 @@
         "type": "add",
         "word": "Schade",
         "date": "2024-10-26T18:05:39.075Z"
+      },
+      {
+        "type": "add",
+        "word": "Schaden",
+        "date": "2024-10-26T18:08:25.259Z"
       }
     ],
     "levels": [
@@ -24714,6 +24730,10 @@
           {
             "length": 271,
             "date": "2024-10-26T18:05:39.075Z"
+          },
+          {
+            "length": 272,
+            "date": "2024-10-26T18:08:25.259Z"
           }
         ]
       },
