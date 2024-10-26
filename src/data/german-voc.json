@@ -2754,6 +2754,17 @@
               "- Forms: Katastrophen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Trockene (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Dry]: ",
+              "- Forms: Trocken (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -18989,6 +19000,11 @@
         "type": "add",
         "word": "Katastrophe",
         "date": "2024-10-26T16:13:14.234Z"
+      },
+      {
+        "type": "add",
+        "word": "Trockene",
+        "date": "2024-10-26T16:23:43.180Z"
       }
     ],
     "levels": [
@@ -24313,6 +24329,10 @@
           {
             "length": 251,
             "date": "2024-10-26T16:13:14.234Z"
+          },
+          {
+            "length": 252,
+            "date": "2024-10-26T16:23:43.180Z"
           }
         ]
       },
