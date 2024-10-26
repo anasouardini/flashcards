@@ -2848,6 +2848,16 @@
               "- [Thereon/On it/At it]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Weitergehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Proceed]: "
+            ]
+          }
         }
       ]
     },
@@ -19128,6 +19138,11 @@
         "type": "add",
         "word": "Daran",
         "date": "2024-10-26T16:58:45.369Z"
+      },
+      {
+        "type": "add",
+        "word": "Weitergehen",
+        "date": "2024-10-26T17:02:03.731Z"
       }
     ],
     "levels": [
@@ -24488,6 +24503,10 @@
           {
             "length": 260,
             "date": "2024-10-26T16:58:45.369Z"
+          },
+          {
+            "length": 261,
+            "date": "2024-10-26T17:02:03.731Z"
           }
         ]
       },
