@@ -3170,7 +3170,18 @@
           },
           "back": {
             "content": [
-              "- [To Entertain]: "
+              "- [To Entertain]: ",
+              "- [To Maintain]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sonst (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Else]: "
             ]
           }
         }
@@ -19611,6 +19622,11 @@
         "type": "add",
         "word": "Unterhalten",
         "date": "2024-10-26T19:00:46.136Z"
+      },
+      {
+        "type": "add",
+        "word": "Sonst",
+        "date": "2024-10-26T19:02:39.550Z"
       }
     ],
     "levels": [
@@ -25091,6 +25107,10 @@
           {
             "length": 290,
             "date": "2024-10-26T19:00:46.136Z"
+          },
+          {
+            "length": 291,
+            "date": "2024-10-26T19:02:39.550Z"
           }
         ]
       },
