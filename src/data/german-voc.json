@@ -3346,6 +3346,17 @@
               "- Forms: Tiere (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ursprünglich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Original]: ",
+              "- Forms: Ursprünglich (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -19864,6 +19875,11 @@
         "type": "add",
         "word": "Tier",
         "date": "2024-10-26T19:32:28.511Z"
+      },
+      {
+        "type": "add",
+        "word": "Ursprünglich",
+        "date": "2024-10-26T19:34:01.449Z"
       }
     ],
     "levels": [
@@ -25408,6 +25424,10 @@
           {
             "length": 306,
             "date": "2024-10-26T19:32:28.511Z"
+          },
+          {
+            "length": 307,
+            "date": "2024-10-26T19:34:01.450Z"
           }
         ]
       },
