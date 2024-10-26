@@ -2689,6 +2689,16 @@
               "- [Will now]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wenn nicht"
+          },
+          "back": {
+            "content": [
+              "- [If not]: "
+            ]
+          }
         }
       ]
     },
@@ -3368,6 +3378,11 @@
         "type": "add",
         "word": "Wird jetzt",
         "date": "2024-10-26T18:27:45.202Z"
+      },
+      {
+        "type": "add",
+        "word": "Wenn nicht",
+        "date": "2024-10-26T19:36:32.996Z"
       }
     ],
     "levels": [
@@ -3696,6 +3711,10 @@
           {
             "length": 268,
             "date": "2024-10-26T18:27:45.203Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-10-26T19:36:32.996Z"
           }
         ]
       },
