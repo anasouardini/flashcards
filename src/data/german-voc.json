@@ -2818,6 +2818,16 @@
               "- Forms: Pflanze(n) (noun)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wenig (pronoun/quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [Little]: "
+            ]
+          }
         }
       ]
     },
@@ -19083,6 +19093,11 @@
         "type": "add",
         "word": "Pflanzen",
         "date": "2024-10-26T16:47:40.743Z"
+      },
+      {
+        "type": "add",
+        "word": "Wenig",
+        "date": "2024-10-26T16:51:07.492Z"
       }
     ],
     "levels": [
@@ -24431,6 +24446,10 @@
           {
             "length": 257,
             "date": "2024-10-26T16:47:40.744Z"
+          },
+          {
+            "length": 258,
+            "date": "2024-10-26T16:51:07.492Z"
           }
         ]
       },
