@@ -2699,6 +2699,16 @@
               "- [If not]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Oder so"
+          },
+          "back": {
+            "content": [
+              "- [Or so/something like that]: "
+            ]
+          }
         }
       ]
     },
@@ -3383,6 +3393,11 @@
         "type": "add",
         "word": "Wenn nicht",
         "date": "2024-10-26T19:36:32.996Z"
+      },
+      {
+        "type": "add",
+        "word": "Oder so",
+        "date": "2024-10-26T19:47:19.093Z"
       }
     ],
     "levels": [
@@ -3715,6 +3730,10 @@
           {
             "length": 269,
             "date": "2024-10-26T19:36:32.996Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-26T19:47:19.094Z"
           }
         ]
       },
