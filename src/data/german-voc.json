@@ -2689,6 +2689,17 @@
               "- [Sunglasses]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zahn (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Tooth]: ",
+              "- Forms: Zähne (plural)"
+            ]
+          }
         }
       ]
     },
@@ -18887,13 +18898,18 @@
       },
       {
         "type": "add",
-        "word": "Krank",
+        "word": "Kranke",
         "date": "2024-10-26T14:41:03.772Z"
       },
       {
         "type": "add",
         "word": "Sonnenbrille",
         "date": "2024-10-26T14:44:42.602Z"
+      },
+      {
+        "type": "add",
+        "word": "Zahn",
+        "date": "2024-10-26T14:46:28.775Z"
       }
     ],
     "levels": [
@@ -24194,6 +24210,10 @@
           {
             "length": 245,
             "date": "2024-10-26T14:44:42.603Z"
+          },
+          {
+            "length": 246,
+            "date": "2024-10-26T14:46:28.775Z"
           }
         ]
       },
