@@ -2700,6 +2700,16 @@
               "- Forms: Zähne (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Beginnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Begin]: "
+            ]
+          }
         }
       ]
     },
@@ -18910,6 +18920,11 @@
         "type": "add",
         "word": "Zahn",
         "date": "2024-10-26T14:46:28.775Z"
+      },
+      {
+        "type": "add",
+        "word": "Beginnen",
+        "date": "2024-10-26T15:51:56.524Z"
       }
     ],
     "levels": [
@@ -24214,6 +24229,10 @@
           {
             "length": 246,
             "date": "2024-10-26T14:46:28.775Z"
+          },
+          {
+            "length": 247,
+            "date": "2024-10-26T15:51:56.524Z"
           }
         ]
       },
