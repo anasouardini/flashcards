@@ -3025,6 +3025,16 @@
               "- Forms: Spiele (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Bekämpfen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Fight]: "
+            ]
+          }
         }
       ]
     },
@@ -19390,6 +19400,11 @@
         "type": "add",
         "word": "Spiel",
         "date": "2024-10-26T18:21:20.119Z"
+      },
+      {
+        "type": "add",
+        "word": "Bekämpfen",
+        "date": "2024-10-26T18:23:11.680Z"
       }
     ],
     "levels": [
@@ -24814,6 +24829,10 @@
           {
             "length": 276,
             "date": "2024-10-26T18:21:20.119Z"
+          },
+          {
+            "length": 277,
+            "date": "2024-10-26T18:23:11.680Z"
           }
         ]
       },
