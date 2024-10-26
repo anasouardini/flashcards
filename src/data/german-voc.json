@@ -3433,11 +3433,23 @@
         },
         {
           "front": {
-            "content": "Gegung[inf.] (adj.)"
+            "content": "Genug (adj.)"
           },
           "back": {
             "content": [
-              "- [Enough]: "
+              "- [Enough]: ",
+              "- [Sufficiently]: ",
+              "- Forms: Genug (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Höchstens (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [At Best]: "
             ]
           }
         }
@@ -20002,8 +20014,13 @@
       },
       {
         "type": "add",
-        "word": "Gegung[inf.]",
+        "word": "Genug",
         "date": "2024-10-26T19:58:09.540Z"
+      },
+      {
+        "type": "add",
+        "word": "Höchstens",
+        "date": "2024-10-26T20:02:50.123Z"
       }
     ],
     "levels": [
@@ -25584,6 +25601,10 @@
           {
             "length": 315,
             "date": "2024-10-26T19:58:09.541Z"
+          },
+          {
+            "length": 316,
+            "date": "2024-10-26T20:02:50.124Z"
           }
         ]
       },
