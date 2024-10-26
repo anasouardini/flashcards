@@ -2679,6 +2679,16 @@
               "- [First of all]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wird jetzt"
+          },
+          "back": {
+            "content": [
+              "- [Will now]: "
+            ]
+          }
         }
       ]
     },
@@ -3353,6 +3363,11 @@
         "type": "add",
         "word": "Erst mal",
         "date": "2024-10-26T17:54:40.124Z"
+      },
+      {
+        "type": "add",
+        "word": "Wird jetzt",
+        "date": "2024-10-26T18:27:45.202Z"
       }
     ],
     "levels": [
@@ -3677,6 +3692,10 @@
           {
             "length": 267,
             "date": "2024-10-26T17:54:40.125Z"
+          },
+          {
+            "length": 268,
+            "date": "2024-10-26T18:27:45.203Z"
           }
         ]
       },
