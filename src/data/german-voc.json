@@ -3042,7 +3042,18 @@
           },
           "back": {
             "content": [
-              "- [To Hack]: "
+              "- [To Hack]: ",
+              "- [To Chop]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schlachten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Slaughter]: "
             ]
           }
         }
@@ -19420,6 +19431,11 @@
         "type": "add",
         "word": "Hacken",
         "date": "2024-10-26T18:24:05.208Z"
+      },
+      {
+        "type": "add",
+        "word": "Schlachten",
+        "date": "2024-10-26T18:27:19.935Z"
       }
     ],
     "levels": [
@@ -24852,6 +24868,10 @@
           {
             "length": 278,
             "date": "2024-10-26T18:24:05.208Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-26T18:27:19.936Z"
           }
         ]
       },
