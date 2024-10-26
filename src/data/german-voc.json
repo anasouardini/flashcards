@@ -2969,6 +2969,7 @@
           "back": {
             "content": [
               "- [Sad]: ",
+              "- [What a shame] (interjection): ",
               "- Forms: Schade (interjection), Schaden (v.), Schaden (noun)"
             ]
           }
@@ -2981,6 +2982,16 @@
             "content": [
               "- [Damage]: ",
               "- Forms: Schäden (plural), Schaden (v)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kriegen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Get]: "
             ]
           }
         }
@@ -19326,6 +19337,11 @@
         "type": "add",
         "word": "Schaden",
         "date": "2024-10-26T18:08:25.259Z"
+      },
+      {
+        "type": "add",
+        "word": "Kriegen",
+        "date": "2024-10-26T18:11:35.554Z"
       }
     ],
     "levels": [
@@ -24734,6 +24750,10 @@
           {
             "length": 272,
             "date": "2024-10-26T18:08:25.259Z"
+          },
+          {
+            "length": 273,
+            "date": "2024-10-26T18:11:35.554Z"
           }
         ]
       },
