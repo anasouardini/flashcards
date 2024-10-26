@@ -2807,6 +2807,17 @@
               "- [To Take off]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Pflanzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Plant]: ",
+              "- Forms: Pflanze(n) (noun)"
+            ]
+          }
         }
       ]
     },
@@ -19067,6 +19078,11 @@
         "type": "add",
         "word": "Abmachen",
         "date": "2024-10-26T16:45:13.357Z"
+      },
+      {
+        "type": "add",
+        "word": "Pflanzen",
+        "date": "2024-10-26T16:47:40.743Z"
       }
     ],
     "levels": [
@@ -24411,6 +24427,10 @@
           {
             "length": 256,
             "date": "2024-10-26T16:45:13.357Z"
+          },
+          {
+            "length": 257,
+            "date": "2024-10-26T16:47:40.744Z"
           }
         ]
       },
