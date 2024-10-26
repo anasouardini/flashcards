@@ -2793,7 +2793,18 @@
           "back": {
             "content": [
               "- [Leaf]: ",
+              "- [Sheet]: ",
               "- Forms: Blätter (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Abmachen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Take off]: "
             ]
           }
         }
@@ -19051,6 +19062,11 @@
         "type": "add",
         "word": "Blatt",
         "date": "2024-10-26T16:42:45.058Z"
+      },
+      {
+        "type": "add",
+        "word": "Abmachen",
+        "date": "2024-10-26T16:45:13.357Z"
       }
     ],
     "levels": [
@@ -24391,6 +24407,10 @@
           {
             "length": 255,
             "date": "2024-10-26T16:42:45.058Z"
+          },
+          {
+            "length": 256,
+            "date": "2024-10-26T16:45:13.357Z"
           }
         ]
       },
