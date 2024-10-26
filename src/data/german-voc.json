@@ -3399,6 +3399,17 @@
               "- Forms: Handschuhe (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ahnung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Idea]: ",
+              "- Forms: Ahnungen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19942,6 +19953,11 @@
         "type": "add",
         "word": "Handschuh",
         "date": "2024-10-26T19:44:03.390Z"
+      },
+      {
+        "type": "add",
+        "word": "Ahnung",
+        "date": "2024-10-26T19:48:53.067Z"
       }
     ],
     "levels": [
@@ -25506,6 +25522,10 @@
           {
             "length": 311,
             "date": "2024-10-26T19:44:03.390Z"
+          },
+          {
+            "length": 312,
+            "date": "2024-10-26T19:48:53.069Z"
           }
         ]
       },
