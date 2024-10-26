@@ -2629,6 +2629,16 @@
               "- [Let's see]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Seit/Vor kurzem"
+          },
+          "back": {
+            "content": [
+              "- [Recently (dative for kurz) (kurzem is not a standalone word)]: "
+            ]
+          }
         }
       ]
     },
@@ -3278,6 +3288,11 @@
         "type": "add",
         "word": "Mal gucken",
         "date": "2024-10-24T18:59:51.541Z"
+      },
+      {
+        "type": "add",
+        "word": "Seit/Vor kurzem",
+        "date": "2024-10-26T16:04:47.685Z"
       }
     ],
     "levels": [
@@ -3582,6 +3597,10 @@
           {
             "length": 262,
             "date": "2024-10-24T18:59:51.541Z"
+          },
+          {
+            "length": 263,
+            "date": "2024-10-26T16:04:47.686Z"
           }
         ]
       },
