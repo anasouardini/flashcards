@@ -2669,12 +2669,24 @@
         },
         {
           "front": {
-            "content": "Krank (adj.)"
+            "content": "Kranke (noun, singular/plural, feminine)"
           },
           "back": {
             "content": [
-              "- [Sick/Ill]: ",
-              "- Forms: Krank (adv.)"
+              "- [The Sick] (n.): ",
+              "- [Sick/Ill] (adj.): ",
+              "- [Badly] (adv.): ",
+              "- Forms: Krank (adv.), Krank (adj.), "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sonnenbrille (noun, plural, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Sunglasses]: "
             ]
           }
         }
@@ -18877,6 +18889,11 @@
         "type": "add",
         "word": "Krank",
         "date": "2024-10-26T14:41:03.772Z"
+      },
+      {
+        "type": "add",
+        "word": "Sonnenbrille",
+        "date": "2024-10-26T14:44:42.602Z"
       }
     ],
     "levels": [
@@ -24173,6 +24190,10 @@
           {
             "length": 244,
             "date": "2024-10-26T14:41:03.772Z"
+          },
+          {
+            "length": 245,
+            "date": "2024-10-26T14:44:42.603Z"
           }
         ]
       },
