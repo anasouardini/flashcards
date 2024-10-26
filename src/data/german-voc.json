@@ -3325,6 +3325,16 @@
               "- [To Clean]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Scherzhaft (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Playful]: "
+            ]
+          }
         }
       ]
     },
@@ -19833,6 +19843,11 @@
         "type": "add",
         "word": "Ausmisten",
         "date": "2024-10-26T19:27:17.274Z"
+      },
+      {
+        "type": "add",
+        "word": "Scherzhaft",
+        "date": "2024-10-26T19:30:11.668Z"
       }
     ],
     "levels": [
@@ -25369,6 +25384,10 @@
           {
             "length": 304,
             "date": "2024-10-26T19:27:17.274Z"
+          },
+          {
+            "length": 305,
+            "date": "2024-10-26T19:30:11.669Z"
           }
         ]
       },
