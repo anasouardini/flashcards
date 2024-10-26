@@ -3181,7 +3181,19 @@
           },
           "back": {
             "content": [
-              "- [Else]: "
+              "- [Else]: ",
+              "- [Otherwise]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Raum (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Room]: ",
+              "- Forms: Räume (plural)"
             ]
           }
         }
@@ -19627,6 +19639,11 @@
         "type": "add",
         "word": "Sonst",
         "date": "2024-10-26T19:02:39.550Z"
+      },
+      {
+        "type": "add",
+        "word": "Raum",
+        "date": "2024-10-26T19:04:01.545Z"
       }
     ],
     "levels": [
@@ -25111,6 +25128,10 @@
           {
             "length": 291,
             "date": "2024-10-26T19:02:39.550Z"
+          },
+          {
+            "length": 292,
+            "date": "2024-10-26T19:04:01.545Z"
           }
         ]
       },
