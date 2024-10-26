@@ -1,9 +1,9 @@
 {
-  "currentLevel": 2,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 55,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -117,17 +117,6 @@
         },
         {
           "front": {
-            "content": "Aufzubauen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Build/Establish]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Als (conjunction)"
           },
           "back": {
@@ -196,61 +185,6 @@
         },
         {
           "front": {
-            "content": "Verspätung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Delay]: ",
-              "- Forms: Verspätungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Aufzug (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Elevator]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ebenso (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Also/As well]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wohnung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Apartment/Flat]: ",
-              "- Forms: Wohnungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Heiß (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Hot]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zeigen (v.)"
           },
           "back": {
@@ -285,28 +219,6 @@
         },
         {
           "front": {
-            "content": "Spielen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To play/act]: ",
-              "- Forms: Spiele (noun, plural, neuter)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Reden (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To speak/talk]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Treffen (v.)"
           },
           "back": {
@@ -323,17 +235,6 @@
           "back": {
             "content": [
               "- [To tell]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Vorstellen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To introduce/present]: ",
               "- Forms: "
             ]
           }
@@ -368,17 +269,6 @@
             "content": [
               "- [So that, So, In order to]: ",
               "- [with]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Obwohl (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Although]: ",
               "- Forms: "
             ]
           }
@@ -4942,11 +4832,121 @@
               "- Forms: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Aufzubauen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Build/Establish]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Verspätung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Delay]: ",
+              "- Forms: Verspätungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aufzug (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Elevator]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ebenso (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Also/As well]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wohnung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Apartment/Flat]: ",
+              "- Forms: Wohnungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Heiß (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Hot]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Spielen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To play/act]: ",
+              "- Forms: Spiele (noun, plural, neuter)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Reden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To speak/talk]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Vorstellen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To introduce/present]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Obwohl (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Although]: ",
+              "- Forms: "
+            ]
+          }
         }
       ]
     },
     {
-      "currentCardIndex": 300,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -20021,6 +20021,76 @@
         "type": "add",
         "word": "Höchstens",
         "date": "2024-10-26T20:02:50.123Z"
+      },
+      {
+        "type": "move",
+        "word": "Aufzubauen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T20:15:50.470Z"
+      },
+      {
+        "type": "move",
+        "word": "Verspätung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T20:22:15.707Z"
+      },
+      {
+        "type": "move",
+        "word": "Aufzug",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T20:22:24.651Z"
+      },
+      {
+        "type": "move",
+        "word": "Ebenso",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T20:22:29.571Z"
+      },
+      {
+        "type": "move",
+        "word": "Wohnung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T20:22:38.899Z"
+      },
+      {
+        "type": "move",
+        "word": "Heiß",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T20:22:49.043Z"
+      },
+      {
+        "type": "move",
+        "word": "Spielen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T20:26:34.170Z"
+      },
+      {
+        "type": "move",
+        "word": "Reden",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T20:26:39.226Z"
+      },
+      {
+        "type": "move",
+        "word": "Vorstellen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T20:28:53.657Z"
+      },
+      {
+        "type": "move",
+        "word": "Obwohl",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T20:32:12.352Z"
       }
     ],
     "levels": [
@@ -25605,6 +25675,46 @@
           {
             "length": 316,
             "date": "2024-10-26T20:02:50.124Z"
+          },
+          {
+            "length": 315,
+            "date": "2024-10-26T20:15:50.471Z"
+          },
+          {
+            "length": 314,
+            "date": "2024-10-26T20:22:15.707Z"
+          },
+          {
+            "length": 313,
+            "date": "2024-10-26T20:22:24.651Z"
+          },
+          {
+            "length": 312,
+            "date": "2024-10-26T20:22:29.571Z"
+          },
+          {
+            "length": 311,
+            "date": "2024-10-26T20:22:38.899Z"
+          },
+          {
+            "length": 310,
+            "date": "2024-10-26T20:22:49.043Z"
+          },
+          {
+            "length": 309,
+            "date": "2024-10-26T20:26:34.170Z"
+          },
+          {
+            "length": 308,
+            "date": "2024-10-26T20:26:39.226Z"
+          },
+          {
+            "length": 307,
+            "date": "2024-10-26T20:28:53.657Z"
+          },
+          {
+            "length": 306,
+            "date": "2024-10-26T20:32:12.353Z"
           }
         ]
       },
@@ -29361,6 +29471,46 @@
           {
             "length": 136,
             "date": "2024-10-25T21:23:13.207Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-10-26T20:15:50.471Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-10-26T20:22:15.707Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-10-26T20:22:24.651Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-10-26T20:22:29.571Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-10-26T20:22:38.899Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-10-26T20:22:49.043Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-26T20:26:34.170Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-10-26T20:26:39.226Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-10-26T20:28:53.657Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-10-26T20:32:12.353Z"
           }
         ]
       },
