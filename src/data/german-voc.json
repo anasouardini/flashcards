@@ -2869,6 +2869,17 @@
               "- Forms: Tätigkeiten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Endlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Eventual]: ",
+              "- Forms: Endlich (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -19159,6 +19170,11 @@
         "type": "add",
         "word": "Tätigkeit",
         "date": "2024-10-26T17:28:27.105Z"
+      },
+      {
+        "type": "add",
+        "word": "Endlich",
+        "date": "2024-10-26T17:29:37.326Z"
       }
     ],
     "levels": [
@@ -24527,6 +24543,10 @@
           {
             "length": 262,
             "date": "2024-10-26T17:28:27.161Z"
+          },
+          {
+            "length": 263,
+            "date": "2024-10-26T17:29:37.326Z"
           }
         ]
       },
