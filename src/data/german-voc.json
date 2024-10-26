@@ -3215,7 +3215,18 @@
           },
           "back": {
             "content": [
-              "- [Before]: "
+              "- [Before]: ",
+              "- [In front]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bewegen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Move]: "
             ]
           }
         }
@@ -19676,6 +19687,11 @@
         "type": "add",
         "word": "Davor",
         "date": "2024-10-26T19:08:48.928Z"
+      },
+      {
+        "type": "add",
+        "word": "Bewegen",
+        "date": "2024-10-26T19:10:32.332Z"
       }
     ],
     "levels": [
@@ -25172,6 +25188,10 @@
           {
             "length": 294,
             "date": "2024-10-26T19:08:48.928Z"
+          },
+          {
+            "length": 295,
+            "date": "2024-10-26T19:10:32.332Z"
           }
         ]
       },
