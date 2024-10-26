@@ -3163,6 +3163,16 @@
               "- Forms: Socken (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Unterhalten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Entertain]: "
+            ]
+          }
         }
       ]
     },
@@ -19596,6 +19606,11 @@
         "type": "add",
         "word": "Socken",
         "date": "2024-10-26T18:53:53.306Z"
+      },
+      {
+        "type": "add",
+        "word": "Unterhalten",
+        "date": "2024-10-26T19:00:46.136Z"
       }
     ],
     "levels": [
@@ -25072,6 +25087,10 @@
           {
             "length": 289,
             "date": "2024-10-26T18:53:53.307Z"
+          },
+          {
+            "length": 290,
+            "date": "2024-10-26T19:00:46.136Z"
           }
         ]
       },
