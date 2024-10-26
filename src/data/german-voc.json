@@ -3388,6 +3388,17 @@
               "- Forms: Abgelaufen (v.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Handschuh (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Glove]: ",
+              "- Forms: Handschuhe (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19926,6 +19937,11 @@
         "type": "add",
         "word": "Abgelaufen",
         "date": "2024-10-26T19:41:58.419Z"
+      },
+      {
+        "type": "add",
+        "word": "Handschuh",
+        "date": "2024-10-26T19:44:03.390Z"
       }
     ],
     "levels": [
@@ -25486,6 +25502,10 @@
           {
             "length": 310,
             "date": "2024-10-26T19:41:58.419Z"
+          },
+          {
+            "length": 311,
+            "date": "2024-10-26T19:44:03.390Z"
           }
         ]
       },
