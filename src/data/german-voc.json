@@ -2732,6 +2732,17 @@
               "- [To look after]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Garten (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Garden]: ",
+              "- Forms: Gärten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -18957,6 +18968,11 @@
         "type": "add",
         "word": "Sich kümmern um",
         "date": "2024-10-26T15:59:26.485Z"
+      },
+      {
+        "type": "add",
+        "word": "Garten",
+        "date": "2024-10-26T16:12:06.185Z"
       }
     ],
     "levels": [
@@ -24273,6 +24289,10 @@
           {
             "length": 249,
             "date": "2024-10-26T15:59:26.486Z"
+          },
+          {
+            "length": 250,
+            "date": "2024-10-26T16:12:06.186Z"
           }
         ]
       },
