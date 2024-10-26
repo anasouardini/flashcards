@@ -3295,6 +3295,16 @@
               "- [Great/Super]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Erledigen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Do]: "
+            ]
+          }
         }
       ]
     },
@@ -19788,6 +19798,11 @@
         "type": "add",
         "word": "Prima",
         "date": "2024-10-26T19:21:27.118Z"
+      },
+      {
+        "type": "add",
+        "word": "Erledigen",
+        "date": "2024-10-26T19:25:37.755Z"
       }
     ],
     "levels": [
@@ -25312,6 +25327,10 @@
           {
             "length": 301,
             "date": "2024-10-26T19:21:27.119Z"
+          },
+          {
+            "length": 302,
+            "date": "2024-10-26T19:25:37.756Z"
           }
         ]
       },
