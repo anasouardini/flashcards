@@ -3088,6 +3088,16 @@
               "- [To Give/Donate]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Raus (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Out]: "
+            ]
+          }
         }
       ]
     },
@@ -5139,7 +5149,9 @@
           },
           "back": {
             "content": [
-              "- [From/Of]: Ich komme aus Marokko : I come from Morocco",
+              "- [From]: Ich komme aus Marokko : I come from Morocco",
+              "- [Of]: ",
+              "- [Out Of]: ",
               "- Forms: "
             ]
           }
@@ -7319,6 +7331,7 @@
           "back": {
             "content": [
               "- [Much]: Das Geschenk hat nicht viel gekostet : the present did not cost much",
+              "- [A lot]: ",
               "- Forms: "
             ]
           }
@@ -19483,6 +19496,11 @@
         "type": "add",
         "word": "Schenken",
         "date": "2024-10-26T18:34:54.052Z"
+      },
+      {
+        "type": "add",
+        "word": "Raus",
+        "date": "2024-10-26T18:42:43.854Z"
       }
     ],
     "levels": [
@@ -24931,6 +24949,10 @@
           {
             "length": 282,
             "date": "2024-10-26T18:34:54.052Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-10-26T18:42:43.854Z"
           }
         ]
       },
