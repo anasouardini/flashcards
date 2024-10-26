@@ -2656,6 +2656,16 @@
               "- Forms: Listen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ähm (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [Umm]: "
+            ]
+          }
         }
       ]
     },
@@ -18846,6 +18856,11 @@
         "type": "add",
         "word": "List",
         "date": "2024-10-26T14:36:54.676Z"
+      },
+      {
+        "type": "add",
+        "word": "Ähm",
+        "date": "2024-10-26T14:37:52.165Z"
       }
     ],
     "levels": [
@@ -24134,6 +24149,10 @@
           {
             "length": 242,
             "date": "2024-10-26T14:36:54.677Z"
+          },
+          {
+            "length": 243,
+            "date": "2024-10-26T14:37:52.165Z"
           }
         ]
       },
