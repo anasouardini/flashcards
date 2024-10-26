@@ -2916,6 +2916,16 @@
               "- Forms: Zutaten (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Warten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Wait]: "
+            ]
+          }
         }
       ]
     },
@@ -19228,6 +19238,11 @@
         "type": "add",
         "word": "Zutat",
         "date": "2024-10-26T17:41:50.732Z"
+      },
+      {
+        "type": "add",
+        "word": "Warten",
+        "date": "2024-10-26T17:46:04.274Z"
       }
     ],
     "levels": [
@@ -24612,6 +24627,10 @@
           {
             "length": 266,
             "date": "2024-10-26T17:41:50.732Z"
+          },
+          {
+            "length": 267,
+            "date": "2024-10-26T17:46:04.275Z"
           }
         ]
       },
