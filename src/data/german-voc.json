@@ -366,6 +366,7 @@
           "back": {
             "content": [
               "- [So that, So, In order to]: ",
+              "- [with]: ",
               "- Forms: "
             ]
           }
@@ -2708,6 +2709,17 @@
           "back": {
             "content": [
               "- [To Begin]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Pflanze (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Plant]: ",
+              "- Forms: Pflanzen (plural), Pflanzen (v.)"
             ]
           }
         }
@@ -18925,6 +18937,11 @@
         "type": "add",
         "word": "Beginnen",
         "date": "2024-10-26T15:51:56.524Z"
+      },
+      {
+        "type": "add",
+        "word": "Pflanze",
+        "date": "2024-10-26T15:54:29.581Z"
       }
     ],
     "levels": [
@@ -24233,6 +24250,10 @@
           {
             "length": 247,
             "date": "2024-10-26T15:51:56.524Z"
+          },
+          {
+            "length": 248,
+            "date": "2024-10-26T15:54:29.581Z"
           }
         ]
       },
