@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 63,
+      "currentCardIndex": 98,
       "currentCardSide": "back",
       "cards": [
         {
@@ -709,7 +709,7 @@
         },
         {
           "front": {
-            "content": "Buchstabiere (v.)"
+            "content": "Buchstabieren (v.)"
           },
           "back": {
             "content": [
@@ -811,27 +811,6 @@
             "content": [
               "- [To Pay]: ",
               "- Forms: Zahlen (noun, plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bei (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [With/at/for]: Ich arbeite bei Google."
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wörterbuch (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Dictionary]: ",
-              "- Forms: Wörterbücher (plural)"
             ]
           }
         },
@@ -968,16 +947,6 @@
         },
         {
           "front": {
-            "content": "Zettel (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Note/Piece of paper]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gebiet (noun, singular, neuter)"
           },
           "back": {
@@ -1007,27 +976,6 @@
               "- [Sentence]: ",
               "- [Phrase]: ",
               "- Forms: Sätze (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fremd (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Foreign]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mitglied (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Member]: ",
-              "- Forms: Mitglieder (plural)"
             ]
           }
         },
@@ -1081,7 +1029,8 @@
           },
           "back": {
             "content": [
-              "- [Suitable]: "
+              "- [Suitable]: ",
+              "- Forms: Passen (v.)"
             ]
           }
         },
@@ -1115,16 +1064,6 @@
               "- [Offering]: ",
               "- [To Offer] (v.): ",
               "- Forms: Anbieten (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Preisen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Praise/Celebrate]: "
             ]
           }
         },
@@ -4940,6 +4879,68 @@
             "content": [
               "- [Thursday]: ",
               "- Forms: Donnerstage (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bei (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [With/at/for]: Ich arbeite bei Google."
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wörterbuch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Dictionary]: ",
+              "- Forms: Wörterbücher (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zettel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Note/Piece of paper]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fremd (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Foreign]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mitglied (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Member]: ",
+              "- Forms: Mitglieder (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Preisen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Praise/Celebrate]: "
             ]
           }
         }
@@ -13851,7 +13852,7 @@
       },
       {
         "type": "add",
-        "word": "Buchstabiere",
+        "word": "Buchstabieren",
         "date": "2024-10-08T02:50:11.153Z"
       },
       {
@@ -20105,6 +20106,48 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-26T21:43:07.277Z"
+      },
+      {
+        "type": "move",
+        "word": "Bei",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T22:14:22.684Z"
+      },
+      {
+        "type": "move",
+        "word": "Wörterbuch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T22:15:28.755Z"
+      },
+      {
+        "type": "move",
+        "word": "Zettel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T22:32:50.894Z"
+      },
+      {
+        "type": "move",
+        "word": "Fremd",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T22:37:15.412Z"
+      },
+      {
+        "type": "move",
+        "word": "Mitglied",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T22:37:30.792Z"
+      },
+      {
+        "type": "move",
+        "word": "Preisen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T22:53:58.887Z"
       }
     ],
     "levels": [
@@ -25737,6 +25780,30 @@
           {
             "length": 304,
             "date": "2024-10-26T21:43:07.277Z"
+          },
+          {
+            "length": 303,
+            "date": "2024-10-26T22:14:22.685Z"
+          },
+          {
+            "length": 302,
+            "date": "2024-10-26T22:15:28.755Z"
+          },
+          {
+            "length": 301,
+            "date": "2024-10-26T22:32:50.894Z"
+          },
+          {
+            "length": 300,
+            "date": "2024-10-26T22:37:15.412Z"
+          },
+          {
+            "length": 299,
+            "date": "2024-10-26T22:37:30.792Z"
+          },
+          {
+            "length": 298,
+            "date": "2024-10-26T22:53:58.887Z"
           }
         ]
       },
@@ -29541,6 +29608,30 @@
           {
             "length": 148,
             "date": "2024-10-26T21:43:07.277Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-10-26T22:14:22.685Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-10-26T22:15:28.755Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-10-26T22:32:50.894Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-10-26T22:37:15.412Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-10-26T22:37:30.792Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-10-26T22:53:58.887Z"
           }
         ]
       },
