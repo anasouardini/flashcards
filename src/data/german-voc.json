@@ -3240,6 +3240,17 @@
               "- Forms: Ängste (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kissen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Cushion/Pillow]: ",
+              "- Forms: Kissen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19708,6 +19719,11 @@
         "type": "add",
         "word": "Angst",
         "date": "2024-10-26T19:12:16.903Z"
+      },
+      {
+        "type": "add",
+        "word": "Kissen",
+        "date": "2024-10-26T19:13:56.140Z"
       }
     ],
     "levels": [
@@ -25212,6 +25228,10 @@
           {
             "length": 296,
             "date": "2024-10-26T19:12:16.903Z"
+          },
+          {
+            "length": 297,
+            "date": "2024-10-26T19:13:56.140Z"
           }
         ]
       },
