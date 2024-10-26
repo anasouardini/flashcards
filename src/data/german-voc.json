@@ -3410,6 +3410,16 @@
               "- Forms: Ahnungen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Falls (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [If/In Case]: "
+            ]
+          }
         }
       ]
     },
@@ -4741,7 +4751,7 @@
         },
         {
           "front": {
-            "content": "Nie (adv.)"
+            "content": "Nie/Niemals (adv.)"
           },
           "back": {
             "content": [
@@ -18873,7 +18883,7 @@
       },
       {
         "type": "move",
-        "word": "Nie",
+        "word": "Nie/Niemals",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-24T21:10:06.025Z"
@@ -19958,6 +19968,11 @@
         "type": "add",
         "word": "Ahnung",
         "date": "2024-10-26T19:48:53.067Z"
+      },
+      {
+        "type": "add",
+        "word": "Falls",
+        "date": "2024-10-26T19:53:27.511Z"
       }
     ],
     "levels": [
@@ -25526,6 +25541,10 @@
           {
             "length": 312,
             "date": "2024-10-26T19:48:53.069Z"
+          },
+          {
+            "length": 313,
+            "date": "2024-10-26T19:53:27.512Z"
           }
         ]
       },
