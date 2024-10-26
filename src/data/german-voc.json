@@ -3152,6 +3152,17 @@
               "- Forms: Flip-flops (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Socken (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sock]: ",
+              "- Forms: Socken (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19580,6 +19591,11 @@
         "type": "add",
         "word": "Flipflop",
         "date": "2024-10-26T18:52:54.907Z"
+      },
+      {
+        "type": "add",
+        "word": "Socken",
+        "date": "2024-10-26T18:53:53.306Z"
       }
     ],
     "levels": [
@@ -25052,6 +25068,10 @@
           {
             "length": 288,
             "date": "2024-10-26T18:52:54.907Z"
+          },
+          {
+            "length": 289,
+            "date": "2024-10-26T18:53:53.307Z"
           }
         ]
       },
