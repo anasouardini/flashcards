@@ -3269,7 +3269,19 @@
           },
           "back": {
             "content": [
-              "- [To Obtain]: "
+              "- [To Obtain/Gain]: ",
+              "- [To Maintain]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gesund (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Healthy]: ",
+              "- Forms: Gesund (adv.)"
             ]
           }
         }
@@ -19755,6 +19767,11 @@
         "type": "add",
         "word": "Erhalten",
         "date": "2024-10-26T19:18:45.725Z"
+      },
+      {
+        "type": "add",
+        "word": "Gesund",
+        "date": "2024-10-26T19:19:49.949Z"
       }
     ],
     "levels": [
@@ -25271,6 +25288,10 @@
           {
             "length": 299,
             "date": "2024-10-26T19:18:45.725Z"
+          },
+          {
+            "length": 300,
+            "date": "2024-10-26T19:19:49.949Z"
           }
         ]
       },
