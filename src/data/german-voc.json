@@ -3335,6 +3335,17 @@
               "- [Playful]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Tier (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Animal]: ",
+              "- Forms: Tiere (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19848,6 +19859,11 @@
         "type": "add",
         "word": "Scherzhaft",
         "date": "2024-10-26T19:30:11.668Z"
+      },
+      {
+        "type": "add",
+        "word": "Tier",
+        "date": "2024-10-26T19:32:28.511Z"
       }
     ],
     "levels": [
@@ -25388,6 +25404,10 @@
           {
             "length": 305,
             "date": "2024-10-26T19:30:11.669Z"
+          },
+          {
+            "length": 306,
+            "date": "2024-10-26T19:32:28.511Z"
           }
         ]
       },
