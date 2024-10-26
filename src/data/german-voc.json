@@ -2877,7 +2877,19 @@
           "back": {
             "content": [
               "- [Eventual]: ",
+              "- [Eventually/Finally] (adj.): ",
               "- Forms: Endlich (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sache (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Thing]: ",
+              "- Forms: Sachen (plural)"
             ]
           }
         }
@@ -3600,6 +3612,8 @@
           "back": {
             "content": [
               "- [Something]: ",
+              "- [A little] (): ",
+              "- [A bit] (): ",
               "- [Somewhat] (adv.): ",
               "- Forms: Etwas (adv.)"
             ]
@@ -19175,6 +19189,11 @@
         "type": "add",
         "word": "Endlich",
         "date": "2024-10-26T17:29:37.326Z"
+      },
+      {
+        "type": "add",
+        "word": "Sache",
+        "date": "2024-10-26T17:37:02.234Z"
       }
     ],
     "levels": [
@@ -24547,6 +24566,10 @@
           {
             "length": 263,
             "date": "2024-10-26T17:29:37.326Z"
+          },
+          {
+            "length": 264,
+            "date": "2024-10-26T17:37:02.234Z"
           }
         ]
       },
