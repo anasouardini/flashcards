@@ -2905,6 +2905,17 @@
               "- Forms: Ungefähr (adj.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Zutat (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Ingredient]: ",
+              "- Forms: Zutaten (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19212,6 +19223,11 @@
         "type": "add",
         "word": "Ungefähr",
         "date": "2024-10-26T17:39:20.504Z"
+      },
+      {
+        "type": "add",
+        "word": "Zutat",
+        "date": "2024-10-26T17:41:50.732Z"
       }
     ],
     "levels": [
@@ -24592,6 +24608,10 @@
           {
             "length": 265,
             "date": "2024-10-26T17:39:20.504Z"
+          },
+          {
+            "length": 266,
+            "date": "2024-10-26T17:41:50.732Z"
           }
         ]
       },
