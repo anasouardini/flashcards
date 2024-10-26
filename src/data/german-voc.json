@@ -3229,6 +3229,17 @@
               "- [To Move]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Angst (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Fear/Anxiety]: ",
+              "- Forms: Ängste (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19692,6 +19703,11 @@
         "type": "add",
         "word": "Bewegen",
         "date": "2024-10-26T19:10:32.332Z"
+      },
+      {
+        "type": "add",
+        "word": "Angst",
+        "date": "2024-10-26T19:12:16.903Z"
       }
     ],
     "levels": [
@@ -25192,6 +25208,10 @@
           {
             "length": 295,
             "date": "2024-10-26T19:10:32.332Z"
+          },
+          {
+            "length": 296,
+            "date": "2024-10-26T19:12:16.903Z"
           }
         ]
       },
