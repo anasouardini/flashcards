@@ -2889,7 +2889,20 @@
           "back": {
             "content": [
               "- [Thing]: ",
+              "- [Item]: ",
+              "- [Object]: ",
               "- Forms: Sachen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ungefähr (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Approximately]: ",
+              "- Forms: Ungefähr (adj.)"
             ]
           }
         }
@@ -19194,6 +19207,11 @@
         "type": "add",
         "word": "Sache",
         "date": "2024-10-26T17:37:02.234Z"
+      },
+      {
+        "type": "add",
+        "word": "Ungefähr",
+        "date": "2024-10-26T17:39:20.504Z"
       }
     ],
     "levels": [
@@ -24570,6 +24588,10 @@
           {
             "length": 264,
             "date": "2024-10-26T17:37:02.234Z"
+          },
+          {
+            "length": 265,
+            "date": "2024-10-26T17:39:20.504Z"
           }
         ]
       },
