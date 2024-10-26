@@ -3118,6 +3118,17 @@
               "- [Back]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wald (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Forest]: ",
+              "- Forms: Wälder (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19531,6 +19542,11 @@
         "type": "add",
         "word": "Zurück",
         "date": "2024-10-26T18:47:20.730Z"
+      },
+      {
+        "type": "add",
+        "word": "Wald",
+        "date": "2024-10-26T18:48:11.191Z"
       }
     ],
     "levels": [
@@ -24991,6 +25007,10 @@
           {
             "length": 285,
             "date": "2024-10-26T18:47:20.730Z"
+          },
+          {
+            "length": 286,
+            "date": "2024-10-26T18:48:11.191Z"
           }
         ]
       },
