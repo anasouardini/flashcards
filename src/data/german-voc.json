@@ -2945,7 +2945,19 @@
           "back": {
             "content": [
               "- [Progress]: ",
+              "- [Advance]: ",
               "- Forms: Fortschritte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeituhr (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Clock]: ",
+              "- Forms: Fortschritten (plural)"
             ]
           }
         }
@@ -19276,6 +19288,11 @@
         "type": "add",
         "word": "Fortschritt",
         "date": "2024-10-26T17:57:04.041Z"
+      },
+      {
+        "type": "add",
+        "word": "Zeituhr",
+        "date": "2024-10-26T17:59:32.171Z"
       }
     ],
     "levels": [
@@ -24672,6 +24689,10 @@
           {
             "length": 269,
             "date": "2024-10-26T17:57:04.041Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-26T17:59:32.171Z"
           }
         ]
       },
