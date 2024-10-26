@@ -3014,6 +3014,17 @@
               "- [Civilization]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Spiel (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Game]: ",
+              "- Forms: Spiele (plural)"
+            ]
+          }
         }
       ]
     },
@@ -19374,6 +19385,11 @@
         "type": "add",
         "word": "Zivilisation",
         "date": "2024-10-26T18:19:53.279Z"
+      },
+      {
+        "type": "add",
+        "word": "Spiel",
+        "date": "2024-10-26T18:21:20.119Z"
       }
     ],
     "levels": [
@@ -24794,6 +24810,10 @@
           {
             "length": 275,
             "date": "2024-10-26T18:19:53.279Z"
+          },
+          {
+            "length": 276,
+            "date": "2024-10-26T18:21:20.119Z"
           }
         ]
       },
