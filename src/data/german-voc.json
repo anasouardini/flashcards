@@ -2838,6 +2838,16 @@
               "- [Very-]: Megatrocken : Very Dry"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Daran (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Thereon/On it/At it]: "
+            ]
+          }
         }
       ]
     },
@@ -19113,6 +19123,11 @@
         "type": "add",
         "word": "Mega-",
         "date": "2024-10-26T16:52:44.089Z"
+      },
+      {
+        "type": "add",
+        "word": "Daran",
+        "date": "2024-10-26T16:58:45.369Z"
       }
     ],
     "levels": [
@@ -24469,6 +24484,10 @@
           {
             "length": 259,
             "date": "2024-10-26T16:52:44.090Z"
+          },
+          {
+            "length": 260,
+            "date": "2024-10-26T16:58:45.369Z"
           }
         ]
       },
