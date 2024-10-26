@@ -3078,6 +3078,16 @@
               "- [Thereof/Of them/Of it/etc]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schenken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Give/Donate]: "
+            ]
+          }
         }
       ]
     },
@@ -19468,6 +19478,11 @@
         "type": "add",
         "word": "Davon",
         "date": "2024-10-26T18:32:26.495Z"
+      },
+      {
+        "type": "add",
+        "word": "Schenken",
+        "date": "2024-10-26T18:34:54.052Z"
       }
     ],
     "levels": [
@@ -24912,6 +24927,10 @@
           {
             "length": 281,
             "date": "2024-10-26T18:32:26.496Z"
+          },
+          {
+            "length": 282,
+            "date": "2024-10-26T18:34:54.052Z"
           }
         ]
       },
