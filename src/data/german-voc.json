@@ -3367,6 +3367,16 @@
               "- [Somewhere]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Müll (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Waste]: "
+            ]
+          }
         }
       ]
     },
@@ -19895,6 +19905,11 @@
         "type": "add",
         "word": "Irgendwo",
         "date": "2024-10-26T19:38:21.185Z"
+      },
+      {
+        "type": "add",
+        "word": "Müll",
+        "date": "2024-10-26T19:40:20.151Z"
       }
     ],
     "levels": [
@@ -25447,6 +25462,10 @@
           {
             "length": 308,
             "date": "2024-10-26T19:38:21.185Z"
+          },
+          {
+            "length": 309,
+            "date": "2024-10-26T19:40:20.152Z"
           }
         ]
       },
