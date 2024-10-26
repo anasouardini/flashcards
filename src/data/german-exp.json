@@ -2639,6 +2639,16 @@
               "- [Recently (dative for kurz) (kurzem is not a standalone word)]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Am Leben"
+          },
+          "back": {
+            "content": [
+              "- [Alive]: "
+            ]
+          }
         }
       ]
     },
@@ -3293,6 +3303,11 @@
         "type": "add",
         "word": "Seit/Vor kurzem",
         "date": "2024-10-26T16:04:47.685Z"
+      },
+      {
+        "type": "add",
+        "word": "Am Leben",
+        "date": "2024-10-26T16:06:34.539Z"
       }
     ],
     "levels": [
@@ -3601,6 +3616,10 @@
           {
             "length": 263,
             "date": "2024-10-26T16:04:47.686Z"
+          },
+          {
+            "length": 264,
+            "date": "2024-10-26T16:06:34.540Z"
           }
         ]
       },
