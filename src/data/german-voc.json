@@ -3193,7 +3193,19 @@
           "back": {
             "content": [
               "- [Room]: ",
+              "- [Space]: ",
+              "- [Area]: ",
               "- Forms: Räume (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hängen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Hang]: "
             ]
           }
         }
@@ -19644,6 +19656,11 @@
         "type": "add",
         "word": "Raum",
         "date": "2024-10-26T19:04:01.545Z"
+      },
+      {
+        "type": "add",
+        "word": "Hängen",
+        "date": "2024-10-26T19:06:11.594Z"
       }
     ],
     "levels": [
@@ -25132,6 +25149,10 @@
           {
             "length": 292,
             "date": "2024-10-26T19:04:01.545Z"
+          },
+          {
+            "length": 293,
+            "date": "2024-10-26T19:06:11.595Z"
           }
         ]
       },
