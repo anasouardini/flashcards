@@ -2765,6 +2765,16 @@
               "- Forms: Trocken (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Vielleicht (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Maybe]: "
+            ]
+          }
         }
       ]
     },
@@ -19005,6 +19015,11 @@
         "type": "add",
         "word": "Trockene",
         "date": "2024-10-26T16:23:43.180Z"
+      },
+      {
+        "type": "add",
+        "word": "Vielleicht",
+        "date": "2024-10-26T16:38:13.618Z"
       }
     ],
     "levels": [
@@ -24333,6 +24348,10 @@
           {
             "length": 252,
             "date": "2024-10-26T16:23:43.180Z"
+          },
+          {
+            "length": 253,
+            "date": "2024-10-26T16:38:13.619Z"
           }
         ]
       },
