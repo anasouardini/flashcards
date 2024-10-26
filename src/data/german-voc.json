@@ -3056,6 +3056,16 @@
               "- [To Slaughter]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Besizen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Have]: "
+            ]
+          }
         }
       ]
     },
@@ -19436,6 +19446,11 @@
         "type": "add",
         "word": "Schlachten",
         "date": "2024-10-26T18:27:19.935Z"
+      },
+      {
+        "type": "add",
+        "word": "Besizen",
+        "date": "2024-10-26T18:30:21.864Z"
       }
     ],
     "levels": [
@@ -24872,6 +24887,10 @@
           {
             "length": 279,
             "date": "2024-10-26T18:27:19.936Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-26T18:30:21.865Z"
           }
         ]
       },
