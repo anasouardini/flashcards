@@ -3357,6 +3357,16 @@
               "- Forms: Ursprünglich (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Irgendwo (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Somewhere]: "
+            ]
+          }
         }
       ]
     },
@@ -19880,6 +19890,11 @@
         "type": "add",
         "word": "Ursprünglich",
         "date": "2024-10-26T19:34:01.449Z"
+      },
+      {
+        "type": "add",
+        "word": "Irgendwo",
+        "date": "2024-10-26T19:38:21.185Z"
       }
     ],
     "levels": [
@@ -25428,6 +25443,10 @@
           {
             "length": 307,
             "date": "2024-10-26T19:34:01.450Z"
+          },
+          {
+            "length": 308,
+            "date": "2024-10-26T19:38:21.185Z"
           }
         ]
       },
