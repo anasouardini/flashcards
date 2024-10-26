@@ -3420,6 +3420,16 @@
               "- [If/In Case]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Hinter (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Behind]: "
+            ]
+          }
         }
       ]
     },
@@ -5960,6 +5970,7 @@
           "back": {
             "content": [
               "- [To fall]: ",
+              "- [To fail]: ",
               "- Forms: "
             ]
           }
@@ -19973,6 +19984,11 @@
         "type": "add",
         "word": "Falls",
         "date": "2024-10-26T19:53:27.511Z"
+      },
+      {
+        "type": "add",
+        "word": "Hinter",
+        "date": "2024-10-26T19:56:40.948Z"
       }
     ],
     "levels": [
@@ -25545,6 +25561,10 @@
           {
             "length": 313,
             "date": "2024-10-26T19:53:27.512Z"
+          },
+          {
+            "length": 314,
+            "date": "2024-10-26T19:56:40.949Z"
           }
         ]
       },
