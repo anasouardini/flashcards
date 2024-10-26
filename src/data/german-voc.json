@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 55,
+      "currentCardIndex": 63,
       "currentCardSide": "back",
       "cards": [
         {
@@ -622,7 +622,7 @@
         },
         {
           "front": {
-            "content": "Warum (pron.)"
+            "content": "Warum (adv.)"
           },
           "back": {
             "content": [
@@ -662,28 +662,6 @@
             "content": [
               "- [To Complete]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Dienstag (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Thusday]: ",
-              "- Forms: Dienstage (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Donnerstag (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Thursday]: ",
-              "- Forms: Donnerstage (plural)"
             ]
           }
         },
@@ -4940,6 +4918,28 @@
             "content": [
               "- [Although]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dienstag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Thusday]: ",
+              "- Forms: Dienstage (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Donnerstag (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Thursday]: ",
+              "- Forms: Donnerstage (plural)"
             ]
           }
         }
@@ -20091,6 +20091,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-26T20:32:12.352Z"
+      },
+      {
+        "type": "move",
+        "word": "Dienstag",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T21:43:06.485Z"
+      },
+      {
+        "type": "move",
+        "word": "Donnerstag",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-26T21:43:07.277Z"
       }
     ],
     "levels": [
@@ -25715,6 +25729,14 @@
           {
             "length": 306,
             "date": "2024-10-26T20:32:12.353Z"
+          },
+          {
+            "length": 305,
+            "date": "2024-10-26T21:43:06.486Z"
+          },
+          {
+            "length": 304,
+            "date": "2024-10-26T21:43:07.277Z"
           }
         ]
       },
@@ -29511,6 +29533,14 @@
           {
             "length": 146,
             "date": "2024-10-26T20:32:12.353Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-10-26T21:43:06.486Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-10-26T21:43:07.277Z"
           }
         ]
       },
