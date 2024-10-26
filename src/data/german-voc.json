@@ -2994,6 +2994,16 @@
               "- [To Get]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Darüber (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [About]: "
+            ]
+          }
         }
       ]
     },
@@ -6999,7 +7009,8 @@
           "back": {
             "content": [
               "- [Short]: ",
-              "- Forms: "
+              "- [A bit] (noun): ",
+              "- Forms: Kurz (noun)"
             ]
           }
         },
@@ -19342,6 +19353,11 @@
         "type": "add",
         "word": "Kriegen",
         "date": "2024-10-26T18:11:35.554Z"
+      },
+      {
+        "type": "add",
+        "word": "Darüber",
+        "date": "2024-10-26T18:14:59.033Z"
       }
     ],
     "levels": [
@@ -24754,6 +24770,10 @@
           {
             "length": 273,
             "date": "2024-10-26T18:11:35.554Z"
+          },
+          {
+            "length": 274,
+            "date": "2024-10-26T18:14:59.033Z"
           }
         ]
       },
