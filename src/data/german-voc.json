@@ -2964,6 +2964,16 @@
               "- Forms: Bestimmt (adv.), Bestimmen (v.), Bestimmen (n.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Fortschreiten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Progress]: "
+            ]
+          }
         }
       ]
     },
@@ -20368,6 +20378,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-27T22:12:49.260Z"
+      },
+      {
+        "type": "add",
+        "word": "Fortschreiten",
+        "date": "2024-10-27T22:29:54.863Z"
       }
     ],
     "levels": [
@@ -26144,6 +26159,10 @@
           {
             "length": 270,
             "date": "2024-10-27T22:12:49.260Z"
+          },
+          {
+            "length": 271,
+            "date": "2024-10-27T22:29:54.863Z"
           }
         ]
       },
