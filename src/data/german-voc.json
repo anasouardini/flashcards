@@ -1206,7 +1206,7 @@
           },
           "back": {
             "content": [
-              "- [Then]: "
+              "- [Back Then]: "
             ]
           }
         },
@@ -3236,6 +3236,16 @@
           "back": {
             "content": [
               "- [At Best]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bestimmt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Specific/Particular]: "
             ]
           }
         }
@@ -20162,6 +20172,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-27T16:16:36.514Z"
+      },
+      {
+        "type": "add",
+        "word": "Bestimmt",
+        "date": "2024-10-27T16:29:12.590Z"
       }
     ],
     "levels": [
@@ -25826,6 +25841,10 @@
           {
             "length": 296,
             "date": "2024-10-27T16:16:36.514Z"
+          },
+          {
+            "length": 297,
+            "date": "2024-10-27T16:29:12.590Z"
           }
         ]
       },
