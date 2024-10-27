@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 207,
+      "currentCardIndex": 237,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2289,7 +2289,7 @@
         },
         {
           "front": {
-            "content": "Trockene (adj.)"
+            "content": "Trocken (adj.)"
           },
           "back": {
             "content": [
@@ -2314,7 +2314,7 @@
           },
           "back": {
             "content": [
-              "- [To Save]: "
+              "- [To Save/Rescue]: "
             ]
           }
         },
@@ -2336,7 +2336,7 @@
           },
           "back": {
             "content": [
-              "- [To Take off]: "
+              "- [To Take off/Remove]: "
             ]
           }
         },
@@ -2358,16 +2358,6 @@
           "back": {
             "content": [
               "- [Little]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mega- (prefix)"
-          },
-          "back": {
-            "content": [
-              "- [Very-]: Megatrocken : Very Dry"
             ]
           }
         },
@@ -2461,17 +2451,6 @@
         },
         {
           "front": {
-            "content": "Minute (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Minute]: ",
-              "- Forms: Minuten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Fortschritt (noun, singular, masculine)"
           },
           "back": {
@@ -2534,16 +2513,6 @@
           "back": {
             "content": [
               "- [About]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zivilisation (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Civilization]: "
             ]
           }
         },
@@ -3715,8 +3684,8 @@
           "back": {
             "content": [
               "- [Something]: ",
-              "- [A little] (): ",
-              "- [A bit] (): ",
+              "- [A little]: ",
+              "- [A bit]: ",
               "- [Somewhat] (adv.): ",
               "- Forms: Etwas (adv.)"
             ]
@@ -4953,6 +4922,37 @@
             "content": [
               "- [Catastrophe/Disaster]: ",
               "- Forms: Katastrophen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mega- (prefix)"
+          },
+          "back": {
+            "content": [
+              "- [Very-]: Megatrocken : Very Dry"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Minute (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Minute]: ",
+              "- Forms: Minuten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zivilisation (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Civilization]: "
             ]
           }
         }
@@ -20347,6 +20347,27 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-27T21:16:28.438Z"
+      },
+      {
+        "type": "move",
+        "word": "Mega-",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T21:43:33.526Z"
+      },
+      {
+        "type": "move",
+        "word": "Minute",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T22:00:25.465Z"
+      },
+      {
+        "type": "move",
+        "word": "Zivilisation",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T22:12:49.260Z"
       }
     ],
     "levels": [
@@ -26111,6 +26132,18 @@
           {
             "length": 273,
             "date": "2024-10-27T21:16:28.438Z"
+          },
+          {
+            "length": 272,
+            "date": "2024-10-27T21:43:33.526Z"
+          },
+          {
+            "length": 271,
+            "date": "2024-10-27T22:00:25.465Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-27T22:12:49.260Z"
           }
         ]
       },
@@ -30043,6 +30076,18 @@
           {
             "length": 180,
             "date": "2024-10-27T21:16:28.438Z"
+          },
+          {
+            "length": 181,
+            "date": "2024-10-27T21:43:33.526Z"
+          },
+          {
+            "length": 182,
+            "date": "2024-10-27T22:00:25.465Z"
+          },
+          {
+            "length": 183,
+            "date": "2024-10-27T22:12:49.260Z"
           }
         ]
       },
