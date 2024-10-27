@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 108,
+      "currentCardIndex": 144,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1313,31 +1313,11 @@
         },
         {
           "front": {
-            "content": "Kreis (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Circle]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Kugel (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Ball]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kugelschreiber (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Ballpen]: "
             ]
           }
         },
@@ -1419,18 +1399,6 @@
         },
         {
           "front": {
-            "content": "Bitten (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Request]: ",
-              "- [To Ask]: Um etwas bitten : Asking about something",
-              "- Forms: Bitte (noun, singular), Bitten (noun, plural), Bitte (interjection)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Rechnung (noun, singular, feminine)"
           },
           "back": {
@@ -1498,38 +1466,6 @@
         },
         {
           "front": {
-            "content": "Himmel (noun, singular/plural, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Sky/Skies]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kopf (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Head]: ",
-              "- Forms: Köpfe (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fragebogen (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Quetionaire]: ",
-              "- Forms: Fragebogen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Füllen (v.)"
           },
           "back": {
@@ -1557,16 +1493,6 @@
               "- [Printer]: ",
               "- [To Print]: ",
               "- Forms: Drucken (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bald (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Soon]: "
             ]
           }
         },
@@ -1650,16 +1576,6 @@
             "content": [
               "- [Towel]: ",
               "- Forms: Handtücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schönster (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Most Beautiful]: "
             ]
           }
         },
@@ -3245,7 +3161,9 @@
           },
           "back": {
             "content": [
-              "- [Specific/Particular]: "
+              "- [Specific/Particular]: ",
+              "- [Specificly/Particularly] (adv.): ",
+              "- Forms: Bestimmt (adv.), Bestimmen (v.), Bestimmen (n.)"
             ]
           }
         }
@@ -4951,6 +4869,90 @@
             "content": [
               "- [Player]: ",
               "- Forms: Spieler (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kreis (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Circle]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kugelschreiber (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Ballpen]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bitten (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Request]: ",
+              "- [To Ask]: Um etwas bitten : Asking about something",
+              "- Forms: Bitte (noun, singular), Bitten (noun, plural), Bitte (interjection)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Himmel (noun, singular/plural, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sky/Skies]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kopf (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Head]: ",
+              "- Forms: Köpfe (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fragebogen (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Quetionaire]: ",
+              "- Forms: Fragebogen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bald (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Soon]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schönster (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Most Beautiful]: "
             ]
           }
         }
@@ -8189,7 +8191,7 @@
           },
           "back": {
             "content": [
-              "- [Order (1st, 2nd, etc)]: "
+              "- [To Order (1st, 2nd, etc)]: "
             ]
           }
         },
@@ -20177,6 +20179,62 @@
         "type": "add",
         "word": "Bestimmt",
         "date": "2024-10-27T16:29:12.590Z"
+      },
+      {
+        "type": "move",
+        "word": "Kreis",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T17:02:19.535Z"
+      },
+      {
+        "type": "move",
+        "word": "Kugelschreiber",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T17:04:25.494Z"
+      },
+      {
+        "type": "move",
+        "word": "Bitten",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T17:32:41.004Z"
+      },
+      {
+        "type": "move",
+        "word": "Himmel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T17:44:20.537Z"
+      },
+      {
+        "type": "move",
+        "word": "Kopf",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T17:44:30.185Z"
+      },
+      {
+        "type": "move",
+        "word": "Fragebogen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T17:44:40.337Z"
+      },
+      {
+        "type": "move",
+        "word": "Bald",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T17:53:29.982Z"
+      },
+      {
+        "type": "move",
+        "word": "Schönster",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T18:12:41.529Z"
       }
     ],
     "levels": [
@@ -25845,6 +25903,38 @@
           {
             "length": 297,
             "date": "2024-10-27T16:29:12.590Z"
+          },
+          {
+            "length": 296,
+            "date": "2024-10-27T17:02:19.535Z"
+          },
+          {
+            "length": 295,
+            "date": "2024-10-27T17:04:25.494Z"
+          },
+          {
+            "length": 294,
+            "date": "2024-10-27T17:32:41.004Z"
+          },
+          {
+            "length": 293,
+            "date": "2024-10-27T17:44:20.537Z"
+          },
+          {
+            "length": 292,
+            "date": "2024-10-27T17:44:30.185Z"
+          },
+          {
+            "length": 291,
+            "date": "2024-10-27T17:44:40.337Z"
+          },
+          {
+            "length": 290,
+            "date": "2024-10-27T17:53:29.982Z"
+          },
+          {
+            "length": 289,
+            "date": "2024-10-27T18:12:41.529Z"
           }
         ]
       },
@@ -29681,6 +29771,38 @@
           {
             "length": 156,
             "date": "2024-10-27T16:16:36.514Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-10-27T17:02:19.535Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-10-27T17:04:25.494Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-10-27T17:32:41.004Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-10-27T17:44:20.537Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-10-27T17:44:30.185Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-10-27T17:44:40.337Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-10-27T17:53:29.982Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-10-27T18:12:41.529Z"
           }
         ]
       },
