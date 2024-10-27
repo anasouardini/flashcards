@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 144,
+      "currentCardIndex": 203,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1603,13 +1603,13 @@
         },
         {
           "front": {
-            "content": "Händer (noun, singular, masculine)"
+            "content": "Händler (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Dealers]: ",
               "- [Traders]: ",
-              "- Forms: Händer (plural)"
+              "- Forms: Händler (plural)"
             ]
           }
         },
@@ -1631,16 +1631,6 @@
             "content": [
               "- [Visitor]: ",
               "- Forms: Besucher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Trödel (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Junk]: "
             ]
           }
         },
@@ -1698,16 +1688,6 @@
               "- [Topic]: ",
               "- [Thing]: ",
               "- Forms: Gegenstände (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Flohmarkt/Trödelmarkt (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Flea market/junk market]: "
             ]
           }
         },
@@ -1793,17 +1773,6 @@
             "content": [
               "- [Favorite]: ",
               "- Forms: Lieblinge (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Freizeit (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Free Time]: ",
-              "- Forms: Freizeiten (plural)"
             ]
           }
         },
@@ -1913,16 +1882,6 @@
         },
         {
           "front": {
-            "content": "Fast nie (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Barely/Remotely/Hardly ever]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Um (prep.)"
           },
           "back": {
@@ -1931,29 +1890,6 @@
               "- [Around]: ",
               "- [At]: Um 5 : At 5",
               "- Forms: Um (interjection)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Rauchen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Smoking]: ",
-              "- [To Smoke] (v.): ",
-              "- Forms: Rauchen (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Rauch (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Smoke]: ",
-              "- Forms: Rauchen (v.)"
             ]
           }
         },
@@ -2017,16 +1953,6 @@
         },
         {
           "front": {
-            "content": "Wochenende (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Weekend]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zuschauer (noun, singular, neuter)"
           },
           "back": {
@@ -2056,16 +1982,6 @@
               "- [Essential]: ",
               "- [Fundamental]: ",
               "- Forms: Grundsätzlich (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Chillen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Chill]: "
             ]
           }
         },
@@ -2152,19 +2068,6 @@
             "content": [
               "- [Probably]: ",
               "- Forms: Wahrscheinlich (adj.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gerade (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Straight] (n.): ",
-              "- [Now] (adv.): ",
-              "- [Straight/Direct] (adj.): ",
-              "- Forms: Gerade (adv.),Gerade (adj.)"
             ]
           }
         },
@@ -2263,17 +2166,6 @@
           "back": {
             "content": [
               "- [To Dress]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Serviette (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Napkin]: ",
-              "- Forms: Servietten (plural)"
             ]
           }
         },
@@ -4953,6 +4845,114 @@
           "back": {
             "content": [
               "- [Most Beautiful]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Trödel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Junk]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Flohmarkt/Trödelmarkt (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Flea market/junk market]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Freizeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Free Time]: ",
+              "- Forms: Freizeiten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fast nie (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Barely/Remotely/Hardly ever]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Rauchen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Smoking]: ",
+              "- [To Smoke] (v.): ",
+              "- Forms: Rauchen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Rauch (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Smoke]: ",
+              "- Forms: Rauchen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wochenende (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Weekend]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Chillen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Chill]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gerade (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Straight] (n.): ",
+              "- [Now] (adv.): ",
+              "- [Straight/Direct] (adj.): ",
+              "- Forms: Gerade (adv.),Gerade (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Serviette (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Napkin]: ",
+              "- Forms: Servietten (plural)"
             ]
           }
         }
@@ -20235,6 +20235,76 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-27T18:12:41.529Z"
+      },
+      {
+        "type": "move",
+        "word": "Trödel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T19:06:18.899Z"
+      },
+      {
+        "type": "move",
+        "word": "Flohmarkt/Trödelmarkt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T19:20:18.151Z"
+      },
+      {
+        "type": "move",
+        "word": "Freizeit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T19:36:56.177Z"
+      },
+      {
+        "type": "move",
+        "word": "Fast",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T19:44:38.548Z"
+      },
+      {
+        "type": "move",
+        "word": "Rauchen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T19:49:06.583Z"
+      },
+      {
+        "type": "move",
+        "word": "Rauch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T19:49:12.151Z"
+      },
+      {
+        "type": "move",
+        "word": "Wochenende",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T20:06:41.426Z"
+      },
+      {
+        "type": "move",
+        "word": "Chillen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T20:15:27.551Z"
+      },
+      {
+        "type": "move",
+        "word": "Gerade",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T20:36:49.361Z"
+      },
+      {
+        "type": "move",
+        "word": "Serviette",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T20:54:08.805Z"
       }
     ],
     "levels": [
@@ -25935,6 +26005,46 @@
           {
             "length": 289,
             "date": "2024-10-27T18:12:41.529Z"
+          },
+          {
+            "length": 288,
+            "date": "2024-10-27T19:06:18.899Z"
+          },
+          {
+            "length": 287,
+            "date": "2024-10-27T19:20:18.151Z"
+          },
+          {
+            "length": 286,
+            "date": "2024-10-27T19:36:56.177Z"
+          },
+          {
+            "length": 285,
+            "date": "2024-10-27T19:44:38.548Z"
+          },
+          {
+            "length": 284,
+            "date": "2024-10-27T19:49:06.583Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-10-27T19:49:12.151Z"
+          },
+          {
+            "length": 282,
+            "date": "2024-10-27T20:06:41.426Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-27T20:15:27.551Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-27T20:36:49.362Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-27T20:54:08.805Z"
           }
         ]
       },
@@ -29803,6 +29913,46 @@
           {
             "length": 164,
             "date": "2024-10-27T18:12:41.529Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-10-27T19:06:18.899Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-10-27T19:20:18.151Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-10-27T19:36:56.177Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-10-27T19:44:38.548Z"
+          },
+          {
+            "length": 169,
+            "date": "2024-10-27T19:49:06.583Z"
+          },
+          {
+            "length": 170,
+            "date": "2024-10-27T19:49:12.151Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-10-27T20:06:41.426Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-10-27T20:15:27.551Z"
+          },
+          {
+            "length": 173,
+            "date": "2024-10-27T20:36:49.362Z"
+          },
+          {
+            "length": 174,
+            "date": "2024-10-27T20:54:08.805Z"
           }
         ]
       },
