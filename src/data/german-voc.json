@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 98,
+      "currentCardIndex": 108,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1135,16 +1135,6 @@
         },
         {
           "front": {
-            "content": "Teppich (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Carpet/Rug]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Vergleich (noun, singular, masculine)"
           },
           "back": {
@@ -1172,17 +1162,6 @@
           "back": {
             "content": [
               "- [Translate]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Spieler (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Player]: ",
-              "- Forms: Spieler (plural)"
             ]
           }
         },
@@ -4941,6 +4920,27 @@
           "back": {
             "content": [
               "- [To Praise/Celebrate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Teppich (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Carpet/Rug]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Spieler (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Player]: ",
+              "- Forms: Spieler (plural)"
             ]
           }
         }
@@ -20148,6 +20148,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-26T22:53:58.887Z"
+      },
+      {
+        "type": "move",
+        "word": "Teppich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T16:16:11.042Z"
+      },
+      {
+        "type": "move",
+        "word": "Spieler",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T16:16:36.514Z"
       }
     ],
     "levels": [
@@ -25804,6 +25818,14 @@
           {
             "length": 298,
             "date": "2024-10-26T22:53:58.887Z"
+          },
+          {
+            "length": 297,
+            "date": "2024-10-27T16:16:11.104Z"
+          },
+          {
+            "length": 296,
+            "date": "2024-10-27T16:16:36.514Z"
           }
         ]
       },
@@ -29632,6 +29654,14 @@
           {
             "length": 154,
             "date": "2024-10-26T22:53:58.887Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-10-27T16:16:11.104Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-10-27T16:16:36.514Z"
           }
         ]
       },
