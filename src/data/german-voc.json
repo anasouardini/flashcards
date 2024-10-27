@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 203,
+      "currentCardIndex": 207,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2244,27 +2244,6 @@
         },
         {
           "front": {
-            "content": "List (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- []: ",
-              "- Forms: Listen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ähm (interjection)"
-          },
-          "back": {
-            "content": [
-              "- [Umm]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Kranke (noun, singular/plural, feminine)"
           },
           "back": {
@@ -2278,32 +2257,12 @@
         },
         {
           "front": {
-            "content": "Sonnenbrille (noun, plural, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Sunglasses]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zahn (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Tooth]: ",
               "- Forms: Zähne (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Beginnen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Begin]: "
             ]
           }
         },
@@ -2325,28 +2284,6 @@
           "back": {
             "content": [
               "- [To look after]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Garten (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Garden]: ",
-              "- Forms: Gärten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Katastrophe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Catastrophe/Disaster]: ",
-              "- Forms: Katastrophen (plural)"
             ]
           }
         },
@@ -4953,6 +4890,69 @@
             "content": [
               "- [Napkin]: ",
               "- Forms: Servietten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Liste (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [List]: ",
+              "- Forms: Listen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ähm (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [Umm]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sonnenbrille (noun, plural, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Sunglasses]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beginnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Begin]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Garten (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Garden]: ",
+              "- Forms: Gärten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Katastrophe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Catastrophe/Disaster]: ",
+              "- Forms: Katastrophen (plural)"
             ]
           }
         }
@@ -20305,6 +20305,48 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-27T20:54:08.805Z"
+      },
+      {
+        "type": "move",
+        "word": "Liste",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T21:05:14.914Z"
+      },
+      {
+        "type": "move",
+        "word": "Ähm",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T21:05:27.858Z"
+      },
+      {
+        "type": "move",
+        "word": "Sonnenbrille",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T21:09:47.568Z"
+      },
+      {
+        "type": "move",
+        "word": "Beginnen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T21:10:58.616Z"
+      },
+      {
+        "type": "move",
+        "word": "Garten",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T21:15:57.740Z"
+      },
+      {
+        "type": "move",
+        "word": "Katastrophe",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T21:16:28.438Z"
       }
     ],
     "levels": [
@@ -26045,6 +26087,30 @@
           {
             "length": 279,
             "date": "2024-10-27T20:54:08.805Z"
+          },
+          {
+            "length": 278,
+            "date": "2024-10-27T21:05:14.914Z"
+          },
+          {
+            "length": 277,
+            "date": "2024-10-27T21:05:27.858Z"
+          },
+          {
+            "length": 276,
+            "date": "2024-10-27T21:09:47.569Z"
+          },
+          {
+            "length": 275,
+            "date": "2024-10-27T21:10:58.616Z"
+          },
+          {
+            "length": 274,
+            "date": "2024-10-27T21:15:57.740Z"
+          },
+          {
+            "length": 273,
+            "date": "2024-10-27T21:16:28.438Z"
           }
         ]
       },
@@ -29953,6 +30019,30 @@
           {
             "length": 174,
             "date": "2024-10-27T20:54:08.805Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-10-27T21:05:14.914Z"
+          },
+          {
+            "length": 176,
+            "date": "2024-10-27T21:05:27.858Z"
+          },
+          {
+            "length": 177,
+            "date": "2024-10-27T21:09:47.569Z"
+          },
+          {
+            "length": 178,
+            "date": "2024-10-27T21:10:58.616Z"
+          },
+          {
+            "length": 179,
+            "date": "2024-10-27T21:15:57.740Z"
+          },
+          {
+            "length": 180,
+            "date": "2024-10-27T21:16:28.438Z"
           }
         ]
       },
