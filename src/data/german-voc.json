@@ -2979,8 +2979,8 @@
       ]
     },
     {
-      "currentCardIndex": 8,
-      "currentCardSide": "front",
+      "currentCardIndex": 15,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -3074,33 +3074,12 @@
         },
         {
           "front": {
-            "content": "Gegenüber (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Towards/Across]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Partner (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Partner]: ",
               "- Forms: Partnerin (feminine), Partners (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Dann (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Then]: "
             ]
           }
         },
@@ -3113,61 +3092,6 @@
               "- [Form]: ",
               "- [To Form] (v.): ",
               "- Forms: Formen (plural), Formen (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Material (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Material]: ",
-              "- Forms: Materialen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Produkt (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Product]: ",
-              "- Forms: Produkte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Strategie (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Strategy]: ",
-              "- Forms: Strategien (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Besorgt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Worried]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Plakat (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Poster]: ",
-              "- Forms: Plakate (plural)"
             ]
           }
         },
@@ -3190,31 +3114,6 @@
             "content": [
               "- [Number]: ",
               "- Forms: Nummern (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bitte (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Request(s)]: ",
-              "- [Please!] (inter.): ",
-              "- [You are welcome!] (inter.): ",
-              "- [To Request] (v.): ",
-              "- [Forms]: Bitte (interjection), Bitten (plural), Bitten (verb)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Büro (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Office]: ",
-              "- Forms: Büros (plural)"
             ]
           }
         },
@@ -9229,12 +9128,113 @@
         },
         {
           "front": {
-            "content": "Aufgabe (ponoun)"
+            "content": "Aufgabe (noun)"
           },
           "back": {
             "content": [
               "- [Task]: ",
               "- Forms: Aufgaben (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gegenüber (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Towards/Across]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dann (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Then]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Material (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Material]: ",
+              "- Forms: Materialen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Produkt (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Product]: ",
+              "- Forms: Produkte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Strategie (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Strategy]: ",
+              "- Forms: Strategien (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Besorgt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Worried]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Plakat (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Poster]: ",
+              "- Forms: Plakate (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bitte (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Request(s)]: ",
+              "- [Please!] (inter.): ",
+              "- [You are welcome!] (inter.): ",
+              "- [To Request] (v.): ",
+              "- [Forms]: Bitte (interjection), Bitten (plural), Bitten (verb)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Büro (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Office]: ",
+              "- Forms: Büros (plural)"
             ]
           }
         }
@@ -20442,6 +20442,69 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-28T17:24:51.221Z"
+      },
+      {
+        "type": "move",
+        "word": "Gegenüber",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:25:52.630Z"
+      },
+      {
+        "type": "move",
+        "word": "Dann",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:27:14.718Z"
+      },
+      {
+        "type": "move",
+        "word": "Material",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:32:21.728Z"
+      },
+      {
+        "type": "move",
+        "word": "Produkt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:32:43.868Z"
+      },
+      {
+        "type": "move",
+        "word": "Strategie",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:33:29.403Z"
+      },
+      {
+        "type": "move",
+        "word": "Besorgt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:33:37.084Z"
+      },
+      {
+        "type": "move",
+        "word": "Plakat",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:34:00.307Z"
+      },
+      {
+        "type": "move",
+        "word": "Bitte",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:40:59.393Z"
+      },
+      {
+        "type": "move",
+        "word": "Büro",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:41:11.864Z"
       }
     ],
     "levels": [
@@ -30198,6 +30261,42 @@
           {
             "length": 179,
             "date": "2024-10-28T17:24:51.221Z"
+          },
+          {
+            "length": 178,
+            "date": "2024-10-28T17:25:52.630Z"
+          },
+          {
+            "length": 177,
+            "date": "2024-10-28T17:27:14.718Z"
+          },
+          {
+            "length": 176,
+            "date": "2024-10-28T17:32:21.728Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-10-28T17:32:43.868Z"
+          },
+          {
+            "length": 174,
+            "date": "2024-10-28T17:33:29.403Z"
+          },
+          {
+            "length": 173,
+            "date": "2024-10-28T17:33:37.084Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-10-28T17:34:00.307Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-10-28T17:40:59.393Z"
+          },
+          {
+            "length": 170,
+            "date": "2024-10-28T17:41:11.864Z"
           }
         ]
       },
@@ -31814,6 +31913,42 @@
           {
             "length": 393,
             "date": "2024-10-28T17:24:51.221Z"
+          },
+          {
+            "length": 394,
+            "date": "2024-10-28T17:25:52.630Z"
+          },
+          {
+            "length": 395,
+            "date": "2024-10-28T17:27:14.718Z"
+          },
+          {
+            "length": 396,
+            "date": "2024-10-28T17:32:21.728Z"
+          },
+          {
+            "length": 397,
+            "date": "2024-10-28T17:32:43.868Z"
+          },
+          {
+            "length": 398,
+            "date": "2024-10-28T17:33:29.403Z"
+          },
+          {
+            "length": 399,
+            "date": "2024-10-28T17:33:37.084Z"
+          },
+          {
+            "length": 400,
+            "date": "2024-10-28T17:34:00.307Z"
+          },
+          {
+            "length": 401,
+            "date": "2024-10-28T17:40:59.393Z"
+          },
+          {
+            "length": 402,
+            "date": "2024-10-28T17:41:11.864Z"
           }
         ]
       },
