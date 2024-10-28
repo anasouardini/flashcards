@@ -2979,8 +2979,8 @@
       ]
     },
     {
-      "currentCardIndex": 33,
-      "currentCardSide": "back",
+      "currentCardIndex": 38,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -3347,39 +3347,6 @@
         },
         {
           "front": {
-            "content": "Verkäufer (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Seller]: ",
-              "- Forms: Verkäuferin (feminine)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "-sprachig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [-speaking]: Deutschsprachig : German-speaking",
-              "- Forms: -sprachigen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Buchstabe (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Letter]: ",
-              "- Forms: Buchstaben (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Etwas (pronoun)"
           },
           "back": {
@@ -3389,38 +3356,6 @@
               "- [A bit]: ",
               "- [Somewhat] (adv.): ",
               "- Forms: Etwas (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Möbel (noun, plural, -)"
-          },
-          "back": {
-            "content": [
-              "- [Furniture]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Stift (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Pen]: ",
-              "- Forms: Stifte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bleistift (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Pencil]: ",
-              "- Forms: Bleistifte (plural)"
             ]
           }
         },
@@ -3465,48 +3400,6 @@
             "content": [
               "- [Tell me]: ",
               "- [Say]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Früher (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Early]: ",
-              "- [Earlier] (adj, comparative): "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Naja (interjection)"
-          },
-          "back": {
-            "content": [
-              "- [Oh well]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Haar (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Hair]: ",
-              "- Forms: Haare (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Paar (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Pair/Couple]: "
             ]
           }
         },
@@ -9236,6 +9129,112 @@
             "content": [
               "- [Solution]: ",
               "- Forms: Auflösungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Verkäufer (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Seller]: ",
+              "- Forms: Verkäufer (plural), Verkäuferin (feminine)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "-sprachig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [-speaking]: Deutschsprachig : German-speaking"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Buchstabe (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Letter]: ",
+              "- Forms: Buchstaben (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Möbel (noun, plural, -)"
+          },
+          "back": {
+            "content": [
+              "- [Furniture]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stift (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Pen]: ",
+              "- Forms: Stifte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bleistift (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Pencil]: ",
+              "- Forms: Bleistifte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Früher (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Early]: ",
+              "- [Earlier] (adj, comparative): "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Naja (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [Oh well]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haar (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Hair]: ",
+              "- Forms: Haare (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Paar (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Pair/Couple]: "
             ]
           }
         }
@@ -20604,6 +20603,76 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-28T18:33:27.621Z"
+      },
+      {
+        "type": "move",
+        "word": "Verkäufer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:36:24.069Z"
+      },
+      {
+        "type": "move",
+        "word": "-sprachig",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:36:30.398Z"
+      },
+      {
+        "type": "move",
+        "word": "Buchstabe",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:36:38.550Z"
+      },
+      {
+        "type": "move",
+        "word": "Möbel",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:43:02.709Z"
+      },
+      {
+        "type": "move",
+        "word": "Stift",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:43:11.429Z"
+      },
+      {
+        "type": "move",
+        "word": "Bleistift",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:43:17.293Z"
+      },
+      {
+        "type": "move",
+        "word": "Früher",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:47:35.388Z"
+      },
+      {
+        "type": "move",
+        "word": "Naja",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:47:39.963Z"
+      },
+      {
+        "type": "move",
+        "word": "Haar",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:47:45.939Z"
+      },
+      {
+        "type": "move",
+        "word": "Paar",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:48:04.597Z"
       }
     ],
     "levels": [
@@ -30452,6 +30521,46 @@
           {
             "length": 156,
             "date": "2024-10-28T18:33:27.621Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-10-28T18:36:24.069Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-10-28T18:36:30.398Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-10-28T18:36:38.550Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-10-28T18:43:02.709Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-10-28T18:43:11.429Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-10-28T18:43:17.293Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-10-28T18:47:35.389Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-10-28T18:47:39.963Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-10-28T18:47:45.939Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-10-28T18:48:04.597Z"
           }
         ]
       },
@@ -32160,6 +32269,46 @@
           {
             "length": 416,
             "date": "2024-10-28T18:33:27.621Z"
+          },
+          {
+            "length": 417,
+            "date": "2024-10-28T18:36:24.069Z"
+          },
+          {
+            "length": 418,
+            "date": "2024-10-28T18:36:30.398Z"
+          },
+          {
+            "length": 419,
+            "date": "2024-10-28T18:36:38.550Z"
+          },
+          {
+            "length": 420,
+            "date": "2024-10-28T18:43:02.709Z"
+          },
+          {
+            "length": 421,
+            "date": "2024-10-28T18:43:11.429Z"
+          },
+          {
+            "length": 422,
+            "date": "2024-10-28T18:43:17.293Z"
+          },
+          {
+            "length": 423,
+            "date": "2024-10-28T18:47:35.389Z"
+          },
+          {
+            "length": 424,
+            "date": "2024-10-28T18:47:39.963Z"
+          },
+          {
+            "length": 425,
+            "date": "2024-10-28T18:47:45.939Z"
+          },
+          {
+            "length": 426,
+            "date": "2024-10-28T18:48:04.597Z"
           }
         ]
       },
