@@ -1,5 +1,5 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 2,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -2979,7 +2979,7 @@
       ]
     },
     {
-      "currentCardIndex": 47,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -5845,22 +5845,22 @@
         },
         {
           "front": {
-            "content": "Wohnen (v.)"
+            "content": "Deshalb (conjunction)"
           },
           "back": {
             "content": [
-              "- [Live/Reside]: Ich wohne in Marokko : I live in Morocco",
+              "- [Therefore/That's why]: ",
               "- Forms: "
             ]
           }
         },
         {
           "front": {
-            "content": "Deshalb (conjunction)"
+            "content": "Wohnen (v.)"
           },
           "back": {
             "content": [
-              "- [Therefore/That's why]: ",
+              "- [Live/Reside]: Ich wohne in Marokko : I live in Morocco",
               "- Forms: "
             ]
           }
