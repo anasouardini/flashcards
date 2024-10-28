@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 237,
-      "currentCardSide": "back",
+      "currentCardIndex": 251,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2616,7 +2616,7 @@
           },
           "back": {
             "content": [
-              "- [Back]: "
+              "- [Back]: Die Kamera schwenkte zurück zum Publikum. The camera panned back to the audience."
             ]
           }
         },
@@ -2640,17 +2640,6 @@
               "- [Around]: ",
               "- [Through]: ",
               "- [By]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Flipflop (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Flip-flop]: ",
-              "- Forms: Flip-flops (plural)"
             ]
           }
         },
@@ -2802,7 +2791,8 @@
           },
           "back": {
             "content": [
-              "- [To Do]: "
+              "- [To Do]: ",
+              "- [To Deal with]: "
             ]
           }
         },
@@ -2972,6 +2962,17 @@
           "back": {
             "content": [
               "- [To Progress]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schuh (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Shoe]: ",
+              "- Forms: Schuhe (plural)"
             ]
           }
         }
@@ -4963,6 +4964,17 @@
           "back": {
             "content": [
               "- [Civilization]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Flipflop (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Flip-flop]: ",
+              "- Forms: Flip-flops (plural)"
             ]
           }
         }
@@ -20383,6 +20395,18 @@
         "type": "add",
         "word": "Fortschreiten",
         "date": "2024-10-27T22:29:54.863Z"
+      },
+      {
+        "type": "move",
+        "word": "Flipflop",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-27T22:35:25.688Z"
+      },
+      {
+        "type": "add",
+        "word": "Schuh",
+        "date": "2024-10-28T16:45:13.873Z"
       }
     ],
     "levels": [
@@ -26163,6 +26187,14 @@
           {
             "length": 271,
             "date": "2024-10-27T22:29:54.863Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-27T22:35:25.688Z"
+          },
+          {
+            "length": 271,
+            "date": "2024-10-28T16:45:13.937Z"
           }
         ]
       },
@@ -30107,6 +30139,10 @@
           {
             "length": 183,
             "date": "2024-10-27T22:12:49.260Z"
+          },
+          {
+            "length": 184,
+            "date": "2024-10-27T22:35:25.688Z"
           }
         ]
       },
