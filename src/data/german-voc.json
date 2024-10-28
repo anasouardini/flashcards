@@ -2979,8 +2979,8 @@
       ]
     },
     {
-      "currentCardIndex": 15,
-      "currentCardSide": "back",
+      "currentCardIndex": 26,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -3157,7 +3157,7 @@
           "back": {
             "content": [
               "- [Piece]: ",
-              "- Forms: Stück (plural)"
+              "- Forms: Stücke (plural)"
             ]
           }
         },
@@ -3174,33 +3174,11 @@
         },
         {
           "front": {
-            "content": "Station (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Station]: ",
-              "- Forms: Stationen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Führen (v.)"
           },
           "back": {
             "content": [
               "- [To lead/guide]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Entscheiden (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To decide]: ",
               "- Forms: "
             ]
           }
@@ -3229,17 +3207,6 @@
         },
         {
           "front": {
-            "content": "Wählen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To choose]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Tragen (v.)"
           },
           "back": {
@@ -3251,66 +3218,11 @@
         },
         {
           "front": {
-            "content": "Erkennen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To recognize/realize]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Enttäuscht (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Disappointed]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zufrieden (adj.)"
           },
           "back": {
             "content": [
               "- [Satisfied]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Speziell (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Specific]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Toll (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Great]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wer (pron.)"
-          },
-          "back": {
-            "content": [
-              "- [Who]: ",
               "- Forms: "
             ]
           }
@@ -3355,16 +3267,6 @@
             "content": [
               "- [Profession]: ",
               "- Forms: Berufe (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Steckbrief (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Profile/Description]: "
             ]
           }
         },
@@ -9235,6 +9137,104 @@
             "content": [
               "- [Office]: ",
               "- Forms: Büros (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Station (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Station]: ",
+              "- Forms: Stationen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Entscheiden (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To decide]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wählen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To choose]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Erkennen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To recognize/realize]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Enttäuscht (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Disappointed]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Speziell (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Specific]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Toll (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Great]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wer (pron.)"
+          },
+          "back": {
+            "content": [
+              "- [Who]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Steckbrief (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Profile/Description]: "
             ]
           }
         }
@@ -20505,6 +20505,69 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-28T17:41:11.864Z"
+      },
+      {
+        "type": "move",
+        "word": "Station",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:45:04.704Z"
+      },
+      {
+        "type": "move",
+        "word": "Entscheiden",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:45:34.233Z"
+      },
+      {
+        "type": "move",
+        "word": "Wählen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:45:51.934Z"
+      },
+      {
+        "type": "move",
+        "word": "Erkennen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:46:10.120Z"
+      },
+      {
+        "type": "move",
+        "word": "Enttäuscht",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:46:15.902Z"
+      },
+      {
+        "type": "move",
+        "word": "Speziell",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:48:00.143Z"
+      },
+      {
+        "type": "move",
+        "word": "Toll",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:48:06.519Z"
+      },
+      {
+        "type": "move",
+        "word": "Wer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:48:10.223Z"
+      },
+      {
+        "type": "move",
+        "word": "Steckbrief",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:51:38.926Z"
       }
     ],
     "levels": [
@@ -30297,6 +30360,42 @@
           {
             "length": 170,
             "date": "2024-10-28T17:41:11.864Z"
+          },
+          {
+            "length": 169,
+            "date": "2024-10-28T17:45:04.704Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-10-28T17:45:34.233Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-10-28T17:45:51.934Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-10-28T17:46:10.120Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-10-28T17:46:15.902Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-10-28T17:48:00.143Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-10-28T17:48:06.519Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-10-28T17:48:10.223Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-10-28T17:51:38.926Z"
           }
         ]
       },
@@ -31949,6 +32048,42 @@
           {
             "length": 402,
             "date": "2024-10-28T17:41:11.864Z"
+          },
+          {
+            "length": 403,
+            "date": "2024-10-28T17:45:04.704Z"
+          },
+          {
+            "length": 404,
+            "date": "2024-10-28T17:45:34.233Z"
+          },
+          {
+            "length": 405,
+            "date": "2024-10-28T17:45:51.934Z"
+          },
+          {
+            "length": 406,
+            "date": "2024-10-28T17:46:10.120Z"
+          },
+          {
+            "length": 407,
+            "date": "2024-10-28T17:46:15.902Z"
+          },
+          {
+            "length": 408,
+            "date": "2024-10-28T17:48:00.143Z"
+          },
+          {
+            "length": 409,
+            "date": "2024-10-28T17:48:06.519Z"
+          },
+          {
+            "length": 410,
+            "date": "2024-10-28T17:48:10.223Z"
+          },
+          {
+            "length": 411,
+            "date": "2024-10-28T17:51:38.926Z"
           }
         ]
       },
