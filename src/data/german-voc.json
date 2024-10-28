@@ -2979,7 +2979,7 @@
       ]
     },
     {
-      "currentCardIndex": 38,
+      "currentCardIndex": 47,
       "currentCardSide": "front",
       "cards": [
         {
@@ -3405,26 +3405,6 @@
         },
         {
           "front": {
-            "content": "Glas (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Glass]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fotoapparat (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Camera]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Uhr (noun, singular, feminine)"
           },
           "back": {
@@ -3458,27 +3438,6 @@
         },
         {
           "front": {
-            "content": "Ins (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Into]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Notizbuch (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Notebook]: ",
-              "- Forms: Notizbücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Ball (noun, singular, masculine)"
           },
           "back": {
@@ -3495,17 +3454,6 @@
           "back": {
             "content": [
               "- [From there]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tasse (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Cup/Mug]: ",
-              "- Forms: Tassen (plural)"
             ]
           }
         },
@@ -3533,26 +3481,6 @@
         },
         {
           "front": {
-            "content": "Singen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To sing]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Surfen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Surfe]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Bedanken (v.)"
           },
           "back": {
@@ -3563,66 +3491,11 @@
         },
         {
           "front": {
-            "content": "Fahren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To drive]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schon (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Already/Yet]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Laufen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To run/walk/work]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sondern (conjunction)"
           },
           "back": {
             "content": [
               "- [...But]: Kein das sondern dass : Not this but that",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Entwickeln (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To develop]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Weit (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Far]: ",
               "- Forms: "
             ]
           }
@@ -9234,7 +9107,136 @@
           },
           "back": {
             "content": [
-              "- [Pair/Couple]: "
+              "- [Pair/Couple]: ",
+              "- Forms: Paare (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Glas (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Glass]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fotoapparat (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Camera]: ",
+              "- Forms: Fotoapparate (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ins (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Into]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Notizbuch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Notebook]: ",
+              "- Forms: Notizbücher (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tasse (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Cup/Mug]: ",
+              "- Forms: Tassen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Singen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To sing]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Surfen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Surfe]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fahren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To drive]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schon (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Already/Yet]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Laufen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To run/walk/work]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Entwickeln (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To develop]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weit (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Far]: ",
+              "- Forms: "
             ]
           }
         }
@@ -20673,6 +20675,90 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-28T18:48:04.597Z"
+      },
+      {
+        "type": "move",
+        "word": "Glas",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:49:33.611Z"
+      },
+      {
+        "type": "move",
+        "word": "Fotoapparat",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:49:39.347Z"
+      },
+      {
+        "type": "move",
+        "word": "Ins",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:53:50.619Z"
+      },
+      {
+        "type": "move",
+        "word": "Notizbuch",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:54:02.115Z"
+      },
+      {
+        "type": "move",
+        "word": "Tasse",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:58:14.474Z"
+      },
+      {
+        "type": "move",
+        "word": "Singen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T19:02:49.761Z"
+      },
+      {
+        "type": "move",
+        "word": "Surfen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T19:02:56.239Z"
+      },
+      {
+        "type": "move",
+        "word": "Fahren",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T19:03:58.039Z"
+      },
+      {
+        "type": "move",
+        "word": "Schon",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T19:04:17.505Z"
+      },
+      {
+        "type": "move",
+        "word": "Laufen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T19:04:22.128Z"
+      },
+      {
+        "type": "move",
+        "word": "Entwickeln",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T19:08:34.151Z"
+      },
+      {
+        "type": "move",
+        "word": "Weit",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T19:08:37.383Z"
       }
     ],
     "levels": [
@@ -30561,6 +30647,54 @@
           {
             "length": 146,
             "date": "2024-10-28T18:48:04.597Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-10-28T18:49:33.611Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-10-28T18:49:39.347Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-28T18:53:50.619Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-10-28T18:54:02.115Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-10-28T18:58:14.474Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-10-28T19:02:49.761Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-10-28T19:02:56.239Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-10-28T19:03:58.039Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-10-28T19:04:17.505Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-10-28T19:04:22.128Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-10-28T19:08:34.151Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-10-28T19:08:37.383Z"
           }
         ]
       },
@@ -32309,6 +32443,54 @@
           {
             "length": 426,
             "date": "2024-10-28T18:48:04.597Z"
+          },
+          {
+            "length": 427,
+            "date": "2024-10-28T18:49:33.611Z"
+          },
+          {
+            "length": 428,
+            "date": "2024-10-28T18:49:39.347Z"
+          },
+          {
+            "length": 429,
+            "date": "2024-10-28T18:53:50.619Z"
+          },
+          {
+            "length": 430,
+            "date": "2024-10-28T18:54:02.115Z"
+          },
+          {
+            "length": 431,
+            "date": "2024-10-28T18:58:14.474Z"
+          },
+          {
+            "length": 432,
+            "date": "2024-10-28T19:02:49.761Z"
+          },
+          {
+            "length": 433,
+            "date": "2024-10-28T19:02:56.239Z"
+          },
+          {
+            "length": 434,
+            "date": "2024-10-28T19:03:58.039Z"
+          },
+          {
+            "length": 435,
+            "date": "2024-10-28T19:04:17.505Z"
+          },
+          {
+            "length": 436,
+            "date": "2024-10-28T19:04:22.128Z"
+          },
+          {
+            "length": 437,
+            "date": "2024-10-28T19:08:34.151Z"
+          },
+          {
+            "length": 438,
+            "date": "2024-10-28T19:08:37.383Z"
           }
         ]
       },
