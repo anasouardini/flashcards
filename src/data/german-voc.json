@@ -1,8 +1,8 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
-      "currentCardIndex": 251,
+      "currentCardIndex": 0,
       "currentCardSide": "front",
       "cards": [
         {
@@ -2928,7 +2928,7 @@
           "back": {
             "content": [
               "- [Enough]: ",
-              "- [Sufficiently]: ",
+              "- [Sufficiently] (adv.): ",
               "- Forms: Genug (adv.)"
             ]
           }
@@ -2979,7 +2979,7 @@
       ]
     },
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 8,
       "currentCardSide": "front",
       "cards": [
         {
@@ -3030,33 +3030,11 @@
         },
         {
           "front": {
-            "content": "Bett (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Bed]: ",
-              "- Forms: Betten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Witzig (adj.)"
           },
           "back": {
             "content": [
               "- [Funny]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Haltestelle (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Stop/Station]: ",
               "- Forms: "
             ]
           }
@@ -3091,39 +3069,6 @@
             "content": [
               "- [To feel]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Erinnern (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To remind]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Grundlage (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Basis/Base]: ",
-              "- Forms: Gundlangen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Aufgabe (ponoun)"
-          },
-          "back": {
-            "content": [
-              "- [Task]: ",
-              "- Forms: Aufgaben (plural)"
             ]
           }
         },
@@ -9235,6 +9180,61 @@
             "content": [
               "- [To Phone-call]: ",
               "- Forms: Telefon(e) (noun)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bett (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Bed]: ",
+              "- Forms: Betten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Haltestelle (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Stop/Station]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Erinnern (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To remind]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Grundlage (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Basis/Base]: ",
+              "- Forms: Gundlangen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aufgabe (ponoun)"
+          },
+          "back": {
+            "content": [
+              "- [Task]: ",
+              "- Forms: Aufgaben (plural)"
             ]
           }
         }
@@ -20407,6 +20407,41 @@
         "type": "add",
         "word": "Schuh",
         "date": "2024-10-28T16:45:13.873Z"
+      },
+      {
+        "type": "move",
+        "word": "Bett",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:20:09.576Z"
+      },
+      {
+        "type": "move",
+        "word": "Haltestelle",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:23:17.750Z"
+      },
+      {
+        "type": "move",
+        "word": "Erinnern",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:24:20.877Z"
+      },
+      {
+        "type": "move",
+        "word": "Grundlage",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:24:32.998Z"
+      },
+      {
+        "type": "move",
+        "word": "Aufgabe",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T17:24:51.221Z"
       }
     ],
     "levels": [
@@ -30143,6 +30178,26 @@
           {
             "length": 184,
             "date": "2024-10-27T22:35:25.688Z"
+          },
+          {
+            "length": 183,
+            "date": "2024-10-28T17:20:09.577Z"
+          },
+          {
+            "length": 182,
+            "date": "2024-10-28T17:23:17.750Z"
+          },
+          {
+            "length": 181,
+            "date": "2024-10-28T17:24:20.877Z"
+          },
+          {
+            "length": 180,
+            "date": "2024-10-28T17:24:32.998Z"
+          },
+          {
+            "length": 179,
+            "date": "2024-10-28T17:24:51.221Z"
           }
         ]
       },
@@ -31739,6 +31794,26 @@
           {
             "length": 388,
             "date": "2024-10-25T21:23:13.207Z"
+          },
+          {
+            "length": 389,
+            "date": "2024-10-28T17:20:09.577Z"
+          },
+          {
+            "length": 390,
+            "date": "2024-10-28T17:23:17.750Z"
+          },
+          {
+            "length": 391,
+            "date": "2024-10-28T17:24:20.877Z"
+          },
+          {
+            "length": 392,
+            "date": "2024-10-28T17:24:32.998Z"
+          },
+          {
+            "length": 393,
+            "date": "2024-10-28T17:24:51.221Z"
           }
         ]
       },
