@@ -2979,8 +2979,8 @@
       ]
     },
     {
-      "currentCardIndex": 26,
-      "currentCardSide": "front",
+      "currentCardIndex": 33,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -3314,18 +3314,6 @@
         },
         {
           "front": {
-            "content": "Jetzt (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Now]: ",
-              "- [Present] (noun): ",
-              "- Forms: Jetzt (noun)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Familienmitglied (noun, singular, neuter)"
           },
           "back": {
@@ -3348,56 +3336,12 @@
         },
         {
           "front": {
-            "content": "Enkel (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Grandchild]: ",
-              "- Forms: Enkel (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Kollege (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Colleague]: ",
               "- Forms: Kollegen (plural), Kollegin (feminine)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Notiz (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Note]: ",
-              "- Forms: Notizen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sprache (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Language]: ",
-              "- Forms: Sprachen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Auflösung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Solution]: ",
-              "- Forms: Auflösungen (plural)"
             ]
           }
         },
@@ -9234,7 +9178,64 @@
           },
           "back": {
             "content": [
-              "- [Profile/Description]: "
+              "- [Profile/Description]: ",
+              "- Forms: Steckbriefe (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Jetzt (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Now]: ",
+              "- [Present] (noun): ",
+              "- Forms: Jetzt (noun)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Enkel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Grandchild]: ",
+              "- Forms: Enkel (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Notiz (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Note]: ",
+              "- Forms: Notizen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sprache (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Language]: ",
+              "- Forms: Sprachen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auflösung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Solution]: ",
+              "- Forms: Auflösungen (plural)"
             ]
           }
         }
@@ -20568,6 +20569,41 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-28T17:51:38.926Z"
+      },
+      {
+        "type": "move",
+        "word": "Jetzt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:27:13.073Z"
+      },
+      {
+        "type": "move",
+        "word": "Enkel",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:31:34.870Z"
+      },
+      {
+        "type": "move",
+        "word": "Notiz",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:33:09.694Z"
+      },
+      {
+        "type": "move",
+        "word": "Sprache",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:33:16.414Z"
+      },
+      {
+        "type": "move",
+        "word": "Auflösung",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-10-28T18:33:27.621Z"
       }
     ],
     "levels": [
@@ -30396,6 +30432,26 @@
           {
             "length": 161,
             "date": "2024-10-28T17:51:38.926Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-10-28T18:27:13.073Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-10-28T18:31:34.870Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-10-28T18:33:09.694Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-10-28T18:33:16.414Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-10-28T18:33:27.621Z"
           }
         ]
       },
@@ -32084,6 +32140,26 @@
           {
             "length": 411,
             "date": "2024-10-28T17:51:38.926Z"
+          },
+          {
+            "length": 412,
+            "date": "2024-10-28T18:27:13.073Z"
+          },
+          {
+            "length": 413,
+            "date": "2024-10-28T18:31:34.870Z"
+          },
+          {
+            "length": 414,
+            "date": "2024-10-28T18:33:09.694Z"
+          },
+          {
+            "length": 415,
+            "date": "2024-10-28T18:33:16.414Z"
+          },
+          {
+            "length": 416,
+            "date": "2024-10-28T18:33:27.621Z"
           }
         ]
       },
