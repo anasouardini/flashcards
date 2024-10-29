@@ -2709,6 +2709,16 @@
               "- [Or so/something like that]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Kommt mit"
+          },
+          "back": {
+            "content": [
+              "- [Come with us / join us]: "
+            ]
+          }
         }
       ]
     },
@@ -3398,6 +3408,11 @@
         "type": "add",
         "word": "Oder so",
         "date": "2024-10-26T19:47:19.093Z"
+      },
+      {
+        "type": "add",
+        "word": "Kommt mit",
+        "date": "2024-10-29T16:43:02.634Z"
       }
     ],
     "levels": [
@@ -3734,6 +3749,10 @@
           {
             "length": 270,
             "date": "2024-10-26T19:47:19.094Z"
+          },
+          {
+            "length": 271,
+            "date": "2024-10-29T16:43:02.635Z"
           }
         ]
       },
