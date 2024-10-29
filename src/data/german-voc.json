@@ -2975,6 +2975,17 @@
               "- Forms: Schuhe (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Leckerli (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Goodie/Treat]: ",
+              "- Forms: Leckerlis (plural)"
+            ]
+          }
         }
       ]
     },
@@ -4996,8 +5007,7 @@
             "content": [
               "- [From]: Ich komme aus Marokko : I come from Morocco",
               "- [Of]: ",
-              "- [Out Of]: ",
-              "- Forms: "
+              "- [Out Of]: "
             ]
           }
         },
@@ -5007,8 +5017,7 @@
           },
           "back": {
             "content": [
-              "- [Unfortunately]: ",
-              "- Forms: "
+              "- [Unfortunately]: "
             ]
           }
         },
@@ -5018,8 +5027,7 @@
           },
           "back": {
             "content": [
-              "- [Young]: ",
-              "- Forms: "
+              "- [Young]: "
             ]
           }
         },
@@ -5031,18 +5039,17 @@
             "content": [
               "- [Women]: ",
               "- [Ms.]: ",
-              "- Forms: "
+              "- Forms: Frauen (plural)"
             ]
           }
         },
         {
           "front": {
-            "content": "Mädchen (noun, singular, neuter)"
+            "content": "Mädchen (noun, singular/plural, neuter)"
           },
           "back": {
             "content": [
-              "- [Girl]: ",
-              "- Forms: "
+              "- [Girl]: "
             ]
           }
         },
@@ -6278,7 +6285,8 @@
           },
           "back": {
             "content": [
-              "- [Photo]: "
+              "- [Photo]: ",
+              "- Forms: Fotos (plural)"
             ]
           }
         },
@@ -7037,7 +7045,8 @@
           },
           "back": {
             "content": [
-              "- [Sort/Type/Kind]: "
+              "- [Sort/Type/Kind]: ",
+              "- Forms: Sorten (plural)"
             ]
           }
         },
@@ -7699,7 +7708,8 @@
           },
           "back": {
             "content": [
-              "- [Paper]: "
+              "- [Paper]: ",
+              "- Forms: Papiere (plural)"
             ]
           }
         },
@@ -7786,7 +7796,7 @@
           "back": {
             "content": [
               "- [Capital City]: ",
-              "- Forms: Häuptstadte (plural)"
+              "- Forms: Hauptstädte (plural)"
             ]
           }
         },
@@ -8304,7 +8314,7 @@
           "back": {
             "content": [
               "- [Door]: ",
-              "- Forms: "
+              "- Forms: Türen (plural)"
             ]
           }
         },
@@ -8420,7 +8430,7 @@
           "back": {
             "content": [
               "- [Author]: ",
-              "- Forms: Autoren (plural)"
+              "- Forms: Autoren (plural), Autorin (feminine)"
             ]
           }
         },
@@ -20759,6 +20769,11 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-28T19:08:37.383Z"
+      },
+      {
+        "type": "add",
+        "word": "Leckerli",
+        "date": "2024-10-29T16:41:42.580Z"
       }
     ],
     "levels": [
@@ -26547,6 +26562,10 @@
           {
             "length": 271,
             "date": "2024-10-28T16:45:13.937Z"
+          },
+          {
+            "length": 272,
+            "date": "2024-10-29T16:41:42.668Z"
           }
         ]
       },
