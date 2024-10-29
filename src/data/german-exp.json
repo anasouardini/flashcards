@@ -2739,6 +2739,16 @@
               "- [Lots]: Ganz viele muffins : Lots of muffins"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Das est aber schön"
+          },
+          "back": {
+            "content": [
+              "- ['Aber' indicates being surprised]: "
+            ]
+          }
         }
       ]
     },
@@ -3443,6 +3453,11 @@
         "type": "add",
         "word": "Ganz viele",
         "date": "2024-10-29T17:07:32.056Z"
+      },
+      {
+        "type": "add",
+        "word": "Das est aber schön",
+        "date": "2024-10-29T17:38:37.467Z"
       }
     ],
     "levels": [
@@ -3791,6 +3806,10 @@
           {
             "length": 273,
             "date": "2024-10-29T17:07:32.056Z"
+          },
+          {
+            "length": 274,
+            "date": "2024-10-29T17:38:37.467Z"
           }
         ]
       },
