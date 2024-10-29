@@ -3248,6 +3248,16 @@
               "- [To Arrive At]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Putzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Clean]: "
+            ]
+          }
         }
       ]
     },
@@ -21156,6 +21166,11 @@
         "type": "add",
         "word": "Anlangen",
         "date": "2024-10-29T18:32:27.726Z"
+      },
+      {
+        "type": "add",
+        "word": "Putzen",
+        "date": "2024-10-29T18:34:13.417Z"
       }
     ],
     "levels": [
@@ -27044,6 +27059,10 @@
           {
             "length": 296,
             "date": "2024-10-29T18:32:27.726Z"
+          },
+          {
+            "length": 297,
+            "date": "2024-10-29T18:34:13.417Z"
           }
         ]
       },
