@@ -2749,6 +2749,16 @@
               "- ['Aber' indicates being surprised]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Muss ja"
+          },
+          "back": {
+            "content": [
+              "- [It must/needs ('ja' for imphasis)]: "
+            ]
+          }
         }
       ]
     },
@@ -3458,6 +3468,11 @@
         "type": "add",
         "word": "Das est aber schön",
         "date": "2024-10-29T17:38:37.467Z"
+      },
+      {
+        "type": "add",
+        "word": "Muss ja",
+        "date": "2024-10-29T17:41:36.702Z"
       }
     ],
     "levels": [
@@ -3810,6 +3825,10 @@
           {
             "length": 274,
             "date": "2024-10-29T17:38:37.467Z"
+          },
+          {
+            "length": 275,
+            "date": "2024-10-29T17:41:36.702Z"
           }
         ]
       },
