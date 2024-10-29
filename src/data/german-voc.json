@@ -3279,6 +3279,16 @@
               "- [Few/Some]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Danach (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Afterwards/After it]: "
+            ]
+          }
         }
       ]
     },
@@ -21202,6 +21212,11 @@
         "type": "add",
         "word": "Einige",
         "date": "2024-10-29T18:52:38.853Z"
+      },
+      {
+        "type": "add",
+        "word": "Danach",
+        "date": "2024-10-29T18:56:52.815Z"
       }
     ],
     "levels": [
@@ -27102,6 +27117,10 @@
           {
             "length": 299,
             "date": "2024-10-29T18:52:38.854Z"
+          },
+          {
+            "length": 300,
+            "date": "2024-10-29T18:56:52.816Z"
           }
         ]
       },
