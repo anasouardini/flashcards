@@ -3029,6 +3029,16 @@
               "- Forms: Verschiedene (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Käse (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Cheese]: "
+            ]
+          }
         }
       ]
     },
@@ -20837,6 +20847,11 @@
         "type": "add",
         "word": "Verschiedene",
         "date": "2024-10-29T17:15:39.492Z"
+      },
+      {
+        "type": "add",
+        "word": "Käse",
+        "date": "2024-10-29T17:16:59.074Z"
       }
     ],
     "levels": [
@@ -26645,6 +26660,10 @@
           {
             "length": 276,
             "date": "2024-10-29T17:15:39.492Z"
+          },
+          {
+            "length": 277,
+            "date": "2024-10-29T17:16:59.074Z"
           }
         ]
       },
