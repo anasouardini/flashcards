@@ -3184,6 +3184,16 @@
               "- [Riot/Mess/Disturbance]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Eher (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Rather]: "
+            ]
+          }
         }
       ]
     },
@@ -21062,6 +21072,11 @@
         "type": "add",
         "word": "Aufruhr",
         "date": "2024-10-29T18:13:01.218Z"
+      },
+      {
+        "type": "add",
+        "word": "Eher",
+        "date": "2024-10-29T18:16:19.328Z"
       }
     ],
     "levels": [
@@ -26926,6 +26941,10 @@
           {
             "length": 290,
             "date": "2024-10-29T18:13:01.219Z"
+          },
+          {
+            "length": 291,
+            "date": "2024-10-29T18:16:19.328Z"
           }
         ]
       },
