@@ -3138,6 +3138,17 @@
               "- Forms: Eindechsen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Rifen (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Tire(s)/Hoop(s)]: ",
+              "- Forms: Rifen (plural), rifen (v.)"
+            ]
+          }
         }
       ]
     },
@@ -20996,6 +21007,11 @@
         "type": "add",
         "word": "Eidechse",
         "date": "2024-10-29T17:53:36.205Z"
+      },
+      {
+        "type": "add",
+        "word": "Rifen",
+        "date": "2024-10-29T18:00:48.021Z"
       }
     ],
     "levels": [
@@ -26844,6 +26860,10 @@
           {
             "length": 286,
             "date": "2024-10-29T17:53:36.206Z"
+          },
+          {
+            "length": 287,
+            "date": "2024-10-29T18:00:48.021Z"
           }
         ]
       },
