@@ -3299,6 +3299,17 @@
               "- [Any/Every/All]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Abkürzung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Abbreviation]: ",
+              "- Forms: Abkürzungen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -21232,6 +21243,11 @@
         "type": "add",
         "word": "Jeder",
         "date": "2024-10-29T19:00:50.720Z"
+      },
+      {
+        "type": "add",
+        "word": "Abkürzung",
+        "date": "2024-10-29T19:02:39.815Z"
       }
     ],
     "levels": [
@@ -27140,6 +27156,10 @@
           {
             "length": 301,
             "date": "2024-10-29T19:00:50.721Z"
+          },
+          {
+            "length": 302,
+            "date": "2024-10-29T19:02:39.816Z"
           }
         ]
       },
