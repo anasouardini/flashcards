@@ -2986,6 +2986,16 @@
               "- Forms: Leckerlis (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Riecht (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Smell]: "
+            ]
+          }
         }
       ]
     },
@@ -20774,6 +20784,11 @@
         "type": "add",
         "word": "Leckerli",
         "date": "2024-10-29T16:41:42.580Z"
+      },
+      {
+        "type": "add",
+        "word": "Riecht",
+        "date": "2024-10-29T16:52:45.447Z"
       }
     ],
     "levels": [
@@ -26566,6 +26581,10 @@
           {
             "length": 272,
             "date": "2024-10-29T16:41:42.668Z"
+          },
+          {
+            "length": 273,
+            "date": "2024-10-29T16:52:45.447Z"
           }
         ]
       },
