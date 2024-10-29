@@ -336,7 +336,7 @@
           },
           "back": {
             "content": [
-              "- [There is]: "
+              "- [There is / There are]: "
             ]
           }
         },
@@ -2729,6 +2729,16 @@
               "- [Right? no?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ganz viele"
+          },
+          "back": {
+            "content": [
+              "- [Lots]: Ganz viele muffins : Lots of muffins"
+            ]
+          }
         }
       ]
     },
@@ -3428,6 +3438,11 @@
         "type": "add",
         "word": "Ne?",
         "date": "2024-10-29T17:02:21.045Z"
+      },
+      {
+        "type": "add",
+        "word": "Ganz viele",
+        "date": "2024-10-29T17:07:32.056Z"
       }
     ],
     "levels": [
@@ -3772,6 +3787,10 @@
           {
             "length": 272,
             "date": "2024-10-29T17:02:21.045Z"
+          },
+          {
+            "length": 273,
+            "date": "2024-10-29T17:07:32.056Z"
           }
         ]
       },
