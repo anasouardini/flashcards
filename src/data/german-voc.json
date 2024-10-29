@@ -3141,12 +3141,24 @@
         },
         {
           "front": {
-            "content": "Rifen (noun, singular, masculine)"
+            "content": "Reifen (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Tire(s)/Hoop(s)]: ",
-              "- Forms: Rifen (plural), rifen (v.)"
+              "- [Mature/Age] (v.): ",
+              "- Forms: Reifen (plural), Reifen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Reif (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Rime/Collar]: ",
+              "- Forms: Reif (adv.), Reif (adj.)"
             ]
           }
         }
@@ -21010,8 +21022,13 @@
       },
       {
         "type": "add",
-        "word": "Rifen",
+        "word": "Reifen",
         "date": "2024-10-29T18:00:48.021Z"
+      },
+      {
+        "type": "add",
+        "word": "Reif",
+        "date": "2024-10-29T18:04:19.163Z"
       }
     ],
     "levels": [
@@ -26864,6 +26881,10 @@
           {
             "length": 287,
             "date": "2024-10-29T18:00:48.021Z"
+          },
+          {
+            "length": 288,
+            "date": "2024-10-29T18:04:19.163Z"
           }
         ]
       },
