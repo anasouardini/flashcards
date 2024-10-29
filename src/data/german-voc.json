@@ -3216,6 +3216,17 @@
               "- Forms: Interessen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Atmen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [To Breath]: ",
+              "- Forms: Atmen (n.)"
+            ]
+          }
         }
       ]
     },
@@ -21109,6 +21120,11 @@
         "type": "add",
         "word": "Interesse",
         "date": "2024-10-29T18:19:56.281Z"
+      },
+      {
+        "type": "add",
+        "word": "Atmen",
+        "date": "2024-10-29T18:26:23.980Z"
       }
     ],
     "levels": [
@@ -26985,6 +27001,10 @@
           {
             "length": 293,
             "date": "2024-10-29T18:19:56.282Z"
+          },
+          {
+            "length": 294,
+            "date": "2024-10-29T18:26:23.980Z"
           }
         ]
       },
