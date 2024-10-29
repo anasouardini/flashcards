@@ -3258,6 +3258,17 @@
               "- [To Clean]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Fall (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Case/Instance]: ",
+              "- Forms: Fälle (plural)"
+            ]
+          }
         }
       ]
     },
@@ -21171,6 +21182,11 @@
         "type": "add",
         "word": "Putzen",
         "date": "2024-10-29T18:34:13.417Z"
+      },
+      {
+        "type": "add",
+        "word": "Fall",
+        "date": "2024-10-29T18:40:06.609Z"
       }
     ],
     "levels": [
@@ -27063,6 +27079,10 @@
           {
             "length": 297,
             "date": "2024-10-29T18:34:13.417Z"
+          },
+          {
+            "length": 298,
+            "date": "2024-10-29T18:40:06.609Z"
           }
         ]
       },
