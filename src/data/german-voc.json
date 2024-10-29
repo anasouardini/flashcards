@@ -3116,6 +3116,17 @@
               "- [To Get smth up]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Giraffe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Giraffe]: ",
+              "- Forms: Giraffen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -20964,6 +20975,11 @@
         "type": "add",
         "word": "Hochkriegen",
         "date": "2024-10-29T17:47:15.032Z"
+      },
+      {
+        "type": "add",
+        "word": "Giraffe",
+        "date": "2024-10-29T17:50:57.494Z"
       }
     ],
     "levels": [
@@ -26804,6 +26820,10 @@
           {
             "length": 284,
             "date": "2024-10-29T17:47:15.032Z"
+          },
+          {
+            "length": 285,
+            "date": "2024-10-29T17:50:57.494Z"
           }
         ]
       },
