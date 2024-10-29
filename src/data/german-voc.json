@@ -3328,7 +3328,18 @@
           "back": {
             "content": [
               "- [To Save]: ",
-              "- Forms: Sparen (n)"
+              "- [Saving] (n.): ",
+              "- Forms: Sparen (n.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Populär (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Popular]: "
             ]
           }
         }
@@ -21279,6 +21290,11 @@
         "type": "add",
         "word": "Sparen",
         "date": "2024-10-29T19:06:59.651Z"
+      },
+      {
+        "type": "add",
+        "word": "Populär",
+        "date": "2024-10-29T19:13:36.591Z"
       }
     ],
     "levels": [
@@ -27199,6 +27215,10 @@
           {
             "length": 304,
             "date": "2024-10-29T19:06:59.651Z"
+          },
+          {
+            "length": 305,
+            "date": "2024-10-29T19:13:36.592Z"
           }
         ]
       },
