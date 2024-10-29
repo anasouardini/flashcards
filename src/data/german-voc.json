@@ -3205,6 +3205,17 @@
               "- Forms: Interessengebiete (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Interesse (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Interest/Concern]: ",
+              "- Forms: Interessen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -21093,6 +21104,11 @@
         "type": "add",
         "word": "Interessengebiet",
         "date": "2024-10-29T18:19:07.957Z"
+      },
+      {
+        "type": "add",
+        "word": "Interesse",
+        "date": "2024-10-29T18:19:56.281Z"
       }
     ],
     "levels": [
@@ -26965,6 +26981,10 @@
           {
             "length": 292,
             "date": "2024-10-29T18:19:07.957Z"
+          },
+          {
+            "length": 293,
+            "date": "2024-10-29T18:19:56.282Z"
           }
         ]
       },
