@@ -3004,7 +3004,18 @@
           "back": {
             "content": [
               "- [Whole/Entire]: ",
+              "- [Very/Completely] (adv.): ",
               "- Forms: Ganz (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Knochen (noun, singular/plural, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Bone(s)]: "
             ]
           }
         }
@@ -20805,6 +20816,11 @@
         "type": "add",
         "word": "Ganz",
         "date": "2024-10-29T16:55:42.233Z"
+      },
+      {
+        "type": "add",
+        "word": "Knochen",
+        "date": "2024-10-29T17:09:16.008Z"
       }
     ],
     "levels": [
@@ -26605,6 +26621,10 @@
           {
             "length": 274,
             "date": "2024-10-29T16:55:42.234Z"
+          },
+          {
+            "length": 275,
+            "date": "2024-10-29T17:09:16.009Z"
           }
         ]
       },
