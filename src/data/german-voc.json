@@ -953,7 +953,7 @@
           "back": {
             "content": [
               "- [Area/Field]: ",
-              "- Forms: Gebieten (plural)"
+              "- Forms: Gebiete (plural)"
             ]
           }
         },
@@ -3192,6 +3192,17 @@
           "back": {
             "content": [
               "- [Rather]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Interessengebiet (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Area of interest]: ",
+              "- Forms: Interessengebiete (plural)"
             ]
           }
         }
@@ -21077,6 +21088,11 @@
         "type": "add",
         "word": "Eher",
         "date": "2024-10-29T18:16:19.328Z"
+      },
+      {
+        "type": "add",
+        "word": "Interessengebiet",
+        "date": "2024-10-29T18:19:07.957Z"
       }
     ],
     "levels": [
@@ -26945,6 +26961,10 @@
           {
             "length": 291,
             "date": "2024-10-29T18:16:19.328Z"
+          },
+          {
+            "length": 292,
+            "date": "2024-10-29T18:19:07.957Z"
           }
         ]
       },
