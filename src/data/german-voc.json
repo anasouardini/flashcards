@@ -3320,6 +3320,17 @@
               "- [To type]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sparen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Save]: ",
+              "- Forms: Sparen (n)"
+            ]
+          }
         }
       ]
     },
@@ -21263,6 +21274,11 @@
         "type": "add",
         "word": "Tippen",
         "date": "2024-10-29T19:03:46.906Z"
+      },
+      {
+        "type": "add",
+        "word": "Sparen",
+        "date": "2024-10-29T19:06:59.651Z"
       }
     ],
     "levels": [
@@ -27179,6 +27195,10 @@
           {
             "length": 303,
             "date": "2024-10-29T19:03:46.906Z"
+          },
+          {
+            "length": 304,
+            "date": "2024-10-29T19:06:59.651Z"
           }
         ]
       },
