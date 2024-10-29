@@ -3036,7 +3036,18 @@
           },
           "back": {
             "content": [
-              "- [Cheese]: "
+              "- [Cheese]: ",
+              "- [Crap/Garbage]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stäbchen (noun, singular/singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Rods(s)/Stick(s)]: "
             ]
           }
         }
@@ -20852,6 +20863,11 @@
         "type": "add",
         "word": "Käse",
         "date": "2024-10-29T17:16:59.074Z"
+      },
+      {
+        "type": "add",
+        "word": "Stäbchen",
+        "date": "2024-10-29T17:20:04.842Z"
       }
     ],
     "levels": [
@@ -26664,6 +26680,10 @@
           {
             "length": 277,
             "date": "2024-10-29T17:16:59.074Z"
+          },
+          {
+            "length": 278,
+            "date": "2024-10-29T17:20:04.843Z"
           }
         ]
       },
