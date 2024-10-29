@@ -3238,6 +3238,16 @@
               "- [Quiet/Peace/Calm]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Anlangen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Arrive At]: "
+            ]
+          }
         }
       ]
     },
@@ -21141,6 +21151,11 @@
         "type": "add",
         "word": "Ruhe",
         "date": "2024-10-29T18:27:50.830Z"
+      },
+      {
+        "type": "add",
+        "word": "Anlangen",
+        "date": "2024-10-29T18:32:27.726Z"
       }
     ],
     "levels": [
@@ -27025,6 +27040,10 @@
           {
             "length": 295,
             "date": "2024-10-29T18:27:50.830Z"
+          },
+          {
+            "length": 296,
+            "date": "2024-10-29T18:32:27.726Z"
           }
         ]
       },
