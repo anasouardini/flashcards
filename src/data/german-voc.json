@@ -3289,6 +3289,16 @@
               "- [Afterwards/After it]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Jeder (pron.)"
+          },
+          "back": {
+            "content": [
+              "- [Any/Every/All]: "
+            ]
+          }
         }
       ]
     },
@@ -21217,6 +21227,11 @@
         "type": "add",
         "word": "Danach",
         "date": "2024-10-29T18:56:52.815Z"
+      },
+      {
+        "type": "add",
+        "word": "Jeder",
+        "date": "2024-10-29T19:00:50.720Z"
       }
     ],
     "levels": [
@@ -27121,6 +27136,10 @@
           {
             "length": 300,
             "date": "2024-10-29T18:56:52.816Z"
+          },
+          {
+            "length": 301,
+            "date": "2024-10-29T19:00:50.721Z"
           }
         ]
       },
