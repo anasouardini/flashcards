@@ -3072,6 +3072,16 @@
               "- [Living room]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Schlafzimmer (noun, singular/plural, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Bedroom]: "
+            ]
+          }
         }
       ]
     },
@@ -20900,6 +20910,11 @@
         "type": "add",
         "word": "Wohnzimmer",
         "date": "2024-10-29T17:24:01.697Z"
+      },
+      {
+        "type": "add",
+        "word": "Schlafzimmer",
+        "date": "2024-10-29T17:24:50.365Z"
       }
     ],
     "levels": [
@@ -26724,6 +26739,10 @@
           {
             "length": 280,
             "date": "2024-10-29T17:24:01.698Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-29T17:24:50.365Z"
           }
         ]
       },
