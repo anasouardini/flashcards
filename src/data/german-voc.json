@@ -3058,7 +3058,18 @@
           "back": {
             "content": [
               "- [All things considered]: ",
+              "- [Overall/In total] (adv.): ",
               "- Forms: Insgesamt (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wohnzimmer (noun, singular/plural, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Living room]: "
             ]
           }
         }
@@ -20884,6 +20895,11 @@
         "type": "add",
         "word": "Insgesamt",
         "date": "2024-10-29T17:21:37.600Z"
+      },
+      {
+        "type": "add",
+        "word": "Wohnzimmer",
+        "date": "2024-10-29T17:24:01.697Z"
       }
     ],
     "levels": [
@@ -26704,6 +26720,10 @@
           {
             "length": 279,
             "date": "2024-10-29T17:21:37.600Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-29T17:24:01.698Z"
           }
         ]
       },
