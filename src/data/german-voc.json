@@ -2996,6 +2996,17 @@
               "- [To Smell]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ganz (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Whole/Entire]: ",
+              "- Forms: Ganz (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -20789,6 +20800,11 @@
         "type": "add",
         "word": "Riecht",
         "date": "2024-10-29T16:52:45.447Z"
+      },
+      {
+        "type": "add",
+        "word": "Ganz",
+        "date": "2024-10-29T16:55:42.233Z"
       }
     ],
     "levels": [
@@ -26585,6 +26601,10 @@
           {
             "length": 273,
             "date": "2024-10-29T16:52:45.447Z"
+          },
+          {
+            "length": 274,
+            "date": "2024-10-29T16:55:42.234Z"
           }
         ]
       },
