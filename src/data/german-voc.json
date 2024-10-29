@@ -3174,6 +3174,16 @@
               "- Forms: Echt (adv.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Aufruhr (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Riot/Mess/Disturbance]: "
+            ]
+          }
         }
       ]
     },
@@ -21047,6 +21057,11 @@
         "type": "add",
         "word": "Echt",
         "date": "2024-10-29T18:06:41.656Z"
+      },
+      {
+        "type": "add",
+        "word": "Aufruhr",
+        "date": "2024-10-29T18:13:01.218Z"
       }
     ],
     "levels": [
@@ -26907,6 +26922,10 @@
           {
             "length": 289,
             "date": "2024-10-29T18:06:41.656Z"
+          },
+          {
+            "length": 290,
+            "date": "2024-10-29T18:13:01.219Z"
           }
         ]
       },
