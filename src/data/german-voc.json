@@ -572,7 +572,8 @@
           "back": {
             "content": [
               "- [Equal/Same]: ",
-              "- Forms: "
+              "- [Now] (adv.): ",
+              "- Forms: Gleich (adv.)"
             ]
           }
         },
@@ -3091,6 +3092,17 @@
             "content": [
               "- [Corridor/Hall/Hallway]: ",
               "- Forms: Flure (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Arm (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Arm]: ",
+              "- Forms: Arme (plural), Arm (adj.)"
             ]
           }
         }
@@ -20931,6 +20943,11 @@
         "type": "add",
         "word": "Flur",
         "date": "2024-10-29T17:27:58.206Z"
+      },
+      {
+        "type": "add",
+        "word": "Arm",
+        "date": "2024-10-29T17:45:32.728Z"
       }
     ],
     "levels": [
@@ -26763,6 +26780,10 @@
           {
             "length": 282,
             "date": "2024-10-29T17:27:58.206Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-10-29T17:45:32.728Z"
           }
         ]
       },
