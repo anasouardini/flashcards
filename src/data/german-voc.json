@@ -1,8 +1,8 @@
 {
-  "currentLevel": 2,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
+      "currentCardIndex": 102,
       "currentCardSide": "front",
       "cards": [
         {
@@ -45,17 +45,6 @@
           "back": {
             "content": [
               "- [Most]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Langsam (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Slow]: Auf langsamem Deutsch : In slow German",
               "- Forms: "
             ]
           }
@@ -679,16 +668,6 @@
         },
         {
           "front": {
-            "content": "Weiter (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Further on]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Seite (noun, singular, feminine)"
           },
           "back": {
@@ -705,16 +684,6 @@
           "back": {
             "content": [
               "- [Health/Condition]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Buchstabieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Spell]: "
             ]
           }
         },
@@ -761,17 +730,6 @@
         },
         {
           "front": {
-            "content": "Stunde (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Hour/Time/Lesson]: ",
-              "- Forms: Stunden (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Aussage (noun, singular, feminine)"
           },
           "back": {
@@ -789,18 +747,6 @@
             "content": [
               "- [Origin]: ",
               "- Forms: Herkünfte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zahl (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Figure/number/digit]: ",
-              "- [To Pay] (v.): ",
-              "- Forms: Zahlen (plural), Zahlen (v.)"
             ]
           }
         },
@@ -836,27 +782,6 @@
               "- [Jointly] (adv.): ",
               "- [In Common] (adv.): ",
               "- Forms: Gemeinsam (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fehlend (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Missing]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fehlen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Lack/Absence]: ",
-              "- Forms: Fehlen (adv.)"
             ]
           }
         },
@@ -919,16 +844,6 @@
           "back": {
             "content": [
               "- [Knowledge]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sprachkenntnisse (noun, plural, -)"
-          },
-          "back": {
-            "content": [
-              "- [Language skill/knowledge]: "
             ]
           }
         },
@@ -3342,6 +3257,16 @@
               "- [Popular]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sprachkenntnisse (noun, plural, -)"
+          },
+          "back": {
+            "content": [
+              "- [Language skill/knowledge]: "
+            ]
+          }
         }
       ]
     },
@@ -4798,6 +4723,81 @@
             "content": [
               "- [Flip-flop]: ",
               "- Forms: Flip-flops (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Langsam (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Slow]: Auf langsamem Deutsch : In slow German",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weiter (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Further on]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Buchstabieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Spell]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stunde (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Hour/Time/Lesson]: ",
+              "- Forms: Stunden (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zahl (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Figure/number/digit]: ",
+              "- [To Pay] (v.): ",
+              "- Forms: Zahlen (plural), Zahlen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fehlend (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Missing]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fehlen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Lack/Absence]: ",
+              "- Forms: Fehlen (adv.)"
             ]
           }
         }
@@ -21295,6 +21295,69 @@
         "type": "add",
         "word": "Populär",
         "date": "2024-10-29T19:13:36.591Z"
+      },
+      {
+        "type": "move",
+        "word": "Langsam",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-29T19:22:12.044Z"
+      },
+      {
+        "type": "move",
+        "word": "Weiter",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-29T20:49:14.703Z"
+      },
+      {
+        "type": "move",
+        "word": "Buchstabieren",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-29T20:49:30.238Z"
+      },
+      {
+        "type": "move",
+        "word": "Stunde",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-29T20:58:09.923Z"
+      },
+      {
+        "type": "move",
+        "word": "Zahl",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-29T21:00:34.099Z"
+      },
+      {
+        "type": "move",
+        "word": "Fehlend",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-29T21:20:27.511Z"
+      },
+      {
+        "type": "move",
+        "word": "Fehlen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-29T21:20:35.031Z"
+      },
+      {
+        "type": "move",
+        "word": "Sprachkenntnisse",
+        "fromLevel": 0,
+        "toLevel": 10,
+        "date": "2024-10-29T21:22:11.175Z"
+      },
+      {
+        "type": "move",
+        "word": "Sprachkenntnisse",
+        "fromLevel": 10,
+        "toLevel": 0,
+        "date": "2024-10-29T21:22:38.399Z"
       }
     ],
     "levels": [
@@ -27219,6 +27282,42 @@
           {
             "length": 305,
             "date": "2024-10-29T19:13:36.592Z"
+          },
+          {
+            "length": 304,
+            "date": "2024-10-29T19:22:12.044Z"
+          },
+          {
+            "length": 303,
+            "date": "2024-10-29T20:49:14.703Z"
+          },
+          {
+            "length": 302,
+            "date": "2024-10-29T20:49:30.238Z"
+          },
+          {
+            "length": 301,
+            "date": "2024-10-29T20:58:09.923Z"
+          },
+          {
+            "length": 300,
+            "date": "2024-10-29T21:00:34.099Z"
+          },
+          {
+            "length": 299,
+            "date": "2024-10-29T21:20:27.511Z"
+          },
+          {
+            "length": 298,
+            "date": "2024-10-29T21:20:35.031Z"
+          },
+          {
+            "length": 297,
+            "date": "2024-10-29T21:22:11.175Z"
+          },
+          {
+            "length": 298,
+            "date": "2024-10-29T21:22:38.399Z"
           }
         ]
       },
@@ -31367,6 +31466,34 @@
           {
             "length": 134,
             "date": "2024-10-28T19:08:37.383Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-10-29T19:22:12.044Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-10-29T20:49:14.703Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-10-29T20:49:30.238Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-10-29T20:58:09.923Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-10-29T21:00:34.099Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-10-29T21:20:27.511Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-10-29T21:20:35.031Z"
           }
         ]
       },
@@ -33188,7 +33315,12 @@
         "lengths": []
       },
       {
-        "lengths": []
+        "lengths": [
+          {
+            "length": 1,
+            "date": "2024-10-29T21:22:11.175Z"
+          }
+        ]
       }
     ]
   }
