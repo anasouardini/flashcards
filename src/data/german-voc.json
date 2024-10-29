@@ -3127,6 +3127,17 @@
               "- Forms: Giraffen (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Eidechse (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Lizard]: ",
+              "- Forms: Eindechsen (plural)"
+            ]
+          }
         }
       ]
     },
@@ -20980,6 +20991,11 @@
         "type": "add",
         "word": "Giraffe",
         "date": "2024-10-29T17:50:57.494Z"
+      },
+      {
+        "type": "add",
+        "word": "Eidechse",
+        "date": "2024-10-29T17:53:36.205Z"
       }
     ],
     "levels": [
@@ -26824,6 +26840,10 @@
           {
             "length": 285,
             "date": "2024-10-29T17:50:57.494Z"
+          },
+          {
+            "length": 286,
+            "date": "2024-10-29T17:53:36.206Z"
           }
         ]
       },
