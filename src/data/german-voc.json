@@ -3102,7 +3102,18 @@
           "back": {
             "content": [
               "- [Arm]: ",
+              "- [Poor] (adj.): ",
               "- Forms: Arme (plural), Arm (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hochkriegen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Get smth up]: "
             ]
           }
         }
@@ -20948,6 +20959,11 @@
         "type": "add",
         "word": "Arm",
         "date": "2024-10-29T17:45:32.728Z"
+      },
+      {
+        "type": "add",
+        "word": "Hochkriegen",
+        "date": "2024-10-29T17:47:15.032Z"
       }
     ],
     "levels": [
@@ -26784,6 +26800,10 @@
           {
             "length": 283,
             "date": "2024-10-29T17:45:32.728Z"
+          },
+          {
+            "length": 284,
+            "date": "2024-10-29T17:47:15.032Z"
           }
         ]
       },
