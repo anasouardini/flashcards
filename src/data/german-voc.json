@@ -3158,7 +3158,20 @@
           "back": {
             "content": [
               "- [Rime/Collar]: ",
+              "- [Mature/Adult] (adj.): ",
+              "- [Maturely] (adv.): ",
               "- Forms: Reif (adv.), Reif (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Echt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Real]: ",
+              "- Forms: Echt (adv.)"
             ]
           }
         }
@@ -21029,6 +21042,11 @@
         "type": "add",
         "word": "Reif",
         "date": "2024-10-29T18:04:19.163Z"
+      },
+      {
+        "type": "add",
+        "word": "Echt",
+        "date": "2024-10-29T18:06:41.656Z"
       }
     ],
     "levels": [
@@ -26885,6 +26903,10 @@
           {
             "length": 288,
             "date": "2024-10-29T18:04:19.163Z"
+          },
+          {
+            "length": 289,
+            "date": "2024-10-29T18:06:41.656Z"
           }
         ]
       },
