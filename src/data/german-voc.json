@@ -3082,6 +3082,17 @@
               "- [Bedroom]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Flur (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Corridor/Hall/Hallway]: ",
+              "- Forms: Flure (plural)"
+            ]
+          }
         }
       ]
     },
@@ -20915,6 +20926,11 @@
         "type": "add",
         "word": "Schlafzimmer",
         "date": "2024-10-29T17:24:50.365Z"
+      },
+      {
+        "type": "add",
+        "word": "Flur",
+        "date": "2024-10-29T17:27:58.206Z"
       }
     ],
     "levels": [
@@ -26743,6 +26759,10 @@
           {
             "length": 281,
             "date": "2024-10-29T17:24:50.365Z"
+          },
+          {
+            "length": 282,
+            "date": "2024-10-29T17:27:58.206Z"
           }
         ]
       },
