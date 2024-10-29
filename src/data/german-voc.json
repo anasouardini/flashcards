@@ -3050,6 +3050,17 @@
               "- [Rods(s)/Stick(s)]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Insgesamt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [All things considered]: ",
+              "- Forms: Insgesamt (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -20868,6 +20879,11 @@
         "type": "add",
         "word": "Stäbchen",
         "date": "2024-10-29T17:20:04.842Z"
+      },
+      {
+        "type": "add",
+        "word": "Insgesamt",
+        "date": "2024-10-29T17:21:37.600Z"
       }
     ],
     "levels": [
@@ -26684,6 +26700,10 @@
           {
             "length": 278,
             "date": "2024-10-29T17:20:04.843Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-29T17:21:37.600Z"
           }
         ]
       },
