@@ -3018,6 +3018,17 @@
               "- [Bone(s)]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Verschiedene (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Different]: ",
+              "- Forms: Verschiedene (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -20821,6 +20832,11 @@
         "type": "add",
         "word": "Knochen",
         "date": "2024-10-29T17:09:16.008Z"
+      },
+      {
+        "type": "add",
+        "word": "Verschiedene",
+        "date": "2024-10-29T17:15:39.492Z"
       }
     ],
     "levels": [
@@ -26625,6 +26641,10 @@
           {
             "length": 275,
             "date": "2024-10-29T17:09:16.009Z"
+          },
+          {
+            "length": 276,
+            "date": "2024-10-29T17:15:39.492Z"
           }
         ]
       },
