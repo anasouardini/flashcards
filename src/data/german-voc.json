@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 201,
+      "currentCardIndex": 213,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1830,7 +1830,8 @@
           },
           "back": {
             "content": [
-              "- [To Go on]: ",
+              "- [To Continue]: ",
+              "- [To Take]: ",
               "- [To Last]: "
             ]
           }
@@ -2223,18 +2224,6 @@
               "- [Progress]: ",
               "- [Advance]: ",
               "- Forms: Fortschritte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zeituhr/Timer (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Clock]: ",
-              "- [Timer]: ",
-              "- Forms: Fortschritten (plural)"
             ]
           }
         },
@@ -4798,6 +4787,17 @@
           "back": {
             "content": [
               "- [Ouside]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeituhr/Timer (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Clock]: ",
+              "- [Timer]: "
             ]
           }
         }
@@ -21456,6 +21456,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-30T20:48:31.205Z"
+      },
+      {
+        "type": "move",
+        "word": "Zeituhr/Timer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T22:19:03.790Z"
       }
     ],
     "levels": [
@@ -27472,6 +27479,10 @@
           {
             "length": 284,
             "date": "2024-10-30T20:48:31.205Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-10-30T22:19:03.790Z"
           }
         ]
       },
@@ -31704,6 +31715,10 @@
           {
             "length": 155,
             "date": "2024-10-30T20:48:31.205Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-10-30T22:19:03.790Z"
           }
         ]
       },
