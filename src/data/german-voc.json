@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 213,
+      "currentCardIndex": 220,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2356,16 +2356,6 @@
         },
         {
           "front": {
-            "content": "Dauert (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Last/Take (time)]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zurück (adv.)"
           },
           "back": {
@@ -2440,16 +2430,6 @@
               "- [Space]: ",
               "- [Area]: ",
               "- Forms: Räume (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hängen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Hang]: "
             ]
           }
         },
@@ -4798,6 +4778,16 @@
             "content": [
               "- [Clock]: ",
               "- [Timer]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hängen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Hang]: "
             ]
           }
         }
@@ -20262,11 +20252,6 @@
       },
       {
         "type": "add",
-        "word": "Dauert",
-        "date": "2024-10-26T18:46:01.886Z"
-      },
-      {
-        "type": "add",
         "word": "Zurück",
         "date": "2024-10-26T18:47:20.730Z"
       },
@@ -21463,6 +21448,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-30T22:19:03.790Z"
+      },
+      {
+        "type": "move",
+        "word": "Hängen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T22:33:51.936Z"
       }
     ],
     "levels": [
@@ -27483,6 +27475,10 @@
           {
             "length": 283,
             "date": "2024-10-30T22:19:03.790Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-10-30T22:33:51.936Z"
           }
         ]
       },
@@ -31719,6 +31715,10 @@
           {
             "length": 156,
             "date": "2024-10-30T22:19:03.790Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-10-30T22:33:51.936Z"
           }
         ]
       },
