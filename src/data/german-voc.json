@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 104,
+      "currentCardIndex": 201,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1402,18 +1402,6 @@
         },
         {
           "front": {
-            "content": "Drucke (noun, singular/plural, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Printer]: ",
-              "- [To Print]: ",
-              "- Forms: Drucken (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Anruf (noun, singular, masculine)"
           },
           "back": {
@@ -1486,46 +1474,11 @@
         },
         {
           "front": {
-            "content": "Handtuch (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Towel]: ",
-              "- Forms: Handtücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Stöbern (v.)"
           },
           "back": {
             "content": [
               "- [Browse]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Handeln (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Bargain]: ",
-              "- [To Act]: ",
-              "- [To Trade]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Händler (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Dealers]: ",
-              "- [Traders]: ",
-              "- Forms: Händler (plural)"
             ]
           }
         },
@@ -1547,16 +1500,6 @@
             "content": [
               "- [Visitor]: ",
               "- Forms: Besucher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Pro (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Per/For]: 7 Euro pro Meter : 7 Euro per meter"
             ]
           }
         },
@@ -1620,27 +1563,6 @@
         },
         {
           "front": {
-            "content": "Auge (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Eye]: ",
-              "- Forms: Augen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Besten (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Best]: passt am besten : fits better"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Malen (v.)"
           },
           "back": {
@@ -1683,17 +1605,6 @@
         },
         {
           "front": {
-            "content": "Liebling (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Favorite]: ",
-              "- Forms: Lieblinge (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Selten (adj.)"
           },
           "back": {
@@ -1711,27 +1622,6 @@
             "content": [
               "- [Frequent]: ",
               "- Forms: Häufig (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Meistens (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Mostly]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gelegentlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Occaisonal]: ",
-              "- Forms: Gelegentlich (adv.)"
             ]
           }
         },
@@ -1947,16 +1837,6 @@
         },
         {
           "front": {
-            "content": "Manchmal (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Sometimes]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Aufstehen (v.)"
           },
           "back": {
@@ -2022,17 +1902,6 @@
         },
         {
           "front": {
-            "content": "Gabel (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Fork]: ",
-              "- Forms: Gabeln (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Vogel (noun, singular, masculine)"
           },
           "back": {
@@ -2044,12 +1913,12 @@
         },
         {
           "front": {
-            "content": "Saft (noun, singular, masculine)"
+            "content": "Gabel (noun, singular, feminine)"
           },
           "back": {
             "content": [
-              "- [Juice]: ",
-              "- Forms: Säfte (plural)"
+              "- [Fork]: ",
+              "- Forms: Gabeln (plural)"
             ]
           }
         },
@@ -2061,6 +1930,17 @@
             "content": [
               "- [Orange juice]: ",
               "- Forms: OrangenSäfte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Saft (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Juice]: ",
+              "- Forms: Säfte (plural)"
             ]
           }
         },
@@ -2103,37 +1983,6 @@
           "back": {
             "content": [
               "- [To Rest]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Katze (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Cat]: ",
-              "- Forms: Katzen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Innerhalb (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Inside]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Außerhalb (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Ouside]: "
             ]
           }
         },
@@ -4798,6 +4647,157 @@
             "content": [
               "- [Lack/Absence]: ",
               "- Forms: Fehlen (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Drucke (noun, singular/plural, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Printer]: ",
+              "- [To Print]: ",
+              "- Forms: Drucken (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Handtuch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Towel]: ",
+              "- Forms: Handtücher (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Handeln (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Bargain]: ",
+              "- [To Act]: ",
+              "- [To Trade]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Händler (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Dealers]: ",
+              "- [Traders]: ",
+              "- Forms: Händler (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Pro (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Per/For]: 7 Euro pro Meter : 7 Euro per meter"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auge (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Eye]: ",
+              "- Forms: Augen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Besten (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Best]: passt am besten : fits better"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Liebling (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Favorite]: ",
+              "- Forms: Lieblinge (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Meistens (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Mostly]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gelegentlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Occaisonal]: ",
+              "- Forms: Gelegentlich (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Manchmal (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Sometimes]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Katze (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Cat]: ",
+              "- Forms: Katzen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Innerhalb (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Inside]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Außerhalb (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Ouside]: "
             ]
           }
         }
@@ -21358,6 +21358,104 @@
         "fromLevel": 10,
         "toLevel": 0,
         "date": "2024-10-29T21:22:38.399Z"
+      },
+      {
+        "type": "move",
+        "word": "Drucke",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T17:51:24.153Z"
+      },
+      {
+        "type": "move",
+        "word": "Handtuch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T18:05:54.500Z"
+      },
+      {
+        "type": "move",
+        "word": "Handeln",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T18:09:01.003Z"
+      },
+      {
+        "type": "move",
+        "word": "Händler",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T18:09:10.739Z"
+      },
+      {
+        "type": "move",
+        "word": "Pro",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T18:14:17.192Z"
+      },
+      {
+        "type": "move",
+        "word": "Auge",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T18:39:27.009Z"
+      },
+      {
+        "type": "move",
+        "word": "Besten",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T18:39:47.154Z"
+      },
+      {
+        "type": "move",
+        "word": "Liebling",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T19:03:37.724Z"
+      },
+      {
+        "type": "move",
+        "word": "Meistens",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T19:11:26.610Z"
+      },
+      {
+        "type": "move",
+        "word": "Gelegentlich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T19:11:42.131Z"
+      },
+      {
+        "type": "move",
+        "word": "Manchmal",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T20:12:55.197Z"
+      },
+      {
+        "type": "move",
+        "word": "Katze",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T20:48:22.733Z"
+      },
+      {
+        "type": "move",
+        "word": "Innerhalb",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T20:48:29.421Z"
+      },
+      {
+        "type": "move",
+        "word": "Außerhalb",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-30T20:48:31.205Z"
       }
     ],
     "levels": [
@@ -27318,6 +27416,62 @@
           {
             "length": 298,
             "date": "2024-10-29T21:22:38.399Z"
+          },
+          {
+            "length": 297,
+            "date": "2024-10-30T17:51:24.228Z"
+          },
+          {
+            "length": 296,
+            "date": "2024-10-30T18:05:54.500Z"
+          },
+          {
+            "length": 295,
+            "date": "2024-10-30T18:09:01.003Z"
+          },
+          {
+            "length": 294,
+            "date": "2024-10-30T18:09:10.739Z"
+          },
+          {
+            "length": 293,
+            "date": "2024-10-30T18:14:17.192Z"
+          },
+          {
+            "length": 292,
+            "date": "2024-10-30T18:39:27.009Z"
+          },
+          {
+            "length": 291,
+            "date": "2024-10-30T18:39:47.154Z"
+          },
+          {
+            "length": 290,
+            "date": "2024-10-30T19:03:37.724Z"
+          },
+          {
+            "length": 289,
+            "date": "2024-10-30T19:11:26.610Z"
+          },
+          {
+            "length": 288,
+            "date": "2024-10-30T19:11:42.131Z"
+          },
+          {
+            "length": 287,
+            "date": "2024-10-30T20:12:55.197Z"
+          },
+          {
+            "length": 286,
+            "date": "2024-10-30T20:48:22.733Z"
+          },
+          {
+            "length": 285,
+            "date": "2024-10-30T20:48:29.421Z"
+          },
+          {
+            "length": 284,
+            "date": "2024-10-30T20:48:31.205Z"
           }
         ]
       },
@@ -31494,6 +31648,62 @@
           {
             "length": 141,
             "date": "2024-10-29T21:20:35.031Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-10-30T17:51:24.228Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-10-30T18:05:54.500Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-10-30T18:09:01.003Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-10-30T18:09:10.739Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-10-30T18:14:17.192Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-10-30T18:39:27.009Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-10-30T18:39:47.154Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-10-30T19:03:37.724Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-10-30T19:11:26.610Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-10-30T19:11:42.131Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-10-30T20:12:55.197Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-10-30T20:48:22.733Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-10-30T20:48:29.421Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-10-30T20:48:31.205Z"
           }
         ]
       },
