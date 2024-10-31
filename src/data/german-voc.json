@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 123,
-      "currentCardSide": "front",
+      "currentCardIndex": 156,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -1521,30 +1521,6 @@
             "content": [
               "- [Dozen]: ",
               "- Forms: Dutzende (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zusammenfassung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Summary]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "An (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [In]: ",
-              "- [At]: ",
-              "- [On]: ",
-              "- [Of]: ",
-              "- [By]: "
             ]
           }
         },
@@ -4788,6 +4764,30 @@
             "content": [
               "- [Visitor]: ",
               "- Forms: Besucher (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zusammenfassung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Summary]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "An (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [In]: ",
+              "- [At]: ",
+              "- [On]: ",
+              "- [Of]: ",
+              "- [By]: "
             ]
           }
         }
@@ -21588,6 +21588,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-31T20:52:14.374Z"
+      },
+      {
+        "type": "move",
+        "word": "Zusammenfassung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T21:47:42.764Z"
+      },
+      {
+        "type": "move",
+        "word": "An",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T21:48:07.356Z"
       }
     ],
     "levels": [
@@ -27688,6 +27702,14 @@
           {
             "length": 262,
             "date": "2024-10-31T20:52:14.374Z"
+          },
+          {
+            "length": 261,
+            "date": "2024-10-31T21:47:42.766Z"
+          },
+          {
+            "length": 260,
+            "date": "2024-10-31T21:48:07.356Z"
           }
         ]
       },
@@ -32004,6 +32026,14 @@
           {
             "length": 176,
             "date": "2024-10-31T20:52:14.374Z"
+          },
+          {
+            "length": 177,
+            "date": "2024-10-31T21:47:42.766Z"
+          },
+          {
+            "length": 178,
+            "date": "2024-10-31T21:48:07.356Z"
           }
         ]
       },
