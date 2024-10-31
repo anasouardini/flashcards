@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 220,
-      "currentCardSide": "back",
+      "currentCardIndex": 123,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -302,20 +302,6 @@
           "back": {
             "content": [
               "- [Neither]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Noch (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Nor]: ",
-              "- [Still] (adv.): ",
-              "- [Further/More] (adv.): ",
-              "- [only] (adv.): ",
               "- Forms: "
             ]
           }
@@ -668,17 +654,6 @@
         },
         {
           "front": {
-            "content": "Seite (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Page]: ",
-              "- Forms: Seiten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Befinden (noun, singular, neuter)"
           },
           "back": {
@@ -695,16 +670,6 @@
             "content": [
               "- [Turn/Twist]: ",
               "- Forms: Wendungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Am (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [On]: Am = An + dem"
             ]
           }
         },
@@ -874,17 +839,6 @@
         },
         {
           "front": {
-            "content": "Bisschen (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Little]: ",
-              "- Forms: Bisschen (noun)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Satz (noun, singular, masculine)"
           },
           "back": {
@@ -997,33 +951,11 @@
         },
         {
           "front": {
-            "content": "Sessel (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Arm chair]: ",
-              "- Forms: Sessel (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Passen (v.)"
           },
           "back": {
             "content": [
               "- [To Fit/Suit/Match]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Günstig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Cheap]: ",
-              "- Forms: Günstig (adv.)"
             ]
           }
         },
@@ -1035,17 +967,6 @@
             "content": [
               "- [Real]: ",
               "- Forms: Wirklich (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schrank (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Closet]: ",
-              "- Forms: Schränke (plural)"
             ]
           }
         },
@@ -1096,28 +1017,6 @@
         },
         {
           "front": {
-            "content": "Eigentlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Real/Actual]: ",
-              "- [Really/Actually] (adv.): "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zeitung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Newspaper]: ",
-              "- Forms: Zeitungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Damals (adv.)"
           },
           "back": {
@@ -1152,36 +1051,11 @@
         },
         {
           "front": {
-            "content": "Mal (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Time]: ",
-              "- [Times] (prep.): 3 mal 3 gleich 9 : 3 times 3 equal 9",
-              "- [Times] (suffix): hundertmal : hundred times",
-              "- [From time to time] (adv.):",
-              "- [Let's] (?): Mal gucken : Let's see",
-              "- Forms: -mal (suffix), Mal (adv.), Mal (prep.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wohl (adv.)"
           },
           "back": {
             "content": [
               "- [Probably]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ordnung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Order/Tidyness]: Ist alles in Ordnung? : Is everything in order?"
             ]
           }
         },
@@ -1193,47 +1067,6 @@
             "content": [
               "- [Prepared]: ",
               "- Forms: Vorbereitet (adv.), Vorbereiten (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Verändern (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To change]: ",
-              "- Forms: Verändert (adj.), Verändert (pp.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Holz (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Wood]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Eckig (noun, sngular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Square]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kugel (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Ball]: "
             ]
           }
         },
@@ -1257,27 +1090,6 @@
               "- [Mixing]: ",
               "- [To Mix] (v.): ",
               "- Forms: Mischen (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bestellung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Order (a product)]: ",
-              "- Forms: Bestellungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bestellen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Order (a product)]: "
             ]
           }
         },
@@ -1367,16 +1179,6 @@
               "- [Gathering/Collecting]: ",
               "- [To Gather/To Collect] (v.): ",
               "- Forms: Sammeln (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Da (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [There]: Da sind : there are"
             ]
           }
         },
@@ -1489,17 +1291,6 @@
           "back": {
             "content": [
               "- [Between]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Besucher (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Visitor]: ",
-              "- Forms: Besucher (plural)"
             ]
           }
         },
@@ -4788,6 +4579,215 @@
           "back": {
             "content": [
               "- [To Hang]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Noch (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Nor]: ",
+              "- [Still] (adv.): ",
+              "- [Further/More] (adv.): ",
+              "- [only] (adv.): ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Seite (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Page]: ",
+              "- Forms: Seiten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Am (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [On]: Am = An + dem"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bisschen (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Little]: ",
+              "- Forms: Bisschen (noun)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sessel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Arm chair]: ",
+              "- Forms: Sessel (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Günstig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Cheap]: ",
+              "- Forms: Günstig (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schrank (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Closet]: ",
+              "- Forms: Schränke (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Eigentlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Real/Actual]: ",
+              "- [Really/Actually] (adv.): "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeitung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Newspaper]: ",
+              "- Forms: Zeitungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mal (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Time]: ",
+              "- [Times] (prep.): 3 mal 3 gleich 9 : 3 times 3 equal 9",
+              "- [Times] (suffix): hundertmal : hundred times",
+              "- [From time to time] (adv.):",
+              "- [Let's] (?): Mal gucken : Let's see",
+              "- Forms: -mal (suffix), Mal (adv.), Mal (prep.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ordnung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Order/Tidyness]: Ist alles in Ordnung? : Is everything in order?"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Verändern (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To change]: ",
+              "- Forms: Verändert (adj.), Verändert (pp.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Holz (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Wood]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Eckig (noun, sngular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Square]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kugel (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Ball]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bestellung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Order (a product)]: ",
+              "- Forms: Bestellungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bestellen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Order (a product)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Da (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [There]: Da sind : there are"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Besucher (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Visitor]: ",
+              "- Forms: Besucher (plural)"
             ]
           }
         }
@@ -21455,6 +21455,139 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-30T22:33:51.936Z"
+      },
+      {
+        "type": "move",
+        "word": "Noch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T17:54:19.074Z"
+      },
+      {
+        "type": "move",
+        "word": "Seite",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T19:22:24.689Z"
+      },
+      {
+        "type": "move",
+        "word": "Am",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T19:26:03.159Z"
+      },
+      {
+        "type": "move",
+        "word": "Bisschen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T19:48:07.952Z"
+      },
+      {
+        "type": "move",
+        "word": "Sessel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T19:57:42.605Z"
+      },
+      {
+        "type": "move",
+        "word": "Günstig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T19:58:01.021Z"
+      },
+      {
+        "type": "move",
+        "word": "Schrank",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T19:58:18.397Z"
+      },
+      {
+        "type": "move",
+        "word": "Eigentlich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:02:24.100Z"
+      },
+      {
+        "type": "move",
+        "word": "Zeitung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:02:28.004Z"
+      },
+      {
+        "type": "move",
+        "word": "Mal",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:11:35.618Z"
+      },
+      {
+        "type": "move",
+        "word": "Ordnung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:13:35.129Z"
+      },
+      {
+        "type": "move",
+        "word": "Verändern",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:17:24.895Z"
+      },
+      {
+        "type": "move",
+        "word": "Holz",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:17:27.791Z"
+      },
+      {
+        "type": "move",
+        "word": "Eckig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:17:31.095Z"
+      },
+      {
+        "type": "move",
+        "word": "Kugel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:17:34.391Z"
+      },
+      {
+        "type": "move",
+        "word": "Bestellung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:17:53.151Z"
+      },
+      {
+        "type": "move",
+        "word": "Bestellen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:17:57.719Z"
+      },
+      {
+        "type": "move",
+        "word": "Da",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:30:49.268Z"
+      },
+      {
+        "type": "move",
+        "word": "Besucher",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-10-31T20:52:14.374Z"
       }
     ],
     "levels": [
@@ -27479,6 +27612,82 @@
           {
             "length": 281,
             "date": "2024-10-30T22:33:51.936Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-10-31T17:54:19.153Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-10-31T19:22:24.689Z"
+          },
+          {
+            "length": 278,
+            "date": "2024-10-31T19:26:03.159Z"
+          },
+          {
+            "length": 277,
+            "date": "2024-10-31T19:48:07.953Z"
+          },
+          {
+            "length": 276,
+            "date": "2024-10-31T19:57:42.605Z"
+          },
+          {
+            "length": 275,
+            "date": "2024-10-31T19:58:01.021Z"
+          },
+          {
+            "length": 274,
+            "date": "2024-10-31T19:58:18.397Z"
+          },
+          {
+            "length": 273,
+            "date": "2024-10-31T20:02:24.100Z"
+          },
+          {
+            "length": 272,
+            "date": "2024-10-31T20:02:28.004Z"
+          },
+          {
+            "length": 271,
+            "date": "2024-10-31T20:11:35.618Z"
+          },
+          {
+            "length": 270,
+            "date": "2024-10-31T20:13:35.129Z"
+          },
+          {
+            "length": 269,
+            "date": "2024-10-31T20:17:24.896Z"
+          },
+          {
+            "length": 268,
+            "date": "2024-10-31T20:17:27.791Z"
+          },
+          {
+            "length": 267,
+            "date": "2024-10-31T20:17:31.096Z"
+          },
+          {
+            "length": 266,
+            "date": "2024-10-31T20:17:34.391Z"
+          },
+          {
+            "length": 265,
+            "date": "2024-10-31T20:17:53.151Z"
+          },
+          {
+            "length": 264,
+            "date": "2024-10-31T20:17:57.719Z"
+          },
+          {
+            "length": 263,
+            "date": "2024-10-31T20:30:49.268Z"
+          },
+          {
+            "length": 262,
+            "date": "2024-10-31T20:52:14.374Z"
           }
         ]
       },
@@ -31719,6 +31928,82 @@
           {
             "length": 157,
             "date": "2024-10-30T22:33:51.936Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-10-31T17:54:19.153Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-10-31T19:22:24.689Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-10-31T19:26:03.159Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-10-31T19:48:07.953Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-10-31T19:57:42.605Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-10-31T19:58:01.021Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-10-31T19:58:18.397Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-10-31T20:02:24.100Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-10-31T20:02:28.004Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-10-31T20:11:35.618Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-10-31T20:13:35.129Z"
+          },
+          {
+            "length": 169,
+            "date": "2024-10-31T20:17:24.896Z"
+          },
+          {
+            "length": 170,
+            "date": "2024-10-31T20:17:27.791Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-10-31T20:17:31.096Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-10-31T20:17:34.391Z"
+          },
+          {
+            "length": 173,
+            "date": "2024-10-31T20:17:53.151Z"
+          },
+          {
+            "length": 174,
+            "date": "2024-10-31T20:17:57.719Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-10-31T20:30:49.268Z"
+          },
+          {
+            "length": 176,
+            "date": "2024-10-31T20:52:14.374Z"
           }
         ]
       },
