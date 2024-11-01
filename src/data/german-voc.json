@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 156,
+      "currentCardIndex": 189,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2034,17 +2034,6 @@
           "back": {
             "content": [
               "- [About]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Spiel (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Game]: ",
-              "- Forms: Spiele (plural)"
             ]
           }
         },
@@ -4788,6 +4777,17 @@
               "- [On]: ",
               "- [Of]: ",
               "- [By]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Spiel (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Game]: ",
+              "- Forms: Spiele (plural)"
             ]
           }
         }
@@ -21602,6 +21602,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-31T21:48:07.356Z"
+      },
+      {
+        "type": "move",
+        "word": "Spiel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-01T18:15:40.871Z"
       }
     ],
     "levels": [
@@ -27710,6 +27717,10 @@
           {
             "length": 260,
             "date": "2024-10-31T21:48:07.356Z"
+          },
+          {
+            "length": 259,
+            "date": "2024-11-01T18:15:41.646Z"
           }
         ]
       },
@@ -32034,6 +32045,10 @@
           {
             "length": 178,
             "date": "2024-10-31T21:48:07.356Z"
+          },
+          {
+            "length": 179,
+            "date": "2024-11-01T18:15:41.646Z"
           }
         ]
       },
