@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 217,
+      "currentCardIndex": 243,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2608,17 +2608,6 @@
         },
         {
           "front": {
-            "content": "Giraffe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Giraffe]: ",
-              "- Forms: Giraffen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Eidechse (noun, singular, feminine)"
           },
           "back": {
@@ -2681,28 +2670,6 @@
           "back": {
             "content": [
               "- [Rather]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Interessengebiet (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Area of interest]: ",
-              "- Forms: Interessengebiete (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Interesse (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Interest/Concern]: ",
-              "- Forms: Interessen (plural)"
             ]
           }
         },
@@ -4788,6 +4755,39 @@
             "content": [
               "- [Game]: ",
               "- Forms: Spiele (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Giraffe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Giraffe]: ",
+              "- Forms: Giraffen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Interessengebiet (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Area of interest]: ",
+              "- Forms: Interessengebiete (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Interesse (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Interest/Concern]: ",
+              "- Forms: Interessen (plural)"
             ]
           }
         }
@@ -21609,6 +21609,27 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-01T18:15:40.871Z"
+      },
+      {
+        "type": "move",
+        "word": "Giraffe",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-02T17:36:36.873Z"
+      },
+      {
+        "type": "move",
+        "word": "Interessengebiet",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-02T18:14:41.076Z"
+      },
+      {
+        "type": "move",
+        "word": "Interesse",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-02T18:14:48.717Z"
       }
     ],
     "levels": [
@@ -27721,6 +27742,18 @@
           {
             "length": 259,
             "date": "2024-11-01T18:15:41.646Z"
+          },
+          {
+            "length": 258,
+            "date": "2024-11-02T17:36:36.939Z"
+          },
+          {
+            "length": 257,
+            "date": "2024-11-02T18:14:41.076Z"
+          },
+          {
+            "length": 256,
+            "date": "2024-11-02T18:14:48.717Z"
           }
         ]
       },
@@ -32049,6 +32082,18 @@
           {
             "length": 179,
             "date": "2024-11-01T18:15:41.646Z"
+          },
+          {
+            "length": 180,
+            "date": "2024-11-02T17:36:36.939Z"
+          },
+          {
+            "length": 181,
+            "date": "2024-11-02T18:14:41.076Z"
+          },
+          {
+            "length": 182,
+            "date": "2024-11-02T18:14:48.717Z"
           }
         ]
       },
