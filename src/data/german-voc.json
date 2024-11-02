@@ -1,9 +1,9 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
-      "currentCardIndex": 243,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2679,9 +2679,9 @@
           },
           "back": {
             "content": [
-              "- [To Breath]: ",
-              "- [Breathing] (n.): ",
-              "- Forms: Atmen (n.)"
+              "- [Breathing]: ",
+              "- [To Breath] (v.): ",
+              "- Forms: Atmen (v.)"
             ]
           }
         },
@@ -2788,32 +2788,12 @@
               "- Forms: Sparen (n.)"
             ]
           }
-        },
-        {
-          "front": {
-            "content": "Populär (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Popular]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sprachkenntnisse (noun, plural, -)"
-          },
-          "back": {
-            "content": [
-              "- [Language skill/knowledge]: "
-            ]
-          }
         }
       ]
     },
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 88,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -3282,27 +3262,6 @@
         },
         {
           "front": {
-            "content": "Daraus (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [From there]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Beispiel (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Example]: ",
-              "- Forms: Beispiele (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Statistik (noun, singular, feminine)"
           },
           "back": {
@@ -3474,16 +3433,6 @@
         },
         {
           "front": {
-            "content": "Praktikum (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Internship]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Ansehen (v.)"
           },
           "back": {
@@ -3595,54 +3544,12 @@
         },
         {
           "front": {
-            "content": "Nie/Niemals (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Never]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Markt (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Market]: ",
-              "- Forms: Märkte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Kurs (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Course]: ",
               "- Forms: Kurse (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Na (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Well]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wagen (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Car]: ",
-              "- Forms: Wagen/Wägen (plural)"
             ]
           }
         },
@@ -3659,76 +3566,11 @@
         },
         {
           "front": {
-            "content": "Oftmals (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Often]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Natürlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Natural]: ",
-              "- [Naturally] (adv.): ",
-              "- [Of Course] (adv.): ",
-              "- Forms: Natürlich (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schwimmbad (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Swimming pool]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Unter (preposition)"
           },
           "back": {
             "content": [
               "- [Under]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ritual (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Ritual]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wasser (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Water]: ",
-              "- Forms: Wasser (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Pullover (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Sweater]: ",
-              "- Forms: Pullover (plural)"
             ]
           }
         },
@@ -3823,17 +3665,6 @@
         },
         {
           "front": {
-            "content": "Spielen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To play/act]: ",
-              "- Forms: Spiele (noun, plural, neuter)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Reden (v.)"
           },
           "back": {
@@ -3905,26 +3736,6 @@
             "content": [
               "- [Dictionary]: ",
               "- Forms: Wörterbücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zettel (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Note/Piece of paper]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fremd (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Foreign]: "
             ]
           }
         },
@@ -4788,6 +4599,26 @@
             "content": [
               "- [Interest/Concern]: ",
               "- Forms: Interessen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Populär (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Popular]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sprachkenntnisse (noun, plural, -)"
+          },
+          "back": {
+            "content": [
+              "- [Language skill/knowledge]: "
             ]
           }
         }
@@ -9593,6 +9424,175 @@
             "content": [
               "- [Far]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Daraus (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [From there]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beispiel (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Example]: ",
+              "- Forms: Beispiele (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Praktikum (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Internship]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nie/Niemals (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Never]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Markt (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Market]: ",
+              "- Forms: Märkte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Na (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Well]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wagen (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Car]: ",
+              "- Forms: Wagen/Wägen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Oftmals (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Often]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Natürlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Natural]: ",
+              "- [Naturally] (adv.): ",
+              "- [Of Course] (adv.): ",
+              "- Forms: Natürlich (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schwimmbad (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Swimming pool]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ritual (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Ritual]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wasser (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Water]: ",
+              "- Forms: Wasser (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Pullover (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sweater]: ",
+              "- Forms: Pullover (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Spielen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To play/act]: ",
+              "- Forms: Spiele (noun, plural, neuter)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zettel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Note/Piece of paper]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fremd (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Foreign]: "
             ]
           }
         }
@@ -21630,6 +21630,132 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-02T18:14:48.717Z"
+      },
+      {
+        "type": "move",
+        "word": "Populär",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-02T21:09:13.892Z"
+      },
+      {
+        "type": "move",
+        "word": "Sprachkenntnisse",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-02T21:09:28.852Z"
+      },
+      {
+        "type": "move",
+        "word": "Daraus",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:17:41.485Z"
+      },
+      {
+        "type": "move",
+        "word": "Beispiel",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:17:59.836Z"
+      },
+      {
+        "type": "move",
+        "word": "Praktikum",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:22:58.426Z"
+      },
+      {
+        "type": "move",
+        "word": "Nie/Niemals",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:28:19.383Z"
+      },
+      {
+        "type": "move",
+        "word": "Markt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:28:30.176Z"
+      },
+      {
+        "type": "move",
+        "word": "Na",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:29:34.607Z"
+      },
+      {
+        "type": "move",
+        "word": "Wagen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:29:44.752Z"
+      },
+      {
+        "type": "move",
+        "word": "Oftmals",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:31:26.319Z"
+      },
+      {
+        "type": "move",
+        "word": "Natürlich",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:32:10.799Z"
+      },
+      {
+        "type": "move",
+        "word": "Schwimmbad",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:32:19.375Z"
+      },
+      {
+        "type": "move",
+        "word": "Ritual",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:32:27.999Z"
+      },
+      {
+        "type": "move",
+        "word": "Wasser",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:32:37.630Z"
+      },
+      {
+        "type": "move",
+        "word": "Pullover",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:32:49.726Z"
+      },
+      {
+        "type": "move",
+        "word": "Spielen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:49:49.505Z"
+      },
+      {
+        "type": "move",
+        "word": "Zettel",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:52:32.472Z"
+      },
+      {
+        "type": "move",
+        "word": "Fremd",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-02T22:52:39.016Z"
       }
     ],
     "levels": [
@@ -27754,6 +27880,14 @@
           {
             "length": 256,
             "date": "2024-11-02T18:14:48.717Z"
+          },
+          {
+            "length": 255,
+            "date": "2024-11-02T21:09:13.892Z"
+          },
+          {
+            "length": 254,
+            "date": "2024-11-02T21:09:28.852Z"
           }
         ]
       },
@@ -32094,6 +32228,78 @@
           {
             "length": 182,
             "date": "2024-11-02T18:14:48.717Z"
+          },
+          {
+            "length": 183,
+            "date": "2024-11-02T21:09:13.892Z"
+          },
+          {
+            "length": 184,
+            "date": "2024-11-02T21:09:28.852Z"
+          },
+          {
+            "length": 183,
+            "date": "2024-11-02T22:17:41.485Z"
+          },
+          {
+            "length": 182,
+            "date": "2024-11-02T22:17:59.836Z"
+          },
+          {
+            "length": 181,
+            "date": "2024-11-02T22:22:58.426Z"
+          },
+          {
+            "length": 180,
+            "date": "2024-11-02T22:28:19.383Z"
+          },
+          {
+            "length": 179,
+            "date": "2024-11-02T22:28:30.176Z"
+          },
+          {
+            "length": 178,
+            "date": "2024-11-02T22:29:34.607Z"
+          },
+          {
+            "length": 177,
+            "date": "2024-11-02T22:29:44.752Z"
+          },
+          {
+            "length": 176,
+            "date": "2024-11-02T22:31:26.319Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-11-02T22:32:10.799Z"
+          },
+          {
+            "length": 174,
+            "date": "2024-11-02T22:32:19.375Z"
+          },
+          {
+            "length": 173,
+            "date": "2024-11-02T22:32:27.999Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-11-02T22:32:37.630Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-11-02T22:32:49.726Z"
+          },
+          {
+            "length": 170,
+            "date": "2024-11-02T22:49:49.505Z"
+          },
+          {
+            "length": 169,
+            "date": "2024-11-02T22:52:32.472Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-11-02T22:52:39.016Z"
           }
         ]
       },
@@ -33890,6 +34096,70 @@
           {
             "length": 438,
             "date": "2024-10-28T19:08:37.383Z"
+          },
+          {
+            "length": 439,
+            "date": "2024-11-02T22:17:41.485Z"
+          },
+          {
+            "length": 440,
+            "date": "2024-11-02T22:17:59.836Z"
+          },
+          {
+            "length": 441,
+            "date": "2024-11-02T22:22:58.426Z"
+          },
+          {
+            "length": 442,
+            "date": "2024-11-02T22:28:19.383Z"
+          },
+          {
+            "length": 443,
+            "date": "2024-11-02T22:28:30.176Z"
+          },
+          {
+            "length": 444,
+            "date": "2024-11-02T22:29:34.607Z"
+          },
+          {
+            "length": 445,
+            "date": "2024-11-02T22:29:44.752Z"
+          },
+          {
+            "length": 446,
+            "date": "2024-11-02T22:31:26.319Z"
+          },
+          {
+            "length": 447,
+            "date": "2024-11-02T22:32:10.799Z"
+          },
+          {
+            "length": 448,
+            "date": "2024-11-02T22:32:19.375Z"
+          },
+          {
+            "length": 449,
+            "date": "2024-11-02T22:32:27.999Z"
+          },
+          {
+            "length": 450,
+            "date": "2024-11-02T22:32:37.630Z"
+          },
+          {
+            "length": 451,
+            "date": "2024-11-02T22:32:49.727Z"
+          },
+          {
+            "length": 452,
+            "date": "2024-11-02T22:49:49.505Z"
+          },
+          {
+            "length": 453,
+            "date": "2024-11-02T22:52:32.472Z"
+          },
+          {
+            "length": 454,
+            "date": "2024-11-02T22:52:39.016Z"
           }
         ]
       },
