@@ -2792,7 +2792,7 @@
       ]
     },
     {
-      "currentCardIndex": 88,
+      "currentCardIndex": 123,
       "currentCardSide": "back",
       "cards": [
         {
@@ -3836,27 +3836,6 @@
         },
         {
           "front": {
-            "content": "Fragebogen (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Quetionaire]: ",
-              "- Forms: Fragebogen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bald (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Soon]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Schönster (adv.)"
           },
           "back": {
@@ -3986,31 +3965,11 @@
         },
         {
           "front": {
-            "content": "Ähm (interjection)"
-          },
-          "back": {
-            "content": [
-              "- [Umm]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sonnenbrille (noun, plural, feminine)"
           },
           "back": {
             "content": [
               "- [Sunglasses]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Beginnen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Begin]: "
             ]
           }
         },
@@ -4064,17 +4023,6 @@
           "back": {
             "content": [
               "- [Civilization]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Flipflop (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Flip-flop]: ",
-              "- Forms: Flip-flops (plural)"
             ]
           }
         },
@@ -8073,7 +8021,7 @@
           "back": {
             "content": [
               "- [History]: ",
-              "- Forms: Geschichte (plural)"
+              "- Forms: Geschichten (plural)"
             ]
           }
         },
@@ -9142,7 +9090,7 @@
           },
           "back": {
             "content": [
-              "- [Now]: ",
+              "- [Now/Curently]: ",
               "- [Present] (noun): ",
               "- Forms: Jetzt (noun)"
             ]
@@ -9593,6 +9541,58 @@
           "back": {
             "content": [
               "- [Foreign]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fragebogen (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Quetionaire]: ",
+              "- Forms: Fragebogen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bald (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Soon]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ähm (interjection)"
+          },
+          "back": {
+            "content": [
+              "- [Umm]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beginnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Begin]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Flipflop (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Flip-flop]: ",
+              "- Forms: Flip-flops (plural)"
             ]
           }
         }
@@ -21756,6 +21756,41 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-02T22:52:39.016Z"
+      },
+      {
+        "type": "move",
+        "word": "Fragebogen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-03T19:17:03.934Z"
+      },
+      {
+        "type": "move",
+        "word": "Bald",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-03T19:17:12.198Z"
+      },
+      {
+        "type": "move",
+        "word": "Ähm",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-03T19:22:19.638Z"
+      },
+      {
+        "type": "move",
+        "word": "Beginnen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-03T19:22:35.365Z"
+      },
+      {
+        "type": "move",
+        "word": "Flipflop",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-03T19:28:41.317Z"
       }
     ],
     "levels": [
@@ -32300,6 +32335,26 @@
           {
             "length": 168,
             "date": "2024-11-02T22:52:39.016Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-11-03T19:17:04.004Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-11-03T19:17:12.198Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-11-03T19:22:19.638Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-11-03T19:22:35.365Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-11-03T19:28:41.317Z"
           }
         ]
       },
@@ -34160,6 +34215,26 @@
           {
             "length": 454,
             "date": "2024-11-02T22:52:39.016Z"
+          },
+          {
+            "length": 455,
+            "date": "2024-11-03T19:17:04.004Z"
+          },
+          {
+            "length": 456,
+            "date": "2024-11-03T19:17:12.198Z"
+          },
+          {
+            "length": 457,
+            "date": "2024-11-03T19:22:19.638Z"
+          },
+          {
+            "length": 458,
+            "date": "2024-11-03T19:22:35.365Z"
+          },
+          {
+            "length": 459,
+            "date": "2024-11-03T19:28:41.317Z"
           }
         ]
       },
