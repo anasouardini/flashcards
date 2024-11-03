@@ -2792,8 +2792,8 @@
       ]
     },
     {
-      "currentCardIndex": 123,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -4138,13 +4138,12 @@
         },
         {
           "front": {
-            "content": "Händler (noun, singular, masculine)"
+            "content": "Händler (noun, singular/plural, masculine)"
           },
           "back": {
             "content": [
-              "- [Dealers]: ",
-              "- [Traders]: ",
-              "- Forms: Händler (plural)"
+              "- [Dealer(s)]: ",
+              "- [Trader(s)]: "
             ]
           }
         },
@@ -4254,17 +4253,6 @@
         },
         {
           "front": {
-            "content": "Zeituhr/Timer (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Clock]: ",
-              "- [Timer]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Hängen (v.)"
           },
           "back": {
@@ -4295,16 +4283,6 @@
             "content": [
               "- [Page]: ",
               "- Forms: Seiten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Am (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [On]: Am = An + dem"
             ]
           }
         },
@@ -9593,6 +9571,27 @@
             "content": [
               "- [Flip-flop]: ",
               "- Forms: Flip-flops (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeituhr/Timer (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Clock]: ",
+              "- [Timer]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Am (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [On]: Am = An + dem"
             ]
           }
         }
@@ -21791,6 +21790,20 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-03T19:28:41.317Z"
+      },
+      {
+        "type": "move",
+        "word": "Zeituhr/Timer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-03T19:43:27.667Z"
+      },
+      {
+        "type": "move",
+        "word": "Am",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-03T19:48:01.474Z"
       }
     ],
     "levels": [
@@ -32355,6 +32368,14 @@
           {
             "length": 163,
             "date": "2024-11-03T19:28:41.317Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-11-03T19:43:27.667Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-11-03T19:48:01.474Z"
           }
         ]
       },
@@ -34235,6 +34256,14 @@
           {
             "length": 459,
             "date": "2024-11-03T19:28:41.317Z"
+          },
+          {
+            "length": 460,
+            "date": "2024-11-03T19:43:27.667Z"
+          },
+          {
+            "length": 461,
+            "date": "2024-11-03T19:48:01.474Z"
           }
         ]
       },
