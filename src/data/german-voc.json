@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 36,
-      "currentCardSide": "back",
+      "currentCardIndex": 52,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -480,17 +480,6 @@
           "back": {
             "content": [
               "- [Possible]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Warum (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Why]: ",
               "- Forms: "
             ]
           }
@@ -4544,6 +4533,17 @@
           "back": {
             "content": [
               "- [Confident]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Warum (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Why]: ",
               "- Forms: "
             ]
           }
@@ -21874,6 +21874,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-03T20:27:20.201Z"
+      },
+      {
+        "type": "move",
+        "word": "Warum",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-03T22:14:37.137Z"
       }
     ],
     "levels": [
@@ -28046,6 +28053,10 @@
           {
             "length": 244,
             "date": "2024-11-03T20:27:20.201Z"
+          },
+          {
+            "length": 243,
+            "date": "2024-11-03T22:14:37.137Z"
           }
         ]
       },
@@ -32526,6 +32537,10 @@
           {
             "length": 171,
             "date": "2024-11-03T20:27:20.201Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-11-03T22:14:37.137Z"
           }
         ]
       },
