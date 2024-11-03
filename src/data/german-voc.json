@@ -1,9 +1,9 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 36,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -129,17 +129,6 @@
         },
         {
           "front": {
-            "content": "Wissen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To know]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Glauben (v.)"
           },
           "back": {
@@ -185,40 +174,6 @@
         },
         {
           "front": {
-            "content": "Stehen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To stand]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bleiben (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To stay]: ",
-              "- [To maintain]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Treffen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To hit/meet]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Erzählen (v.)"
           },
           "back": {
@@ -252,18 +207,6 @@
         },
         {
           "front": {
-            "content": "Damit (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [So that, So, In order to]: ",
-              "- [with]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Während (conjunction)"
           },
           "back": {
@@ -280,28 +223,6 @@
           "back": {
             "content": [
               "- [Even]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Entweder (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Either]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Weder (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Neither]: ",
               "- Forms: "
             ]
           }
@@ -388,17 +309,6 @@
         },
         {
           "front": {
-            "content": "Bezahlen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To pay]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Fertig (adj.)"
           },
           "back": {
@@ -443,17 +353,6 @@
         },
         {
           "front": {
-            "content": "Ruhig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Quiet]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Geduldig (adj.)"
           },
           "back": {
@@ -470,17 +369,6 @@
           "back": {
             "content": [
               "- [Reliable]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Selbstbewusst (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Confident]: ",
               "- Forms: "
             ]
           }
@@ -4545,6 +4433,118 @@
           "back": {
             "content": [
               "- [Language skill/knowledge]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wissen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To know]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To stand]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bleiben (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To stay]: ",
+              "- [To maintain]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Treffen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To hit/meet]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Damit (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [So that, So, In order to]: ",
+              "- [with]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Entweder (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Either]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weder (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Neither]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bezahlen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To pay]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ruhig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Quiet]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Selbstbewusst (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Confident]: ",
+              "- Forms: "
             ]
           }
         }
@@ -21804,6 +21804,76 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-03T19:48:01.474Z"
+      },
+      {
+        "type": "move",
+        "word": "Wissen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-03T20:17:39.579Z"
+      },
+      {
+        "type": "move",
+        "word": "Stehen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-03T20:19:27.587Z"
+      },
+      {
+        "type": "move",
+        "word": "Bleiben",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-03T20:19:36.489Z"
+      },
+      {
+        "type": "move",
+        "word": "Treffen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-03T20:19:41.426Z"
+      },
+      {
+        "type": "move",
+        "word": "Damit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-03T20:21:14.178Z"
+      },
+      {
+        "type": "move",
+        "word": "Entweder",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-03T20:21:36.969Z"
+      },
+      {
+        "type": "move",
+        "word": "Weder",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-03T20:21:39.913Z"
+      },
+      {
+        "type": "move",
+        "word": "Bezahlen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-03T20:24:05.065Z"
+      },
+      {
+        "type": "move",
+        "word": "Ruhig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-03T20:24:49.401Z"
+      },
+      {
+        "type": "move",
+        "word": "Selbstbewusst",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-03T20:27:20.201Z"
       }
     ],
     "levels": [
@@ -27936,6 +28006,46 @@
           {
             "length": 254,
             "date": "2024-11-02T21:09:28.852Z"
+          },
+          {
+            "length": 253,
+            "date": "2024-11-03T20:17:39.580Z"
+          },
+          {
+            "length": 252,
+            "date": "2024-11-03T20:19:27.587Z"
+          },
+          {
+            "length": 251,
+            "date": "2024-11-03T20:19:36.489Z"
+          },
+          {
+            "length": 250,
+            "date": "2024-11-03T20:19:41.426Z"
+          },
+          {
+            "length": 249,
+            "date": "2024-11-03T20:21:14.178Z"
+          },
+          {
+            "length": 248,
+            "date": "2024-11-03T20:21:36.969Z"
+          },
+          {
+            "length": 247,
+            "date": "2024-11-03T20:21:39.914Z"
+          },
+          {
+            "length": 246,
+            "date": "2024-11-03T20:24:05.065Z"
+          },
+          {
+            "length": 245,
+            "date": "2024-11-03T20:24:49.401Z"
+          },
+          {
+            "length": 244,
+            "date": "2024-11-03T20:27:20.201Z"
           }
         ]
       },
@@ -32376,6 +32486,46 @@
           {
             "length": 161,
             "date": "2024-11-03T19:48:01.474Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-11-03T20:17:39.580Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-11-03T20:19:27.587Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-11-03T20:19:36.489Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-11-03T20:19:41.426Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-11-03T20:21:14.178Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-11-03T20:21:36.969Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-11-03T20:21:39.914Z"
+          },
+          {
+            "length": 169,
+            "date": "2024-11-03T20:24:05.065Z"
+          },
+          {
+            "length": 170,
+            "date": "2024-11-03T20:24:49.401Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-11-03T20:27:20.201Z"
           }
         ]
       },
