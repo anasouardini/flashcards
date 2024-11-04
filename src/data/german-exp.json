@@ -2789,6 +2789,16 @@
               "- [Especially]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Wie war dein..."
+          },
+          "back": {
+            "content": [
+              "- [How was your...]: "
+            ]
+          }
         }
       ]
     },
@@ -3518,6 +3528,11 @@
         "type": "add",
         "word": "Vor allem",
         "date": "2024-10-29T19:04:43.038Z"
+      },
+      {
+        "type": "add",
+        "word": "Wie war dein...",
+        "date": "2024-11-04T21:36:55.942Z"
       }
     ],
     "levels": [
@@ -3886,6 +3901,10 @@
           {
             "length": 278,
             "date": "2024-10-29T19:04:43.038Z"
+          },
+          {
+            "length": 279,
+            "date": "2024-11-04T21:36:55.943Z"
           }
         ]
       },
