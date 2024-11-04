@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 52,
-      "currentCardSide": "front",
+      "currentCardIndex": 103,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -675,7 +675,8 @@
           },
           "back": {
             "content": [
-              "- [Section]: "
+              "- [Section]: ",
+              "- Forms: Auschnitte (plural)"
             ]
           }
         },
@@ -1032,18 +1033,6 @@
           "back": {
             "content": [
               "- [Start/Begin]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tafel (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Table]: ",
-              "- [Board]: ",
-              "- Forms: Tafeln (plural)"
             ]
           }
         },
@@ -4545,6 +4534,18 @@
             "content": [
               "- [Why]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tafel (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Table]: ",
+              "- [Board]: ",
+              "- Forms: Tafeln (plural)"
             ]
           }
         }
@@ -21881,6 +21882,13 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-03T22:14:37.137Z"
+      },
+      {
+        "type": "move",
+        "word": "Tafel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-04T19:34:53.714Z"
       }
     ],
     "levels": [
@@ -28057,6 +28065,10 @@
           {
             "length": 243,
             "date": "2024-11-03T22:14:37.137Z"
+          },
+          {
+            "length": 242,
+            "date": "2024-11-04T19:34:53.806Z"
           }
         ]
       },
@@ -32541,6 +32553,10 @@
           {
             "length": 172,
             "date": "2024-11-03T22:14:37.137Z"
+          },
+          {
+            "length": 173,
+            "date": "2024-11-04T19:34:53.806Z"
           }
         ]
       },
