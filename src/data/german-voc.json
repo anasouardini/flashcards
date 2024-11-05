@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 131,
-      "currentCardSide": "back",
+      "currentCardIndex": 146,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -1461,6 +1461,7 @@
           },
           "back": {
             "content": [
+              "- [Against]: ",
               "- [Around]: ",
               "- [Towards]: "
             ]
@@ -1480,55 +1481,12 @@
         },
         {
           "front": {
-            "content": "Also (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Therefore/So]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Vogel (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Bird]: ",
-              "- Forms: Vögel (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gabel (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Fork]: ",
               "- Forms: Gabeln (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Orangensaft (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Orange juice]: ",
-              "- Forms: OrangenSäfte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Saft (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Juice]: ",
-              "- Forms: Säfte (plural)"
             ]
           }
         },
@@ -1576,27 +1534,6 @@
         },
         {
           "front": {
-            "content": "Luft (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Air]: ",
-              "- Forms: Lüfte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sich hinsetzen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Set down oneself]: Ich setze mich hin : I set myself down"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Kranke (noun, singular/plural, feminine)"
           },
           "back": {
@@ -1610,44 +1547,11 @@
         },
         {
           "front": {
-            "content": "Zahn (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Tooth]: ",
-              "- Forms: Zähne (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Pflanze (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Plant]: ",
-              "- Forms: Pflanzen (plural), Pflanzen (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sich kümmern um (v.)"
           },
           "back": {
             "content": [
               "- [To look after]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Trocken (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Dry]: ",
-              "- Forms: Trocken (adv.)"
             ]
           }
         },
@@ -1695,42 +1599,11 @@
         },
         {
           "front": {
-            "content": "Pflanzen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Plant]: ",
-              "- Forms: Pflanze(n) (noun)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wenig (pronoun/quantifier)"
           },
           "back": {
             "content": [
               "- [Little]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Daran (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Thereon/On it/At it]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Weitergehen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Proceed]: "
             ]
           }
         },
@@ -4546,6 +4419,134 @@
             "content": [
               "- [Dozen]: ",
               "- Forms: Dutzende (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Also (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Therefore/So]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Vogel (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Bird]: ",
+              "- Forms: Vögel (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Orangensaft (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Orange juice]: ",
+              "- Forms: OrangenSäfte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Saft (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Juice]: ",
+              "- Forms: Säfte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Luft (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Air]: ",
+              "- Forms: Lüfte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sich hinsetzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Set down oneself]: Ich setze mich hin : I set myself down"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zahn (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Tooth]: ",
+              "- Forms: Zähne (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Pflanze (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Plant]: ",
+              "- Forms: Pflanzen (plural), Pflanzen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Trocken (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Dry]: ",
+              "- Forms: Trocken (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Pflanzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Plant]: ",
+              "- Forms: Pflanze(n) (noun)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Daran (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Thereon/On it/At it]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weitergehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Proceed]: "
             ]
           }
         }
@@ -21917,6 +21918,90 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-05T19:56:45.476Z"
+      },
+      {
+        "type": "move",
+        "word": "Also",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T20:31:06.523Z"
+      },
+      {
+        "type": "move",
+        "word": "Vogel",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T20:31:19.027Z"
+      },
+      {
+        "type": "move",
+        "word": "Orangensaft",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T20:41:14.943Z"
+      },
+      {
+        "type": "move",
+        "word": "Saft",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T20:41:17.743Z"
+      },
+      {
+        "type": "move",
+        "word": "Luft",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T21:04:19.159Z"
+      },
+      {
+        "type": "move",
+        "word": "Sich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T21:05:04.535Z"
+      },
+      {
+        "type": "move",
+        "word": "Zahn",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T21:10:50.547Z"
+      },
+      {
+        "type": "move",
+        "word": "Pflanze",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T21:11:13.428Z"
+      },
+      {
+        "type": "move",
+        "word": "Trocken",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T21:52:27.808Z"
+      },
+      {
+        "type": "move",
+        "word": "Pflanzen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T22:08:37.139Z"
+      },
+      {
+        "type": "move",
+        "word": "Daran",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T22:20:29.225Z"
+      },
+      {
+        "type": "move",
+        "word": "Weitergehen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T22:20:37.944Z"
       }
     ],
     "levels": [
@@ -28113,6 +28198,54 @@
           {
             "length": 238,
             "date": "2024-11-05T19:56:45.476Z"
+          },
+          {
+            "length": 237,
+            "date": "2024-11-05T20:31:06.523Z"
+          },
+          {
+            "length": 236,
+            "date": "2024-11-05T20:31:19.027Z"
+          },
+          {
+            "length": 235,
+            "date": "2024-11-05T20:41:14.943Z"
+          },
+          {
+            "length": 234,
+            "date": "2024-11-05T20:41:17.743Z"
+          },
+          {
+            "length": 233,
+            "date": "2024-11-05T21:04:19.159Z"
+          },
+          {
+            "length": 232,
+            "date": "2024-11-05T21:05:04.535Z"
+          },
+          {
+            "length": 231,
+            "date": "2024-11-05T21:10:50.547Z"
+          },
+          {
+            "length": 230,
+            "date": "2024-11-05T21:11:13.428Z"
+          },
+          {
+            "length": 229,
+            "date": "2024-11-05T21:52:27.808Z"
+          },
+          {
+            "length": 228,
+            "date": "2024-11-05T22:08:37.139Z"
+          },
+          {
+            "length": 227,
+            "date": "2024-11-05T22:20:29.225Z"
+          },
+          {
+            "length": 226,
+            "date": "2024-11-05T22:20:37.944Z"
           }
         ]
       },
@@ -32617,6 +32750,54 @@
           {
             "length": 177,
             "date": "2024-11-05T19:56:45.476Z"
+          },
+          {
+            "length": 178,
+            "date": "2024-11-05T20:31:06.523Z"
+          },
+          {
+            "length": 179,
+            "date": "2024-11-05T20:31:19.027Z"
+          },
+          {
+            "length": 180,
+            "date": "2024-11-05T20:41:14.943Z"
+          },
+          {
+            "length": 181,
+            "date": "2024-11-05T20:41:17.743Z"
+          },
+          {
+            "length": 182,
+            "date": "2024-11-05T21:04:19.159Z"
+          },
+          {
+            "length": 183,
+            "date": "2024-11-05T21:05:04.535Z"
+          },
+          {
+            "length": 184,
+            "date": "2024-11-05T21:10:50.547Z"
+          },
+          {
+            "length": 185,
+            "date": "2024-11-05T21:11:13.428Z"
+          },
+          {
+            "length": 186,
+            "date": "2024-11-05T21:52:27.808Z"
+          },
+          {
+            "length": 187,
+            "date": "2024-11-05T22:08:37.139Z"
+          },
+          {
+            "length": 188,
+            "date": "2024-11-05T22:20:29.225Z"
+          },
+          {
+            "length": 189,
+            "date": "2024-11-05T22:20:37.944Z"
           }
         ]
       },
