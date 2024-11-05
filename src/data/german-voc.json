@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 103,
+      "currentCardIndex": 131,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1162,17 +1162,6 @@
         },
         {
           "front": {
-            "content": "Öffnen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Open]: ",
-              "- Forms: Geöffnet (pp.), Offen (adj.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Eintritt (noun, singular, masculine)"
           },
           "back": {
@@ -1191,30 +1180,6 @@
               "- [To Enter]: ",
               "- [To Occur]: ",
               "- [To Happen]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gegenstand (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Item]: ",
-              "- [Topic]: ",
-              "- [Thing]: ",
-              "- Forms: Gegenstände (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zeichnung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Drawings]: ",
-              "- Forms: Zeichnungen (plural), Zeichnen (v.)"
             ]
           }
         },
@@ -1376,17 +1341,6 @@
               "- [Pile]: ",
               "- [Batch]: ",
               "- Forms: Stapel (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Dutzend (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Dozen]: ",
-              "- Forms: Dutzende (plural)"
             ]
           }
         },
@@ -4546,6 +4500,52 @@
               "- [Table]: ",
               "- [Board]: ",
               "- Forms: Tafeln (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Öffnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Open]: ",
+              "- Forms: Geöffnet (pp.), Offen (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gegenstand (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Item]: ",
+              "- [Topic]: ",
+              "- [Thing]: ",
+              "- Forms: Gegenstände (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeichnung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Drawings]: ",
+              "- Forms: Zeichnungen (plural), Zeichnen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Dutzend (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Dozen]: ",
+              "- Forms: Dutzende (plural)"
             ]
           }
         }
@@ -21889,6 +21889,34 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-04T19:34:53.714Z"
+      },
+      {
+        "type": "move",
+        "word": "Öffnen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T19:52:34.615Z"
+      },
+      {
+        "type": "move",
+        "word": "Gegenstand",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T19:52:46.860Z"
+      },
+      {
+        "type": "move",
+        "word": "Zeichnung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T19:52:50.710Z"
+      },
+      {
+        "type": "move",
+        "word": "Dutzend",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T19:56:45.476Z"
       }
     ],
     "levels": [
@@ -28069,6 +28097,22 @@
           {
             "length": 242,
             "date": "2024-11-04T19:34:53.806Z"
+          },
+          {
+            "length": 241,
+            "date": "2024-11-05T19:52:34.616Z"
+          },
+          {
+            "length": 240,
+            "date": "2024-11-05T19:52:46.860Z"
+          },
+          {
+            "length": 239,
+            "date": "2024-11-05T19:52:50.710Z"
+          },
+          {
+            "length": 238,
+            "date": "2024-11-05T19:56:45.476Z"
           }
         ]
       },
@@ -32557,6 +32601,22 @@
           {
             "length": 173,
             "date": "2024-11-04T19:34:53.806Z"
+          },
+          {
+            "length": 174,
+            "date": "2024-11-05T19:52:34.616Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-11-05T19:52:46.860Z"
+          },
+          {
+            "length": 176,
+            "date": "2024-11-05T19:52:50.710Z"
+          },
+          {
+            "length": 177,
+            "date": "2024-11-05T19:56:45.476Z"
           }
         ]
       },
