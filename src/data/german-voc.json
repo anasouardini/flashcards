@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 171,
+      "currentCardIndex": 195,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1900,7 +1900,7 @@
           },
           "back": {
             "content": [
-              "- [To Obtain/Gain]: ",
+              "- [To Obtain/Gain/Receive]: ",
               "- [To Maintain]: "
             ]
           }
@@ -1913,16 +1913,6 @@
             "content": [
               "- [Healthy]: ",
               "- Forms: Gesund (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Prima (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Great/Super]: "
             ]
           }
         },
@@ -1969,17 +1959,6 @@
         },
         {
           "front": {
-            "content": "Tier (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Animal]: ",
-              "- Forms: Tiere (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Ursprünglich (adj.)"
           },
           "back": {
@@ -2001,33 +1980,12 @@
         },
         {
           "front": {
-            "content": "Müll (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Waste]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Abgelaufen (adj.)"
           },
           "back": {
             "content": [
               "- [Expired]: ",
               "- Forms: Abgelaufen (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Handschuh (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Glove]: ",
-              "- Forms: Handschuhe (plural)"
             ]
           }
         },
@@ -2108,33 +2066,12 @@
         },
         {
           "front": {
-            "content": "Schuh (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Shoe]: ",
-              "- Forms: Schuhe (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Leckerli (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [Goodie/Treat]: ",
               "- Forms: Leckerlis (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Riecht (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Smell]: "
             ]
           }
         },
@@ -2173,17 +2110,6 @@
         },
         {
           "front": {
-            "content": "Käse (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Cheese]: ",
-              "- [Crap/Garbage]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Stäbchen (noun, singular/singular, neuter)"
           },
           "back": {
@@ -2206,54 +2132,12 @@
         },
         {
           "front": {
-            "content": "Wohnzimmer (noun, singular/plural, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Living room]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schlafzimmer (noun, singular/plural, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Bedroom]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Flur (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Corridor/Hall/Hallway]: ",
               "- Forms: Flure (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Arm (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Arm]: ",
-              "- [Poor] (adj.): ",
-              "- Forms: Arme (plural), Arm (adj.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hochkriegen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Get smth up]: "
             ]
           }
         },
@@ -4549,6 +4433,122 @@
               "- Forms: Socken (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Prima (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Great/Super]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tier (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Animal]: ",
+              "- Forms: Tiere (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Müll (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Waste]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Handschuh (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Glove]: ",
+              "- Forms: Handschuhe (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schuh (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Shoe]: ",
+              "- Forms: Schuhe (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Riecht (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Smell]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Käse (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Cheese]: ",
+              "- [Crap/Garbage]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wohnzimmer (noun, singular/plural, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Living room]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schlafzimmer (noun, singular/plural, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Bedroom]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Arm (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Arm]: ",
+              "- [Poor] (adj.): ",
+              "- Forms: Arme (plural), Arm (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hochkriegen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Get smth up]: "
+            ]
+          }
         }
       ]
     },
@@ -5285,7 +5285,10 @@
           },
           "back": {
             "content": [
-              "- [To get/become]: ",
+              "- [To Get]: ",
+              "- [To Receive]: ",
+              "- [To Obtain]: ",
+              "- [To Gain]: ",
               "- Forms: "
             ]
           }
@@ -22030,6 +22033,83 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-06T14:13:00.384Z"
+      },
+      {
+        "type": "move",
+        "word": "Prima",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T18:40:33.394Z"
+      },
+      {
+        "type": "move",
+        "word": "Tier",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T19:13:42.258Z"
+      },
+      {
+        "type": "move",
+        "word": "Müll",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T19:30:14.342Z"
+      },
+      {
+        "type": "move",
+        "word": "Handschuh",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T19:35:23.427Z"
+      },
+      {
+        "type": "move",
+        "word": "Schuh",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T20:05:34.476Z"
+      },
+      {
+        "type": "move",
+        "word": "Riecht",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T20:15:15.913Z"
+      },
+      {
+        "type": "move",
+        "word": "Käse",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T20:45:58.249Z"
+      },
+      {
+        "type": "move",
+        "word": "Wohnzimmer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T21:02:00.428Z"
+      },
+      {
+        "type": "move",
+        "word": "Schlafzimmer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T21:02:06.493Z"
+      },
+      {
+        "type": "move",
+        "word": "Arm",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T21:06:01.532Z"
+      },
+      {
+        "type": "move",
+        "word": "Hochkriegen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T21:09:27.708Z"
       }
     ],
     "levels": [
@@ -28290,6 +28370,50 @@
           {
             "length": 222,
             "date": "2024-11-06T14:13:00.384Z"
+          },
+          {
+            "length": 221,
+            "date": "2024-11-06T18:40:33.394Z"
+          },
+          {
+            "length": 220,
+            "date": "2024-11-06T19:13:42.258Z"
+          },
+          {
+            "length": 219,
+            "date": "2024-11-06T19:30:14.342Z"
+          },
+          {
+            "length": 218,
+            "date": "2024-11-06T19:35:23.428Z"
+          },
+          {
+            "length": 217,
+            "date": "2024-11-06T20:05:34.476Z"
+          },
+          {
+            "length": 216,
+            "date": "2024-11-06T20:15:15.913Z"
+          },
+          {
+            "length": 215,
+            "date": "2024-11-06T20:45:58.249Z"
+          },
+          {
+            "length": 214,
+            "date": "2024-11-06T21:02:00.428Z"
+          },
+          {
+            "length": 213,
+            "date": "2024-11-06T21:02:06.493Z"
+          },
+          {
+            "length": 212,
+            "date": "2024-11-06T21:06:01.532Z"
+          },
+          {
+            "length": 211,
+            "date": "2024-11-06T21:09:27.708Z"
           }
         ]
       },
@@ -32858,6 +32982,50 @@
           {
             "length": 193,
             "date": "2024-11-06T14:13:00.384Z"
+          },
+          {
+            "length": 194,
+            "date": "2024-11-06T18:40:33.394Z"
+          },
+          {
+            "length": 195,
+            "date": "2024-11-06T19:13:42.258Z"
+          },
+          {
+            "length": 196,
+            "date": "2024-11-06T19:30:14.342Z"
+          },
+          {
+            "length": 197,
+            "date": "2024-11-06T19:35:23.428Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-11-06T20:05:34.476Z"
+          },
+          {
+            "length": 199,
+            "date": "2024-11-06T20:15:15.913Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-11-06T20:45:58.249Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-11-06T21:02:00.428Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-11-06T21:02:06.493Z"
+          },
+          {
+            "length": 203,
+            "date": "2024-11-06T21:06:01.532Z"
+          },
+          {
+            "length": 204,
+            "date": "2024-11-06T21:09:27.708Z"
           }
         ]
       },
