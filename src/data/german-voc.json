@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 146,
-      "currentCardSide": "front",
+      "currentCardIndex": 171,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -1625,7 +1625,7 @@
           "back": {
             "content": [
               "- [Eventual]: ",
-              "- [Eventually/Finally] (adj.): ",
+              "- [Eventually/Finally] (adv.): ",
               "- Forms: Endlich (adv.)"
             ]
           }
@@ -1712,16 +1712,6 @@
         },
         {
           "front": {
-            "content": "Kriegen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Get]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Darüber (prep.)"
           },
           "back": {
@@ -1737,17 +1727,6 @@
           "back": {
             "content": [
               "- [To Fight]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Hacken (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Hack]: ",
-              "- [To Chop]: "
             ]
           }
         },
@@ -1795,16 +1774,6 @@
         },
         {
           "front": {
-            "content": "Raus (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Out]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Zurück (adv.)"
           },
           "back": {
@@ -1833,17 +1802,6 @@
               "- [Around]: ",
               "- [Through]: ",
               "- [By]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Socken (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Sock]: ",
-              "- Forms: Socken (plural)"
             ]
           }
         },
@@ -4547,6 +4505,48 @@
           "back": {
             "content": [
               "- [To Proceed]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kriegen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Get]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Hacken (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Hack]: ",
+              "- [To Chop]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Raus (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Out]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Socken (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Sock]: ",
+              "- Forms: Socken (plural)"
             ]
           }
         }
@@ -22002,6 +22002,34 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-05T22:20:37.944Z"
+      },
+      {
+        "type": "move",
+        "word": "Kriegen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T22:49:28.937Z"
+      },
+      {
+        "type": "move",
+        "word": "Hacken",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-05T23:02:15.269Z"
+      },
+      {
+        "type": "move",
+        "word": "Raus",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T13:43:53.472Z"
+      },
+      {
+        "type": "move",
+        "word": "Socken",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T14:13:00.384Z"
       }
     ],
     "levels": [
@@ -28246,6 +28274,22 @@
           {
             "length": 226,
             "date": "2024-11-05T22:20:37.944Z"
+          },
+          {
+            "length": 225,
+            "date": "2024-11-05T22:49:28.937Z"
+          },
+          {
+            "length": 224,
+            "date": "2024-11-05T23:02:15.270Z"
+          },
+          {
+            "length": 223,
+            "date": "2024-11-06T13:43:53.541Z"
+          },
+          {
+            "length": 222,
+            "date": "2024-11-06T14:13:00.384Z"
           }
         ]
       },
@@ -32798,6 +32842,22 @@
           {
             "length": 189,
             "date": "2024-11-05T22:20:37.944Z"
+          },
+          {
+            "length": 190,
+            "date": "2024-11-05T22:49:28.937Z"
+          },
+          {
+            "length": 191,
+            "date": "2024-11-05T23:02:15.270Z"
+          },
+          {
+            "length": 192,
+            "date": "2024-11-06T13:43:53.541Z"
+          },
+          {
+            "length": 193,
+            "date": "2024-11-06T14:13:00.384Z"
           }
         ]
       },
