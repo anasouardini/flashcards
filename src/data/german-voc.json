@@ -1,9 +1,9 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
-      "currentCardIndex": 195,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2158,7 +2158,7 @@
           },
           "back": {
             "content": [
-              "- [Tire(s)/Hoop(s)]: ",
+              "- [Tier(s)/Hoop(s)]: ",
               "- [Mature/Age] (v.): ",
               "- Forms: Reifen (plural), Reifen (v.)"
             ]
@@ -2273,32 +2273,11 @@
         },
         {
           "front": {
-            "content": "Danach (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Afterwards/After it]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Jeder (pron.)"
           },
           "back": {
             "content": [
               "- [Any/Every/All]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Abkürzung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Abbreviation]: ",
-              "- Forms: Abkürzungen (plural)"
             ]
           }
         },
@@ -4547,6 +4526,27 @@
           "back": {
             "content": [
               "- [To Get smth up]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Danach (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Afterwards/After it]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Abkürzung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Abbreviation]: ",
+              "- Forms: Abkürzungen (plural)"
             ]
           }
         }
@@ -22110,6 +22110,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-06T21:09:27.708Z"
+      },
+      {
+        "type": "move",
+        "word": "Danach",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T21:58:08.642Z"
+      },
+      {
+        "type": "move",
+        "word": "Abkürzung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-06T22:00:18.800Z"
       }
     ],
     "levels": [
@@ -28414,6 +28428,14 @@
           {
             "length": 211,
             "date": "2024-11-06T21:09:27.708Z"
+          },
+          {
+            "length": 210,
+            "date": "2024-11-06T21:58:08.642Z"
+          },
+          {
+            "length": 209,
+            "date": "2024-11-06T22:00:18.800Z"
           }
         ]
       },
@@ -33026,6 +33048,14 @@
           {
             "length": 204,
             "date": "2024-11-06T21:09:27.708Z"
+          },
+          {
+            "length": 205,
+            "date": "2024-11-06T21:58:08.642Z"
+          },
+          {
+            "length": 206,
+            "date": "2024-11-06T22:00:18.800Z"
           }
         ]
       },
