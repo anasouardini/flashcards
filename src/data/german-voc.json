@@ -2,8 +2,8 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 46,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -12,72 +12,6 @@
           "back": {
             "content": [
               "- [Understand]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Heißen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Be called/To Mean]: Das heißt : That means; Ich heiße Anas : I'm called Anas",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Müssen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To have to]: Gehen müssen : Have to go",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Meisten (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Most]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gestorben (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Dead]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Außer (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Except]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Freuen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Be pleased]: ",
               "- Forms: "
             ]
           }
@@ -163,135 +97,11 @@
         },
         {
           "front": {
-            "content": "Zeigen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To show]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Erzählen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To tell]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ziehen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To pull/drag/draw]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Trotzdem (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Yet]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Während (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [While]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sogar (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [Even]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Lieber (adv.)"
           },
           "back": {
             "content": [
               "- [Rather]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Liegen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To lie down]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Meinen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To think]: ",
-              "- [To mean]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Verlieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To lose]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Setzen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To sit down]: ",
-              "- [To put]: ",
-              "- [To place]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sitzen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To sit]: ",
               "- Forms: "
             ]
           }
@@ -309,77 +119,11 @@
         },
         {
           "front": {
-            "content": "Fertig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Ready]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sicher (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Safe]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Einzig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Single]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schwach (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Weak]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Geduldig (adj.)"
           },
           "back": {
             "content": [
               "- [Patient]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zuverlässig (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Reliable]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Schüchtern (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Shy]: ",
               "- Forms: "
             ]
           }
@@ -397,56 +141,11 @@
         },
         {
           "front": {
-            "content": "Gelangweilt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Bored]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Aufgeregt (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Excited]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Überrascht (adj.)"
           },
           "back": {
             "content": [
               "- [Surprised]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gleich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Equal/Same]: ",
-              "- [Now] (adv.): ",
-              "- Forms: Gleich (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ähnlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Similar]: ",
               "- Forms: "
             ]
           }
@@ -464,34 +163,11 @@
         },
         {
           "front": {
-            "content": "Spannend (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Exciting]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Möglich (adj.)"
           },
           "back": {
             "content": [
               "- [Possible]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Nachricht (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Message]: ",
-              "- [News/Information]: ",
               "- Forms: "
             ]
           }
@@ -520,38 +196,6 @@
         },
         {
           "front": {
-            "content": "Zeichnen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Draw]: ",
-              "- Forms: Zeichnung (noun, singular, feminine), Zeichnungen (noun, plural, feminine)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Befinden (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Health/Condition]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wendung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Turn/Twist]: ",
-              "- Forms: Wendungen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sich verabschieden (v.)"
           },
           "back": {
@@ -572,34 +216,12 @@
         },
         {
           "front": {
-            "content": "Aussage (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Statement]: ",
-              "- Forms: Aussagen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Herkunft (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Origin]: ",
               "- Forms: Herkünfte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zahlen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Pay]: ",
-              "- Forms: Zahlen (noun, plural)"
             ]
           }
         },
@@ -640,83 +262,6 @@
         },
         {
           "front": {
-            "content": "Wohnort (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Residence]: ",
-              "- Forms: Wohnorte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Vor (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [With/before]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Selbst[sich-] (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Oneself]: Einen Text über sich selbst : A text about yourself"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ausschnitt (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Section]: ",
-              "- Forms: Auschnitte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kenntnisse (noun, plural, -)"
-          },
-          "back": {
-            "content": [
-              "- [Knowledge]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Doch (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [But]: ",
-              "- [Yet]: ",
-              "- [Nevertheless] (adv.): ",
-              "- [Yes, I do!] (interjection): ",
-              "- Forms: doch (adv.), doch (interjection)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gebiet (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Area/Field]: ",
-              "- Forms: Gebiete (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Satz (noun, singular, masculine)"
           },
           "back": {
@@ -724,61 +269,6 @@
               "- [Sentence]: ",
               "- [Phrase]: ",
               "- Forms: Sätze (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Grüßen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Greet]: ",
-              "- [Greeting] (noun): ",
-              "- Forms: Gruß (noun)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gebären (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Give Birth]: ",
-              "- Forms: Geboren (pp./adj.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zurzeit (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Currently]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ergebnis (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Result]: ",
-              "- Forms: Ergebnisse (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Passenden (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Suitable]: ",
-              "- Forms: Passen (v.)"
             ]
           }
         },
@@ -829,16 +319,6 @@
         },
         {
           "front": {
-            "content": "Passen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Fit/Suit/Match]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Wirklich (adj.)"
           },
           "back": {
@@ -867,29 +347,6 @@
             "content": [
               "- [To Compare]: ",
               "- Forms: Vergleich(e) (noun)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Übersetzen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Translate]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fällen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [Feel]: ",
-              "- [Like]: ",
-              "- [Fall down]: ",
-              "- Forms: Gefällt (pp)"
             ]
           }
         },
@@ -945,29 +402,6 @@
             "content": [
               "- [Prepared]: ",
               "- Forms: Vorbereitet (adv.), Vorbereiten (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tasche (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Pocket/Bag]: ",
-              "- Forms: Taschen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mischen (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Mixing]: ",
-              "- [To Mix] (v.): ",
-              "- Forms: Mischen (v.)"
             ]
           }
         },
@@ -1038,38 +472,6 @@
         },
         {
           "front": {
-            "content": "Sammmeln (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Gathering/Collecting]: ",
-              "- [To Gather/To Collect] (v.): ",
-              "- Forms: Sammeln (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Füllen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Fill]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ausfüllen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Fill]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Anruf (noun, singular, masculine)"
           },
           "back": {
@@ -1114,17 +516,6 @@
               "- [To throw]: ",
               "- [To cast]: ",
               "- [To toss]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Teller (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Plate/Dish]: ",
-              "- Forms: Teller (plural)"
             ]
           }
         },
@@ -3619,6 +3010,615 @@
             "content": [
               "- [Abbreviation]: ",
               "- Forms: Abkürzungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Heißen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Be called/To Mean]: Das heißt : That means; Ich heiße Anas : I'm called Anas",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Müssen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To have to]: Gehen müssen : Have to go",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Meisten (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Most]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gestorben (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Dead]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Außer (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Except]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Freuen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Be pleased]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeigen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To show]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Erzählen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To tell]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ziehen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To pull/drag/draw]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Trotzdem (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Yet]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Während (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [While]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sogar (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [Even]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Liegen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To lie down]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Meinen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To think]: ",
+              "- [To mean]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Verlieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To lose]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Setzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To sit down]: ",
+              "- [To put]: ",
+              "- [To place]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sitzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To sit]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fertig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Ready]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sicher (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Safe]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Einzig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Single]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schwach (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Weak]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zuverlässig (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Reliable]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Schüchtern (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Shy]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gelangweilt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Bored]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aufgeregt (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Excited]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gleich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Equal/Same]: ",
+              "- [Now] (adv.): ",
+              "- Forms: Gleich (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ähnlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Similar]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Spannend (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Exciting]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nachricht (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Message]: ",
+              "- [News/Information]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zeichnen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Draw]: ",
+              "- Forms: Zeichnung (noun, singular, feminine), Zeichnungen (noun, plural, feminine)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Befinden (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Health/Condition]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wendung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Turn/Twist]: ",
+              "- Forms: Wendungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Aussage (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Statement]: ",
+              "- Forms: Aussagen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zahlen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Pay]: ",
+              "- Forms: Zahlen (noun, plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wohnort (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Residence]: ",
+              "- Forms: Wohnorte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Vor (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [With/before]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Selbst[sich-] (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Oneself]: Einen Text über sich selbst : A text about yourself"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ausschnitt (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Section]: ",
+              "- Forms: Auschnitte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kenntnisse (noun, plural, -)"
+          },
+          "back": {
+            "content": [
+              "- [Knowledge]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Doch (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [But]: ",
+              "- [Yet]: ",
+              "- [Nevertheless] (adv.): ",
+              "- [Yes, I do!] (interjection): ",
+              "- Forms: doch (adv.), doch (interjection)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gebiet (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Area/Field]: ",
+              "- Forms: Gebiete (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Grüßen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Greet]: ",
+              "- [Greeting] (noun): ",
+              "- Forms: Gruß (noun)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gebären (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Give Birth]: ",
+              "- Forms: Geboren (pp./adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zurzeit (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Currently]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ergebnis (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Result]: ",
+              "- Forms: Ergebnisse (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Passenden (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Suitable]: ",
+              "- Forms: Passen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Passen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Fit/Suit/Match]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Übersetzen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Translate]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fällen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [Feel]: ",
+              "- [Like]: ",
+              "- [Fall down]: ",
+              "- Forms: Gefällt (pp)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tasche (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Pocket/Bag]: ",
+              "- Forms: Taschen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mischen (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Mixing]: ",
+              "- [To Mix] (v.): ",
+              "- Forms: Mischen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sammmeln (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Gathering/Collecting]: ",
+              "- [To Gather/To Collect] (v.): ",
+              "- Forms: Sammeln (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Füllen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Fill]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ausfüllen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Fill]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Teller (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Plate/Dish]: ",
+              "- Forms: Teller (plural)"
             ]
           }
         }
@@ -22729,6 +22729,391 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-07T17:09:35.813Z"
+      },
+      {
+        "type": "move",
+        "word": "Heißen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T18:22:53.926Z"
+      },
+      {
+        "type": "move",
+        "word": "Müssen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T18:23:02.806Z"
+      },
+      {
+        "type": "move",
+        "word": "Meisten",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T18:23:27.316Z"
+      },
+      {
+        "type": "move",
+        "word": "Gestorben",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T18:23:32.022Z"
+      },
+      {
+        "type": "move",
+        "word": "Außer",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T18:23:38.886Z"
+      },
+      {
+        "type": "move",
+        "word": "Freuen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T18:24:15.141Z"
+      },
+      {
+        "type": "move",
+        "word": "Zeigen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:12:16.652Z"
+      },
+      {
+        "type": "move",
+        "word": "Erzählen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:12:38.724Z"
+      },
+      {
+        "type": "move",
+        "word": "Ziehen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:12:55.034Z"
+      },
+      {
+        "type": "move",
+        "word": "Trotzdem",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:12:59.275Z"
+      },
+      {
+        "type": "move",
+        "word": "Während",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:13:10.300Z"
+      },
+      {
+        "type": "move",
+        "word": "Sogar",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:13:22.284Z"
+      },
+      {
+        "type": "move",
+        "word": "Liegen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:14:19.468Z"
+      },
+      {
+        "type": "move",
+        "word": "Meinen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:14:25.548Z"
+      },
+      {
+        "type": "move",
+        "word": "Verlieren",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:14:30.164Z"
+      },
+      {
+        "type": "move",
+        "word": "Setzen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:14:45.775Z"
+      },
+      {
+        "type": "move",
+        "word": "Sitzen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:14:48.252Z"
+      },
+      {
+        "type": "move",
+        "word": "Fertig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:16:53.916Z"
+      },
+      {
+        "type": "move",
+        "word": "Sicher",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:16:56.848Z"
+      },
+      {
+        "type": "move",
+        "word": "Einzig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:17:13.092Z"
+      },
+      {
+        "type": "move",
+        "word": "Schwach",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:17:22.116Z"
+      },
+      {
+        "type": "move",
+        "word": "Zuverlässig",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:21:10.244Z"
+      },
+      {
+        "type": "move",
+        "word": "Schüchtern",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:21:17.404Z"
+      },
+      {
+        "type": "move",
+        "word": "Gelangweilt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:26:49.971Z"
+      },
+      {
+        "type": "move",
+        "word": "Aufgeregt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:27:05.371Z"
+      },
+      {
+        "type": "move",
+        "word": "Gleich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:27:51.947Z"
+      },
+      {
+        "type": "move",
+        "word": "Ähnlich",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:28:01.339Z"
+      },
+      {
+        "type": "move",
+        "word": "Spannend",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:29:00.707Z"
+      },
+      {
+        "type": "move",
+        "word": "Nachricht",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:32:37.458Z"
+      },
+      {
+        "type": "move",
+        "word": "Zeichnen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:40:08.848Z"
+      },
+      {
+        "type": "move",
+        "word": "Befinden",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:40:22.896Z"
+      },
+      {
+        "type": "move",
+        "word": "Wendung",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:40:49.654Z"
+      },
+      {
+        "type": "move",
+        "word": "Aussage",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:46:52.172Z"
+      },
+      {
+        "type": "move",
+        "word": "Zahlen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:53:38.072Z"
+      },
+      {
+        "type": "move",
+        "word": "Wohnort",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:58:55.511Z"
+      },
+      {
+        "type": "move",
+        "word": "Vor",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:58:59.640Z"
+      },
+      {
+        "type": "move",
+        "word": "Selbst[sich-]",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:59:21.248Z"
+      },
+      {
+        "type": "move",
+        "word": "Ausschnitt",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:59:27.210Z"
+      },
+      {
+        "type": "move",
+        "word": "Kenntnisse",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:59:30.416Z"
+      },
+      {
+        "type": "move",
+        "word": "Doch",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T19:59:59.512Z"
+      },
+      {
+        "type": "move",
+        "word": "Gebiet",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T20:00:03.416Z"
+      },
+      {
+        "type": "move",
+        "word": "Grüßen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T20:01:02.080Z"
+      },
+      {
+        "type": "move",
+        "word": "Gebären",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T20:01:27.505Z"
+      },
+      {
+        "type": "move",
+        "word": "Zurzeit",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T20:01:33.248Z"
+      },
+      {
+        "type": "move",
+        "word": "Ergebnis",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T20:02:10.519Z"
+      },
+      {
+        "type": "move",
+        "word": "Passenden",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T20:02:32.279Z"
+      },
+      {
+        "type": "move",
+        "word": "Passen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T21:10:47.414Z"
+      },
+      {
+        "type": "move",
+        "word": "Übersetzen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T21:20:06.212Z"
+      },
+      {
+        "type": "move",
+        "word": "Fällen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T21:22:52.954Z"
+      },
+      {
+        "type": "move",
+        "word": "Tasche",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T21:37:25.472Z"
+      },
+      {
+        "type": "move",
+        "word": "Mischen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T21:37:32.063Z"
+      },
+      {
+        "type": "move",
+        "word": "Sammmeln",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T21:58:47.466Z"
+      },
+      {
+        "type": "move",
+        "word": "Füllen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T21:58:53.960Z"
+      },
+      {
+        "type": "move",
+        "word": "Ausfüllen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T21:58:59.850Z"
+      },
+      {
+        "type": "move",
+        "word": "Teller",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-07T22:04:12.169Z"
       }
     ],
     "levels": [
@@ -29041,6 +29426,226 @@
           {
             "length": 209,
             "date": "2024-11-06T22:00:18.800Z"
+          },
+          {
+            "length": 208,
+            "date": "2024-11-07T18:22:53.926Z"
+          },
+          {
+            "length": 207,
+            "date": "2024-11-07T18:23:02.806Z"
+          },
+          {
+            "length": 206,
+            "date": "2024-11-07T18:23:27.316Z"
+          },
+          {
+            "length": 205,
+            "date": "2024-11-07T18:23:32.022Z"
+          },
+          {
+            "length": 204,
+            "date": "2024-11-07T18:23:38.886Z"
+          },
+          {
+            "length": 203,
+            "date": "2024-11-07T18:24:15.142Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-11-07T19:12:16.652Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-11-07T19:12:38.724Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-11-07T19:12:55.034Z"
+          },
+          {
+            "length": 199,
+            "date": "2024-11-07T19:12:59.275Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-11-07T19:13:10.300Z"
+          },
+          {
+            "length": 197,
+            "date": "2024-11-07T19:13:22.284Z"
+          },
+          {
+            "length": 196,
+            "date": "2024-11-07T19:14:19.468Z"
+          },
+          {
+            "length": 195,
+            "date": "2024-11-07T19:14:25.548Z"
+          },
+          {
+            "length": 194,
+            "date": "2024-11-07T19:14:30.164Z"
+          },
+          {
+            "length": 193,
+            "date": "2024-11-07T19:14:45.775Z"
+          },
+          {
+            "length": 192,
+            "date": "2024-11-07T19:14:48.252Z"
+          },
+          {
+            "length": 191,
+            "date": "2024-11-07T19:16:53.916Z"
+          },
+          {
+            "length": 190,
+            "date": "2024-11-07T19:16:56.848Z"
+          },
+          {
+            "length": 189,
+            "date": "2024-11-07T19:17:13.092Z"
+          },
+          {
+            "length": 188,
+            "date": "2024-11-07T19:17:22.116Z"
+          },
+          {
+            "length": 187,
+            "date": "2024-11-07T19:21:10.244Z"
+          },
+          {
+            "length": 186,
+            "date": "2024-11-07T19:21:17.404Z"
+          },
+          {
+            "length": 185,
+            "date": "2024-11-07T19:26:49.971Z"
+          },
+          {
+            "length": 184,
+            "date": "2024-11-07T19:27:05.371Z"
+          },
+          {
+            "length": 183,
+            "date": "2024-11-07T19:27:51.947Z"
+          },
+          {
+            "length": 182,
+            "date": "2024-11-07T19:28:01.339Z"
+          },
+          {
+            "length": 181,
+            "date": "2024-11-07T19:29:00.707Z"
+          },
+          {
+            "length": 180,
+            "date": "2024-11-07T19:32:37.458Z"
+          },
+          {
+            "length": 179,
+            "date": "2024-11-07T19:40:08.848Z"
+          },
+          {
+            "length": 178,
+            "date": "2024-11-07T19:40:22.896Z"
+          },
+          {
+            "length": 177,
+            "date": "2024-11-07T19:40:49.654Z"
+          },
+          {
+            "length": 176,
+            "date": "2024-11-07T19:46:52.173Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-11-07T19:53:38.072Z"
+          },
+          {
+            "length": 174,
+            "date": "2024-11-07T19:58:55.511Z"
+          },
+          {
+            "length": 173,
+            "date": "2024-11-07T19:58:59.640Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-11-07T19:59:21.248Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-11-07T19:59:27.211Z"
+          },
+          {
+            "length": 170,
+            "date": "2024-11-07T19:59:30.416Z"
+          },
+          {
+            "length": 169,
+            "date": "2024-11-07T19:59:59.512Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-11-07T20:00:03.416Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-11-07T20:01:02.080Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-11-07T20:01:27.505Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-11-07T20:01:33.248Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-11-07T20:02:10.519Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-11-07T20:02:32.279Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-11-07T21:10:47.442Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-11-07T21:20:06.212Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-11-07T21:22:52.954Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-11-07T21:37:25.472Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-11-07T21:37:32.063Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-11-07T21:58:47.466Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-11-07T21:58:53.960Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-11-07T21:58:59.850Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-11-07T22:04:12.169Z"
           }
         ]
       },
@@ -34005,6 +34610,226 @@
           {
             "length": 120,
             "date": "2024-11-07T17:09:35.813Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-11-07T18:22:53.926Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-11-07T18:23:02.806Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-11-07T18:23:27.316Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-11-07T18:23:32.022Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-11-07T18:23:38.886Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-11-07T18:24:15.142Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-11-07T19:12:16.652Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-11-07T19:12:38.724Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-11-07T19:12:55.034Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-11-07T19:12:59.275Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-11-07T19:13:10.300Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-11-07T19:13:22.284Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-11-07T19:14:19.468Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-11-07T19:14:25.548Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-11-07T19:14:30.164Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-11-07T19:14:45.775Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-11-07T19:14:48.252Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-11-07T19:16:53.916Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-11-07T19:16:56.848Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-11-07T19:17:13.092Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-11-07T19:17:22.116Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-11-07T19:21:10.244Z"
+          },
+          {
+            "length": 143,
+            "date": "2024-11-07T19:21:17.404Z"
+          },
+          {
+            "length": 144,
+            "date": "2024-11-07T19:26:49.971Z"
+          },
+          {
+            "length": 145,
+            "date": "2024-11-07T19:27:05.371Z"
+          },
+          {
+            "length": 146,
+            "date": "2024-11-07T19:27:51.947Z"
+          },
+          {
+            "length": 147,
+            "date": "2024-11-07T19:28:01.339Z"
+          },
+          {
+            "length": 148,
+            "date": "2024-11-07T19:29:00.707Z"
+          },
+          {
+            "length": 149,
+            "date": "2024-11-07T19:32:37.458Z"
+          },
+          {
+            "length": 150,
+            "date": "2024-11-07T19:40:08.848Z"
+          },
+          {
+            "length": 151,
+            "date": "2024-11-07T19:40:22.896Z"
+          },
+          {
+            "length": 152,
+            "date": "2024-11-07T19:40:49.654Z"
+          },
+          {
+            "length": 153,
+            "date": "2024-11-07T19:46:52.173Z"
+          },
+          {
+            "length": 154,
+            "date": "2024-11-07T19:53:38.072Z"
+          },
+          {
+            "length": 155,
+            "date": "2024-11-07T19:58:55.511Z"
+          },
+          {
+            "length": 156,
+            "date": "2024-11-07T19:58:59.640Z"
+          },
+          {
+            "length": 157,
+            "date": "2024-11-07T19:59:21.248Z"
+          },
+          {
+            "length": 158,
+            "date": "2024-11-07T19:59:27.211Z"
+          },
+          {
+            "length": 159,
+            "date": "2024-11-07T19:59:30.416Z"
+          },
+          {
+            "length": 160,
+            "date": "2024-11-07T19:59:59.512Z"
+          },
+          {
+            "length": 161,
+            "date": "2024-11-07T20:00:03.416Z"
+          },
+          {
+            "length": 162,
+            "date": "2024-11-07T20:01:02.080Z"
+          },
+          {
+            "length": 163,
+            "date": "2024-11-07T20:01:27.505Z"
+          },
+          {
+            "length": 164,
+            "date": "2024-11-07T20:01:33.248Z"
+          },
+          {
+            "length": 165,
+            "date": "2024-11-07T20:02:10.519Z"
+          },
+          {
+            "length": 166,
+            "date": "2024-11-07T20:02:32.279Z"
+          },
+          {
+            "length": 167,
+            "date": "2024-11-07T21:10:47.442Z"
+          },
+          {
+            "length": 168,
+            "date": "2024-11-07T21:20:06.212Z"
+          },
+          {
+            "length": 169,
+            "date": "2024-11-07T21:22:52.954Z"
+          },
+          {
+            "length": 170,
+            "date": "2024-11-07T21:37:25.472Z"
+          },
+          {
+            "length": 171,
+            "date": "2024-11-07T21:37:32.063Z"
+          },
+          {
+            "length": 172,
+            "date": "2024-11-07T21:58:47.466Z"
+          },
+          {
+            "length": 173,
+            "date": "2024-11-07T21:58:53.960Z"
+          },
+          {
+            "length": 174,
+            "date": "2024-11-07T21:58:59.850Z"
+          },
+          {
+            "length": 175,
+            "date": "2024-11-07T22:04:12.169Z"
           }
         ]
       },
