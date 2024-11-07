@@ -2306,55 +2306,9 @@
       ]
     },
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 18,
+      "currentCardSide": "back",
       "cards": [
-        {
-          "front": {
-            "content": "Weg (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Way/Path]: ",
-              "- [Away] (adv.): ",
-              "- Forms: Wege (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Arzt (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Doctor]: ",
-              "- Forms: Ärzte (plural), Ärztin (feminine)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Für (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [For]: ",
-              "- [On behalf of]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Wort (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Word]: ",
-              "- Forms: Wörter (plural)"
-            ]
-          }
-        },
         {
           "front": {
             "content": "Witzig (adj.)"
@@ -2363,50 +2317,6 @@
             "content": [
               "- [Funny]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Eingang (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Entrance]: ",
-              "- Forms: Eingänge (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Ausgang (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Exit]: ",
-              "- Forms: Ausgänge (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fühlen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To feel]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Partner (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Partner]: ",
-              "- Forms: Partnerin (feminine), Partners (plural)"
             ]
           }
         },
@@ -2446,67 +2356,12 @@
         },
         {
           "front": {
-            "content": "Formular (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Form]: ",
-              "- Forms: Formulare (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Bildschirm (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Screen]: ",
               "- Forms: Bildschirme (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Telefon (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Phone]: ",
-              "- Forms: Telefone (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Stück (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Piece]: ",
-              "- Forms: Stücke (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Text (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Text]: ",
-              "- Forms: Texte (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Führen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To lead/guide]: ",
-              "- Forms: "
             ]
           }
         },
@@ -2534,28 +2389,6 @@
         },
         {
           "front": {
-            "content": "Tragen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To carry/wear]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zufrieden (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Satisfied]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gespräch (noun, singular, neuter)"
           },
           "back": {
@@ -2573,16 +2406,6 @@
             "content": [
               "- [Personality]: ",
               "- Forms: Persönlichkeiten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Andere (pron., quantifier)"
-          },
-          "back": {
-            "content": [
-              "- [Other/Another]: "
             ]
           }
         },
@@ -2615,17 +2438,6 @@
           "back": {
             "content": [
               "- [For/on/about/by]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Familienstand (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Marital status]: ",
-              "- Forms: Familienstände (plural)"
             ]
           }
         },
@@ -2688,27 +2500,6 @@
         },
         {
           "front": {
-            "content": "Brille (noun, plural, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Glasses]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Feuerzeug (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Lighter]: ",
-              "- Forms: Feuerzeuge (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Alles (quantifier)"
           },
           "back": {
@@ -2716,17 +2507,6 @@
               "- [All]: ",
               "- [everything]: ",
               "- [anything]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sag_mal (v.) (informal)"
-          },
-          "back": {
-            "content": [
-              "- [Tell me]: ",
-              "- [Say]: "
             ]
           }
         },
@@ -9597,6 +9377,226 @@
           "back": {
             "content": [
               "- [On]: Am = An + dem"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weg (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Way/Path]: ",
+              "- [Away] (adv.): ",
+              "- Forms: Wege (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Arzt (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Doctor]: ",
+              "- Forms: Ärzte (plural), Ärztin (feminine)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Für (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [For]: ",
+              "- [On behalf of]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Wort (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Word]: ",
+              "- Forms: Wörter (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Eingang (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Entrance]: ",
+              "- Forms: Eingänge (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Ausgang (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Exit]: ",
+              "- Forms: Ausgänge (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fühlen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To feel]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Partner (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Partner]: ",
+              "- Forms: Partnerin (feminine), Partners (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Formular (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Form]: ",
+              "- Forms: Formulare (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Telefon (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Phone]: ",
+              "- Forms: Telefone (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stück (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Piece]: ",
+              "- Forms: Stücke (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Text (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Text]: ",
+              "- Forms: Texte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Führen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To lead/guide]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tragen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To carry/wear]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zufrieden (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Satisfied]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Andere (pron., quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [Other/Another]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Familienstand (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Marital status]: ",
+              "- Forms: Familienstände (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Brille (noun, plural, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Glasses]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Feuerzeug (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Lighter]: ",
+              "- Forms: Feuerzeuge (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sag_mal (v.) (informal)"
+          },
+          "back": {
+            "content": [
+              "- [Tell me]: ",
+              "- [Say]: "
             ]
           }
         }
@@ -22124,6 +22124,146 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-06T22:00:18.800Z"
+      },
+      {
+        "type": "move",
+        "word": "Weg",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:18:49.919Z"
+      },
+      {
+        "type": "move",
+        "word": "Arzt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:19:04.350Z"
+      },
+      {
+        "type": "move",
+        "word": "Für",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:19:14.101Z"
+      },
+      {
+        "type": "move",
+        "word": "Wort",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:19:28.334Z"
+      },
+      {
+        "type": "move",
+        "word": "Eingang",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:19:47.893Z"
+      },
+      {
+        "type": "move",
+        "word": "Ausgang",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:19:53.381Z"
+      },
+      {
+        "type": "move",
+        "word": "Fühlen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:21:06.012Z"
+      },
+      {
+        "type": "move",
+        "word": "Partner",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:21:20.996Z"
+      },
+      {
+        "type": "move",
+        "word": "Formular",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:27:00.873Z"
+      },
+      {
+        "type": "move",
+        "word": "Telefon",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:31:37.370Z"
+      },
+      {
+        "type": "move",
+        "word": "Stück",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:31:55.898Z"
+      },
+      {
+        "type": "move",
+        "word": "Text",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:32:02.855Z"
+      },
+      {
+        "type": "move",
+        "word": "Führen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:32:21.058Z"
+      },
+      {
+        "type": "move",
+        "word": "Tragen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:32:59.089Z"
+      },
+      {
+        "type": "move",
+        "word": "Zufrieden",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:33:11.818Z"
+      },
+      {
+        "type": "move",
+        "word": "Andere",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:36:28.098Z"
+      },
+      {
+        "type": "move",
+        "word": "Familienstand",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:40:50.003Z"
+      },
+      {
+        "type": "move",
+        "word": "Brille",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:49:35.757Z"
+      },
+      {
+        "type": "move",
+        "word": "Feuerzeug",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:49:45.381Z"
+      },
+      {
+        "type": "move",
+        "word": "Sag_mal",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T15:51:45.774Z"
       }
     ],
     "levels": [
@@ -33056,6 +33196,86 @@
           {
             "length": 206,
             "date": "2024-11-06T22:00:18.800Z"
+          },
+          {
+            "length": 205,
+            "date": "2024-11-07T15:18:49.983Z"
+          },
+          {
+            "length": 204,
+            "date": "2024-11-07T15:19:04.350Z"
+          },
+          {
+            "length": 203,
+            "date": "2024-11-07T15:19:14.101Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-11-07T15:19:28.334Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-11-07T15:19:47.893Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-11-07T15:19:53.381Z"
+          },
+          {
+            "length": 199,
+            "date": "2024-11-07T15:21:06.012Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-11-07T15:21:20.996Z"
+          },
+          {
+            "length": 197,
+            "date": "2024-11-07T15:27:00.873Z"
+          },
+          {
+            "length": 196,
+            "date": "2024-11-07T15:31:37.370Z"
+          },
+          {
+            "length": 195,
+            "date": "2024-11-07T15:31:55.898Z"
+          },
+          {
+            "length": 194,
+            "date": "2024-11-07T15:32:02.855Z"
+          },
+          {
+            "length": 193,
+            "date": "2024-11-07T15:32:21.058Z"
+          },
+          {
+            "length": 192,
+            "date": "2024-11-07T15:32:59.089Z"
+          },
+          {
+            "length": 191,
+            "date": "2024-11-07T15:33:11.818Z"
+          },
+          {
+            "length": 190,
+            "date": "2024-11-07T15:36:28.098Z"
+          },
+          {
+            "length": 189,
+            "date": "2024-11-07T15:40:50.003Z"
+          },
+          {
+            "length": 188,
+            "date": "2024-11-07T15:49:35.757Z"
+          },
+          {
+            "length": 187,
+            "date": "2024-11-07T15:49:45.381Z"
+          },
+          {
+            "length": 186,
+            "date": "2024-11-07T15:51:45.774Z"
           }
         ]
       },
@@ -34944,6 +35164,86 @@
           {
             "length": 461,
             "date": "2024-11-03T19:48:01.474Z"
+          },
+          {
+            "length": 462,
+            "date": "2024-11-07T15:18:49.983Z"
+          },
+          {
+            "length": 463,
+            "date": "2024-11-07T15:19:04.350Z"
+          },
+          {
+            "length": 464,
+            "date": "2024-11-07T15:19:14.101Z"
+          },
+          {
+            "length": 465,
+            "date": "2024-11-07T15:19:28.334Z"
+          },
+          {
+            "length": 466,
+            "date": "2024-11-07T15:19:47.893Z"
+          },
+          {
+            "length": 467,
+            "date": "2024-11-07T15:19:53.381Z"
+          },
+          {
+            "length": 468,
+            "date": "2024-11-07T15:21:06.012Z"
+          },
+          {
+            "length": 469,
+            "date": "2024-11-07T15:21:20.996Z"
+          },
+          {
+            "length": 470,
+            "date": "2024-11-07T15:27:00.873Z"
+          },
+          {
+            "length": 471,
+            "date": "2024-11-07T15:31:37.370Z"
+          },
+          {
+            "length": 472,
+            "date": "2024-11-07T15:31:55.898Z"
+          },
+          {
+            "length": 473,
+            "date": "2024-11-07T15:32:02.855Z"
+          },
+          {
+            "length": 474,
+            "date": "2024-11-07T15:32:21.058Z"
+          },
+          {
+            "length": 475,
+            "date": "2024-11-07T15:32:59.089Z"
+          },
+          {
+            "length": 476,
+            "date": "2024-11-07T15:33:11.818Z"
+          },
+          {
+            "length": 477,
+            "date": "2024-11-07T15:36:28.098Z"
+          },
+          {
+            "length": 478,
+            "date": "2024-11-07T15:40:50.003Z"
+          },
+          {
+            "length": 479,
+            "date": "2024-11-07T15:49:35.757Z"
+          },
+          {
+            "length": 480,
+            "date": "2024-11-07T15:49:45.381Z"
+          },
+          {
+            "length": 481,
+            "date": "2024-11-07T15:51:45.774Z"
           }
         ]
       },
