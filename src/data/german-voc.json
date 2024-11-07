@@ -2306,7 +2306,7 @@
       ]
     },
     {
-      "currentCardIndex": 34,
+      "currentCardIndex": 35,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2689,54 +2689,12 @@
         },
         {
           "front": {
-            "content": "Flohmarkt/Trödelmarkt (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Flea market/junk market]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Freizeit (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Free Time]: ",
-              "- Forms: Freizeiten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Fast nie (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Barely/Remotely/Hardly ever]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Rauchen (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [Smoking]: ",
               "- [To Smoke] (v.): ",
-              "- Forms: Rauchen (v.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Rauch (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Smoke]: ",
               "- Forms: Rauchen (v.)"
             ]
           }
@@ -9597,6 +9555,49 @@
           "back": {
             "content": [
               "- [Junk]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Flohmarkt/Trödelmarkt (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Flea market/junk market]: ",
+              "- [froms]: Flohmärkte/Trödelmärkte (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Freizeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Free Time]: ",
+              "- Forms: Freizeiten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Fast nie (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Barely/Remotely/Hardly ever]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Rauch (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Smoke]: ",
+              "- Forms: Rauchen (v.)"
             ]
           }
         }
@@ -22565,6 +22566,34 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-07T16:28:51.151Z"
+      },
+      {
+        "type": "move",
+        "word": "Flohmarkt/Trödelmarkt",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:30:31.366Z"
+      },
+      {
+        "type": "move",
+        "word": "Freizeit",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:30:40.966Z"
+      },
+      {
+        "type": "move",
+        "word": "Fast",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:30:48.173Z"
+      },
+      {
+        "type": "move",
+        "word": "Rauch",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:32:49.548Z"
       }
     ],
     "levels": [
@@ -33749,6 +33778,22 @@
           {
             "length": 143,
             "date": "2024-11-07T16:28:51.151Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-11-07T16:30:31.366Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-11-07T16:30:40.966Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-11-07T16:30:48.173Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-11-07T16:32:49.549Z"
           }
         ]
       },
@@ -35889,6 +35934,22 @@
           {
             "length": 524,
             "date": "2024-11-07T16:28:51.151Z"
+          },
+          {
+            "length": 525,
+            "date": "2024-11-07T16:30:31.366Z"
+          },
+          {
+            "length": 526,
+            "date": "2024-11-07T16:30:40.966Z"
+          },
+          {
+            "length": 527,
+            "date": "2024-11-07T16:30:48.174Z"
+          },
+          {
+            "length": 528,
+            "date": "2024-11-07T16:32:49.549Z"
           }
         ]
       },
