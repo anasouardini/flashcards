@@ -2306,7 +2306,7 @@
       ]
     },
     {
-      "currentCardIndex": 35,
+      "currentCardIndex": 37,
       "currentCardSide": "back",
       "cards": [
         {
@@ -2705,62 +2705,8 @@
           },
           "back": {
             "content": [
-              "- [Weekend]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Chillen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Chill]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gerade (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Straight] (n.): ",
-              "- [Now] (adv.): ",
-              "- [Straight/Direct] (adj.): ",
-              "- Forms: Gerade (adv.),Gerade (adj.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Serviette (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Napkin]: ",
-              "- Forms: Servietten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Liste (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [List]: ",
-              "- Forms: Listen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sonnenbrille (noun, plural, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Sunglasses]: "
+              "- [Weekend]: ",
+              "- Forms: Wochenenden (plural)"
             ]
           }
         },
@@ -2772,38 +2718,6 @@
             "content": [
               "- [Garden]: ",
               "- Forms: Gärten (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Katastrophe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Catastrophe/Disaster]: ",
-              "- Forms: Katastrophen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Mega- (prefix)"
-          },
-          "back": {
-            "content": [
-              "- [Very-]: Megatrocken : Very Dry"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Minute (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Minute]: ",
-              "- Forms: Minuten (plural)"
             ]
           }
         },
@@ -9598,6 +9512,93 @@
             "content": [
               "- [Smoke]: ",
               "- Forms: Rauchen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Chillen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Chill]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gerade (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Straight] (n.): ",
+              "- [Now] (adv.): ",
+              "- [Straight/Direct] (adj.): ",
+              "- Forms: Gerade (adv.),Gerade (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Serviette (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Napkin]: ",
+              "- Forms: Servietten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Liste (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [List]: ",
+              "- Forms: Listen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sonnenbrille (noun, plural, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Sunglasses]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Katastrophe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Catastrophe/Disaster]: ",
+              "- Forms: Katastrophen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mega- (prefix)"
+          },
+          "back": {
+            "content": [
+              "- [Very-]: Megatrocken : Very Dry"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Minute (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Minute]: ",
+              "- Forms: Minuten (plural)"
             ]
           }
         }
@@ -22594,6 +22595,62 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-07T16:32:49.548Z"
+      },
+      {
+        "type": "move",
+        "word": "Chillen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:34:36.148Z"
+      },
+      {
+        "type": "move",
+        "word": "Gerade",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:39:12.577Z"
+      },
+      {
+        "type": "move",
+        "word": "Serviette",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:39:28.681Z"
+      },
+      {
+        "type": "move",
+        "word": "Liste",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:39:40.433Z"
+      },
+      {
+        "type": "move",
+        "word": "Sonnenbrille",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:39:47.241Z"
+      },
+      {
+        "type": "move",
+        "word": "Katastrophe",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:42:07.252Z"
+      },
+      {
+        "type": "move",
+        "word": "Mega-",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:43:24.328Z"
+      },
+      {
+        "type": "move",
+        "word": "Minute",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:43:30.743Z"
       }
     ],
     "levels": [
@@ -33794,6 +33851,38 @@
           {
             "length": 139,
             "date": "2024-11-07T16:32:49.549Z"
+          },
+          {
+            "length": 138,
+            "date": "2024-11-07T16:34:36.148Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-11-07T16:39:12.577Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-11-07T16:39:28.681Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-11-07T16:39:40.433Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-11-07T16:39:47.241Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-11-07T16:42:07.252Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-11-07T16:43:24.328Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-11-07T16:43:30.743Z"
           }
         ]
       },
@@ -35950,6 +36039,38 @@
           {
             "length": 528,
             "date": "2024-11-07T16:32:49.549Z"
+          },
+          {
+            "length": 529,
+            "date": "2024-11-07T16:34:36.148Z"
+          },
+          {
+            "length": 530,
+            "date": "2024-11-07T16:39:12.577Z"
+          },
+          {
+            "length": 531,
+            "date": "2024-11-07T16:39:28.681Z"
+          },
+          {
+            "length": 532,
+            "date": "2024-11-07T16:39:40.433Z"
+          },
+          {
+            "length": 533,
+            "date": "2024-11-07T16:39:47.241Z"
+          },
+          {
+            "length": 534,
+            "date": "2024-11-07T16:42:07.252Z"
+          },
+          {
+            "length": 535,
+            "date": "2024-11-07T16:43:24.328Z"
+          },
+          {
+            "length": 536,
+            "date": "2024-11-07T16:43:30.743Z"
           }
         ]
       },
