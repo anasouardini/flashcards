@@ -1,5 +1,5 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 0,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -2306,8 +2306,8 @@
       ]
     },
     {
-      "currentCardIndex": 37,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2723,65 +2723,12 @@
         },
         {
           "front": {
-            "content": "Zivilisation (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Civilization]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Langsam (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Slow]: Auf langsamem Deutsch : In slow German",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Weiter (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Further on]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Buchstabieren (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Spell]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Stunde (noun, singular, feminine)"
           },
           "back": {
             "content": [
               "- [Hour/Time/Lesson]: ",
               "- Forms: Stunden (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Zahl (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Figure/number/digit]: ",
-              "- [To Pay] (v.): ",
-              "- Forms: Zahlen (plural), Zahlen (v.)"
             ]
           }
         },
@@ -2820,56 +2767,11 @@
         },
         {
           "front": {
-            "content": "Handtuch (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Towel]: ",
-              "- Forms: Handtücher (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Handeln (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To Bargain]: ",
-              "- [To Act]: ",
-              "- [To Trade]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Händler (noun, singular/plural, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Dealer(s)]: ",
-              "- [Trader(s)]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Pro (prep.)"
           },
           "back": {
             "content": [
               "- [Per/For]: 7 Euro pro Meter : 7 Euro per meter"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Auge (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Eye]: ",
-              "- Forms: Augen (plural)"
             ]
           }
         },
@@ -2912,27 +2814,6 @@
             "content": [
               "- [Occaisonal]: ",
               "- Forms: Gelegentlich (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Manchmal (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Sometimes]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Katze (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Cat]: ",
-              "- Forms: Katzen (plural)"
             ]
           }
         },
@@ -3323,22 +3204,22 @@
         },
         {
           "front": {
-            "content": "Weder (conjunction)"
+            "content": "Bezahlen (v.)"
           },
           "back": {
             "content": [
-              "- [Neither]: ",
+              "- [To pay]: ",
               "- Forms: "
             ]
           }
         },
         {
           "front": {
-            "content": "Bezahlen (v.)"
+            "content": "Weder (conjunction)"
           },
           "back": {
             "content": [
-              "- [To pay]: ",
+              "- [Neither]: ",
               "- Forms: "
             ]
           }
@@ -9599,6 +9480,126 @@
             "content": [
               "- [Minute]: ",
               "- Forms: Minuten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zivilisation (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Civilization]: ",
+              "- Forms: Zivilisationen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Langsam (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Slow]: Auf langsamem Deutsch : In slow German",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Weiter (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Further on]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Buchstabieren (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Spell]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zahl (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Figure/number/digit]: ",
+              "- [To Pay] (v.): ",
+              "- Forms: Zahlen (plural), Zahlen (v.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Handtuch (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Towel]: ",
+              "- Forms: Handtücher (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Handeln (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Bargain]: ",
+              "- [To Act]: ",
+              "- [To Trade]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Händler (noun, singular/plural, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Dealer(s)]: ",
+              "- [Trader(s)]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Auge (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Eye]: ",
+              "- Forms: Augen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Manchmal (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Sometimes]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Katze (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Cat]: ",
+              "- Forms: Katzen (plural)"
             ]
           }
         }
@@ -22651,6 +22652,83 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-07T16:43:30.743Z"
+      },
+      {
+        "type": "move",
+        "word": "Zivilisation",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:44:54.286Z"
+      },
+      {
+        "type": "move",
+        "word": "Langsam",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:47:58.630Z"
+      },
+      {
+        "type": "move",
+        "word": "Weiter",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:48:07.902Z"
+      },
+      {
+        "type": "move",
+        "word": "Buchstabieren",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:48:13.182Z"
+      },
+      {
+        "type": "move",
+        "word": "Zahl",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:49:48.013Z"
+      },
+      {
+        "type": "move",
+        "word": "Handtuch",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:57:09.274Z"
+      },
+      {
+        "type": "move",
+        "word": "Handeln",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:57:20.417Z"
+      },
+      {
+        "type": "move",
+        "word": "Händler",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:57:32.978Z"
+      },
+      {
+        "type": "move",
+        "word": "Auge",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T16:59:33.009Z"
+      },
+      {
+        "type": "move",
+        "word": "Manchmal",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T17:09:22.470Z"
+      },
+      {
+        "type": "move",
+        "word": "Katze",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-07T17:09:35.813Z"
       }
     ],
     "levels": [
@@ -33883,6 +33961,50 @@
           {
             "length": 131,
             "date": "2024-11-07T16:43:30.743Z"
+          },
+          {
+            "length": 130,
+            "date": "2024-11-07T16:44:54.286Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-11-07T16:47:58.630Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-11-07T16:48:07.902Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-11-07T16:48:13.182Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-11-07T16:49:48.013Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-11-07T16:57:09.274Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-11-07T16:57:20.417Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-11-07T16:57:32.978Z"
+          },
+          {
+            "length": 122,
+            "date": "2024-11-07T16:59:33.009Z"
+          },
+          {
+            "length": 121,
+            "date": "2024-11-07T17:09:22.470Z"
+          },
+          {
+            "length": 120,
+            "date": "2024-11-07T17:09:35.813Z"
           }
         ]
       },
@@ -36071,6 +36193,50 @@
           {
             "length": 536,
             "date": "2024-11-07T16:43:30.743Z"
+          },
+          {
+            "length": 537,
+            "date": "2024-11-07T16:44:54.287Z"
+          },
+          {
+            "length": 538,
+            "date": "2024-11-07T16:47:58.630Z"
+          },
+          {
+            "length": 539,
+            "date": "2024-11-07T16:48:07.902Z"
+          },
+          {
+            "length": 540,
+            "date": "2024-11-07T16:48:13.182Z"
+          },
+          {
+            "length": 541,
+            "date": "2024-11-07T16:49:48.013Z"
+          },
+          {
+            "length": 542,
+            "date": "2024-11-07T16:57:09.274Z"
+          },
+          {
+            "length": 543,
+            "date": "2024-11-07T16:57:20.417Z"
+          },
+          {
+            "length": 544,
+            "date": "2024-11-07T16:57:32.978Z"
+          },
+          {
+            "length": 545,
+            "date": "2024-11-07T16:59:33.009Z"
+          },
+          {
+            "length": 546,
+            "date": "2024-11-07T17:09:22.470Z"
+          },
+          {
+            "length": 547,
+            "date": "2024-11-07T17:09:35.813Z"
           }
         ]
       },
