@@ -1432,6 +1432,16 @@
               "- [Holiday]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Verwandten (noun, plural)"
+          },
+          "back": {
+            "content": [
+              "- [Relatives]: "
+            ]
+          }
         }
       ]
     },
@@ -2361,7 +2371,7 @@
           "back": {
             "content": [
               "- [Quiet]: ",
-              "- Forms: "
+              "- Forms: Ruhiger (adj. comparative)"
             ]
           }
         },
@@ -2960,7 +2970,10 @@
           "back": {
             "content": [
               "- [Safe]: ",
-              "- Forms: "
+              "- [Certain]: ",
+              "- [Safely] (adv.): ",
+              "- [Certainly] (adv.): ",
+              "- Forms: Sicher (adv.)"
             ]
           }
         },
@@ -23454,6 +23467,11 @@
         "type": "add",
         "word": "Ferien",
         "date": "2024-11-09T16:27:48.517Z"
+      },
+      {
+        "type": "add",
+        "word": "Verwandten",
+        "date": "2024-11-09T17:29:30.251Z"
       }
     ],
     "levels": [
@@ -30142,6 +30160,10 @@
           {
             "length": 131,
             "date": "2024-11-09T16:27:48.518Z"
+          },
+          {
+            "length": 132,
+            "date": "2024-11-09T17:29:30.252Z"
           }
         ]
       },
