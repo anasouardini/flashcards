@@ -2,7 +2,7 @@
   "currentLevel": 0,
   "levels": [
     {
-      "currentCardIndex": 116,
+      "currentCardIndex": 0,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1336,26 +1336,6 @@
           "back": {
             "content": [
               "- [Few/Some]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Jeder (pron.)"
-          },
-          "back": {
-            "content": [
-              "- [Any/Every/All]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Tippen (v.)"
-          },
-          "back": {
-            "content": [
-              "- [To type]: "
             ]
           }
         },
@@ -3619,6 +3599,26 @@
             "content": [
               "- [Corridor/Hall/Hallway]: ",
               "- Forms: Flure (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Jeder (pron.)"
+          },
+          "back": {
+            "content": [
+              "- [Any/Every/All]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Tippen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To type]: "
             ]
           }
         }
@@ -23317,6 +23317,20 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-08T21:38:40.231Z"
+      },
+      {
+        "type": "move",
+        "word": "Jeder",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-09T14:12:26.690Z"
+      },
+      {
+        "type": "move",
+        "word": "Tippen",
+        "fromLevel": 0,
+        "toLevel": 1,
+        "date": "2024-11-09T14:12:38.158Z"
       }
     ],
     "levels": [
@@ -29965,6 +29979,14 @@
           {
             "length": 125,
             "date": "2024-11-08T21:38:40.231Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-11-09T14:12:26.756Z"
+          },
+          {
+            "length": 123,
+            "date": "2024-11-09T14:12:38.158Z"
           }
         ]
       },
@@ -35265,6 +35287,14 @@
           {
             "length": 204,
             "date": "2024-11-08T21:38:40.231Z"
+          },
+          {
+            "length": 205,
+            "date": "2024-11-09T14:12:26.756Z"
+          },
+          {
+            "length": 206,
+            "date": "2024-11-09T14:12:38.158Z"
           }
         ]
       },
