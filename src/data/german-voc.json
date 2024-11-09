@@ -1372,6 +1372,16 @@
               "- Forms: Räder (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Abends (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [In the Evening: \"eveningly\"]: "
+            ]
+          }
         }
       ]
     },
@@ -23363,6 +23373,11 @@
         "type": "add",
         "word": "Rad",
         "date": "2024-11-09T15:22:29.941Z"
+      },
+      {
+        "type": "add",
+        "word": "Abends",
+        "date": "2024-11-09T15:27:05.545Z"
       }
     ],
     "levels": [
@@ -30027,6 +30042,10 @@
           {
             "length": 125,
             "date": "2024-11-09T15:22:29.942Z"
+          },
+          {
+            "length": 126,
+            "date": "2024-11-09T15:27:05.546Z"
           }
         ]
       },
