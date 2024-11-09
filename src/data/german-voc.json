@@ -1422,6 +1422,16 @@
               "- [Next]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ferien (noun, plural)"
+          },
+          "back": {
+            "content": [
+              "- [Holiday]: "
+            ]
+          }
         }
       ]
     },
@@ -8454,6 +8464,7 @@
           "back": {
             "content": [
               "- [To drive]: ",
+              "- [To go]: ",
               "- Forms: "
             ]
           }
@@ -23438,6 +23449,11 @@
         "type": "add",
         "word": "Nächstes",
         "date": "2024-11-09T16:17:45.488Z"
+      },
+      {
+        "type": "add",
+        "word": "Ferien",
+        "date": "2024-11-09T16:27:48.517Z"
       }
     ],
     "levels": [
@@ -30122,6 +30138,10 @@
           {
             "length": 130,
             "date": "2024-11-09T16:17:45.489Z"
+          },
+          {
+            "length": 131,
+            "date": "2024-11-09T16:27:48.518Z"
           }
         ]
       },
