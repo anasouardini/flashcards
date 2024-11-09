@@ -1459,7 +1459,7 @@
       ]
     },
     {
-      "currentCardIndex": 47,
+      "currentCardIndex": 65,
       "currentCardSide": "back",
       "cards": [
         {
@@ -1979,16 +1979,6 @@
         },
         {
           "front": {
-            "content": "Zusammenfassung (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Summary]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "An (prep.)"
           },
           "back": {
@@ -2014,17 +2004,6 @@
         },
         {
           "front": {
-            "content": "Giraffe (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Giraffe]: ",
-              "- Forms: Giraffen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Interessengebiet (noun, singular, neuter)"
           },
           "back": {
@@ -2042,26 +2021,6 @@
             "content": [
               "- [Interest/Concern]: ",
               "- Forms: Interessen (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Populär (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Popular]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Sprachkenntnisse (noun, plural, -)"
-          },
-          "back": {
-            "content": [
-              "- [Language skill/knowledge]: "
             ]
           }
         },
@@ -2173,17 +2132,6 @@
           "back": {
             "content": [
               "- [Confident]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Warum (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Why]: ",
               "- Forms: "
             ]
           }
@@ -9710,6 +9658,59 @@
             "content": [
               "- [Visitor]: ",
               "- Forms: Besucher (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Zusammenfassung (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Summary]: ",
+              "- Forms: Zusammenfassungen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Giraffe (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Giraffe]: ",
+              "- Forms: Giraffen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Populär (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Popular]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sprachkenntnisse (noun, plural, -)"
+          },
+          "back": {
+            "content": [
+              "- [Language skill/knowledge]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Warum (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Why]: ",
+              "- Forms: "
             ]
           }
         }
@@ -23631,6 +23632,41 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-09T22:09:28.243Z"
+      },
+      {
+        "type": "move",
+        "word": "Zusammenfassung",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T22:11:05.235Z"
+      },
+      {
+        "type": "move",
+        "word": "Giraffe",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T22:22:21.488Z"
+      },
+      {
+        "type": "move",
+        "word": "Populär",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T22:23:07.183Z"
+      },
+      {
+        "type": "move",
+        "word": "Sprachkenntnisse",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T22:23:54.263Z"
+      },
+      {
+        "type": "move",
+        "word": "Warum",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T22:27:30.958Z"
       }
     ],
     "levels": [
@@ -35715,6 +35751,26 @@
           {
             "length": 186,
             "date": "2024-11-09T22:09:28.243Z"
+          },
+          {
+            "length": 185,
+            "date": "2024-11-09T22:11:05.235Z"
+          },
+          {
+            "length": 184,
+            "date": "2024-11-09T22:22:21.488Z"
+          },
+          {
+            "length": 183,
+            "date": "2024-11-09T22:23:07.183Z"
+          },
+          {
+            "length": 182,
+            "date": "2024-11-09T22:23:54.263Z"
+          },
+          {
+            "length": 181,
+            "date": "2024-11-09T22:27:30.958Z"
           }
         ]
       },
@@ -38027,6 +38083,26 @@
           {
             "length": 567,
             "date": "2024-11-09T22:09:28.243Z"
+          },
+          {
+            "length": 568,
+            "date": "2024-11-09T22:11:05.235Z"
+          },
+          {
+            "length": 569,
+            "date": "2024-11-09T22:22:21.488Z"
+          },
+          {
+            "length": 570,
+            "date": "2024-11-09T22:23:07.183Z"
+          },
+          {
+            "length": 571,
+            "date": "2024-11-09T22:23:54.263Z"
+          },
+          {
+            "length": 572,
+            "date": "2024-11-09T22:27:30.958Z"
           }
         ]
       },
