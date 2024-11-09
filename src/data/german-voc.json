@@ -1350,6 +1350,17 @@
               "- Forms: Sparen (n.)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Radtour (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Bicycle Tour/Trip]: ",
+              "- Forms: Radtouren (plural)"
+            ]
+          }
         }
       ]
     },
@@ -23331,6 +23342,11 @@
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-09T14:12:38.158Z"
+      },
+      {
+        "type": "add",
+        "word": "Radtour",
+        "date": "2024-11-09T15:20:23.919Z"
       }
     ],
     "levels": [
@@ -29987,6 +30003,10 @@
           {
             "length": 123,
             "date": "2024-11-09T14:12:38.158Z"
+          },
+          {
+            "length": 124,
+            "date": "2024-11-09T15:20:23.919Z"
           }
         ]
       },
