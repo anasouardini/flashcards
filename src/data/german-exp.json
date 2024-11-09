@@ -2799,6 +2799,16 @@
               "- [How was your...]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Was habt ihr gemacht?"
+          },
+          "back": {
+            "content": [
+              "- [What have you done?]: "
+            ]
+          }
         }
       ]
     },
@@ -3533,6 +3543,11 @@
         "type": "add",
         "word": "Wie war dein...",
         "date": "2024-11-04T21:36:55.942Z"
+      },
+      {
+        "type": "add",
+        "word": "Was habt ihr gemacht?",
+        "date": "2024-11-09T15:14:06.998Z"
       }
     ],
     "levels": [
@@ -3905,6 +3920,10 @@
           {
             "length": 279,
             "date": "2024-11-04T21:36:55.943Z"
+          },
+          {
+            "length": 280,
+            "date": "2024-11-09T15:14:07.069Z"
           }
         ]
       },
