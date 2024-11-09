@@ -2809,6 +2809,16 @@
               "- [What have you done?]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Endlich mal"
+          },
+          "back": {
+            "content": [
+              "- [Finally]: "
+            ]
+          }
         }
       ]
     },
@@ -3548,6 +3558,11 @@
         "type": "add",
         "word": "Was habt ihr gemacht?",
         "date": "2024-11-09T15:14:06.998Z"
+      },
+      {
+        "type": "add",
+        "word": "Endlich mal",
+        "date": "2024-11-09T17:54:30.954Z"
       }
     ],
     "levels": [
@@ -3924,6 +3939,10 @@
           {
             "length": 280,
             "date": "2024-11-09T15:14:07.069Z"
+          },
+          {
+            "length": 281,
+            "date": "2024-11-09T17:54:30.955Z"
           }
         ]
       },
