@@ -1382,6 +1382,16 @@
               "- [In the Evening: \"eveningly\"]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Gegangen (adj./pp.)"
+          },
+          "back": {
+            "content": [
+              "- [Gone]: "
+            ]
+          }
         }
       ]
     },
@@ -23378,6 +23388,11 @@
         "type": "add",
         "word": "Abends",
         "date": "2024-11-09T15:27:05.545Z"
+      },
+      {
+        "type": "add",
+        "word": "Gegangen",
+        "date": "2024-11-09T15:29:39.079Z"
       }
     ],
     "levels": [
@@ -30046,6 +30061,10 @@
           {
             "length": 126,
             "date": "2024-11-09T15:27:05.546Z"
+          },
+          {
+            "length": 127,
+            "date": "2024-11-09T15:29:39.079Z"
           }
         ]
       },
