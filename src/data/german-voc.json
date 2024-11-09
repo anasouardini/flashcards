@@ -578,7 +578,8 @@
           },
           "back": {
             "content": [
-              "- [To Walk]: "
+              "- [To Walk]: ",
+              "- Forms: Spaziergang (noun)"
             ]
           }
         },
@@ -1439,7 +1440,19 @@
           },
           "back": {
             "content": [
-              "- [Relatives]: "
+              "- [Relatives]: ",
+              "- [Relations]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Spaziergang (noun, singular, masucline)"
+          },
+          "back": {
+            "content": [
+              "- [The Walk]: ",
+              "- Forms: Spaziergänge (pluarl)"
             ]
           }
         }
@@ -2846,7 +2859,8 @@
           "back": {
             "content": [
               "- [To tell]: ",
-              "- Forms: "
+              "- [To talk]: ",
+              "- Forms: Erzählt (pp.)"
             ]
           }
         },
@@ -2948,7 +2962,7 @@
           "back": {
             "content": [
               "- [To sit]: ",
-              "- Forms: "
+              "- Forms: Gesessen (pp.)"
             ]
           }
         },
@@ -23472,6 +23486,11 @@
         "type": "add",
         "word": "Verwandten",
         "date": "2024-11-09T17:29:30.251Z"
+      },
+      {
+        "type": "add",
+        "word": "Spaziergang",
+        "date": "2024-11-09T17:38:44.577Z"
       }
     ],
     "levels": [
@@ -30164,6 +30183,10 @@
           {
             "length": 132,
             "date": "2024-11-09T17:29:30.252Z"
+          },
+          {
+            "length": 133,
+            "date": "2024-11-09T17:38:44.577Z"
           }
         ]
       },
