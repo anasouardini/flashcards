@@ -1395,11 +1395,21 @@
         },
         {
           "front": {
-            "content": "Sich anhören (v.)"
+            "content": "Sich anhören (v.) (separable)"
           },
           "back": {
             "content": [
               "- [To sound]: das hört sich gut an : that sounds good"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Überall (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Everywhere]: "
             ]
           }
         }
@@ -23408,6 +23418,11 @@
         "type": "add",
         "word": "Sich anhören",
         "date": "2024-11-09T15:38:57.607Z"
+      },
+      {
+        "type": "add",
+        "word": "Überall",
+        "date": "2024-11-09T16:16:58.325Z"
       }
     ],
     "levels": [
@@ -30084,6 +30099,10 @@
           {
             "length": 128,
             "date": "2024-11-09T15:38:57.607Z"
+          },
+          {
+            "length": 129,
+            "date": "2024-11-09T16:16:58.325Z"
           }
         ]
       },
