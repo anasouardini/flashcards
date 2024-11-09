@@ -1,5 +1,5 @@
 {
-  "currentLevel": 0,
+  "currentLevel": 1,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -1459,8 +1459,8 @@
       ]
     },
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 47,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -1498,17 +1498,6 @@
         },
         {
           "front": {
-            "content": "Nummer (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Number]: ",
-              "- Forms: Nummern (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Bildschirm (noun, singular, masculine)"
           },
           "back": {
@@ -1520,45 +1509,12 @@
         },
         {
           "front": {
-            "content": "Sobald (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [As soon as]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Solange (conjunction)"
-          },
-          "back": {
-            "content": [
-              "- [As long as]: ",
-              "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Gespräch (noun, singular, neuter)"
           },
           "back": {
             "content": [
               "- [Discussion/Chat/conversation]: ",
               "- Forms: Gespräche (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Persönlichkeit (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Personality]: ",
-              "- Forms: Persönlichkeiten (plural)"
             ]
           }
         },
@@ -1596,16 +1552,6 @@
         },
         {
           "front": {
-            "content": "Beruflich (adj/adv)"
-          },
-          "back": {
-            "content": [
-              "- [Professional/Professionally]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Familienmitglied (noun, singular, neuter)"
           },
           "back": {
@@ -1634,32 +1580,6 @@
             "content": [
               "- [Colleague]: ",
               "- Forms: Kollegen (plural), Kollegin (feminine)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Etwas (pronoun)"
-          },
-          "back": {
-            "content": [
-              "- [Something]: ",
-              "- [A little]: ",
-              "- [A bit]: ",
-              "- [Somewhat] (adv.): ",
-              "- Forms: Etwas (adv.)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Alles (quantifier)"
-          },
-          "back": {
-            "content": [
-              "- [All]: ",
-              "- [everything]: ",
-              "- [anything]: "
             ]
           }
         },
@@ -1709,46 +1629,12 @@
         },
         {
           "front": {
-            "content": "Friseur (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Hairdresser]: ",
-              "- Forms: Friseurin (feminine), Friseure (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Regenschirm (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Umbrilla]: ",
-              "- Forms: Regenschirme (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Platz (noun, singular, masculine)"
           },
           "back": {
             "content": [
               "- [Place]: ",
               "- Forms: Plätze (plural)"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Lokal (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Local]: ",
-              "- [Locally]: ",
-              "- Forms: Lokal (adv.)"
             ]
           }
         },
@@ -1793,16 +1679,6 @@
             "content": [
               "- [Hot]: ",
               "- Forms: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Bei (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [With/at/for]: Ich arbeite bei Google."
             ]
           }
         },
@@ -1920,16 +1796,6 @@
         },
         {
           "front": {
-            "content": "Pro (prep.)"
-          },
-          "back": {
-            "content": [
-              "- [Per/For]: 7 Euro pro Meter : 7 Euro per meter"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Besten (adv.)"
           },
           "back": {
@@ -1956,17 +1822,6 @@
           "back": {
             "content": [
               "- [Mostly]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Gelegentlich (adj.)"
-          },
-          "back": {
-            "content": [
-              "- [Occaisonal]: ",
-              "- Forms: Gelegentlich (adv.)"
             ]
           }
         },
@@ -2027,17 +1882,6 @@
         },
         {
           "front": {
-            "content": "Bisschen (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [Little]: ",
-              "- Forms: Bisschen (noun)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Sessel (noun, singular, masculine)"
           },
           "back": {
@@ -2093,21 +1937,6 @@
         },
         {
           "front": {
-            "content": "Mal (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Time]: ",
-              "- [Times] (prep.): 3 mal 3 gleich 9 : 3 times 3 equal 9",
-              "- [Times] (suffix): hundertmal : hundred times",
-              "- [From time to time] (adv.):",
-              "- [Let's] (?): Mal gucken : Let's see",
-              "- Forms: -mal (suffix), Mal (adv.), Mal (prep.)"
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Ordnung (noun, singular, feminine)"
           },
           "back": {
@@ -2129,36 +1958,6 @@
         },
         {
           "front": {
-            "content": "Holz (noun, singular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Wood]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Eckig (noun, sngular, neuter)"
-          },
-          "back": {
-            "content": [
-              "- [Square]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Kugel (noun, singular, feminine)"
-          },
-          "back": {
-            "content": [
-              "- [Ball]: "
-            ]
-          }
-        },
-        {
-          "front": {
             "content": "Bestellung (noun, singular, feminine)"
           },
           "back": {
@@ -2175,27 +1974,6 @@
           "back": {
             "content": [
               "- [To Order (a product)]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Da (adv.)"
-          },
-          "back": {
-            "content": [
-              "- [There]: Da sind : there are"
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Besucher (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Visitor]: ",
-              "- Forms: Besucher (plural)"
             ]
           }
         },
@@ -7329,7 +7107,7 @@
           "back": {
             "content": [
               "- [Rain]: ",
-              "- Forms: "
+              "- Forms: Geregnet (pp.)"
             ]
           }
         },
@@ -9710,6 +9488,228 @@
             "content": [
               "- [Cat]: ",
               "- Forms: Katzen (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Nummer (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Number]: ",
+              "- Forms: Nummern (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Sobald (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [As soon as]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Solange (conjunction)"
+          },
+          "back": {
+            "content": [
+              "- [As long as]: ",
+              "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Persönlichkeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Personality]: ",
+              "- Forms: Persönlichkeiten (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Beruflich (adj/adv)"
+          },
+          "back": {
+            "content": [
+              "- [Professional/Professionally]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Etwas (pronoun)"
+          },
+          "back": {
+            "content": [
+              "- [Something]: ",
+              "- [A little]: ",
+              "- [A bit]: ",
+              "- [Somewhat] (adv.): ",
+              "- Forms: Etwas (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Alles (quantifier)"
+          },
+          "back": {
+            "content": [
+              "- [All]: ",
+              "- [everything]: ",
+              "- [anything]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Friseur (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Hairdresser]: ",
+              "- Forms: Friseurin (feminine), Friseure (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Regenschirm (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Umbrilla]: ",
+              "- Forms: Regenschirme (plural)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Lokal (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Local]: ",
+              "- [Locally]: ",
+              "- Forms: Lokal (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bei (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [With/at/for]: Ich arbeite bei Google."
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Pro (prep.)"
+          },
+          "back": {
+            "content": [
+              "- [Per/For]: 7 Euro pro Meter : 7 Euro per meter"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Gelegentlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Occaisonal]: ",
+              "- Forms: Gelegentlich (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bisschen (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [Little]: ",
+              "- Forms: Bisschen (noun)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Mal (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Time]: ",
+              "- [Times] (prep.): 3 mal 3 gleich 9 : 3 times 3 equal 9",
+              "- [Times] (suffix): hundertmal : hundred times",
+              "- [From time to time] (adv.):",
+              "- [Let's] (?): Mal gucken : Let's see",
+              "- Forms: -mal (suffix), Mal (adv.), Mal (prep.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Holz (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Wood]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Eckig (noun, sngular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Square]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Kugel (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Ball]: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Da (adv.)"
+          },
+          "back": {
+            "content": [
+              "- [There]: Da sind : there are"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Besucher (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Visitor]: ",
+              "- Forms: Besucher (plural)"
             ]
           }
         }
@@ -23491,6 +23491,146 @@
         "type": "add",
         "word": "Spaziergang",
         "date": "2024-11-09T17:38:44.577Z"
+      },
+      {
+        "type": "move",
+        "word": "Nummer",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T20:24:21.601Z"
+      },
+      {
+        "type": "move",
+        "word": "Sobald",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T20:28:40.886Z"
+      },
+      {
+        "type": "move",
+        "word": "Solange",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T20:28:43.758Z"
+      },
+      {
+        "type": "move",
+        "word": "Persönlichkeit",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T20:30:41.509Z"
+      },
+      {
+        "type": "move",
+        "word": "Beruflich",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T20:36:18.659Z"
+      },
+      {
+        "type": "move",
+        "word": "Etwas",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T20:48:26.704Z"
+      },
+      {
+        "type": "move",
+        "word": "Alles",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T20:48:40.432Z"
+      },
+      {
+        "type": "move",
+        "word": "Friseur",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T20:53:46.127Z"
+      },
+      {
+        "type": "move",
+        "word": "Regenschirm",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T20:54:47.279Z"
+      },
+      {
+        "type": "move",
+        "word": "Lokal",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T20:57:20.838Z"
+      },
+      {
+        "type": "move",
+        "word": "Bei",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T21:03:55.244Z"
+      },
+      {
+        "type": "move",
+        "word": "Pro",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T21:25:15.679Z"
+      },
+      {
+        "type": "move",
+        "word": "Gelegentlich",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T21:31:28.294Z"
+      },
+      {
+        "type": "move",
+        "word": "Bisschen",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T21:40:07.019Z"
+      },
+      {
+        "type": "move",
+        "word": "Mal",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T21:54:49.335Z"
+      },
+      {
+        "type": "move",
+        "word": "Holz",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T22:06:43.084Z"
+      },
+      {
+        "type": "move",
+        "word": "Eckig",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T22:06:53.123Z"
+      },
+      {
+        "type": "move",
+        "word": "Kugel",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T22:07:18.212Z"
+      },
+      {
+        "type": "move",
+        "word": "Da",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T22:09:05.955Z"
+      },
+      {
+        "type": "move",
+        "word": "Besucher",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-09T22:09:28.243Z"
       }
     ],
     "levels": [
@@ -35495,6 +35635,86 @@
           {
             "length": 206,
             "date": "2024-11-09T14:12:38.158Z"
+          },
+          {
+            "length": 205,
+            "date": "2024-11-09T20:24:21.671Z"
+          },
+          {
+            "length": 204,
+            "date": "2024-11-09T20:28:40.886Z"
+          },
+          {
+            "length": 203,
+            "date": "2024-11-09T20:28:43.758Z"
+          },
+          {
+            "length": 202,
+            "date": "2024-11-09T20:30:41.509Z"
+          },
+          {
+            "length": 201,
+            "date": "2024-11-09T20:36:18.659Z"
+          },
+          {
+            "length": 200,
+            "date": "2024-11-09T20:48:26.704Z"
+          },
+          {
+            "length": 199,
+            "date": "2024-11-09T20:48:40.432Z"
+          },
+          {
+            "length": 198,
+            "date": "2024-11-09T20:53:46.127Z"
+          },
+          {
+            "length": 197,
+            "date": "2024-11-09T20:54:47.279Z"
+          },
+          {
+            "length": 196,
+            "date": "2024-11-09T20:57:20.838Z"
+          },
+          {
+            "length": 195,
+            "date": "2024-11-09T21:03:55.244Z"
+          },
+          {
+            "length": 194,
+            "date": "2024-11-09T21:25:15.679Z"
+          },
+          {
+            "length": 193,
+            "date": "2024-11-09T21:31:28.294Z"
+          },
+          {
+            "length": 192,
+            "date": "2024-11-09T21:40:07.019Z"
+          },
+          {
+            "length": 191,
+            "date": "2024-11-09T21:54:49.335Z"
+          },
+          {
+            "length": 190,
+            "date": "2024-11-09T22:06:43.084Z"
+          },
+          {
+            "length": 189,
+            "date": "2024-11-09T22:06:53.123Z"
+          },
+          {
+            "length": 188,
+            "date": "2024-11-09T22:07:18.212Z"
+          },
+          {
+            "length": 187,
+            "date": "2024-11-09T22:09:05.955Z"
+          },
+          {
+            "length": 186,
+            "date": "2024-11-09T22:09:28.243Z"
           }
         ]
       },
@@ -37727,6 +37947,86 @@
           {
             "length": 547,
             "date": "2024-11-07T17:09:35.813Z"
+          },
+          {
+            "length": 548,
+            "date": "2024-11-09T20:24:21.671Z"
+          },
+          {
+            "length": 549,
+            "date": "2024-11-09T20:28:40.886Z"
+          },
+          {
+            "length": 550,
+            "date": "2024-11-09T20:28:43.758Z"
+          },
+          {
+            "length": 551,
+            "date": "2024-11-09T20:30:41.509Z"
+          },
+          {
+            "length": 552,
+            "date": "2024-11-09T20:36:18.659Z"
+          },
+          {
+            "length": 553,
+            "date": "2024-11-09T20:48:26.704Z"
+          },
+          {
+            "length": 554,
+            "date": "2024-11-09T20:48:40.432Z"
+          },
+          {
+            "length": 555,
+            "date": "2024-11-09T20:53:46.127Z"
+          },
+          {
+            "length": 556,
+            "date": "2024-11-09T20:54:47.279Z"
+          },
+          {
+            "length": 557,
+            "date": "2024-11-09T20:57:20.838Z"
+          },
+          {
+            "length": 558,
+            "date": "2024-11-09T21:03:55.244Z"
+          },
+          {
+            "length": 559,
+            "date": "2024-11-09T21:25:15.680Z"
+          },
+          {
+            "length": 560,
+            "date": "2024-11-09T21:31:28.294Z"
+          },
+          {
+            "length": 561,
+            "date": "2024-11-09T21:40:07.019Z"
+          },
+          {
+            "length": 562,
+            "date": "2024-11-09T21:54:49.335Z"
+          },
+          {
+            "length": 563,
+            "date": "2024-11-09T22:06:43.084Z"
+          },
+          {
+            "length": 564,
+            "date": "2024-11-09T22:06:53.123Z"
+          },
+          {
+            "length": 565,
+            "date": "2024-11-09T22:07:18.212Z"
+          },
+          {
+            "length": 566,
+            "date": "2024-11-09T22:09:05.955Z"
+          },
+          {
+            "length": 567,
+            "date": "2024-11-09T22:09:28.243Z"
           }
         ]
       },
