@@ -1392,6 +1392,16 @@
               "- [Gone]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Sich anhören (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To sound]: das hört sich gut an : that sounds good"
+            ]
+          }
         }
       ]
     },
@@ -23393,6 +23403,11 @@
         "type": "add",
         "word": "Gegangen",
         "date": "2024-11-09T15:29:39.079Z"
+      },
+      {
+        "type": "add",
+        "word": "Sich anhören",
+        "date": "2024-11-09T15:38:57.607Z"
       }
     ],
     "levels": [
@@ -30065,6 +30080,10 @@
           {
             "length": 127,
             "date": "2024-11-09T15:29:39.079Z"
+          },
+          {
+            "length": 128,
+            "date": "2024-11-09T15:38:57.607Z"
           }
         ]
       },
