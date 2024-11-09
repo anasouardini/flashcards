@@ -1361,6 +1361,17 @@
               "- Forms: Radtouren (plural)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Rad (noun, singular, neuter)"
+          },
+          "back": {
+            "content": [
+              "- [Bicycle/Bike/Wheel]: ",
+              "- Forms: Räder (plural)"
+            ]
+          }
         }
       ]
     },
@@ -23347,6 +23358,11 @@
         "type": "add",
         "word": "Radtour",
         "date": "2024-11-09T15:20:23.919Z"
+      },
+      {
+        "type": "add",
+        "word": "Rad",
+        "date": "2024-11-09T15:22:29.941Z"
       }
     ],
     "levels": [
@@ -30007,6 +30023,10 @@
           {
             "length": 124,
             "date": "2024-11-09T15:20:23.919Z"
+          },
+          {
+            "length": 125,
+            "date": "2024-11-09T15:22:29.942Z"
           }
         ]
       },
