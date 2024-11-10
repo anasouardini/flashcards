@@ -1,5 +1,5 @@
 {
-  "currentLevel": 1,
+  "currentLevel": 2,
   "levels": [
     {
       "currentCardIndex": 0,
@@ -178,7 +178,7 @@
           },
           "back": {
             "content": [
-              "- [BTW]: ",
+              "- [By The Way]: ",
               "- Forms: "
             ]
           }
@@ -957,7 +957,7 @@
           },
           "back": {
             "content": [
-              "- [Back]: Die Kamera schwenkte zurück zum Publikum. The camera panned back to the audience."
+              "- [Back]: Die Kamera schwenkte zurück zum Publikum : The camera panned back to the audience."
             ]
           }
         },
@@ -1459,8 +1459,8 @@
       ]
     },
     {
-      "currentCardIndex": 65,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -2075,7 +2075,7 @@
           },
           "back": {
             "content": [
-              "- [So that, So, In order to]: ",
+              "- [So that / So / In order to]: ",
               "- [with]: ",
               "- Forms: "
             ]
@@ -2121,7 +2121,7 @@
           "back": {
             "content": [
               "- [Quiet]: ",
-              "- Forms: Ruhiger (adj. comparative)"
+              "- Forms: Ruhiger (adj., comparative)"
             ]
           }
         },
@@ -2298,7 +2298,7 @@
           "back": {
             "content": [
               "- [To Plant]: ",
-              "- Forms: Pflanze(n) (noun)"
+              "- Forms: Pflanze (noun)"
             ]
           }
         },
@@ -2424,17 +2424,6 @@
           "back": {
             "content": [
               "- [To Smell]: "
-            ]
-          }
-        },
-        {
-          "front": {
-            "content": "Käse (noun, singular, masculine)"
-          },
-          "back": {
-            "content": [
-              "- [Cheese]: ",
-              "- [Crap/Garbage]: "
             ]
           }
         },
@@ -2906,7 +2895,7 @@
         },
         {
           "front": {
-            "content": "Selbst[sich-] (prep.)"
+            "content": "Selbst (prep.)"
           },
           "back": {
             "content": [
@@ -2927,11 +2916,13 @@
         },
         {
           "front": {
-            "content": "Kenntnisse (noun, plural, -)"
+            "content": "Kenntnis (noun, singular, feminine)"
           },
           "back": {
             "content": [
-              "- [Knowledge]: "
+              "- [Knowledge]: ",
+              "- [Skill]: ",
+              "- Forms: Kenntnisse (plural)"
             ]
           }
         },
@@ -3490,7 +3481,7 @@
           "back": {
             "content": [
               "- [Good/Well]: ",
-              "- Other Forms: "
+              "- Forms: "
             ]
           }
         },
@@ -3507,7 +3498,7 @@
         },
         {
           "front": {
-            "content": "Danke"
+            "content": "Danke (interjection)"
           },
           "back": {
             "content": [
@@ -3517,7 +3508,7 @@
         },
         {
           "front": {
-            "content": "Ja"
+            "content": "Ja (interjection)"
           },
           "back": {
             "content": [
@@ -3527,7 +3518,7 @@
         },
         {
           "front": {
-            "content": "Nein"
+            "content": "Nein (interjection)"
           },
           "back": {
             "content": [
@@ -3542,7 +3533,7 @@
           "back": {
             "content": [
               "- [Orange]: ",
-              "- Other Forms: Orangen(plural)"
+              "- Forms: Orangen (plural)"
             ]
           }
         },
@@ -3553,7 +3544,7 @@
           "back": {
             "content": [
               "- [Bus]: ",
-              "- Other Forms: Busse(plural)"
+              "- Forms: Busse (plural)"
             ]
           }
         },
@@ -3653,7 +3644,7 @@
           "back": {
             "content": [
               "- [Day]: ",
-              "- Other Forms: Tage (plural)"
+              "- Forms: Tage (plural)"
             ]
           }
         },
@@ -3664,7 +3655,7 @@
           "back": {
             "content": [
               "- [Night]: ",
-              "- Other Forms: Nächte (plural)"
+              "- Forms: Nächte (plural)"
             ]
           }
         },
@@ -3676,7 +3667,7 @@
             "content": [
               "- [Morning]: ",
               "- [Tomorrow] (adv.): ",
-              "- Other Forms: Morgen (plural)"
+              "- Forms: Morgen (plural)"
             ]
           }
         },
@@ -3687,13 +3678,13 @@
           "back": {
             "content": [
               "- [Tractor]: ",
-              "- Other Forms: Traktoren(plural)"
+              "- Forms: Traktoren (plural)"
             ]
           }
         },
         {
           "front": {
-            "content": "Tschau!/Tschü!/Tschüss!/Tschüssi! (interj)"
+            "content": "Tschau!/Tschü!/Tschüss!/Tschüssi! (interjection)"
           },
           "back": {
             "content": [
@@ -3731,7 +3722,7 @@
           "back": {
             "content": [
               "- [Year]: ",
-              "- Other Forms: Jahre (plural)"
+              "- Forms: Jahre (plural)"
             ]
           }
         },
@@ -3742,7 +3733,7 @@
           "back": {
             "content": [
               "- [Car]: ",
-              "- Other Forms: Autos(plural)"
+              "- Forms: Autos (plural)"
             ]
           }
         },
@@ -3764,7 +3755,7 @@
           "back": {
             "content": [
               "- [Boat]: ",
-              "- Other Forms: Boote(plural)"
+              "- Forms: Boote (plural)"
             ]
           }
         },
@@ -3880,7 +3871,7 @@
         },
         {
           "front": {
-            "content": "Eltern (noun, plural, ?)"
+            "content": "Eltern (noun, plural)"
           },
           "back": {
             "content": [
@@ -3896,7 +3887,7 @@
           "back": {
             "content": [
               "- [Red]: ",
-              "- Other Forms: Rot (noun, singular, neuter)"
+              "- Forms: Rot (noun, singular, neuter)"
             ]
           }
         },
@@ -3985,7 +3976,7 @@
           "back": {
             "content": [
               "- [Week]: ",
-              "- Other Forms: Wochen (plural)"
+              "- Forms: Wochen (plural)"
             ]
           }
         },
@@ -4067,7 +4058,7 @@
         },
         {
           "front": {
-            "content": "Leute (noun, plural, -)"
+            "content": "Leute (noun, plural)"
           },
           "back": {
             "content": [
@@ -4439,7 +4430,7 @@
             "content": [
               "- [Life] (noun): ",
               "- [To Live] (v.): ",
-              "- Other Forms: Leben (plural)"
+              "- Forms: Leben (plural)"
             ]
           }
         },
@@ -4450,7 +4441,7 @@
           "back": {
             "content": [
               "- [Airplane]: ",
-              "- Other Forms: Flugzeuge(plural)"
+              "- Forms: Flugzeuge (plural)"
             ]
           }
         },
@@ -4546,7 +4537,7 @@
         },
         {
           "front": {
-            "content": "Hobbymäßig (noun, singular, ?)"
+            "content": "Hobbymäßig (noun, singular, masculine) (Switzerland)"
           },
           "back": {
             "content": [
@@ -4717,7 +4708,7 @@
           "back": {
             "content": [
               "- [Today]: ",
-              "- Other Forms: "
+              "- Forms: "
             ]
           }
         },
@@ -4734,7 +4725,7 @@
         },
         {
           "front": {
-            "content": "Zu_der_Zeit (conjunction)"
+            "content": "Zu der Zeit (conjunction)"
           },
           "back": {
             "content": [
@@ -5006,7 +4997,7 @@
           "back": {
             "content": [
               "- [World]: ",
-              "- Other Forms: Welten (plural)"
+              "- Forms: Welten (plural)"
             ]
           }
         },
@@ -5312,7 +5303,7 @@
           "back": {
             "content": [
               "- [Evening]: ",
-              "- Other Forms: Abende (plural)"
+              "- Forms: Abende (plural)"
             ]
           }
         },
@@ -5863,7 +5854,7 @@
           "back": {
             "content": [
               "- [Yesterday]: ",
-              "- Other Forms: "
+              "- Forms: "
             ]
           }
         },
@@ -5996,7 +5987,7 @@
           "back": {
             "content": [
               "- [Journalist]: ",
-              "- Forms: Journalistin (feminine), Journalist-en/-innen (plural)"
+              "- Forms: Journalistin (feminine), Journalisten (plural, masculine), Journalistinnen (plural, feminine)"
             ]
           }
         },
@@ -6024,7 +6015,7 @@
         },
         {
           "front": {
-            "content": "Sich_erinnern (v.)"
+            "content": "Sich erinnern (v.)"
           },
           "back": {
             "content": [
@@ -6449,7 +6440,7 @@
         },
         {
           "front": {
-            "content": "Auf_Wiederschauen (interjection)"
+            "content": "Auf Wiederschauen (interjection)"
           },
           "back": {
             "content": [
@@ -6765,7 +6756,7 @@
           },
           "back": {
             "content": [
-              "- [Ability/Skill] (n.): ",
+              "- [Ability/Skill] (noun): ",
               "- [To Know/To be able to] (v.): ",
               "- Forms: Können (v.)"
             ]
@@ -6778,7 +6769,7 @@
           "back": {
             "content": [
               "- [Bicycle]: ",
-              "- Other Forms: Fahrräder(plural)"
+              "- Forms: Fahrräder (plural)"
             ]
           }
         },
@@ -6800,7 +6791,7 @@
           "back": {
             "content": [
               "- [Train]: ",
-              "- Other Forms: Züge(plural)"
+              "- Forms: Züge (plural)"
             ]
           }
         },
@@ -7028,7 +7019,7 @@
         },
         {
           "front": {
-            "content": "Bitteschön (interjection?)"
+            "content": "Bitteschön (interjection)"
           },
           "back": {
             "content": [
@@ -7094,7 +7085,7 @@
         },
         {
           "front": {
-            "content": "Auch_Wenn (conjunction)"
+            "content": "Auch Wenn (conjunction)"
           },
           "back": {
             "content": [
@@ -7105,7 +7096,7 @@
         },
         {
           "front": {
-            "content": "Nur_Wenn (conjunction)"
+            "content": "Nur Wenn (conjunction)"
           },
           "back": {
             "content": [
@@ -7215,7 +7206,7 @@
         },
         {
           "front": {
-            "content": "Um_zu (prep.)"
+            "content": "Um zu (prep.)"
           },
           "back": {
             "content": [
@@ -7306,14 +7297,14 @@
           },
           "back": {
             "content": [
-              "- [Difficult] (don't use with physical tasks): ",
+              "- [Difficult]: ",
               "- Forms: "
             ]
           }
         },
         {
           "front": {
-            "content": "Viele (quantifier)"
+            "content": "Viele (pronoun/quantifier)"
           },
           "back": {
             "content": [
@@ -7413,7 +7404,7 @@
           },
           "back": {
             "content": [
-              "- [One/You]: Man weiß nie, wo man anfangen soll (v.: sollen) : One never knows where one supposed to start."
+              "- [One/You]: Man weiß nie, wo man anfangen soll (sollen) : One never knows where one supposed to start"
             ]
           }
         },
@@ -8064,7 +8055,7 @@
         },
         {
           "front": {
-            "content": "Möbel (noun, plural, -)"
+            "content": "Möbel (noun, plural)"
           },
           "back": {
             "content": [
@@ -8719,7 +8710,7 @@
         },
         {
           "front": {
-            "content": "Sag_mal (v.) (informal)"
+            "content": "Sag mal (v.) (informal)"
           },
           "back": {
             "content": [
@@ -9248,10 +9239,10 @@
           },
           "back": {
             "content": [
-              "- [Straight] (n.): ",
+              "- [Straight] (noun): ",
               "- [Now] (adv.): ",
               "- [Straight/Direct] (adj.): ",
-              "- Forms: Gerade (adv.),Gerade (adj.)"
+              "- Forms: Gerade (adv.), Gerade (adj.)"
             ]
           }
         },
@@ -9695,7 +9686,7 @@
         },
         {
           "front": {
-            "content": "Sprachkenntnisse (noun, plural, -)"
+            "content": "Sprachkenntnisse (noun, plural)"
           },
           "back": {
             "content": [
@@ -9711,6 +9702,17 @@
             "content": [
               "- [Why]: ",
               "- Forms: "
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Käse (noun, singular, masculine)"
+          },
+          "back": {
+            "content": [
+              "- [Cheese]: ",
+              "- [Crap/Garbage]: "
             ]
           }
         }
@@ -11936,7 +11938,7 @@
       },
       {
         "type": "add",
-        "word": "Auch_Wenn",
+        "word": "Auch Wenn",
         "date": "2024-09-29T18:07:43.506Z"
       },
       {
@@ -11946,7 +11948,7 @@
       },
       {
         "type": "add",
-        "word": "Nur_Wenn",
+        "word": "Nur Wenn",
         "date": "2024-09-29T18:09:06.574Z"
       },
       {
@@ -11961,7 +11963,7 @@
       },
       {
         "type": "add",
-        "word": "Zu_der_Zeit",
+        "word": "Zu der Zeit",
         "date": "2024-09-29T18:15:40.853Z"
       },
       {
@@ -12607,7 +12609,7 @@
       },
       {
         "type": "move",
-        "word": "Zu_der_Zeit",
+        "word": "Zu der Zeit",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-09-30T21:22:15.357Z"
@@ -13895,7 +13897,7 @@
       },
       {
         "type": "add",
-        "word": "Um_zu",
+        "word": "Um zu",
         "date": "2024-10-06T01:10:21.769Z"
       },
       {
@@ -14592,7 +14594,7 @@
       },
       {
         "type": "add",
-        "word": "Selbst[sich-]",
+        "word": "Selbst",
         "date": "2024-10-08T17:16:08.570Z"
       },
       {
@@ -14762,7 +14764,7 @@
       },
       {
         "type": "add",
-        "word": "Auf_Wiederschauenn",
+        "word": "Auf Wiederschauenn",
         "date": "2024-10-09T02:59:54.362Z"
       },
       {
@@ -14812,7 +14814,7 @@
       },
       {
         "type": "add",
-        "word": "Sich_erinnern",
+        "word": "Sich erinnern",
         "date": "2024-10-09T08:19:50.509Z"
       },
       {
@@ -15193,7 +15195,7 @@
       },
       {
         "type": "move",
-        "word": "Sich_erinnern",
+        "word": "Sich erinnern",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-10T21:55:13.970Z"
@@ -15354,7 +15356,7 @@
       },
       {
         "type": "move",
-        "word": "Zu_der_Zeit",
+        "word": "Zu der Zeit",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-10T22:38:33.631Z"
@@ -15741,7 +15743,7 @@
       },
       {
         "type": "add",
-        "word": "Sag_mal",
+        "word": "Sag mal",
         "date": "2024-10-11T21:01:09.099Z"
       },
       {
@@ -15929,7 +15931,7 @@
       },
       {
         "type": "move",
-        "word": "Auf_Wiederschauenn",
+        "word": "Auf Wiederschauenn",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-12T22:25:19.784Z"
@@ -16924,14 +16926,14 @@
       },
       {
         "type": "move",
-        "word": "Auch_Wenn",
+        "word": "Auch Wenn",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-14T18:44:47.627Z"
       },
       {
         "type": "move",
-        "word": "Nur_Wenn",
+        "word": "Nur Wenn",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-14T18:45:00.507Z"
@@ -17055,7 +17057,7 @@
       },
       {
         "type": "move",
-        "word": "Um_zu",
+        "word": "Um zu",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-14T19:30:53.270Z"
@@ -17429,7 +17431,7 @@
       },
       {
         "type": "move",
-        "word": "Sich_erinnern",
+        "word": "Sich erinnern",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-16T06:44:10.229Z"
@@ -18070,7 +18072,7 @@
       },
       {
         "type": "move",
-        "word": "Auf_Wiederschauen",
+        "word": "Auf Wiederschauen",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-18T18:16:11.919Z"
@@ -18832,7 +18834,7 @@
       },
       {
         "type": "move",
-        "word": "Sag_mal",
+        "word": "Sag mal",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-10-20T16:03:30.015Z"
@@ -19749,14 +19751,14 @@
       },
       {
         "type": "move",
-        "word": "Auch_Wenn",
+        "word": "Auch Wenn",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-25T20:52:29.662Z"
       },
       {
         "type": "move",
-        "word": "Nur_Wenn",
+        "word": "Nur Wenn",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-25T20:52:33.175Z"
@@ -19826,7 +19828,7 @@
       },
       {
         "type": "move",
-        "word": "Um_zu",
+        "word": "Um zu",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-10-25T20:53:42.888Z"
@@ -22374,7 +22376,7 @@
       },
       {
         "type": "move",
-        "word": "Sag_mal",
+        "word": "Sag mal",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-07T15:51:45.774Z"
@@ -23095,7 +23097,7 @@
       },
       {
         "type": "move",
-        "word": "Selbst[sich-]",
+        "word": "Selbst",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-07T19:59:21.248Z"
@@ -23667,6 +23669,13 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-09T22:27:30.958Z"
+      },
+      {
+        "type": "move",
+        "word": "Käse",
+        "fromLevel": 1,
+        "toLevel": 2,
+        "date": "2024-11-10T15:34:23.793Z"
       }
     ],
     "levels": [
@@ -35771,6 +35780,10 @@
           {
             "length": 181,
             "date": "2024-11-09T22:27:30.958Z"
+          },
+          {
+            "length": 180,
+            "date": "2024-11-10T15:34:23.795Z"
           }
         ]
       },
@@ -38103,6 +38116,10 @@
           {
             "length": 572,
             "date": "2024-11-09T22:27:30.958Z"
+          },
+          {
+            "length": 573,
+            "date": "2024-11-10T15:34:23.795Z"
           }
         ]
       },
