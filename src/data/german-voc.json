@@ -3451,8 +3451,8 @@
       ]
     },
     {
-      "currentCardIndex": 0,
-      "currentCardSide": "front",
+      "currentCardIndex": 461,
+      "currentCardSide": "back",
       "cards": [
         {
           "front": {
@@ -5492,7 +5492,8 @@
           "back": {
             "content": [
               "- [Food]: ",
-              "- Forms: "
+              "- [To Eat]: ",
+              "- Forms: Essen (v.)"
             ]
           }
         },
@@ -7728,7 +7729,7 @@
           "back": {
             "content": [
               "- [Stop/Station]: ",
-              "- Forms: "
+              "- Forms: Haltestellen (plural)"
             ]
           }
         },
