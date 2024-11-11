@@ -1542,7 +1542,19 @@
           "back": {
             "content": [
               "- [The Want]: ",
+              "- [The Desire]: ",
               "- Forms: Lüste (pluarl)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Bock (noun, singular, masculine) (informal)"
+          },
+          "back": {
+            "content": [
+              "- [The Want]: ",
+              "- Forms: Böcke (pluarl)"
             ]
           }
         }
@@ -23809,6 +23821,11 @@
         "type": "add",
         "word": "Lust",
         "date": "2024-11-11T20:35:20.101Z"
+      },
+      {
+        "type": "add",
+        "word": "Bock",
+        "date": "2024-11-11T20:36:46.279Z"
       }
     ],
     "levels": [
@@ -30537,6 +30554,10 @@
           {
             "length": 141,
             "date": "2024-11-11T20:35:20.102Z"
+          },
+          {
+            "length": 142,
+            "date": "2024-11-11T20:36:46.280Z"
           }
         ]
       },
