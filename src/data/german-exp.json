@@ -2839,6 +2839,16 @@
               "- [A thing like that / Such a thing]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Auf jeden Fall..."
+          },
+          "back": {
+            "content": [
+              "- [In any case...]: "
+            ]
+          }
         }
       ]
     },
@@ -3593,6 +3603,11 @@
         "type": "add",
         "word": "So eine sache",
         "date": "2024-11-11T18:49:12.247Z"
+      },
+      {
+        "type": "add",
+        "word": "Auf jeden Fall...",
+        "date": "2024-11-11T20:18:55.497Z"
       }
     ],
     "levels": [
@@ -3981,6 +3996,10 @@
           {
             "length": 283,
             "date": "2024-11-11T18:49:12.248Z"
+          },
+          {
+            "length": 284,
+            "date": "2024-11-11T20:18:55.497Z"
           }
         ]
       },
