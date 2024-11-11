@@ -1485,7 +1485,19 @@
           "back": {
             "content": [
               "- [Honest]: ",
+              "- [Honestly] (adv.): ",
               "- Forms: Ehrlich (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Stadt (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [City]: ",
+              "- Forms: Städte (pluarl)"
             ]
           }
         }
@@ -6958,7 +6970,7 @@
           "back": {
             "content": [
               "- [To say]: ",
-              "- Forms: "
+              "- Forms: Gesagt (pp.)"
             ]
           }
         },
@@ -23726,6 +23738,11 @@
         "type": "add",
         "word": "Ehrlich",
         "date": "2024-11-11T18:37:38.126Z"
+      },
+      {
+        "type": "add",
+        "word": "Stadt",
+        "date": "2024-11-11T18:54:42.787Z"
       }
     ],
     "levels": [
@@ -30434,6 +30451,10 @@
           {
             "length": 136,
             "date": "2024-11-11T18:37:38.127Z"
+          },
+          {
+            "length": 137,
+            "date": "2024-11-11T18:54:42.787Z"
           }
         ]
       },
