@@ -1511,6 +1511,17 @@
               "- Forms: Ideen (pluarl)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Fantastisch (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Fantastic]: ",
+              "- Forms: Fantastisch (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -23759,6 +23770,11 @@
         "type": "add",
         "word": "Idee",
         "date": "2024-11-11T20:14:09.803Z"
+      },
+      {
+        "type": "add",
+        "word": "Fantastisch",
+        "date": "2024-11-11T20:21:03.756Z"
       }
     ],
     "levels": [
@@ -30475,6 +30491,10 @@
           {
             "length": 138,
             "date": "2024-11-11T20:14:09.804Z"
+          },
+          {
+            "length": 139,
+            "date": "2024-11-11T20:21:03.756Z"
           }
         ]
       },
