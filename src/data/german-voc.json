@@ -1519,7 +1519,19 @@
           "back": {
             "content": [
               "- [Fantastic]: ",
+              "- [Fantastically] (adv.): ",
               "- Forms: Fantastisch (adv.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Insel (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Island]: ",
+              "- Forms: Inseln (pluarl)"
             ]
           }
         }
@@ -9765,7 +9777,7 @@
         },
         {
           "front": {
-            "content": "Warum (adv.)"
+            "content": "Warum/Wieso/Weshalb (adv.)"
           },
           "back": {
             "content": [
@@ -13926,7 +13938,7 @@
       },
       {
         "type": "add",
-        "word": "Warum",
+        "word": "Warum/Wieso/Weshalb",
         "date": "2024-10-05T05:39:04.977Z"
       },
       {
@@ -22067,7 +22079,7 @@
       },
       {
         "type": "move",
-        "word": "Warum",
+        "word": "Warum/Wieso/Weshalb",
         "fromLevel": 0,
         "toLevel": 1,
         "date": "2024-11-03T22:14:37.137Z"
@@ -23734,7 +23746,7 @@
       },
       {
         "type": "move",
-        "word": "Warum",
+        "word": "Warum/Wieso/Weshalb",
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-09T22:27:30.958Z"
@@ -23775,6 +23787,11 @@
         "type": "add",
         "word": "Fantastisch",
         "date": "2024-11-11T20:21:03.756Z"
+      },
+      {
+        "type": "add",
+        "word": "Insel",
+        "date": "2024-11-11T20:25:33.612Z"
       }
     ],
     "levels": [
@@ -30495,6 +30512,10 @@
           {
             "length": 139,
             "date": "2024-11-11T20:21:03.756Z"
+          },
+          {
+            "length": 140,
+            "date": "2024-11-11T20:25:33.612Z"
           }
         ]
       },
