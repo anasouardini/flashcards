@@ -2829,6 +2829,16 @@
               "- [Honestly said]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "So eine sache"
+          },
+          "back": {
+            "content": [
+              "- [A thing like that / Such a thing]: "
+            ]
+          }
         }
       ]
     },
@@ -3578,6 +3588,11 @@
         "type": "add",
         "word": "Ehrlich gesagt",
         "date": "2024-11-11T18:43:27.953Z"
+      },
+      {
+        "type": "add",
+        "word": "So eine sache",
+        "date": "2024-11-11T18:49:12.247Z"
       }
     ],
     "levels": [
@@ -3962,6 +3977,10 @@
           {
             "length": 282,
             "date": "2024-11-11T18:43:27.954Z"
+          },
+          {
+            "length": 283,
+            "date": "2024-11-11T18:49:12.248Z"
           }
         ]
       },
