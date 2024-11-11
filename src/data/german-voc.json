@@ -1455,6 +1455,17 @@
               "- Forms: Spaziergänge (pluarl)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Möglichkeit (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [Possibility]: ",
+              "- Forms: Möglichkeiten (pluarl)"
+            ]
+          }
         }
       ]
     },
@@ -23678,6 +23689,11 @@
         "fromLevel": 1,
         "toLevel": 2,
         "date": "2024-11-10T15:34:23.793Z"
+      },
+      {
+        "type": "add",
+        "word": "Möglichkeit",
+        "date": "2024-11-11T18:22:54.521Z"
       }
     ],
     "levels": [
@@ -30374,6 +30390,10 @@
           {
             "length": 133,
             "date": "2024-11-09T17:38:44.577Z"
+          },
+          {
+            "length": 134,
+            "date": "2024-11-11T18:22:54.605Z"
           }
         ]
       },
