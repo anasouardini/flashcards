@@ -1477,6 +1477,17 @@
               "- [To Look At]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ehrlich (adj.)"
+          },
+          "back": {
+            "content": [
+              "- [Honest]: ",
+              "- Forms: Ehrlich (adv.)"
+            ]
+          }
         }
       ]
     },
@@ -23710,6 +23721,11 @@
         "type": "add",
         "word": "Anzuchauen",
         "date": "2024-11-11T18:29:30.642Z"
+      },
+      {
+        "type": "add",
+        "word": "Ehrlich",
+        "date": "2024-11-11T18:37:38.126Z"
       }
     ],
     "levels": [
@@ -30414,6 +30430,10 @@
           {
             "length": 135,
             "date": "2024-11-11T18:29:30.643Z"
+          },
+          {
+            "length": 136,
+            "date": "2024-11-11T18:37:38.127Z"
           }
         ]
       },
