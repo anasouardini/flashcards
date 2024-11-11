@@ -1534,6 +1534,17 @@
               "- Forms: Inseln (pluarl)"
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Lust (noun, singular, feminine)"
+          },
+          "back": {
+            "content": [
+              "- [The Want]: ",
+              "- Forms: Lüste (pluarl)"
+            ]
+          }
         }
       ]
     },
@@ -5405,6 +5416,7 @@
           "back": {
             "content": [
               "- [That/As]: Das Problem war nicht so einfach zu lösen : The problem was not that easy to resolve.",
+              "- [So]: So oft : So often",
               "- Forms: "
             ]
           }
@@ -23792,6 +23804,11 @@
         "type": "add",
         "word": "Insel",
         "date": "2024-11-11T20:25:33.612Z"
+      },
+      {
+        "type": "add",
+        "word": "Lust",
+        "date": "2024-11-11T20:35:20.101Z"
       }
     ],
     "levels": [
@@ -30516,6 +30533,10 @@
           {
             "length": 140,
             "date": "2024-11-11T20:25:33.612Z"
+          },
+          {
+            "length": 141,
+            "date": "2024-11-11T20:35:20.102Z"
           }
         ]
       },
