@@ -2819,6 +2819,16 @@
               "- [Finally]: "
             ]
           }
+        },
+        {
+          "front": {
+            "content": "Ehrlich gesagt"
+          },
+          "back": {
+            "content": [
+              "- [Honestly said]: "
+            ]
+          }
         }
       ]
     },
@@ -3563,6 +3573,11 @@
         "type": "add",
         "word": "Endlich mal",
         "date": "2024-11-09T17:54:30.954Z"
+      },
+      {
+        "type": "add",
+        "word": "Ehrlich gesagt",
+        "date": "2024-11-11T18:43:27.953Z"
       }
     ],
     "levels": [
@@ -3943,6 +3958,10 @@
           {
             "length": 281,
             "date": "2024-11-09T17:54:30.955Z"
+          },
+          {
+            "length": 282,
+            "date": "2024-11-11T18:43:27.954Z"
           }
         ]
       },
