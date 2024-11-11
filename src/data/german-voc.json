@@ -1,9 +1,9 @@
 {
-  "currentLevel": 2,
+  "currentLevel": 0,
   "levels": [
     {
       "currentCardIndex": 0,
-      "currentCardSide": "back",
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -3451,8 +3451,8 @@
       ]
     },
     {
-      "currentCardIndex": 461,
-      "currentCardSide": "back",
+      "currentCardIndex": 0,
+      "currentCardSide": "front",
       "cards": [
         {
           "front": {
@@ -8519,7 +8519,7 @@
           "back": {
             "content": [
               "- [Doctor]: ",
-              "- Forms: Ärzte (plural), Ärztin (feminine)"
+              "- Forms: Ärzte (plural, masculine), Ärztin (feminine), Ärztinen (plural, feminine)"
             ]
           }
         },
@@ -8727,6 +8727,7 @@
           "back": {
             "content": [
               "- [Clock/Watch]: ",
+              "- [O'clock]: ",
               "- Forms: Uhren (plural)"
             ]
           }
@@ -8961,8 +8962,8 @@
           },
           "back": {
             "content": [
-              "- [Lake] (f.): ",
-              "- [Sea/Ocean] (m.): ",
+              "- [Lake] (feminine): ",
+              "- [Sea/Ocean] (masculine): ",
               "- Forms: Seen (plural)"
             ]
           }
