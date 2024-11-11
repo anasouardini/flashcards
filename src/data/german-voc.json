@@ -168,7 +168,7 @@
           "back": {
             "content": [
               "- [Possible]: ",
-              "- Forms: "
+              "- Forms: Möglichkeit (noun)"
             ]
           }
         },
@@ -1463,7 +1463,18 @@
           "back": {
             "content": [
               "- [Possibility]: ",
-              "- Forms: Möglichkeiten (pluarl)"
+              "- [Opportunity]: ",
+              "- Forms: Möglichkeiten (pluarl), Möglich (adj.)"
+            ]
+          }
+        },
+        {
+          "front": {
+            "content": "Anzuchauen (v.)"
+          },
+          "back": {
+            "content": [
+              "- [To Look At]: "
             ]
           }
         }
@@ -23694,6 +23705,11 @@
         "type": "add",
         "word": "Möglichkeit",
         "date": "2024-11-11T18:22:54.521Z"
+      },
+      {
+        "type": "add",
+        "word": "Anzuchauen",
+        "date": "2024-11-11T18:29:30.642Z"
       }
     ],
     "levels": [
@@ -30394,6 +30410,10 @@
           {
             "length": 134,
             "date": "2024-11-11T18:22:54.605Z"
+          },
+          {
+            "length": 135,
+            "date": "2024-11-11T18:29:30.643Z"
           }
         ]
       },
