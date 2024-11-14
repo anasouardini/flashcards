@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import localVars from '../tools/vars';
 
 import { exec } from 'child_process';
 
@@ -63,7 +64,7 @@ export interface Model {
 const vars = {
   model: {} as Model,
   paths: {
-    data: path.join(__dirname, '..', 'data'),
+    data: localVars.storePath,
     currentFile: '',
   },
 };
@@ -145,17 +146,18 @@ export function loadList({ item }: { item: string }) {
 export function saveList() {
   fs.writeFileSync(vars.paths.currentFile, JSON.stringify(vars.model, null, 2));
 
-  setTimeout(() => {
-    exec(
-      `git add ${vars.paths.currentFile}; git commit -m "chore: data update"`,
-      (err, stdout, stderr) => {
-        if (err) {
-          console.log("node couldn't execute git command");
-          return;
-        }
-      },
-    );
-  }, 2000);
+  // data is not in the repo anymore
+  // setTimeout(() => {
+  //   exec(
+  //     `git add ${vars.paths.currentFile}; git commit -m "chore: data update"`,
+  //     (err, stdout, stderr) => {
+  //       if (err) {
+  //         console.log("node couldn't execute git command");
+  //         return;
+  //       }
+  //     },
+  //   );
+  // }, 2000);
 }
 
 export function getModel() {
@@ -163,7 +165,7 @@ export function getModel() {
 }
 
 export function listCollections() {
-  const dataFiles = fs.readdirSync(path.join(__dirname, '..', 'data'));
+  const dataFiles = fs.readdirSync(vars.paths.data);
   const jsonFiles = dataFiles.filter((file) => file.endsWith('.json'));
   return jsonFiles;
 }

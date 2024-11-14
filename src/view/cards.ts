@@ -142,8 +142,8 @@ function renderCard({
   let timeSpentInCurrentStatus;
   const cardLastAction: ActionMove = vars.model.history.actions.filter((action)=>{
     const currentCard = action.word == cardName.split('(')[0].trim();
-    const moveAction = action.type == 'move';
-    return currentCard && moveAction;
+    // const moveAction = action.type == 'move';
+    return currentCard;
   }).at(-1) as ActionMove;
   if(!cardLastAction){
     timeSpentInCurrentStatus = `0`;
@@ -411,7 +411,7 @@ function setupKeybindings() {
     moveCardToIndex({ orderDirection: 'previous' });
   });
 
-  vars.screen.key(['f'], function (ch, key) {
+  vars.screen.key(['f', 'o'], function (ch, key) {
     renderCard({ side: 'toggle' });
   });
 

@@ -15,6 +15,10 @@ const wordBlobs = content.split('##').slice(1);
 const model: Model = {
   currentLevel: 0,
   levels: [],
+  history: {
+    actions: [],
+    levels: [],
+  }
 };
 for (let i = 0; i <= 9; i++) {
   model.levels.push({
