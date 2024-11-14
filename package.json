@@ -1,10 +1,12 @@
 {
   "name": "flashcards-blessed",
-  "version": "1.0.0",
+  "version": "0.7.0",
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "ts-node ./src/index.ts",
+    "dev": "ts-node ./src/index.ts",
+    "build": "rm -rf ./dist/* && tsc",
+    "start": "node ./dist/index.js",
     "format": "prettier --write .",
     "insertfrvoc": "ts-node ./src/tools/add-word.ts french-voc voc",
     "insertfrexp": "ts-node ./src/tools/add-word.ts french-exp exp",
