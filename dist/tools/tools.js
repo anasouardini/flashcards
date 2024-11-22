@@ -1,31 +1,22 @@
-import { exec } from 'child_process';
-
-function capitalize(str: string) {
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const child_process_1 = require("child_process");
+function capitalize(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
 }
-async function execPromise(command: string): Promise<string> {
+async function execPromise(command) {
     return new Promise((resolve, reject) => {
-        exec(command, (error, stdout, stderr) => {
+        (0, child_process_1.exec)(command, (error, stdout, stderr) => {
             resolve(stdout);
         });
     });
 }
-
-function isDateValid(dateStr: Date) {
+function isDateValid(dateStr) {
     // @ts-ignore
     return !isNaN(dateStr);
 }
-
-interface DateObject {
-    year: number;
-    month: number;
-    day: number;
-    hour: number;
-    minute: number;
-    second: number;
-}
 const bdate = {
-    explode(date: Date) {
+    explode(date) {
         const dateTimeProps = {
             year: date.getFullYear(),
             month: date.getMonth() + 1,
@@ -34,33 +25,27 @@ const bdate = {
             minute: date.getUTCMinutes(),
             second: date.getUTCSeconds(),
         };
-
-        return dateTimeProps as DateObject;
+        return dateTimeProps;
     },
-    implode(date: DateObject) {
+    implode(date) {
         const dateStr = `${date.year}/${date.month}/${date.day} ${date.hour}:${date.minute}:${date.second}`;
         console.log(dateStr);
         const outDate = new Date(dateStr);
-
         if (!isDateValid(outDate)) {
             throw new Error('tools.bdate.implode: internal err');
         }
         return outDate;
     },
-    addDays(date: Date, days: number) {
+    addDays(date, days) {
         if (!isDateValid(date)) {
             throw new Error('tools.bdate.addDays: Invalid date');
         }
-
         const eDate = this.explode(date);
-
         const newDate = this.implode({
             ...eDate,
             day: eDate.day + days,
         });
-
         return newDate;
     }
-}
-
-export default { capitalize, execPromise, isDateValid };
+};
+exports.default = { capitalize, execPromise, isDateValid };

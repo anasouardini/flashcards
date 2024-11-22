@@ -5,7 +5,7 @@ import {
   type LevelHistory,
   CardFrontSide,
   CardBackSide,
-} from '../model/model';
+} from '../../model/model';
 
 const inputFilePath = path.join(__dirname, '..', 'data', 'french-voc.md');
 const outputFilePath = path.join(__dirname, '..', 'data', 'french-voc.json');

@@ -14,7 +14,7 @@ if (process.platform === "win32") {
   dataPath = path.join(os.homedir(), ".local", "share");
 }
 
-const appName = "flashcards";
+const appName = "iflash";
 
 interface Vars {
   appPath: string;

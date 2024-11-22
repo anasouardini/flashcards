@@ -1,3 +1,4 @@
+import tools from './tools/tools';
 import cards from './view/cards';
 import explorer from './view/explorer';
 
