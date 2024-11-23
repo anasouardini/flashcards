@@ -3,7 +3,7 @@ import { addDays } from "date-fns";
 import { ClassProperties } from '../tools/ts-tools';
 
 export type Priority = "high" | "medium" | "low";
-export type SrsLevel = 0 | 1 | 2 | 3 | 4 | 5;
+export type SrsLevel = 0 | 1 | 2 | 3 | 4 | 5; // 0 = ignored
 
 export type SrsProps = ClassProperties<SrsCardC>;
 export interface SrsCardProps extends Omit<SrsProps, "lastReviewDate" | "nextReviewDate"> {
@@ -12,6 +12,7 @@ export interface SrsCardProps extends Omit<SrsProps, "lastReviewDate" | "nextRev
 }
 
 export class SrsCardC {
+  public reviews = 0;
   public repetitions = 0; // Number of consecutive correct answers (level >= 3)
   public interval = 1; // Days until the next review
   public easeFactor = 2.5;
@@ -19,9 +20,10 @@ export class SrsCardC {
   public lastReviewDate = new Date();
   public nextReviewDate = new Date();
   public priority: Priority = "high";
-  public level: SrsLevel = 0;
+  public level: SrsLevel = 1;
 
   constructor(props?: Partial<SrsProps> | SrsCardProps) {
+    this.reviews = props?.reviews ?? 0;
     this.repetitions = props?.repetitions ?? 0;
     this.interval = props?.interval ?? 1;
     this.easeFactor = props?.easeFactor ?? 2.5;
@@ -40,7 +42,7 @@ export class SrsCardC {
       this.nextReviewDate = addDays(new Date(), 1);
     }
     this.priority = props?.priority ?? "medium";
-    this.level = props?.level ?? 0;
+    this.level = props?.level ? props?.level : 1;
   }
 
   getCardProps(): SrsCardProps {
@@ -60,9 +62,9 @@ export class SrsCardC {
     return props;
   }
 
-  review(level: SrsLevel, reviewDate: Date = new Date()) {
+  review(level: Exclude<SrsLevel, 0>, reviewDate: Date = new Date()) {
+    this.reviews++;
     this.level = level;
-    if(level == 0){return;}
 
     if (level < 3) {
       // If quality/level is poor, reset repetitions and interval

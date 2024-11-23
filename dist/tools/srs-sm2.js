@@ -8,6 +8,7 @@ const tools_1 = __importDefault(require("./tools"));
 const date_fns_1 = require("date-fns");
 class SrsCardC {
     constructor(props) {
+        this.reviews = 0;
         this.repetitions = 0; // Number of consecutive correct answers (level >= 3)
         this.interval = 1; // Days until the next review
         this.easeFactor = 2.5;
@@ -15,7 +16,8 @@ class SrsCardC {
         this.lastReviewDate = new Date();
         this.nextReviewDate = new Date();
         this.priority = "high";
-        this.level = 0;
+        this.level = 1;
+        this.reviews = props?.reviews ?? 0;
         this.repetitions = props?.repetitions ?? 0;
         this.interval = props?.interval ?? 1;
         this.easeFactor = props?.easeFactor ?? 2.5;
@@ -35,7 +37,7 @@ class SrsCardC {
             this.nextReviewDate = (0, date_fns_1.addDays)(new Date(), 1);
         }
         this.priority = props?.priority ?? "medium";
-        this.level = props?.level ?? 0;
+        this.level = props?.level ? props?.level : 1;
     }
     getCardProps() {
         const props = Object.entries(this).reduce((acc, [key, val]) => {
@@ -51,10 +53,8 @@ class SrsCardC {
         return props;
     }
     review(level, reviewDate = new Date()) {
+        this.reviews++;
         this.level = level;
-        if (level == 0) {
-            return;
-        }
         if (level < 3) {
             // If quality/level is poor, reset repetitions and interval
             this.repetitions = 0;

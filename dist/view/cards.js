@@ -8,8 +8,9 @@ const model_1 = require("../model/model");
 const screen_1 = require("./screen");
 const explorer_1 = __importDefault(require("./explorer"));
 const srs_sm2_1 = require("../tools/srs-sm2");
+const tools_1 = __importDefault(require("../tools/tools"));
 let vars = {
-    tmpCardLevel: 0,
+    tmpCardLevel: undefined,
     model: {},
     screen: {},
     unsavedActions: 0,
@@ -24,33 +25,56 @@ let vars = {
         infoCardText: {},
     },
 };
-function renderCard({ id, direction, side,
+function renderCard({ id, direction, side, 
 // level,
-// levelDirection,
- }) {
+levelDirection, }) {
     vars.screen.realloc();
     // let cardLevel = level ?? vars.model.currentLevel;
     const batches = vars.model.cards;
-    let currentBatchDate = vars.model.currentBatchDate;
-    if (!batches[currentBatchDate]) {
+    let targetBatchDate = vars.model.currentBatchDate;
+    if (!batches[targetBatchDate]) {
         vars.model.currentCardSide = 'front';
-        const oldestDate = Object.keys(batches).reduce((min, batchDate) => {
-            // comparing Dates;
-            return batchDate < min ? batchDate : min;
+        const oldestDate = Object.keys(batches).reduce((oldestDate, batchDate, index, list) => {
+            // skipping the ignored batch
+            if (batchDate == "ignored") {
+                return oldestDate;
+            }
+            if (batchDate < oldestDate) {
+                oldestDate = batchDate;
+            }
+            return oldestDate;
         }, '9');
-        if (batches[oldestDate]) {
-            currentBatchDate = oldestDate;
-            vars.model.currentBatchDate = oldestDate;
+        targetBatchDate = oldestDate;
+        if (batches[targetBatchDate]) {
+            vars.model.currentBatchDate = targetBatchDate;
         }
         else {
             throw new Error('No batches');
         }
     }
-    let currentBatch = batches[currentBatchDate];
+    // 1st condition just in case I did "nextLevel" on 1st render
+    if (batches[targetBatchDate] && levelDirection) {
+        const neighbords = tools_1.default.getNeighbors({
+            list: Object.keys(batches),
+            target: targetBatchDate,
+            initialNeighbors: { min: '-1', max: '9999' },
+            blackList: ['ignored']
+        });
+        if (batches[neighbords[levelDirection]]) {
+            (0, screen_1.showDebug)(`=> ${neighbords.min} - ${neighbords.previous} - ${targetBatchDate} - ${neighbords.next} - ${neighbords.max}`);
+            targetBatchDate = neighbords[levelDirection];
+            vars.model.currentBatchDate = targetBatchDate;
+            // showDebug(`${levelDirection}-level: ${targetBatchDate} - ${neighbords.err}`);
+        }
+        else {
+            throw new Error(`No neighbords, ${levelDirection}: ${neighbords[levelDirection]}`);
+        }
+    }
+    let currentBatch = batches[targetBatchDate];
     const currentBatchKeys = Object.keys(currentBatch);
     const currentBatchLength = currentBatchKeys.length;
     if (currentBatchLength == 0) {
-        delete vars.model.cards[currentBatchDate];
+        delete vars.model.cards[targetBatchDate];
         // next batch
         renderCard({ id, direction, side });
         // skip this empty batch
@@ -79,21 +103,6 @@ function renderCard({ id, direction, side,
     (0, screen_1.showDebug)(`args: cardIdx(${currentCardIndex}) dir(${direction}) side(${vars.model.currentCardSide})`);
     vars.model.currentCardId = currentCardId;
     let currentCardSide = vars.model.currentCardSide;
-    // if (levelDirection) {
-    //   const levelsLength = Object.keys(vars.model.levels).length;
-    //   if (levelDirection == 'next') {
-    //     cardLevel = (vars.model.currentLevel + 1) % levelsLength;
-    //   } else if (levelDirection == 'previous') {
-    //     cardLevel = (vars.model.currentLevel - 1) % levelsLength;
-    //     if (cardLevel < 0) {
-    //       cardLevel += levelsLength;
-    //     }
-    //   }
-    // }
-    // const isLevelEmpty = vars.model.levels[cardLevel].cards.length == 0;
-    // showDebug(
-    //   `args: idx(${index}) dir(${direction}) side(${cardSide}) level(${cardLevel})`,
-    // );
     if (side) {
         if (side == 'toggle') {
             currentCardSide = currentCardSide == 'front' ? 'back' : 'front';
@@ -103,46 +112,6 @@ function renderCard({ id, direction, side,
         }
         vars.model.currentCardSide = currentCardSide;
     }
-    // if (index) {
-    //   cardIndex =
-    //     index == -1 ? vars.model.levels[cardLevel].cards.length - 1 : index;
-    // } else if (direction) {
-    //   const cardsLength = vars.model.levels[cardLevel].cards.length;
-    //   if (direction == 'next') {
-    //     cardIndex =
-    //       (vars.model.levels[cardLevel].currentCardIndex + 1) % cardsLength;
-    //   } else if (direction == 'previous') {
-    //     cardIndex =
-    //       (vars.model.levels[cardLevel].currentCardIndex - 1) % cardsLength;
-    //     if (cardIndex < 0) {
-    //       cardIndex += cardsLength;
-    //     }
-    //   }
-    // }
-    // if (
-    //   cardIndex != vars.model.levels[cardLevel].currentCardIndex ||
-    //   cardLevel != vars.model.currentLevel
-    // ) {
-    //   // console.log('reset side')
-    //   currentCardSide = vars.model.levels[cardLevel].currentCardSide = 'front';
-    // }
-    // vars.model.currentCardIndex = cardId;
-    // @ts-ignore
-    // vars.model.currentLevel = parseInt(cardLevel);
-    // calculate time spent in current status
-    // let timeSpentInCurrentStatus;
-    // const cardLastAction: ActionMove = vars.model.history.actions.filter((action)=>{
-    //   const currentCard = action.word == cardId;
-    //   // const moveAction = action.type == 'move';
-    //   return currentCard;
-    // }).at(-1) as ActionMove;
-    // if(!cardLastAction){
-    //   timeSpentInCurrentStatus = `0`;
-    // }else{
-    //   const timeSpentInCurrentStatusMS = (new Date()).getTime() - (new Date(cardLastAction.date)).getTime();
-    //   timeSpentInCurrentStatus = (timeSpentInCurrentStatusMS / 1000 / 60 / 60 / 24).toFixed(2);
-    //   // timeSpentInCurrentStatus = `${(new Date()).getSeconds()} - ${(new Date(cardLastAction.date)).getSeconds()}`;
-    // }
     let cardContent = '';
     const cardContentTmp = currentCard.content[currentCardSide].content;
     if (Array.isArray(cardContentTmp)) {
@@ -165,7 +134,7 @@ function renderCard({ id, direction, side,
     const title = screen_1.painter.text({
         top: 0,
         left: 'center',
-        content: `Due: ${vars.model.currentBatchDate} - L: ${vars.tmpCardLevel ? "> " + vars.tmpCardLevel + " <" : currentCard.srsProps.level} - Index: ${currentCardIndex}/${currentBatchLength} - Face: ${currentCardSide} - [Unsaved: ${vars.unsavedActions}]`,
+        content: `Due: ${targetBatchDate} - L: ${vars.tmpCardLevel ? "> " + vars.tmpCardLevel + " <" : currentCard.srsProps.level} - Index: ${currentCardIndex}/${currentBatchLength} - Face: ${currentCardSide} - [Unsaved: ${vars.unsavedActions}]`,
         tags: true,
     });
     card.append(title);
@@ -390,17 +359,18 @@ function setCardLevel(level) {
         throw new Error('setCardLevel: cardClone is undefined');
     }
     const currentCardLevel = cardClone.srsProps.level;
-    const srsCard = new srs_sm2_1.SrsCardC(cardClone.srsProps);
-    srsCard.review(level);
-    cardClone.srsProps = srsCard.getCardProps();
     if (level == 0) {
         // moving card to the "ignored" batch
         if (!vars.model.cards['ignored']) {
             vars.model.cards['ignored'] = {};
         }
+        cardClone.srsProps.level = 0;
         vars.model.cards['ignored'][vars.model.currentCardId] = cardClone;
     }
     else {
+        const srsCard = new srs_sm2_1.SrsCardC(cardClone.srsProps);
+        srsCard.review(level);
+        cardClone.srsProps = srsCard.getCardProps();
         // moving card to next preview date batch
         const nextReviewDate = new Date(srsCard.getNextReviewDate()).toISOString().split('T')[0];
         const existingBatch = vars.model.cards[nextReviewDate];
@@ -414,22 +384,13 @@ function setCardLevel(level) {
     // delete old card after moving is successfull
     delete vars.model.cards[vars.model.currentBatchDate][vars.model.currentCardId];
     // Record action in history
-    let action = {
-        type: 'ignore',
+    (0, model_1.recordHistory)({
+        type: 'move',
         word: vars.model.currentCardId,
         fromLevel: currentCardLevel,
+        toLevel: level,
         date: new Date().toISOString(),
-    };
-    if (level != 0) {
-        action = {
-            type: 'move',
-            word: vars.model.currentCardId,
-            fromLevel: currentCardLevel,
-            toLevel: level,
-            date: new Date().toISOString(),
-        };
-    }
-    (0, model_1.recordHistory)(action);
+    });
     // increment unsaved actions
     vars.unsavedActions++;
 }
@@ -455,12 +416,12 @@ function setupKeybindings() {
     vars.screen.key(['f', 'o'], function (ch, key) {
         renderCard({ side: 'toggle' });
     });
-    vars.screen.key(['1', '2', '3', '4', '5'], function (ch, key) {
-        vars.tmpCardLevel = ch;
+    vars.screen.key(['0', '1', '2', '3', '4', '5'], function (ch, key) {
+        vars.tmpCardLevel = Number(ch);
         renderCard({});
     });
     vars.screen.key(['space'], function (ch, key) {
-        if (!vars.tmpCardLevel) {
+        if (vars.tmpCardLevel == undefined) {
             return;
         }
         setCardLevel(vars.tmpCardLevel);
@@ -473,12 +434,12 @@ function setupKeybindings() {
     //     renderCard({ level: ch });
     //   },
     // );
-    // vars.screen.key(['l'], function (ch, key) {
-    //   renderCard({ levelDirection: 'next' });
-    // });
-    // vars.screen.key(['h'], function (ch, key) {
-    //   renderCard({ levelDirection: 'previous' });
-    // });
+    vars.screen.key(['l'], function (ch, key) {
+        renderCard({ levelDirection: 'next' });
+    });
+    vars.screen.key(['h'], function (ch, key) {
+        renderCard({ levelDirection: 'previous' });
+    });
     // vars.screen.key(['S-l'], function (ch, key) {
     //   moveCardToLevel({ levelDirection: 'next' });
     // });
@@ -491,6 +452,7 @@ function setupKeybindings() {
         explorer_1.default.init({ cb: init });
     });
     vars.screen.key(['s'], function (ch, key) {
+        vars.model.currentCardSide = 'front';
         (0, model_1.saveList)();
         vars.unsavedActions = 0;
         renderCard({});

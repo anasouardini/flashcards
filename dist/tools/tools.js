@@ -48,4 +48,49 @@ const bdate = {
         return newDate;
     }
 };
-exports.default = { capitalize, execPromise, isDateValid };
+/**
+ * @description Returns next, previous, max and min items from a list.
+ */
+function getNeighbors({ blackList, list, target, initialNeighbors }) {
+    let err = '';
+    const neighbords = list
+        .reduce((output, candidate, index, list) => {
+        // skipping the blacklisted items
+        if (blackList && blackList.includes(candidate)) {
+            return output;
+        }
+        // get min and max
+        if (candidate < output.min) {
+            output.min = candidate;
+        }
+        if (candidate > output.max) {
+            output.max = candidate;
+        }
+        // get previous and next
+        if (candidate < target && candidate > output.previous) {
+            output.previous = candidate;
+        }
+        else if (candidate > target && candidate < output.next) {
+            output.next = candidate;
+        }
+        // if it didn't change the initials, it means the initials are the smallest or/and largest values
+        if (index == list.length - 1) {
+            if (output.next == initialNeighbors.max) {
+                output.next = target;
+                err += `\n   > next never changed`;
+            }
+            if (output.previous == initialNeighbors.min) {
+                output.previous = target;
+                err += `\n   > prev never changed`;
+            }
+        }
+        return output;
+    }, {
+        min: initialNeighbors.max, // largest value
+        previous: initialNeighbors.min, // smallest value
+        next: initialNeighbors.max, // largest value
+        max: initialNeighbors.min, // smallest value
+    });
+    return { ...neighbords, err };
+}
+exports.default = { capitalize, execPromise, isDateValid, getNeighbors };

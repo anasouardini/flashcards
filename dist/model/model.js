@@ -15,6 +15,10 @@ const vars = {
     },
 };
 function recordHistory(action) {
+    if (action.type == 'move' && action.fromLevel == action.toLevel) {
+        return;
+    }
+    // adding new action objects
     vars.model.history.actions.push(action);
     // update length of all levels
     if (action.type === 'add') {
@@ -28,12 +32,6 @@ function recordHistory(action) {
             length: (vars.model.history.lengths[action.toLevel]?.at(-1)?.length ?? 0) + 1,
             date: new Date().toISOString(),
         });
-        vars.model.history.lengths[action.fromLevel].push({
-            length: (vars.model.history.lengths[action.fromLevel]?.at(-1)?.length ?? 0) - 1,
-            date: new Date().toISOString(),
-        });
-    }
-    else if (action.type === 'ignore') {
         vars.model.history.lengths[action.fromLevel].push({
             length: (vars.model.history.lengths[action.fromLevel]?.at(-1)?.length ?? 0) - 1,
             date: new Date().toISOString(),
@@ -56,6 +54,53 @@ function fixLengths(model) {
         });
     });
 }
+function fixActions(model) {
+    const fixedActions = model.history.actions.filter((actionObj, index) => {
+        if (actionObj.type == 'move') {
+            if (actionObj.fromLevel == actionObj.toLevel) {
+                return false;
+            }
+            actionObj.toLevel = Number(actionObj.toLevel);
+        }
+        return true;
+    });
+    model.history.actions = fixedActions;
+}
+function compressDates(model) {
+    model.history.actions.forEach((actionObj) => {
+        actionObj.date = actionObj.date.split('T')[0];
+    });
+}
+function compressActions(model) {
+    const compressedActions = [];
+    model.history.actions.forEach((current, index) => {
+        let prior = compressedActions.at(-1);
+        if (!prior) {
+            compressedActions.push(current);
+            return;
+        }
+        const sameType = prior.type == current.type;
+        const sameDate = prior.date == current.date;
+        if (!sameType || !sameDate) {
+            compressedActions.push(current);
+            return;
+        }
+        if (current.type == 'move' && prior.type == 'move') {
+            const SameFromLevel = prior.fromLevel == current.fromLevel;
+            const SameToLevel = prior.toLevel == current.toLevel;
+            if (!SameFromLevel || !SameToLevel) {
+                compressedActions.push(current);
+                return;
+            }
+            // add current word Id to the prior
+            compressedActions.at(-1).word = [prior.word, current.word].flat();
+        }
+        else if (current.type == 'add' && prior.type == 'add') {
+            compressedActions.at(-1).word = [prior.word, current.word].flat();
+        }
+    });
+    vars.model.history.actions = compressedActions;
+}
 function loadList({ item }) {
     let content;
     vars.paths.currentFile = path_1.default.join(vars.paths.data, `${item}`);
@@ -74,6 +119,9 @@ function loadList({ item }) {
     try {
         vars.model = JSON.parse(content);
         // fixLengths(vars.model);
+        // fixActions(vars.model);
+        // compressDates(vars.model);
+        compressActions(vars.model);
         return vars.model;
     }
     catch (E) {
